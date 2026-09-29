@@ -18,6 +18,7 @@
   - בדפי רעידה: קרדיט ורישיון לוויקיפדיה
 """
 
+import json
 import re
 import sys
 import xml.etree.ElementTree as ET
@@ -27,6 +28,8 @@ from urllib.parse import urlparse
 
 from build_events import load_events
 from build_site import BASE_PATH, SITE, SITE_URL
+
+ROOT = Path(__file__).resolve().parent.parent
 
 # ניסוחים חיזויים (כלל 5). "תחזיות" לבד מותר, כי האתר אומר שהוא לא עוסק בהן.
 FORECAST = re.compile(r"הרעידה הבאה|צפויה|צפוי ל|מתקרבת|עומדת לפרוץ|בקרוב תהיה|סימן ש(?!אלה)|מבשר")
@@ -157,9 +160,26 @@ def check_site(problems, warnings):
         problems.append("חסר sitemap.xml")
 
 
+def check_damage(problems):
+    """כל רשומה בשכבת המקומות שנפגעו מצטטת משפט שקיים בדף הרעידה, עם הערות שקיימות בו."""
+    places = ROOT / "data" / "damage" / "places.json"
+    if not places.exists():
+        return
+    pages = {}
+    for p in json.loads(places.read_text(encoding="utf-8")):
+        path = ROOT / "content" / "events" / f"{p['event']}.md"
+        text = pages.setdefault(p["event"], path.read_text(encoding="utf-8") if path.exists() else "")
+        if p["page_sentence"] not in text:
+            problems.append(f"places.json: המשפט על {p['place_en']} ({p['event']}) לא נמצא בדף")
+        for fn in p["footnotes"]:
+            if f"[^{fn}]:" not in text:
+                problems.append(f"places.json: הערה {fn} ({p['place_en']}, {p['event']}) לא קיימת בדף")
+
+
 def main():
     problems, warnings = [], []
     check_content(problems)
+    check_damage(problems)
     check_site(problems, warnings)
     for w in warnings:
         print(f"אזהרה: {w}")
