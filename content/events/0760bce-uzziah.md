@@ -60,7 +60,7 @@ sources:
 - label: 'A. Ben-Menahem, "Four thousand years of seismicity along the Dead Sea Rift", Journal of Geophysical Research 96 (B12) (1991), pp. 20195–20216 (TODO: לבדוק במקור)'
   url: https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91JB01936
 - label: 'J. Uziel and O. Chalaf, "Archaeological Evidence of an Earthquake in the Capital of...", City of David Studies of Ancient Jerusalem 16 (2021), pp. 51–69 (TODO: לבדוק במקור, כולל הכותרת המלאה)'
-- label: 'Johanna Regev et al., "Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments", PNAS 121 (19) (2024), e2321024121 (TODO: לבדוק במקור)'
+- label: 'J. Regev, Y. Gadot, J. Uziel, O. Chalaf, Y. Shalev, H. Roth, N. Shalom, N. Szanton, E. Bocher, C. L. Pearson, D. M. Brown, E. Mintz, L. Regev, E. Boaretto, "Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments", PNAS 121 (19) (2024), e2321024121'
   url: https://www.pnas.org/doi/10.1073/pnas.2321024121
 - label: 'ד"ר שחר שילה, "רעידות אדמה קדומות בירושלים ובארץ ישראל", חיבור לקהל הרחב, קובץ PDF של 12 עמודים, בלי שנה ומקום פרסום'
   url: https://ras-tourism.co.il/wp-content/uploads/2020/06/רעידות-אדמה-קדומות-בירושלים-ובארץ-ישראל-שחר-שילה.pdf
@@ -85,6 +85,7 @@ review_notes:
 - 'שכתוב לקריאוּת (ספטמבר 2026): פתיחה בסצנה, פרטי קטלוג ורשימות חוקרים הועברו להערות. לא נוספו עובדות חדשות מלבד מה שנקרא בטקסטים הראשוניים.'
 - 'אימות מקורות (ספטמבר 2026, קבצים מנדב): החוברת של שחר שילה נקראה במלואה (12 עמ׳, עמ׳ 5 ריק). אומת: ישעיהו כד ומיכה א כהד לרעש (עמ׳ 6); ההערה עודכנה (לפני: ישעיהו ו, ד, ישעיהו כד, מיכה א, הירונימוס; אחרי: ישעיהו כד, יח–כ ומיכה א, ג–ד בלבד). הוסר מגוף הדף: "יש מי שרואה [בבנייה של יותם] עדות עקיפה לתיקון נזקי הרעש" ו"המסורת מופיעה גם אצל הירונימוס", כי אינם בחוברת; נשארו בהערה נסתרת עם TODO. תווית המקור הושלמה, בלי TODO; אין בחוברת שנה או מקום פרסום. נוסף משפט ניטרלי על השיוך של סטיב אוסטין למכון לחקר הבריאה (Institute for Creation Research), לפי שילה (עמ׳ 6 והערה 35). המאמר של Austin, Franz ו-Frost עצמו לא נקרא, והתווית שלו נשארה עם TODO. החלטה לנדב: האם להוסיף שהערכת ה-M8 שלהם אינה מקובלת במחקר. לא מצאתי מקור שאומר זאת במפורש; זוהר ועמיתיו רק אינם מאמצים אותה, ואמברייזיס קובע שאי אפשר להעריך את הגודל. Regev ואחרים 2024: הטקסט המלא עדיין לא הגיע (רק דף נחיתה), ולכן ה-TODO נשאר.'
 - 'בן-מנחם (1991) מתארך, לפי נספח סלמון ואחרים 2007, ל-11 באוקטובר 759 לפנה"ס בערב, בגודל ML 7.3. לא הוכנס ל-date, כי זה תאריך של חוקר אחד שבסיסו אינו ידוע. לבדוק במאמר.'
+- 'אימות מקורות, סבב שני (ספטמבר 2026): Regev ועמיתיו 2024 (PNAS) נקרא במלואו; הוסר ה-TODO מהתווית ומההערה, והושלמו 14 המחברים. אומת: הטווח 766–750 לפנה״ס (הערת ה-TODO נפתרה). תוקן: לפני, "תיארוך הפחמן מגיע לאמצע המאה השמינית". אחרי: הדגימות מתאימות לארבעה טווחים בין 766 ל-580 בגלל רמת הלשטאט, והחוקרים מעדיפים את 766–750 לפי השכבות וכלי החרס. נוסף תיאור ההרס בחדר (כלים מנופצים, שלד חזרזיר) ושהעיר בוצרה אחרי הרעידה. לבדיקת נדב: במאמר מתוארת שכבת אפר עבה מתחת להריסות, בלי דיון בשריפה, בעוד שבדף כתוב, לפי עוזיאל וחלף (עדיין TODO), שלא היו סימני שריפה. לא שיניתי את המשפט.'
 ---
 
 ## הסיפור
@@ -143,15 +144,13 @@ review_notes:
 
 הצעה זו נתקלה בהתנגדות. אמברייזיס (2009) קבע שאי אפשר לקשור באופן חד-משמעי את הממצאים לרעידה הזו.[^zoharA][^ambraseys2009] גם בכל אתר לחוד הפירוש שנוי במחלוקת. בחצור, למשל, יגאל ידין תיאר בשכבה VI קירות נטויים וגגות שקרסו, ואילו עמנון בן-תור כתב שבחפירות המאוחרות לא זוהו בשכבה הזו סימני רעידה.[^dsq]
 
-עדות חדשה יותר באה מירושלים. בחפירות רשות העתיקות בעיר דוד, בניהולם של ג׳ו עוזיאל ואורטל חלף, נחשפה שכבת הרס מהמאה השמינית לפנה״ס: כלי חרס רבים שנופצו כשקירות וקומה עליונה קרסו עליהם. לא היו בה סימני שריפה, ולא ידוע על מלחמה בירושלים באותה תקופה, ולכן החופרים הסיקו שההרס נגרם ברעידת אדמה.[^uziel] זו מסקנה שנשענת על שלילת הסברים אחרים, ולא על ממצא שמעיד על רעידה ישירות. מחקר תיארוך בפחמן 14 של ירושלים בתקופת הברזל מתייחס לשכבה הזו כעדות לרעידה מאמצע המאה השמינית לפנה״ס, ומייחס לתקופה שאחריה שינויים בבנייה בעיר.[^regev]
+עדות חדשה יותר באה מירושלים. בחפירות רשות העתיקות בעיר דוד, בניהולם של ג׳ו עוזיאל ואורטל חלף, נחשפה שכבת הרס מהמאה השמינית לפנה״ס: כלי חרס רבים שנופצו כשקירות וקומה עליונה קרסו עליהם. לא היו בה סימני שריפה, ולא ידוע על מלחמה בירושלים באותה תקופה, ולכן החופרים הסיקו שההרס נגרם ברעידת אדמה.[^uziel] זו מסקנה שנשענת על שלילת הסברים אחרים, ולא על ממצא שמעיד על רעידה ישירות. מחקר תיארוך בפחמן 14 של ירושלים בתקופת הברזל, שעוזיאל וחלף שותפים לו, מתאר את ההרס באחד החדרים בשטח U בעיר דוד: שורה של כלים שלמים מהמאה השמינית לפנה״ס, שעמדו ליד הקיר ונמצאו מנופצים מתחת לאבנים שנפלו, ומאחוריהם שלד של חזרזיר בתנוחת עמידה, סימן לדבריהם שנלכד בהרס פתאומי. החוקרים מייחסים את ההרס לרעידה מאמצע המאה השמינית לפנה״ס. אחריה, לדבריהם, בא גל של שיפוץ ובנייה, והעיר בוצרה מחדש.[^regev]
 
 גם בשטח הפתוח יש רמז: לפי סלמון וחבריו (2007), זילברמן וחבריו (2004) הציעו שייתכן שהרעידה יצרה קרע בפני השטח בעמק בית שאן.[^salamon][^zilberman]
 
 ## מה המדע אומר
 
-**מתי?** זוהר וחבריו מתארכים לבערך 760 עד 750 לפנה״ס, באי-ודאות של כעשר שנים.[^zoharA][^zohar975] Austin וחבריו מעדיפים את 750 לפנה״ס,[^austin] ובן-מנחם (1991) הציע תאריך מדויק להפליא, 11 באוקטובר 759 לפנה״ס בערב, בלי שברור על מה הוא מבוסס.[^salamon][^benmenahem] תיארוך הפחמן בירושלים מגיע לאמצע המאה השמינית לפנה״ס.[^regev]
-
-<!-- TODO: לבדוק במאמר של Regev ואחרים את הטווח 766–750 לפנה"ס שמופיע בוויקיפדיה העברית. התקציר מדבר על "בערך 760 לפנה"ס". -->
+**מתי?** זוהר וחבריו מתארכים לבערך 760 עד 750 לפנה״ס, באי-ודאות של כעשר שנים.[^zoharA][^zohar975] Austin וחבריו מעדיפים את 750 לפנה״ס,[^austin] ובן-מנחם (1991) הציע תאריך מדויק להפליא, 11 באוקטובר 759 לפנה״ס בערב, בלי שברור על מה הוא מבוסס.[^salamon][^benmenahem] תיארוך הפחמן בירושלים מגיע לאמצע המאה השמינית לפנה״ס. שש הדגימות מהחדר ההרוס נופלות על "רמת הלשטאט", קטע שטוח של עקומת הכיול, ולכן הן מתאימות לארבעה טווחים אפשריים בין 766 ל-580 לפנה״ס. החוקרים מעדיפים את המוקדם שבהם, 766 עד 750 לפנה״ס, לפי השכבות שבחדר הסמוך ולפי כלי החרס.[^regev]
 
 **איפה?** Austin וחבריו הציעו מוקד בבקעת הלבנון, כי לדבריהם העוצמה פוחתת ככל שמתרחקים דרומה. בן-מנחם הציע את אזור חצור, ו-Austin וחבריו טוענים שהרעידה גדולה מכדי שהמוקד יהיה שם.[^austin][^benmenahem] זוהר וחבריו אינם מציעים מוקד, ומסתפקים בשיוך לחלק המרכזי של שבר ים המלח, בין דרום לבנון לדרום ישראל.[^zoharA]
 
@@ -174,7 +173,7 @@ review_notes:
 - Steven A. Austin, Gordon W. Franz and Eric G. Frost, "Amos's Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C.", *International Geology Review* 42 (2000), pp. 657–671.
 - A. Ben-Menahem, "Four thousand years of seismicity along the Dead Sea Rift", *Journal of Geophysical Research* 96 (1991), pp. 20195–20216.
 - J. Uziel and O. Chalaf, *City of David Studies of Ancient Jerusalem* 16 (2021), pp. 51–69.
-- Johanna Regev ואחרים, "Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments", *PNAS* 121 (2024).
+- J. Regev et al., "Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments", *PNAS* 121 (2024).
 
 [^amos]: [ספר עמוס א, א](https://www.sefaria.org/Amos.1.1). ראו גם Zohar, Salamon and Rubin 2016, נספח A, רשומה 1, עמ׳ 1.
 [^zech]: [ספר זכריה יד, ה](https://www.sefaria.org/Zechariah.14.5). על הקריאה "וְנִסְתַּם" ראו ההערה לתרגום JPS שם, המייחסת אותה לתרגום הארמי, לתרגום השבעים ולכתב יד עברי עתיק.
@@ -197,7 +196,8 @@ review_notes:
 [^benmenahem]: A. Ben-Menahem, "Four thousand years of seismicity along the Dead Sea Rift", *Journal of Geophysical Research* 96 (B12) (1991), pp. 20195–20216. התאריך והגודל לפי Salamon et al. 2007; ההצעה על מוקד בחצור לפי Austin et al. 2000. TODO: לבדוק במקור.
 [^zilberman]: E. Zilberman, R. Amit, I. Bruner and Y. Nachmias, *Neotectonic and paleoseismic study: Bet Shean Valley*, Geological Survey of Israel, Jerusalem, 2004, כפי שמובא אצל Salamon et al. 2007. TODO: לבדוק במקור.
 [^uziel]: J. Uziel and O. Chalaf, "Archaeological Evidence of an Earthquake in the Capital of...", *City of David Studies of Ancient Jerusalem* 16 (2021), pp. 51–69. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית; שמות מנהלי החפירה לפי הודעת עיר דוד, https://cityofdavid.org.il/en/earthquake-eng/ -->
-[^regev]: Johanna Regev et al., "Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments", *PNAS* 121 (19) (2024), e2321024121. TODO: לבדוק במקור. <!-- לפי תקציר המאמר -->
+[^regev]: J. Regev et al., "Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments", *PNAS* 121 (19) (2024), e2321024121 (מאמר אלקטרוני, בלי מספרי עמודים), הפרקים "The mid-8th century BC: Earthquake (Area U, E)" ו-"The late 8th century BC: Rebuilding and fortification", וגם התקציר. במקור: "a piglet skeleton in standing position (50), indicating it had been caught in the room's sudden destruction"; "The combined calibrated date of the six determinations intersects the Hallstatt Plateau at four junctures in the span of 766 to 580 BC [...] we consider the earliest probability distribution of 766 to 750 BC as the most likely range"; בתקציר: "significant damage and rejuvenation of the city subsequent to the mid-eight century BC earthquake, after which the city was heavily fortified".
+<!-- לבדיקת נדב: לפי Regev ואחרים, הדגימות נלקחו מ"deposit of thick ashy sediment" באמצע החדר, מתחת להריסות. המאמר אינו דן בשאלה אם הייתה שריפה. בדף כתוב, לפי עוזיאל וחלף (דרך ויקיפדיה, לא נבדק), שלא היו סימני שריפה. -->
 [^dsq]: Jefferson B. Williams, "Hazor", בקטלוג [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/Sites/Archaeo/Hazor.html), על סמך דוחות החפירה של ידין ובן-תור. TODO: לבדוק במקור. <!-- לפי תוצאות חיפוש -->
 [^shilo]: ד"ר שחר שילה, "רעידות אדמה קדומות בירושלים ובארץ ישראל", [קובץ PDF](https://ras-tourism.co.il/wp-content/uploads/2020/06/רעידות-אדמה-קדומות-בירושלים-ובארץ-ישראל-שחר-שילה.pdf), עמ׳ 6: ישעיהו כד, יח–כ, ומיכה א, ג–ד ("ייתכן שגם בדבריו של הנביא מיכה, ישנו הד מרוחק לאירוע"). זה חיבור לקהל הרחב, לא מחקר שפיט.
 [^shilo-austin]: שילה, עמ׳ 6 והערה 35 שם: "Steve Austin, Institute of Creation Research, San Diego", ובגוף הטקסט: "מהמחלקה לגיאולוגיה במכון המחקר המקראי לתולדות הבריאה".
