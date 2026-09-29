@@ -1,0 +1,135 @@
+https://benyehuda.org/	
+https://benyehuda.org/collections	4152
+https://benyehuda.org/works/all	66384
+https://benyehuda.org/authors	4096
+https://benyehuda.org/manifestation/genre?genre=lexicon	22139
+https://www.facebook.com/projectbenyehuda/	S
+https://www.youtube.com/user/ProjectBenYehuda/	W
+https://benyehuda.org/blog/	~
+https://benyehuda.org/read/47476	U
+mailto:editor@benyehuda.org	R
+https://benyehuda.org/session/login	התחברות
+https://benyehuda.org/	N רשימת היוצרים הנקראים ביותר
+https://benyehuda.org/whatsnew	O היוצרים החדשים ביותר
+https://benyehuda.org/authors	T רשימת כל היוצרים
+https://benyehuda.org/lex	לקסיקון הספרות העברית החדשה - 4191 יוצרים
+https://benyehuda.org/#top_works	N רשימת היצירות הנקראות ביותר
+https://benyehuda.org/whatsnew	O היצירות החדשות ביותר
+https://benyehuda.org/works/all	T רשימת כל היצירות
+https://benyehuda.org/collections	📚 רשימת כל הכותרים
+https://benyehuda.org/manifestation/genre?genre=poetry	t שירה - 32677 יצירות
+https://benyehuda.org/manifestation/genre?genre=prose	l פרוזה - 10214 יצירות
+https://benyehuda.org/manifestation/genre?genre=drama	k מחזות - 405 יצירות
+https://benyehuda.org/manifestation/genre?genre=fables	E משלים - 643 יצירות
+https://benyehuda.org/manifestation/genre?genre=article	a מאמרים ומסות - 17964 יצירות
+https://benyehuda.org/manifestation/genre?genre=memoir	j זכרונות ויומנים - 1167 יצירות
+https://benyehuda.org/manifestation/genre?genre=letters	w מכתבים - 605 יצירות
+https://benyehuda.org/manifestation/genre?genre=reference	v עיון - 2607 יצירות
+https://benyehuda.org/manifestation/genre?genre=lexicon	f מילונים ולקסיקונים - 5 יצירות
+https://benyehuda.org/translations	s יצירות מתורגמות - 7418 יצירות
+https://benyehuda.org/periodicals	H כתבי עת - 25 כתבי עת
+https://benyehuda.org/pby_volumes	J פרסומי פרויקט בן־יהודה - 2 כותרים
+https://benyehuda.org/anthologies/browse	G מקראות פומביות מאת משתמשי הפרויקט - 4
+https://benyehuda.org/period/ancient	P עת עתיקה ופיוט (עד 900 לספירה) - 597 יצירות
+https://benyehuda.org/period/medieval	P ימי הביניים והרנסאנס (900 עד 1700) - 5994 יצירות
+https://benyehuda.org/period/enlightenment	P ההשכלה (1700 עד 1880) - 2927 יצירות
+https://benyehuda.org/period/revival	P התחייה (1880 עד 1948) - 28508 יצירות
+https://benyehuda.org/period/modern	P ספרות עברית חדשה (1948 ואילך) - 27664 יצירות
+https://benyehuda.org/whatsnew	לכל מה שחדש
+https://benyehuda.org/whatsnew	H יוצרים חדשים במאגר
+https://benyehuda.org/whatsnew	J כותרים חדשים במאגר
+https://benyehuda.org/whatsnew	G יצירות חדשות במאגר
+https://www.facebook.com/projectbenyehuda/	S עדכונים אחרונים בעמוד הפייסבוק
+https://www.youtube.com/user/ProjectBenYehuda/	W קטעי וידאו אחרונים בערוץ היו-טיוב
+https://benyehuda.org/blog/	~ פרסומים אחרונים ביומן הרשת
+https://benyehuda.org/page/about	M על פרויקט בן־יהודה
+https://benyehuda.org/page/english	M About Project Ben-Yehuda
+https://benyehuda.org/page/amuta	G על העמותה למחשוב ספרות עברית
+https://benyehuda.org/page/volunteer	V התנדבות בפרויקט
+https://benyehuda.org/page/donate	z תרומה כספית
+https://www.facebook.com/projectbenyehuda/	S לדף הפייסבוק
+https://www.youtube.com/user/ProjectBenYehuda/	W לערוץ היו-טיוב
+https://benyehuda.org/blog/	~ ליומן הרשת
+https://benyehuda.org/read/47476	R יצירת קשר
+https://benyehuda.org/	N רשימת היוצרים הנקראים ביותר
+https://benyehuda.org/whatsnew	O היוצרים החדשים ביותר
+https://benyehuda.org/authors	T רשימת כל היוצרים
+https://benyehuda.org/lex	לקסיקון הספרות העברית החדשה
+https://benyehuda.org/#top_works	N רשימת היצירות הנקראות ביותר
+https://benyehuda.org/#new_works	O היצירות החדשות ביותר
+https://benyehuda.org/works/all	T רשימת כל היצירות
+https://benyehuda.org/collections	📚 רשימת כל הכותרים
+https://benyehuda.org/manifestation/genre?genre=poetry	t שירה - 32677 יצירות
+https://benyehuda.org/manifestation/genre?genre=prose	l פרוזה - 10214 יצירות
+https://benyehuda.org/manifestation/genre?genre=drama	k מחזות - 405 יצירות
+https://benyehuda.org/manifestation/genre?genre=fables	E משלים - 643 יצירות
+https://benyehuda.org/manifestation/genre?genre=article	a מאמרים ומסות - 17964 יצירות
+https://benyehuda.org/manifestation/genre?genre=memoir	j זכרונות ויומנים - 1167 יצירות
+https://benyehuda.org/manifestation/genre?genre=letters	w מכתבים - 605 יצירות
+https://benyehuda.org/manifestation/genre?genre=reference	v עיון - 2607 יצירות
+https://benyehuda.org/manifestation/genre?genre=lexicon	f מילונים ולקסיקונים - 5 יצירות
+https://benyehuda.org/translations	s יצירות מתורגמות - 7418 יצירות
+https://benyehuda.org/periodicals	H כתבי עת - 25 כתבי עת
+https://benyehuda.org/pby_volumes	J פרסומי פרויקט בן־יהודה - 2 כותרים
+https://benyehuda.org/anthologies/browse	G מקראות פומביות מאת משתמשי הפרויקט - 4
+https://benyehuda.org/period/ancient	P עת עתיקה ופיוט - 597 יצירות
+https://benyehuda.org/period/medieval	P ימי הביניים והרנסאנס - 5994 יצירות
+https://benyehuda.org/period/enlightenment	P ההשכלה - 2927 יצירות
+https://benyehuda.org/period/revival	P התחייה - 28508 יצירות
+https://benyehuda.org/period/modern	P ספרות עברית חדשה - 27664 יצירות
+https://benyehuda.org/whatsnew	H יוצרים חדשים במאגר
+https://benyehuda.org/whatsnew	G יצירות חדשות במאגר
+https://www.facebook.com/projectbenyehuda/	S עדכונים אחרונים בעמוד הפייסבוק
+https://www.youtube.com/user/ProjectBenYehuda/	W קטעי וידאו אחרונים בערוץ היו-טיוב
+https://benyehuda.org/blog/	~ פרסומים אחרונים ביומן הרשת
+https://benyehuda.org/page/about	M על פרויקט בן־יהודה
+https://benyehuda.org/page/english	About Project Ben-Yehuda M
+https://benyehuda.org/page/amuta	G על העמותה למחשוב ספרות עברית
+https://benyehuda.org/page/volunteer	V התנדבות בפרויקט
+https://benyehuda.org/page/donate	z תרומה
+https://www.facebook.com/projectbenyehuda/	S לדף הפייסבוק
+https://www.youtube.com/user/ProjectBenYehuda/	W לערוץ היו-טיוב
+https://benyehuda.org/blog/	~ ליומן הרשת
+https://benyehuda.org/read/47476	R יצירת קשר
+https://benyehuda.org/page/donate	z תרומה כספית
+https://benyehuda.org/page/donate	z תרומה כספית
+https://benyehuda.org/page/donate	z תרומה
+https://benyehuda.org/page/donate	z
+https://benyehuda.org/read/47476	X
+https://www.facebook.com/projectbenyehuda/	S לדף הפייסבוק
+https://www.youtube.com/user/ProjectBenYehuda/	W לערוץ היו-טיוב
+https://benyehuda.org/blog/	~ ליומן הרשת
+https://benyehuda.org/read/47476	R יצירת קשר
+https://benyehuda.org/session/login	Z התחברות
+https://benyehuda.org/	דף הבית
+https://benyehuda.org/authors	יוצרים
+https://benyehuda.org/author/2643	אברהם בנימין ריבלין
+https://benyehuda.org/collections/2941	זה קרה בארץ-ישראל: אירועים ופרשיות
+https://benyehuda.org/author/2643	אברהם בנימין ריבלין
+https://benyehuda.org/author/2643	אברהם בנימין ריבלין
+https://benyehuda.org/read/47476/read	/ מסך מלא
+https://benyehuda.org/read/47476/read	/
+https://benyehuda.org/author/2643	אברהם בנימין ריבלין
+https://benyehuda.org/collections/2941	בתוך:  זה קרה בארץ-ישראל: אירועים ופרשיות
+https://benyehuda.org/read/47476	מוגש ברשות פרסום
+https://benyehuda.org/read/47475	2 לפריט הקודם
+https://benyehuda.org/collections/2941	🢁 לתצוגת הכותר - זה קרה בארץ-ישראל: אירועים ופרשיות 🢁
+https://benyehuda.org/read/47477	לפריט הבא 1
+https://benyehuda.org/page/about	קִראו עוד על אודות הפרויקט ועל איך לעזור  1
+https://benyehuda.org/page/donate	z תרומה כספית
+https://benyehuda.org/read/47476	& הצעת קישורית נוספת
+https://benyehuda.org/page/api	ממשק API לגישה ממוכנת לאתר
+https://benyehuda.org/page/donate	z כן, אשמח לעזור!
+https://benyehuda.org/page/donate	z כן, אשמח לעזור!
+https://benyehuda.org/page/tagging	לפירוט מלא של כללי השימוש בתגיות  T
+https://benyehuda.org/	לדף הבית
+https://benyehuda.org/page/about	M על הפרויקט | About ‏
+https://www.facebook.com/projectbenyehuda/	S לדף הפייסבוק
+https://www.youtube.com/user/ProjectBenYehuda/	W לערוץ היוטיוב
+https://benyehuda.org/blog/	~ יומן הרשת
+https://benyehuda.org/page/volunteer	V התנדבות בפרויקט
+https://benyehuda.org/page/donate	z תרומה כספית
+https://www.facebook.com/sharer/sharer.php?u=https://benyehuda.org/read/47476	פייסבוק
+https://twitter.com/home?status=https://benyehuda.org/read/47476	טוויטר
+https://api.whatsapp.com/send?text=https://benyehuda.org/read/47476	ווטסאפ
+mailto:?to=&subject=מפרויקט בן־יהודה&body=https://benyehuda.org/read/47476	דואל

@@ -576,10 +576,10 @@
      "event": "1759-galilee-lebanon",
      "place_he": "דמשק",
      "status": "reported",
-     "evidence": "שליש מהעיר נהרס ומתו אלפים",
+     "evidence": "שליש מהעיר נהרס, ומספר ההרוגים לא נודע (ראסל)",
      "footnotes": [
       "daeron-530",
-      "kitto"
+      "russell1759-532"
      ]
     }
    ]
@@ -597,8 +597,7 @@
      "status": "reported",
      "evidence": "נפגעה; לפי סיכומים כמעט נהרסה",
      "footnotes": [
-      "zohar-1286",
-      "deaths"
+      "zohar-1286"
      ]
     }
    ]
@@ -784,7 +783,6 @@
      "footnotes": [
       "zohar16",
       "thomson-438",
-      "pasha",
       "ambraseys-933",
       "ishshalom2",
       "salamon07-t6"
@@ -1140,10 +1138,13 @@
      "event": "1927-dead-sea",
      "place_he": "יריחו",
      "status": "reported",
-     "evidence": "מלון ארמון החורף קרס (צילום המושבה האמריקנית, 1927); לפי דואר היום נהרגו בו תיירים",
+     "evidence": "מלון ארמון החורף, שנבנה זמן קצר לפני כן, קרס ושלוש נשים מהודו נהרגו בו (צילום המושבה האמריקנית; אירווינג 2023)",
      "footnotes": [
+      "irving-113",
       "loc-winter",
-      "dhy"
+      "irving-96",
+      "dhy",
+      "nyt14"
      ]
     }
    ]
@@ -1204,7 +1205,7 @@
      "event": "1837-safed",
      "place_he": "לוביה",
      "status": "reported",
-     "evidence": "נהרגו 143 מתושבי הכפר",
+     "evidence": "לפי תומסון (אצל רובינסון) תל חורבות ו-143 הרוגים",
      "footnotes": [
       "kitto-calman",
       "robinson",
@@ -1905,7 +1906,6 @@
       "zohar16",
       "thomson-436",
       "thomson-438",
-      "pasha",
       "ambraseys-933",
       "ambraseys-924",
       "katz"

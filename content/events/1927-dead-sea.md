@@ -82,7 +82,8 @@ sources:
 - label: 'M. Zohar and S. Marco, "Re-estimating the epicenter of the 1927 Jericho earthquake using spatial distribution of intensity data", Journal of Applied Geophysics 82 (2012), pp. 19–29'
   url: https://doi.org/10.1016/j.jappgeo.2012.03.004
 - label: 'M. Vered and H. L. Striem, "A macroseismic study and the implications of structural damage of two recent major earthquakes in the Jordan Rift", Bulletin of the Seismological Society of America 67(6) (1977), pp. 1607–1613 (TODO: לבדוק במקור. המיקום שהציעו מובא אצל זוהר ומרקו 2012, עמ׳ 20)'
-- label: 'B. Willis, "Earthquakes in the Holy Land", Bulletin of the Seismological Society of America 18 (1928), pp. 72–103 (כך אצל זוהר ועמיתיו 2014 ואצל זוהר ומרקו 2012; יש שמביאים עמ׳ 73–103. TODO: לבדוק במקור)'
+- label: 'B. Willis, "Earthquakes in the Holy Land", Bulletin of the Seismological Society of America 18(2) (1928), pp. 73–103, doi:10.1785/BSSA0180020073 (העמודים לפי רשומת Crossref; אצל זוהר ועמיתיו 2014 ואצל זוהר ומרקו 2012: 72–103)'
+  url: https://doi.org/10.1785/BSSA0180020073
 - label: 'ISC-GEM Global Instrumental Earthquake Catalogue, אירוע 909378, כפי שהוא מופיע בקטלוג USGS ComCat (רשומה iscgem909378, נמשכה בספטמבר 2026): Mw 6.13, עומק 15 ק"מ'
   url: https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909378
 - label: 'רון אבני, דן באומן, אבי שפירא ועמוס נור, "מיקום רעידת האדמה של ה-11 יולי 1927 בארץ ישראל – אנטומיה של טעות", אופקים בגאוגרפיה 53 (2001), עמ׳ 85–94 (TODO: לבדוק במקור)'
@@ -118,17 +119,18 @@ review_notes:
 
 זו הייתה הרעידה ההרסנית הראשונה בארץ שנרשמה במכשירים.[^zohar17-3] 285 בני אדם נהרגו וכ-940 נפצעו, בארץ ישראל ובעבר הירדן יחד. אלה המספרים בדוח של מזכיר ממשלת המנדט.[^avni-18] זוהר ועמיתיו כותבים על כ-300 נפגעים. זוהר ומרקו מביאים טווח של 250 עד 500 הרוגים ו-400 עד 700 פצועים.[^zohar16s][^zm12-19]
 
-ביריחו קרס מלון "ארמון החורף" (Winter Palace Hotel). מחלקת הצילום של המושבה האמריקנית בירושלים צילמה את הריסותיו ביולי 1927, והכיתוב לצילום: "Wreckage of the Winter Palace Hotel, Jericho. A complete collapse".[^loc-winter]
-<!-- TODO: מקור: שהמלון נבנה זמן קצר לפני כן, ומספר ההרוגים בו (בוויקיפדיה: שלוש תיירות; ב"דואר היום" שני מספרים שונים). -->
+ביריחו קרס מלון "ארמון החורף" (Winter Palace Hotel), מלון חדש שנבנה זמן קצר לפני כן.[^irving-113] מחלקת הצילום של המושבה האמריקנית בירושלים צילמה את הריסותיו ביולי 1927, והכיתוב לצילום: "Wreckage of the Winter Palace Hotel, Jericho. A complete collapse".[^loc-winter] נהרגו בו שלוש נשים מהודו, ובהן ליידי עבדול ראוף, אשתו של שופט בדימוס שהגיע איתה מהחג׳ במכה ובמדינה. הידיעה עליהן הופיעה בעיתונים ברחבי העולם כבר יומיים אחרי הרעידה. ה-Times of India כתב ב-13 ביולי: "The hotel at Jericho collapsed and three Indian lady tourists were killed".[^irving-96]
 בירושלים נפגעה קשה כיפת הקתוליקון בכנסיית הקבר, עד שהמהנדסים המליצו לפרק אותה ולבנות אותה מחדש.[^zohar14-914] הנציב העליון הורה כמעט מיד למחלקת העבודות הציבוריות לסקור את הנזק ולהמליץ על תיקונים.[^zohar14-912]
 
-<!-- TODO: מקור. ויקיפדיה העברית מוסיפה, בלי הפניה נפרדת: אגף של מסגד אל-אקצא, מתחם אוגוסטה ויקטוריה שבו גר הנציב העליון, ובנייני האוניברסיטה העברית בהר הצופים; ושבשכם ישנו תושבים מחוץ לבתים עד שלושה חודשים, ושהלוואות המנדט הביאו לבניית שכונות מחוץ לעיר העתיקה. -->
+<!-- חלקית: הנזק לבית הממשלה בהר הזיתים ולאוניברסיטה העברית מובא עכשיו לפי ה"ניו יורק טיימס" (פרק העיתונים). TODO: מקור. ויקיפדיה העברית מוסיפה, בלי הפניה נפרדת: אגף של מסגד אל-אקצא, ושמתחם אוגוסטה ויקטוריה הוא שבו גר הנציב העליון; ושבשכם ישנו תושבים מחוץ לבתים עד שלושה חודשים, ושהלוואות המנדט הביאו לבניית שכונות מחוץ לעיר העתיקה. -->
 
 ## לא לפי המרחק
 
 הנזק לא התחלק לפי המרחק מהמוקד. שכם נפגעה קשה, ונהרגו בה עשרות. ירושלים, שנמצאת במרחק דומה, נפגעה פחות.[^zohar17-11] כמה אנשים נהרגו בה? במחקר אחד כתבו זוהר ועמיתיו "כמה", ובמחקר מאוחר יותר, לפי רון אבני, הרוג אחד. שני המחקרים מסכימים שרבים נפצעו, וכמה מאות נותרו בלי קורת גג.[^zohar14-912][^zohar17-11]
 
 לוד ורמלה נפגעו יותר מירושלים ומיריחו, אף שהיו רחוקות יותר מהמוקד. החוקרים מסבירים זאת בקרקע המקומית, שהגבירה את הטלטלה. מעבר לירדן נפגעו א-סלט, ג׳רש, כרך וטפילה.[^zohar17-11]
+
+ביילי ויליס כתב כבר ב-1928 דברים דומים. לדבריו יריחו נפגעה כי היא בנויה על סחף. בשכם הבחין בשלוש רצועות: הצפונית והדרומית, על המדרונות הסלעיים, כמעט לא נפגעו, והמרכזית, שנבנתה על סחף ועל הריסות של רעידות קודמות, נהרסה קשות.[^willis-soil]
 
 <!-- TODO: מקור. ויקיפדיה העברית (בלי הפניה, חוץ מהסך הכולל): בירושלים 10 הרוגים ולפחות 25 פצועים; בשכם לפחות 60 הרוגים ו-474 פצועים; ברמלה 17 הרוגים, בלוד 32; בא-סלט 32. לבדוק בטבלה 2 אצל אבני 1999. -->
 <!-- הוסר: ויקיפדיה האנגלית, בלי הפניה: יותר מ-130 הרוגים בירושלים, יותר מ-150 בשכם, 80 בא-סלט. -->
@@ -140,6 +142,8 @@ review_notes:
 **"דואר היום", למחרת.** תחת הכותרת "רעש גדול בארץ ישראל" אסף "דואר היום" ב-12 ביולי ידיעות ראשונות מכל רחבי הארץ. לפי העיתון, הפגיעה הקשה ביותר הייתה כנראה ביריחו ובשכם. בשכם, לפי נהגים שהגיעו משם, כמחצית העיר נהרסה, ולפי נתוני בית החולים הממשלתי בירושלים היו בה כמאתיים וחמישים פצועים ועשרים הרוגים. ביריחו נהרס רוב מלון שהתארחו בו תיירים, והעיתון מדווח על תיירים שנהרגו בו. בכפר ריינה הסמוך לנצרת נהרגו, לפי הידיעה, תשעה אנשים ונפצעו קשה חמישה עשר, ורוב בתי הכפר נהרסו עד היסוד. בכפר קובאב, בדרך מיפו לירושלים, נהרגו חמישה. בטבריה נפצעו קשה שתי נשים ובתים נהרסו ונסדקו, בצפת נסדקו בתים רבים ובהם בית הדואר, ביבנאל נהרסו שני בתים ובצמח נפל המגדל. אלה דיווחים מהיום הראשון, מפי כתבים ונהגים, ולא ספירה מסודרת.[^dhy]
 
 בכתבה הראשית באותו גיליון, "רעש גדול", נכתב שהרעש "החל בשלש ושבעה רגעים", ובתיאור ירושלים: "תמול בשעה שלש ושבעה רגעים בדיוק הופתעו" תושבי העיר ברעידת אדמה שכמוה לא הורגשה בה, ו"הזקנים שבדור אינם זוכרים רעש קשה וחזק" כזה.[^dhy-main]
+
+**"ניו יורק טיימס", יומיים אחרי.** ב-14 ביולי הביא ה"ניו יורק טיימס" בעמוד הראשון ידיעה על הרעידה, לפי מברקים מירושלים מ-13 ביולי. לפי כתב העיתון, מאות נהרגו בארץ ישראל לבדה ואלף נפצעו, ומעט מאוד בניינים יצאו בלי פגע. בית הממשלה בהר הזיתים ניזוק עד שלא ניתן היה לגור בו, ומשרתת רוסייה נהרגה בו מאבנים שנפלו. האוניברסיטה העברית ניזוקה, לפי ההערכה, באלפי דולרים רבים. במגרש הרוסים נפלו שלושה מהעמודים שנשאו את כיפת הכנסייה, ובשכונת בית ישראל קרס בית הכנסת של יוצאי בגדד. מלון ארמון החורף ביריחו "fell to the ground": שלושה תיירים מהודו נהרגו ואורחים רבים נפצעו. בא-סלט נהרגו 85 ונפצעו 180, ובעמאן נהרגו עשרה. באותו עמוד הובא מברק של הסוכנות היהודית לידיעות (JTA), ולפיו נמשו מההריסות ארבע מאות גופות, ולפי רשימת השלטונות נפצעו 450. אלה מספרים מהימים הראשונים, והם גבוהים מהמספר שבדוח הרשמי.[^nyt14]
 
 **כתב עת מיסיונרי.** Jewish Missionary Intelligence דיווח בספטמבר 1927 על נזק לבנייני כנסיית המשיח שליד מגדל דוד.[^zohar14-913]
 
@@ -187,7 +191,7 @@ review_notes:
 - A. Shapira, R. Avni and A. Nur, "A new estimate for the epicenter of the Jericho earthquake of 11 July 1927", *Israel Journal of Earth Sciences* 42 (1993), pp. 93–96.
 - R. Avni, D. Bowman, A. Shapira and A. Nur, "Erroneous interpretation of historical documents related to the epicenter of the 1927 Jericho earthquake in the Holy Land", *Journal of Seismology* 6 (2002), pp. 469–476.
 - M. Zohar and S. Marco, "Re-estimating the epicenter of the 1927 Jericho earthquake using spatial distribution of intensity data", *Journal of Applied Geophysics* 82 (2012), pp. 19–29.
-- B. Willis, "Earthquakes in the Holy Land", *Bulletin of the Seismological Society of America* 18 (1928), pp. 72–103.
+- B. Willis, "Earthquakes in the Holy Land", *Bulletin of the Seismological Society of America* 18(2) (1928), pp. 73–103.
 - רון אבני, דן באומן, אבי שפירא ועמוס נור, "מיקום רעידת האדמה של ה-11 יולי 1927 בארץ ישראל – אנטומיה של טעות", *אופקים בגאוגרפיה* 53 (2001).
 
 [^zohar14-912]: M. Zohar, R. Rubin and A. Salamon, "Earthquake damage and repair: new evidence from Jerusalem on the 1927 Jericho earthquake", *Seismological Research Letters* 85(4) (2014), עמ׳ 912, בהפניה ל-Avni 1999 (ML 6.25; הוראת הנציב העליון), ל-Shapira et al. 1993 ול-Zohar and Marco 2012 (מוקד בצפון ים המלח). שם: 15:04; ירושלים "nearly 30 km west of the epicenter"; בירושלים "several people killed, many injured, and a few hundreds homeless".
@@ -218,3 +222,7 @@ review_notes:
 [^bargal]: יורם בר-גל, ["רעש האדמה 1927"](https://bargal.wordpress.com/%D7%A0%D7%AA%D7%9F-%D7%A9%D7%9C%D7%9D/%D7%A8%D7%A2%D7%A9-1927/), באתר "נתן שלם": קטעים מיומנו של שלם מ-11 עד 17 ביולי ומ-12 באוגוסט 1927, המאמר ב"הארץ" (19.7.1927), ומסקנתו על המוקד בצפון ים המלח, לפי מאמריו מ-1928 ומ-1940. לפי בר-גל, שלם הקדים בכך את התיקון של אבני ועמיתיו.
 [^dhy-main]: דואר היום, 12 ביולי 1927, הכתבה הראשית "רעש גדול" (כותרת משנה: "הוא החל בשלש ושבעה רגעים"; פרק "המחזה הכללי בעיר"), צילום הכתבה באתר הספרייה הלאומית, עיתונות יהודית היסטורית. הציטוטים לפי צילום מסך של הכתבה ששלח נדב; המשך המשפט לא נראה בצילום.
 [^loc-winter]: American Colony (Jerusalem), Photo Department, "Palestine events. The earthquake of July 11, 1927. Wreckage of the Winter Palace Hotel, Jericho. A complete collapse", תשליל זכוכית, יולי 1927. ספריית הקונגרס, Matson Photograph Collection, [matpc.03034](https://www.loc.gov/item/2019696329/). הכיתוב לפי רשומת הקטלוג של הספרייה (נמשכה בספטמבר 2026).
+[^irving-96]: Sarah Irving, ["'Indian Lady Tourists Killed at Jericho': Tourism, Pilgrimage, and South-South Relations in Interwar Palestine"](https://lebanesestudies.ojs.chass.ncsu.edu/index.php/mashriq/article/view/351), *Mashriq & Mahjar* 10(2) (2023), עמ׳ 95–121 (גישה פתוחה, CC BY-NC-ND 4.0): התקציר (עמ׳ 95) ועמ׳ 96, בהפניה ל-Times of India, 13 ביולי 1927, עמ׳ 9, ול-Jewish Daily Bulletin, 13 ביולי 1927, עמ׳ 4. בעמ׳ 111 מזוהות ההרוגות כליידי עבדול ראוף, המשרתת שלה וחברתה.
+[^irving-113]: Irving 2023, עמ׳ 102 ("a new hotel like the Winter Palace") ועמ׳ 113 ("the newly constructed Winter Palace Hotel").
+[^willis-soil]: B. Willis, "Earthquakes in the Holy Land", *BSSA* 18(2) (יוני 1928), פרק "A Typical Palestine Earthquake, July 11, 1927" ([תעתיק המאמר באתר zadok.org](http://zadok.org/research/1927/willis.html), בלי מספרי עמודים). המאמר נחלת הכלל בארצות הברית (פורסם ב-1928).
+[^nyt14]: "$1,250,000 Damage in Palestine Quake", *The New York Times*, 14 ביולי 1927, עמ׳ 1 (מברק מיוחד מירושלים, 13 ביולי, ומברק JTA מאותו יום), [תעתיק באתר zadok.org](http://zadok.org/research/1927/nyt3.html). מברק ה-JTA גם [בארכיון JTA](https://www.jta.org/archive/four-hundred-bodies-recovered-in-ruins-of-palestine-earthquake): במברק ה-JTA (שמופיע גם באותו עמוד) שמונה הרוגים בעמאן, לעומת עשרה בידיעת כתב העיתון.

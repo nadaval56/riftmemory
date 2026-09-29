@@ -1,0 +1,31 @@
+SOURCE: https://archive.org/metadata/in.ernet.dli.2015.181236
+
+{"alternate_locations":{"servers":[{"server":"dn760000.eu.archive.org","dir":"/0/items/in.ernet.dli.2015.181236"},{"server":"dn790009.ca.archive.org","dir":"/0/items/in.ernet.dli.2015.181236"}],"workable":[{"server":"dn760000.eu.archive.org","dir":"/0/items/in.ernet.dli.2015.181236"},{"server":"dn790009.ca.archive.org","dir":"/0/items/in.ernet.dli.2015.181236"}]},"created":1790722096,"d1":"ia601501.us.archive.org","d2":"ia801501.us.archive.org","dir":"/23/items/in.ernet.dli.2015.181236","files":[{"name":"2015.181236.Biblical-Researches-In-Palestine--Vol-3.gif","source":"derivative","format":"Animated GIF","original":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_jp2.zip","mtime":"1489803803","size":"161189","md5":"eccba39140b88d7ae5fc41ba57138bbc","crc32":"14b6db85","sha1":"8e46f227af113ffd1e8dbbf95947f315b28cba68"},{"name":"2015.181236.Biblical-Researches-In-Palestine--Vol-3.pdf","source":"original","mtime":"1484684642","size":"53234354","md5":"c7b65e93d39ef5d2d784218446a4a814","crc32":"42a1c14d","sha1":"fea3b9983e62977f3c29c286a071b0f6befeb703","format":"Image Container PDF"},{"name":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_abbyy.gz","source":"derivative","format":"Abbyy GZ","original":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_jp2.zip","mtime":"1489816890","size":"23294347","md5":"57050fc899ae5f987e2b1d77335502a9","crc32":"ae67d858","sha1":"3510e4a4e9b31dc33a6c1aa62420ea556b315c80"},{"name":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_djvu.txt","source":"derivative","format":"DjVuTXT","original":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_djvu.xml","mtime":"1489821575","size":"1446567","md5":"560eb8466e6fc309195d4e8b09b8cd5d","crc32":"55e8e3b0","sha1":"dcf828e78434a3110dc73caacf995d255b967072"},{"name":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_djvu.xml","source":"derivative","format":"Djvu XML","original":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_abbyy.gz","mtime":"1489817623","size":"14851652","md5":"3224cffb24e8bc40154b1f7db6e0e07d","crc32":"b61a8978","sha1":"f8c27711a40b883bbc910a478fa260364bedf9d6"},{"name":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"2015.181236.Biblical-Researches-In-Palestine--Vol-3.pdf","mtime":"1489803634","size":"773401059","md5":"576e65e1bd6cf15a6ad9e911c49a760b","crc32":"c8d8706f","sha1":"39321c7ca942d49f6b3c29a10f34f925eb2b817b"},{"name":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_scandata.xml","source":"derivative","format":"Scandata","original":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_djvu.xml","mtime":"1489821692","size":"225127","md5":"9c4ff9b2ec201931ba00961d560a28cd","crc32":"6b403643","sha1":"a78044c5849341f88c60e2995084de7b3b82e058"},{"name":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_text.pdf","source":"derivative","format":"Additional Text PDF","original":"2015.181236.Biblical-Researches-In-Palestine--Vol-3_djvu.xml","mtime":"1489821564","size":"61992152","md5":"9fb6a6bbce6718bbc68c5b501969aa8a","crc32":"74dc1052","sha1":"ed4eff390192c0e67a51ab9cf029e2de34036bd8"},{"name":"__ia_thumb.jpg","source":"original","mtime":"1540017393","size":"9093","md5":"9c4e6328576d6d2d7fd99a33ae77d11b","crc32":"5076e94a","sha1":"20685f09ce8c880e65c7a49ed93d5ee57dc015d4","format":"Item Tile","rotation":"0"},{"name":"in.ernet.dli.2015.181236_archive.torrent","source":"metadata","btih":"16f9724195d3ea086f187f2f90a615769c3a0df5","mtime":"1563257886","size":"38873","md5":"52afd9b324f97a926e1901b6b404d0e1","crc32":"3eaaf428","sha1":"e29000dc4991fcccf7f62bf15b1fcfb3db65caaf","format":"Archive BitTorrent"},{"name":"in.ernet.dli.2015.181236_files.xml","source":"original","format":"Metadata","md5":"91d1ae0722d22cd0284e1b918cd3a8b8","summation":"md5"},{"name":"in.ernet.dli.2015.181236_meta.sqlite","source":"original","mtime":"1484684662","size":"15360","md5":"8b9289c952eafad2e60c1ebac320f8df","crc32":"cf61ff41","sha1":"f6515e08d4256c8c04950e82fee2c815a9c1ff0b","format":"Metadata"},{"name":"in.ernet.dli.2015.181236_meta.xml","source":"original","mtime":"1563257878","size":"2441","format":"Metadata","md5":"cadf587971f63e14a82692d701cdfc6f","crc32":"f5491628","sha1":"633d8d9d4977e17c1ad4a65c3a07451b6930d99c"}],"files_count":13,"item_last_updated":1668269100,"item_size":928672214,"metadata":{"identifier":"in.ernet.dli.2015.181236","creator":"Smith, E.","date":"1841","description":"
+Book Source: Digital Library of India Item 2015.181236
+dc.contributor.author: Robinson, E.
+dc.contributor.author: Smith, E.
+dc.contributor.other: Robinson, Edward
+dc.date.accessioned: 2015-07-07T14:21:05Z
+dc.date.available: 2015-07-07T14:21:05Z
+dc.date.digitalpublicationdate: 2007-03-22
+dc.date.citation: 1841
+dc.identifier.barcode: 4990010104551
+dc.identifier.origpath: /rawdataupload/upload/0104/553
+dc.identifier.copyno: 1
+dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/181236
+dc.description.scanningcentre: C-DAK, Kolkata
+dc.description.main: 1
+dc.description.tagged: 0
+dc.description.totalpages: 750
+dc.format.mimetype: application/pdf
+dc.language.iso: English
+dc.publisher.digitalrepublisher: Digital Library Of India
+dc.publisher: John Murray, London
+dc.rights: In Public Domain
+dc.source.library: Ramkrishna Mission Institute Of Culture, Golpark
+dc.subject.classification: Geography. Biography. History
+dc.subject.classification: Geography. Exploration
+dc.subject.classification: Description
+dc.subject.keywords: Religious Sects - Syria - Palestine
+dc.title: Biblical Researches In Palestine  Vol. 3
+","language":"eng","mediatype":"texts","scanner":"Internet Archive Python library 1.1.0","subject":"C-DAK","title":"Biblical Researches In Palestine  Vol. 3","publicdate":"2017-01-17 20:24:02","uploader":"carl@media.org","addeddate":"2017-01-17 20:24:02","identifier-access":"http://archive.org/details/in.ernet.dli.2015.181236","identifier-ark":"ark:/13960/t9v178404","ppi":"600","ocr":"ABBYY FineReader 11.0","repub_state":"4","backup_location":"ia906304_32","collection":["digitallibraryindia","JaiGyan"]},"server":"ia801501.us.archive.org","uniq":1804123392,"workable_servers":["ia801501.us.archive.org","ia601501.us.archive.org"]}
