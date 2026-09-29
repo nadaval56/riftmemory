@@ -1,3 +1,2 @@
-# טקסטים פתוחים בלבד. slug url   (סבב 10: נחלת הכלל)
-mann1920-v1 https://archive.org/download/jewsinegyptinpal01mannuoft/jewsinegyptinpal01mannuoft_djvu.txt
-mann1920-v2-meta https://archive.org/metadata/jewsinegyptinpal02mannuoft
+# טקסטים לאימות. slug url   (סבב 11: ספירידון 1938, באישור נדב)
+spyridon1938 https://archive.org/download/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834/AnnalsOfPalestine1821to1841_Spyridon_RecountsTheEarthquake%20of%201834_djvu.txt
