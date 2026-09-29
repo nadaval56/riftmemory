@@ -90,6 +90,9 @@
         })
           .bindPopup('<div class="map-popup"><strong>קו שבר פעיל (העתק)</strong><br>מקטע: ' + esc(s.name) +
             (s.note ? '<div class="src">' + esc(s.note) + "</div>" : "") +
+            (s.history && s.history.length ? '<div class="src">רעידות היסטוריות במקטע: ' + s.history.map(function (h) {
+              return '<a href="' + h.url + '">' + esc(h.title) + "</a>";
+            }).join(" · ") + "</div>" : "") +
             '<div class="src">מקור הקו: GEM Global Active Faults, מודל EMME</div></div>')
           .addTo(map);
         latlngs.forEach(function (p) { faultBounds.push(p); if (strong) segBounds.push(p); });

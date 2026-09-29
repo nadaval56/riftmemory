@@ -321,7 +321,7 @@ def write(path, html):
     path.write_text(reader_facing(html), encoding="utf-8")
 
 
-def map_data(events, live, segments, focus=False, highlight=None):
+def map_data(events, live, segments, focus=False, highlight=None, all_events=None):
     """focus: מפה של דף רעידה בודדת. המבט כולל את הרעידה גם כשהיא רחוקה.
     highlight: מזהה המקטע של הרעידה. המקטע מודגש והמבט מתמקד בו."""
     return {
@@ -330,7 +330,11 @@ def map_data(events, live, segments, focus=False, highlight=None):
         "highlight": highlight,
         "segments": [
             {"id": s["id"], "name": s["name_he"] + (" (טיוטה, טרם אושר)" if s.get("draft") else ""),
-             "note": s.get("note_he"), "lines": s["lines"], "draft": bool(s.get("draft"))}
+             "note": s.get("note_he"), "lines": s["lines"], "draft": bool(s.get("draft")),
+             # הרעידות ההיסטוריות שמשויכות למקטע, לחלון שנפתח בלחיצה על הקו
+             "history": [{"title": e["short_title"], "url": f"{BASE_PATH}/events/{e['id']}/"}
+                         for e in sorted(all_events or [], key=lambda e: e["date"]["year"])
+                         if e["location"].get("segment") == s["id"]]}
             for s in segments if s.get("approved")
         ],
         "events": [
@@ -428,7 +432,7 @@ def build(drafts=False):
         featured_reason=featured_reason,
         today=today,
         events=events,
-        map_data=map_data(events, live_month, segments),
+        map_data=map_data(events, live_month, segments, all_events=events),
     ))
     pages.append("/")
 
@@ -441,7 +445,7 @@ def build(drafts=False):
             page_path=path,
             e=e,
             by_id=by_id,
-            map_data=map_data([e], dict(live, events=e["live_nearby"]), segments, focus=True,
+            map_data=map_data([e], dict(live, events=e["live_nearby"]), segments, focus=True, all_events=events,
                               highlight=e["location"].get("segment") if e["segment_name"] and e["location"].get("segment") != echo.DISTANT else None),
         ))
         if e["status"] == "published":
