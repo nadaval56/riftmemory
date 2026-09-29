@@ -1,0 +1,3 @@
+SOURCE: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/references/1222
+
+{"id":1222,"author":"Alsinawi, S.A., S.G. Baban, and A.S. Issa","year":"1985","citation":"Historical seismicity of the Arab region. IASPEI/UNESCO Working Group on Historical Seismograms and Earthquakes, August 27-28, 1985, Tokyo; Preliminary Proceedings, p. 59-84.","have":1,"publish":true}

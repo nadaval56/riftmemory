@@ -119,9 +119,8 @@ review_notes:
 
 <!-- הפרטים על ניאופיטוס אומתו מול התרגום של ספירידון (1938). TODO: לאמת ציטוט: הפרטים על הנוסע הוולשי הם סיכום של deadseaquake.info. -->
 
-**אספלט בים המלח.** קן-תור ועמיתיו מביאים, בהסתמך על בן-מנחם (1991), שאחרי הרעידה הופיעו על פני ים המלח גושי אספלט גדולים.[^kentor-2231] מקור בן התקופה לתיאור הזה עוד לא ידוע לנו.
+**אספלט בים המלח.** קן-תור ועמיתיו מביאים, בהסתמך על בן-מנחם (1991), שאחרי הרעידה הופיעו על פני ים המלח גושי אספלט גדולים.[^kentor-2231] עדות קרובה לזמן מביא אדוארד רובינסון, שסייר לאורך ים המלח ב-1838. שייחים של שבטי התעאמרה והג׳האלין סיפרו לו שאחרי הרעש של 1834 נפלטה לחוף, סמוך לחלקו הדרום-מערבי של הים, כמות גדולה של אספלט, ובני הג׳האלין הביאו כשישים קנטאר ממנו לשוק. חברו למסע, אלי סמית׳, זכר שבאותה שנה קנו הסוחרים האירופאים בביירות כמות גדולה של אספלט. לפי השייח של הג׳האלין, מלבד 1834 ו-1837 לא ראה מימיו אספלט צף בים, ולא שמע על כך מאבותיו.[^robinson-518]
 
-<!-- TODO: מקור. לאתר מקור בן התקופה לאספלט בים המלח. -->
 
 ## מה נמצא באדמה
 
@@ -154,3 +153,4 @@ review_notes:
 [^spyridon-92]: Spyridon 1938, עמ׳ 92–93 והערות שם ("The wall of the Church was cracked near where the Armenians celebrate"): "At six o'clock on Sunday morning, May 13th, there was an earthquake. It lasted but three seconds, but it was so violent that the dome of the Catholicon was cracked in seven places and all the plaster fell off"; "A minaret fell in Jerusalem, and another one on the Mount of Olives, as did the dome of the Shrine of the Ascension"; "The fellaheen got frightened at the earthquake and stopped firing for the moment, but the next day they began again".
 [^dsq]: "[1834 CE Fellahin Revolt Quake](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html)", deadseaquake.info. השעה שם: שש בבוקר. TODO: לבדוק במקור. <!-- הגיע דרך תוצאות חיפוש, לא מקריאת הדף -->
 [^kamenitz]: מנחם מנדל מקמניץ, *קורות העתים לישורון בארץ ישראל*, וילנה תקצ"ט (1839), [בפרויקט בן-יהודה](https://benyehuda.org/read/2695). הציטוט מהנוסח שם. ההמרה של ט"ו באייר תקצ"ד ל-24 במאי 1834 שלנו. על עלייתו: "בעת באי לארץ הקדושה בשנת תקצ"ג בחודש אלול", שם.
+[^robinson-518]: E. Robinson and E. Smith, *Biblical Researches in Palestine*, בוסטון 1841, כרך 1, עמ׳ 518 ([סריקה של פרינסטון ב-Internet Archive](https://archive.org/details/biblicalresearch01robi), OCR): "related that after the earthquake of 1834, a large quantity of asphaltum was cast upon the shore near the southwest part of the sea"; "My companion also remembered, that in that year a large amount had been purchased by the Frank merchants at Beirut"; "Except in those two years, the Sheikh of the Jehalin, a man fifty years old, had never known of bitumen appearing in the sea".

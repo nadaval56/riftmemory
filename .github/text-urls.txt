@@ -1,2 +1,2 @@
-# טקסטים לאימות. slug url   (סבב 11: ספירידון 1938, באישור נדב)
-spyridon1938 https://archive.org/download/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834/AnnalsOfPalestine1821to1841_Spyridon_RecountsTheEarthquake%20of%201834_djvu.txt
+# טקסטים פתוחים בלבד. slug url   (סבב 13: רובינסון כרך 1, אספלט אחרי רעידות)
+robinson1841-v1-princeton https://archive.org/download/biblicalresearch01robi/biblicalresearch01robi_djvu.txt
