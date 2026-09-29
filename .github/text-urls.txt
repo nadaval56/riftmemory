@@ -1,2 +1,10 @@
-# טקסטים פתוחים בלבד. slug url   (סבב 13: רובינסון כרך 1, אספלט אחרי רעידות)
-robinson1841-v1-princeton https://archive.org/download/biblicalresearch01robi/biblicalresearch01robi_djvu.txt
+# סבב 14. נחלת הכלל: טקסט מלא. מקורות מוגנים שפתוחים לקריאה: רק קטעים (אחרי " | ").
+guerin-samarie1 https://archive.org/download/descriptionsam01gu/descriptionsam01gu_djvu.txt
+ab1989-ecommons https://ecommons.cornell.edu/items/f8b6aed0-df21-4335-b06a-76bde7258a1e
+ambon2016 https://humanities.tau.ac.il/sites/humanities.tau.ac.il/files/media_server/all-units/%D7%91%D7%99%D7%AA%20%D7%A1%D7%A4%D7%A8%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%99%D7%94%D7%93%D7%95%D7%AA/%D7%A2%D7%91%D7%95%D7%93%D7%95%D7%AA%20%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8%D7%98/%D7%A8%D7%91%D7%A7%D7%94%20%D7%90%D7%9E%D7%91%D7%95%D7%9F-%20%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8%D7%98.pdf | רעש;שער;תקצ"ז;ז"צקת;1837
+uziel2021-he https://cityofdavid.org.il/wp-content/uploads/2025/11/sefer_keness-22_HE_Uziel.pdf | רעידת;תדיער;עוזיהו;והיזוע;עמוס;סומע
+gil1994-a https://files.ybz.org.il/periodicals/Cathedra/70/Article_70.2.pdf | רעש;שער;שביעית;תיעיבש;748;749
+gil1994-b https://files.ybz.org.il/periodicals/Cathedra/70/Article_70.1.pdf | רעש;שער;שביעית;תיעיבש;748;749
+gil1994-c https://files.ybz.org.il/periodicals/Cathedra/70/Article_70.3.pdf | רעש;שער;שביעית;תיעיבש;748;749
+migowski2004 https://gfzpublic.gfz.de/rest/items/item_247420_1/component/file_247419/content | 1834;1927;749;1033;363;31 BC;Recurrence
+nemer2008 https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2007JB005090 | 1759;trench;Serghaya
