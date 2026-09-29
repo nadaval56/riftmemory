@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import live_line, map, event_card %}
+{% from "_macros.html" import live_line, map, event_card, source_sheet %}
 {% set title = e.title %}
 {% set og_type = "article" %}
 {% set noindex = e.status != "published" %}
@@ -121,7 +121,7 @@
       </section>
       {% endif %}
 
-      {% if map_data.events or map_data.live or map_data.highlight %}
+      {% if map_data.events or map_data.live or map_data.highlight or map_data.damage %}
       <section>
         <h2>על המפה</h2>
         {{ map(map_data, height='340px') }}
@@ -141,16 +141,10 @@
     </div>
   </div>
 </article>
-<div class="source-sheet" id="source-sheet" role="dialog" aria-modal="false" aria-live="polite" hidden>
-  <div class="source-sheet-inner">
-    <p class="source-sheet-label"></p>
-    <div class="source-sheet-body"></div>
-    <p class="source-sheet-hint">נגיעה בכל מקום סוגרת</p>
-  </div>
-</div>
+{{ source_sheet() }}
 {% endblock %}
 {% block scripts %}
-{% if map_data.events or map_data.live or map_data.highlight %}
+{% if map_data.events or map_data.live or map_data.highlight or map_data.damage %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
 {% endif %}
 {% endblock %}

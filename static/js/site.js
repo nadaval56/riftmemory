@@ -90,6 +90,9 @@
         })
           .bindPopup('<div class="map-popup"><strong>קו שבר פעיל (העתק)</strong><br>מקטע: ' + esc(s.name) +
             (s.note ? '<div class="src">' + esc(s.note) + "</div>" : "") +
+            (s.history && s.history.length ? '<div class="src">רעידות היסטוריות במקטע: ' + s.history.map(function (h) {
+              return '<a href="' + h.url + '">' + esc(h.title) + "</a>";
+            }).join(" · ") + "</div>" : "") +
             '<div class="src">מקור הקו: GEM Global Active Faults, מודל EMME</div></div>')
           .addTo(map);
         latlngs.forEach(function (p) { faultBounds.push(p); if (strong) segBounds.push(p); });
@@ -114,10 +117,28 @@
 
     data.live.forEach(function (q) {
       L.circleMarker([q.lat, q.lon], {
-        radius: Math.max(3, q.mag * 1.6), color: colors.live, weight: 1, fillOpacity: 0.6
-      }).bindPopup('<div class="map-popup"><strong>' + esc(q.label) + "</strong><br>M" + q.mag + " · " + (ago(q.time_utc) || "") + "</div>")
+        radius: data.dot_scale ? Math.max(2, (q.mag - 2) * data.dot_scale) : Math.max(3, q.mag * 1.6),
+        color: colors.live, weight: data.dot_scale ? 0.5 : 1, fillOpacity: data.dot_scale ? 0.35 : 0.6
+      }).bindPopup('<div class="map-popup"><strong>' + esc(q.label) + '</strong><br><bdi dir="ltr">M' + q.mag + "</bdi>" +
+        (q.depth != null ? " · עומק " + q.depth + " ק״מ" : "") +
+        '<div class="src">' + esc(q.local || ago(q.time_utc) || "") + "</div>" +
+        (q.url ? '<div class="src"><a href="' + q.url + '">לכל הפרטים ←</a></div>' : "") + "</div>")
         .addTo(map);
       bounds.push([q.lat, q.lon]);
+    });
+
+    // מקומות שנפגעו: המקומות שהדפים מתארים בהם נזק (לא מוקדים). ריבוע קטן, ובלחיצה: מה קרה שם ובאיזו רעידה.
+    var dmgBounds = [];
+    if (data.damage && data.damage.length) map.attributionControl.addAttribution('<a href="https://www.geonames.org">GeoNames</a>');
+    (data.damage || []).forEach(function (d) {
+      var icon = L.divIcon({ className: "dmg" + (d.doubtful ? " doubtful" : ""), iconSize: [8, 8] });
+      var html = '<div class="map-popup"><strong>' + esc(d.name) + "</strong>" + d.entries.map(function (x) {
+        return '<div class="dmg-entry"><a href="' + x.url + '">' + esc(x.title) + "</a>" +
+          (x.place !== d.name ? " (" + esc(x.place) + ")" : "") + ": " + esc(x.what) +
+          '<div class="src">' + esc(x.status) + "</div></div>";
+      }).join("") + "</div>";
+      L.marker([d.lat, d.lon], { icon: icon, keyboard: false }).bindPopup(html).addTo(map);
+      dmgBounds.push([d.lat, d.lon]);
     });
 
     // רעידות היסטוריות: המיקום משוער בלבד. עיגול גדול ושקוף מראה שאין כאן נקודה מדויקת,
@@ -147,9 +168,9 @@
     var inRegion = function (p) { return p[0] > 29 && p[0] < 33.6 && p[1] > 34 && p[1] < 36.6; };
     var near = bounds.concat(data.focus ? [] : hist).filter(inRegion);
     var all = faultBounds.filter(function (p) { return p[0] < 33.4; }).concat(near, data.focus ? hist : []);
-    // מפה של מקטע בלבד (בלי מיקום לרעידה): המבט על המקטע, עם מעט סביבה
-    if (segBounds.length && !hist.length) {
-      all = segBounds.concat(near);
+    // מפה של מקטע בלבד (בלי מיקום לרעידה): המבט על המקטע והמקומות שנפגעו, עם מעט סביבה
+    if (data.focus && !hist.length && (segBounds.length || dmgBounds.length)) {
+      all = segBounds.concat(near, dmgBounds);
       map.fitBounds(L.latLngBounds(all).pad(0.6), { maxZoom: 9 });
       return;
     }

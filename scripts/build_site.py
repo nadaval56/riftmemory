@@ -26,6 +26,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import echo
 import fmt
+import charts
 import timeline
 from build_events import load_events
 
@@ -127,6 +128,117 @@ def live_label(q, segment_names):
     return q.get("place") or segment_names.get(seg, "")
 
 
+
+WEEKDAYS_HE = ["שני", "שלישי", "רביעי", "חמישי", "שישי", "שבת", "ראשון"]
+
+
+def local_time(t):
+    """ "יום שלישי 23.9 · 00:59" בשעון ישראל."""
+    lt = t.astimezone(TZ)
+    return f"יום {WEEKDAYS_HE[lt.weekday()]} {lt.day}.{lt.month} · {lt:%H:%M}"
+
+
+def quake_id(q):
+    return "q-" + (q.get("source_id") or q["time_utc"].replace(":", "").replace("-", ""))
+
+
+def describe_quakes(quakes, segments, segment_names):
+    """פרטים לכל רעידה חיה: שעה מקומית, המרחק מקו השבר הקרוב והמקטע שלו."""
+    for q in quakes:
+        seg, dist = echo.nearest_segment(q["lat"], q["lon"], segments)
+        q["anchor"] = quake_id(q)
+        q["local"] = local_time(q["time"])
+        q["fault_km"] = round(dist) if seg is not None else None
+        q["fault_seg"] = segment_names.get(seg["id"]) if seg is not None else None
+    return quakes
+
+
+def recent_summary(quakes, today, days=30):
+    """מספר רעידות לכל יום (מהישן מימין), ולפי טווחי מגניטודה."""
+    counts = {}
+    for q in quakes:
+        d = q["time"].astimezone(TZ).date()
+        counts[d] = counts.get(d, 0) + 1
+    items = []
+    for i in range(days - 1, -1, -1):
+        d = today - dt.timedelta(days=i)
+        n = counts.get(d, 0)
+        items.append((f"{d.day}.{d.month}", n, f"{d.day}.{d.month}: {n} רעידות"))
+    bands = [("2–2.9", 2, 3), ("3–3.9", 3, 4), ("4 ומעלה", 4, 99)]
+    by_mag = [(label, sum(1 for q in quakes if lo <= q["magnitude"] < hi)) for label, lo, hi in bands]
+    return items, by_mag
+
+
+
+# --- התקופה המכשירית -------------------------------------------------------
+
+def load_catalog(name):
+    path = ROOT / "data" / "catalog" / f"{name}.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
+
+
+def instruments_data(segments, segment_names, events):
+    """מה נרשם במכשירים: קטלוג USGS מ-1900, וקטלוג המכון לחודשים האחרונים."""
+    usgs = load_catalog("usgs")
+    gsi = load_catalog("gsi")
+    if not usgs:
+        return None
+    rows = []
+    for q in usgs["events"]:
+        t = dt.datetime.fromisoformat(q["t"].replace("Z", "+00:00"))
+        seg, dist = echo.nearest_segment(q["lat"], q["lon"], segments)
+        rows.append(dict(q, time=t, year=t.year, fault_km=round(dist), label=t.astimezone(TZ).strftime("%-d.%-m.%Y"),
+                         seg=seg["id"] if seg is not None and dist <= echo.SEGMENT_KM else None))
+    # רעידה היסטורית באתר מאותו יום (למשל 1927)
+    by_date = {}
+    for e in events:
+        d = e["date"]
+        if d.get("year") and d.get("month") and d.get("day"):
+            by_date[(d["year"], d["month"], d["day"])] = e
+    for q in rows:
+        q["event"] = by_date.get((q["time"].year, q["time"].month, q["time"].day))
+
+    first_decade = min(q["year"] for q in rows) // 10 * 10
+    last_decade = max(q["year"] for q in rows) // 10 * 10
+    decades = []
+    for d0 in range(first_decade, last_decade + 1, 10):
+        n = sum(1 for q in rows if d0 <= q["year"] < d0 + 10)
+        decades.append((f"{d0}", n, f"שנות ה-{d0}: {n} רעידות בקטלוג"))
+
+    seg_counts = [(s, sum(1 for q in rows if q["seg"] == s["id"])) for s in segments]
+    # חתך עומק: רעידות עד 25 ק"מ מקו שבר, לאורך השבר מדרום לצפון
+    near = [q for q in rows if q["fault_km"] <= 25 and 28.3 <= q["lat"] <= 34.0]
+    bands = []
+    for s in segments:
+        lats = [c[1] for line in s["lines"] for c in line]
+        lo, hi = max(min(lats), 28.3), min(max(lats), 34.0)
+        if hi > lo:
+            bands.append((lo, hi, s["name_he"]))
+    section = charts.depth_section(
+        [(q["lat"], q["depth"], q["mag"]) for q in near], (28.3, 34.0), 40, bands=bands,
+        x_labels=[(y, f"{y}°") for y in (29, 30, 31, 32, 33)],
+        title="חתך עומק לאורך השבר: עומק המוקד של כל רעידה, מדרום (ימין) לצפון (שמאל)")
+    strongest = sorted(rows, key=lambda q: -q["mag"])[:12]
+    # כמה מהרעידות של שנות ה-90 הן במפרץ אילת בשנה שאחרי 22.11.1995
+    nineties = [q for q in rows if 1990 <= q["year"] < 2000]
+    after95 = [q for q in nineties if "1995-11-22" <= q["t"][:10] <= "1996-11-22" and q["lat"] < 29.6]
+    gsi_rows = gsi["events"] if gsi else []
+    return dict(
+        usgs=usgs, gsi=gsi, rows=rows, strongest=strongest, seg_counts=seg_counts,
+        near_count=len(near), first_year=min(q["year"] for q in rows),
+        nineties=len(nineties), after95=len(after95),
+        chart_decades=charts.bars(decades, width=420, height=170, title="מספר הרעידות בקטלוג בכל עשור"),
+        chart_section=section,
+        gsi_count=len(gsi_rows),
+        gsi_first=dt.date.fromisoformat(gsi_rows[0]["t"][:10]).strftime("%-d.%-m.%Y") if gsi_rows else None,
+        gsi_felt=sum(1 for q in gsi_rows if q.get("felt")),
+        map_live=[dict(lat=q["lat"], lon=q["lon"], magnitude=q["mag"], time_utc=q["t"],
+                       label=q["time"].astimezone(TZ).strftime("%-d.%-m.%Y"), depth_km=q["depth"],
+                       local=q.get("place"), anchor=None, url=q.get("url"))
+                  for q in rows],
+    )
+
+
 # --- היום בהיסטוריה -----------------------------------------------------
 
 def hebrew_month_day(y, m, d):
@@ -209,16 +321,53 @@ def write(path, html):
     path.write_text(reader_facing(html), encoding="utf-8")
 
 
-def map_data(events, live, segments, focus=False, highlight=None):
+DAMAGE_STATUS = {
+    "reported": "לפי המקורות",
+    "found": "נמצא בשטח",
+    "reported+found": "לפי המקורות, ונמצא בשטח",
+    "doubtful": "הקשר לרעידה שנוי במחלוקת",
+}
+
+
+def load_damage():
+    path = ROOT / "data" / "damage" / "sites.json"
+    return json.loads(path.read_text(encoding="utf-8"))["sites"] if path.exists() else []
+
+
+def damage_data(sites, events, only=None):
+    """מקומות שנפגעו, לכל מקום הרעידות שפגעו בו. only: מזהה רעידה אחת (בדף רעידה)."""
+    by_id = {e["id"]: e for e in events}
+    out = []
+    for s in sites:
+        entries = [
+            {"title": by_id[x["event"]]["short_title"], "url": f"{BASE_PATH}/events/{x['event']}/",
+             "place": x["place_he"], "what": x["evidence"], "status": DAMAGE_STATUS.get(x["status"], ""),
+             "doubtful": x["status"] == "doubtful", "year": by_id[x["event"]]["date"]["year"]}
+            for x in s["entries"]
+            if x["event"] in by_id and x["status"] in DAMAGE_STATUS and (only is None or x["event"] == only)
+        ]
+        if entries:
+            entries.sort(key=lambda x: x["year"])
+            out.append({"name": s["place_he"], "lat": s["lat"], "lon": s["lon"], "entries": entries,
+                        "doubtful": all(x["doubtful"] for x in entries)})
+    return out
+
+
+def map_data(events, live, segments, focus=False, highlight=None, all_events=None, damage=None):
     """focus: מפה של דף רעידה בודדת. המבט כולל את הרעידה גם כשהיא רחוקה.
     highlight: מזהה המקטע של הרעידה. המקטע מודגש והמבט מתמקד בו."""
     return {
         "focus": focus,
+        "damage": damage or [],
         "basemap": f"{BASE_PATH}/static/data/basemap.json",
         "highlight": highlight,
         "segments": [
             {"id": s["id"], "name": s["name_he"] + (" (טיוטה, טרם אושר)" if s.get("draft") else ""),
-             "note": s.get("note_he"), "lines": s["lines"], "draft": bool(s.get("draft"))}
+             "note": s.get("note_he"), "lines": s["lines"], "draft": bool(s.get("draft")),
+             # הרעידות ההיסטוריות שמשויכות למקטע, לחלון שנפתח בלחיצה על הקו
+             "history": [{"title": e["short_title"], "url": f"{BASE_PATH}/events/{e['id']}/"}
+                         for e in sorted(all_events or [], key=lambda e: e["date"]["year"])
+                         if e["location"].get("segment") == s["id"]]}
             for s in segments if s.get("approved")
         ],
         "events": [
@@ -243,6 +392,9 @@ def map_data(events, live, segments, focus=False, highlight=None):
                 "mag": q["magnitude"],
                 "time_utc": q["time_utc"],
                 "label": q["label"],
+                "depth": q.get("depth_km"),
+                "local": q.get("local"),
+                "url": f"{BASE_PATH}/recent/#{q['anchor']}" if q.get("anchor") else q.get("url"),
             }
             for q in live["events"]
         ],
@@ -268,10 +420,12 @@ def build(drafts=False):
     if drafts or public_drafts:
         segments = [dict(s, draft=not s.get("approved"), approved=True) for s in segments]
     live = load_live()
+    damage_sites = load_damage()
     echo.annotate(live["events"], events, segments)
     for q in live["events"]:
         q["ago"] = relative_hours(q["time"], now)
         q["label"] = live_label(q, segment_names)
+    describe_quakes(live["events"], segments, segment_names)
 
     by_id = {e["id"]: e for e in events}
     for e in events:
@@ -312,7 +466,7 @@ def build(drafts=False):
         featured_reason=featured_reason,
         today=today,
         events=events,
-        map_data=map_data(events, live_month, segments),
+        map_data=map_data(events, live_month, segments, all_events=events, damage=damage_data(damage_sites, events)),
     ))
     pages.append("/")
 
@@ -325,11 +479,39 @@ def build(drafts=False):
             page_path=path,
             e=e,
             by_id=by_id,
-            map_data=map_data([e], dict(live, events=e["live_nearby"]), segments, focus=True,
+            map_data=map_data([e], dict(live, events=e["live_nearby"]), segments, focus=True, all_events=events,
+                              damage=damage_data(damage_sites, events, only=e["id"]),
                               highlight=e["location"].get("segment") if e["segment_name"] and e["location"].get("segment") != echo.DISTANT else None),
         ))
         if e["status"] == "published":
             pages.append(path)
+
+    # 30 הימים האחרונים
+    days, by_mag = recent_summary(live_month["events"], today)
+    write(SITE / "recent" / "index.html", env.get_template("recent.html").render(
+        **common,
+        page_path="/recent/",
+        live=live,
+        quakes=live_month["events"],
+        by_id=by_id,
+        by_mag=by_mag,
+        strongest=max(live_month["events"], key=lambda q: q["magnitude"], default=None),
+        felt=[q for q in live_month["events"] if q.get("felt")],
+        chart_days=charts.bars(days, width=420, height=150, label_every=7, title="מספר הרעידות בכל יום, 30 הימים האחרונים"),
+        map_data=map_data([], live_month, segments),
+    ))
+    pages.append("/recent/")
+
+    # מה המכשירים רואים
+    inst = instruments_data(segments, segment_names, events)
+    if inst:
+        write(SITE / "instruments" / "index.html", env.get_template("instruments.html").render(
+            **common,
+            page_path="/instruments/",
+            inst=inst,
+            map_data=dict(map_data([], {"events": inst["map_live"]}, segments), live_legend="רעידות 2.5 ומעלה בקטלוג USGS", dot_scale=2.2),
+        ))
+        pages.append("/instruments/")
 
     # ציר הזמן
     write(SITE / "timeline" / "index.html", env.get_template("timeline.html").render(

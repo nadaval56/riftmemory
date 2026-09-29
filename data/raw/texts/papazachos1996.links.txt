@@ -1,0 +1,78 @@
+https://www.annalsofgeophysics.eu/index.php/annals/article/view/4023#main-navigation	Main Navigation
+https://www.annalsofgeophysics.eu/index.php/annals/article/view/4023#main-content	Main Content
+https://www.annalsofgeophysics.eu/index.php/annals/article/view/4023#sidebar	Sidebar
+https://www.annalsofgeophysics.eu/index.php/annals/login	Login
+https://www.annalsofgeophysics.eu/index.php/annals/user/register	Register
+https://www.annalsofgeophysics.eu/index.php/annals/search	Search
+https://www.annalsofgeophysics.eu/index.php/annals/index	
+https://www.annalsofgeophysics.eu/index.php/annals/about	About
+https://www.annalsofgeophysics.eu/index.php/annals/AIM-and-SCOPE	AIM and SCOPE
+https://www.annalsofgeophysics.eu/index.php/annals/Editor-editorial-Board	Editor and Editorial Board
+https://www.annalsofgeophysics.eu/index.php/annals/Manuscript-types	Manuscript types
+https://www.annalsofgeophysics.eu/index.php/annals/Subject-areas	Subject Areas
+https://www.annalsofgeophysics.eu/index.php/annals/organization	Organization
+https://www.annalsofgeophysics.eu/index.php/annals/Editorial-Policies	Editorial Policies
+https://www.annalsofgeophysics.eu/index.php/annals/Peer-Review-Process	Peer Review Process
+https://www.annalsofgeophysics.eu/index.php/annals/Responsibility-of-the-Corresponding-Author	Responsibility of the Corresponding Author
+https://www.annalsofgeophysics.eu/index.php/annals/Violations-and-Plagiarism	Violations and Plagiarism
+https://www.annalsofgeophysics.eu/index.php/annals/ai-guidelines	AI Guidelines
+https://www.annalsofgeophysics.eu/index.php/annals/Open-Access-Policy	Open Access Policy
+https://www.annalsofgeophysics.eu/index.php/annals/Archiving	Archiving
+https://www.annalsofgeophysics.eu/index.php/annals/Annals-of-Geophysics-Data-Policy	Annals of Geophysics Data Policy
+https://www.annalsofgeophysics.eu/index.php/annals/For-authors	For Authors
+https://www.annalsofgeophysics.eu/index.php/annals/submission-guidelines-2024	Submission guidelines and Template
+https://www.annalsofgeophysics.eu/index.php/annals/Copyright-Notice	Copyright Notice
+https://www.annalsofgeophysics.eu/index.php/annals/Privacy-Statement	Privacy Statement
+https://www.annalsofgeophysics.eu/index.php/annals/about/contact	Contact the Journal
+https://www.annalsofgeophysics.eu/index.php/annals/Submit-the-manuscript	Submit the manuscript
+https://www.annalsofgeophysics.eu/index.php/annals/For-Reviewer-and-Associate-Editor	For Reviewer and Associate Editor
+https://www.annalsofgeophysics.eu/index.php/annals/Reviewer-Instructions	Reviewer Instructions
+https://www.annalsofgeophysics.eu/index.php/annals/Review-Criteria	Review Criteria
+https://www.annalsofgeophysics.eu/index.php/annals/Submit-the-review	Submit the review
+https://www.annalsofgeophysics.eu/index.php/annals/Associate-Editor-Instructions	Associate Editor Instructions
+https://www.annalsofgeophysics.eu/index.php/annals/issue/archive	Early view and Archives
+https://www.annalsofgeophysics.eu/index.php/annals/index	Home
+https://www.annalsofgeophysics.eu/index.php/annals/issue/archive	Archives
+https://www.annalsofgeophysics.eu/index.php/annals/issue/view/290	Volume 39 · Number 5 · 1996
+https://www.annalsofgeophysics.eu/index.php/annals/article/view/4023/4088	PDF
+https://doi.org/10.4401/ag-4023	https://doi.org/10.4401/ag-4023
+https://www.annalsofgeophysics.eu/index.php/annals/issue/view/290	Volume 39 · Number 5 · 1996
+http://www.ingv.it	Istituto Nazionale di Geofisica e Vulcanologia
+https://creativecommons.org/licenses/by/4.0/	
+https://doi.org/10.4401/ag-4023	https://doi.org/10.4401/ag-4023
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/associacao-brasileira-de-normas-tecnicas?submissionId=4023&publicationId=234&issueId=290	ABNT
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/acm-sig-proceedings?submissionId=4023&publicationId=234&issueId=290	ACM
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/acs-nano?submissionId=4023&publicationId=234&issueId=290	ACS
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/ama?submissionId=4023&publicationId=234&issueId=290	AMA
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/apa?submissionId=4023&publicationId=234&issueId=290	APA
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/chicago-author-date?submissionId=4023&publicationId=234&issueId=290	Chicago
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/harvard-cite-them-right?submissionId=4023&publicationId=234&issueId=290	Harvard
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/ieee?submissionId=4023&publicationId=234&issueId=290	IEEE
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/modern-language-association?submissionId=4023&publicationId=234&issueId=290	MLA
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/turabian-fullnote-bibliography?submissionId=4023&publicationId=234&issueId=290	Turabian
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/get/vancouver?submissionId=4023&publicationId=234&issueId=290	Vancouver
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/download/ris?submissionId=4023&publicationId=234&issueId=290	Endnote/Zotero/Mendeley (RIS)
+https://www.annalsofgeophysics.eu/index.php/annals/citationstylelanguage/download/bibtex?submissionId=4023&publicationId=234&issueId=290	BibTeX
+https://www.ingv.it/en/stampa-urp/ufficio-stampa/news/riviste-ingv-annals-of-geophysics-rafforza-la-sua-rilevanza-internazionale	Read the full news →
+https://www.annalsofgeophysics.eu/index.php/annals/announcement/view/58	SPECIAL ISSUE DEADLINE EXTENSION - Call for papers on Multi-Scale Geochemical Monitoring of Active Volcanism: Integrating Satellite, Remote, and In Situ Methodologies for Volcanic and Environmental Assessment
+https://www.annalsofgeophysics.eu/index.php/annals/announcement	Show all announcements ...
+https://www.openaccess.nl/en/what-is-open-access	
+https://creativecommons.org/licenses/by/4.0/	
+https://www.facebook.com/Annals-of-Geophysics-2061260630786028	
+https://www.facebook.com/Annals-of-Geophysics-2061260630786028	Facebook
+https://twitter.com/AGeophysics	
+https://twitter.com/AGeophysics	Twitter
+https://www.linkedin.com/company/annals-of-geophysics/	
+https://www.linkedin.com/company/annals-of-geophysics/	Linkedin
+https://www.annalsofgeophysics.eu/index.php/annals/submission-guidelines-2024	Submission guidelines
+https://www.annalsofgeophysics.eu/index.php/annals/about/contact	Contact the Journal
+https://www.annalsofgeophysics.eu/index.php/annals/login	Submit manuscript
+https://www.annalsofgeophysics.eu/index.php/annals/Reviewer-Instructions	Reviewer guidelines
+https://www.annalsofgeophysics.eu/index.php/annals/login	Login as Reviewer
+https://www.annalsofgeophysics.eu/index.php/annals/login	Login
+https://www.annalsofgeophysics.eu/index.php/annals/user/register	Register
+https://www.annalsofgeophysics.eu/index.php/annals/about/submissions	Make a Submission
+https://www.annalsofgeophysics.eu/index.php/annals/Privacy-Statement	PRIVACY POLICY
+https://www.annalsofgeophysics.eu/index.php/annals/about/contact	CONTACT
+https://www.shinystat.com/it/	
+https://www.annalsofgeophysics.eu/index.php/annals/about/aboutThisPublishingSystem	

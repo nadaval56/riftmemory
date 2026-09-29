@@ -37,6 +37,8 @@
   </a>
   <nav class="site-nav" aria-label="ניווט ראשי">
     <a href="{{ base }}/"{% if page_path == '/' %} aria-current="page"{% endif %}>בית</a>
+    <a href="{{ base }}/recent/"{% if page_path == '/recent/' %} aria-current="page"{% endif %}>30 הימים</a>
+    <a href="{{ base }}/instruments/"{% if page_path == '/instruments/' %} aria-current="page"{% endif %}>המכשירים</a>
     <a href="{{ base }}/timeline/"{% if page_path == '/timeline/' %} aria-current="page"{% endif %}>ציר הזמן</a>
     <a href="{{ base }}/about/"{% if page_path == '/about/' %} aria-current="page"{% endif %}>על האתר</a>
     <button class="theme-btn" type="button" data-theme-toggle aria-label="מצב כהה או בהיר">

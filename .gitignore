@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 research-out/
 .claude/settings.local.json
+.claude/worktrees/

@@ -1,0 +1,2512 @@
+[
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "ההיכל",
+  "place_en": "Temple Mount, Jerusalem",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "tanchumanoach",
+   "tanchumatzav",
+   "jos",
+   "zoharA"
+  ],
+  "evidence": "מסורת מאוחרת: ההיכל נסדק; מקור משני שאינו ניתן לאימות",
+  "page_sentence": "באבות דרבי נתן ובמדרש תנחומא, ברגע שהצרעת פורצת, ההיכל נסדק:"
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "ארוגה",
+  "place_en": "Eroge (En Rogel), Jerusalem",
+  "kind": "village",
+  "status": "doubtful",
+  "footnotes": [
+   "jos",
+   "zoharA"
+  ],
+  "evidence": "יוסף בן מתתיהו: חצי הר התמוטט וחסם דרכים וגני המלך",
+  "page_sentence": "> \"בינתיים רעש גדול הרעיד את האדמה, ובהיכל נבקע סדק, וקרני השמש הבהירות חדרו דרכו ונפלו על פני המלך, עד שהצרעת אחזה בו מיד. ולפני העיר, במקום שנקרא ארוגה, נשבר חצי ההר מן השאר בצד המערבי, והתגלגל ארבעה ריס ונעצר ליד ההר המזרחי, עד שהדרכים וגם גני המלך נהרסו מן החסימה.\"[^jos]"
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "חצור",
+  "place_en": "Hazor",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "austin",
+   "dsq"
+  ],
+  "evidence": "שכבת הרס מהמאה ה-8; ידין תיאר קירות נטויים, בן-תור לא זיהה סימני רעידה",
+  "page_sentence": "בכמה תלים בארץ נמצאו שכבות הרס מאמצע המאה השמינית לפנה״ס, ובהם חצור, דיר עלא, גזר, לכיש, תל גודד ועין חצבה."
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "דיר עלא",
+  "place_en": "Deir Alla",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "austin",
+   "zoharA",
+   "ambraseys2009"
+  ],
+  "evidence": "שכבת הרס מהמאה ה-8; הקישור לרעידה נדחה כלא חד-משמעי",
+  "page_sentence": "בכמה תלים בארץ נמצאו שכבות הרס מאמצע המאה השמינית לפנה״ס, ובהם חצור, דיר עלא, גזר, לכיש, תל גודד ועין חצבה."
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "גזר",
+  "place_en": "Gezer",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "austin",
+   "zoharA",
+   "ambraseys2009"
+  ],
+  "evidence": "שכבת הרס מהמאה ה-8; הקישור לרעידה שנוי במחלוקת",
+  "page_sentence": "בכמה תלים בארץ נמצאו שכבות הרס מאמצע המאה השמינית לפנה״ס, ובהם חצור, דיר עלא, גזר, לכיש, תל גודד ועין חצבה."
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "לכיש",
+  "place_en": "Lachish",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "austin",
+   "zoharA",
+   "ambraseys2009"
+  ],
+  "evidence": "שכבת הרס מהמאה ה-8; הקישור לרעידה שנוי במחלוקת",
+  "page_sentence": "בכמה תלים בארץ נמצאו שכבות הרס מאמצע המאה השמינית לפנה״ס, ובהם חצור, דיר עלא, גזר, לכיש, תל גודד ועין חצבה."
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "תל גודד",
+  "place_en": "Tel Goded",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "austin",
+   "zoharA",
+   "ambraseys2009"
+  ],
+  "evidence": "שכבת הרס מהמאה ה-8; הקישור לרעידה שנוי במחלוקת",
+  "page_sentence": "בכמה תלים בארץ נמצאו שכבות הרס מאמצע המאה השמינית לפנה״ס, ובהם חצור, דיר עלא, גזר, לכיש, תל גודד ועין חצבה."
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "עין חצבה",
+  "place_en": "Ein Hatzeva",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "austin",
+   "zoharA",
+   "ambraseys2009"
+  ],
+  "evidence": "שכבת הרס מהמאה ה-8; הקישור לרעידה שנוי במחלוקת",
+  "page_sentence": "בכמה תלים בארץ נמצאו שכבות הרס מאמצע המאה השמינית לפנה״ס, ובהם חצור, דיר עלא, גזר, לכיש, תל גודד ועין חצבה."
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "עיר דוד (ירושלים)",
+  "place_en": "City of David, Jerusalem",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "uziel",
+   "regev"
+  ],
+  "evidence": "שכבת הרס: קירות וקומה עליונה קרסו על כלי חרס, בלי שריפה",
+  "page_sentence": "בחפירות רשות העתיקות בעיר דוד, בניהולם של ג׳ו עוזיאל ואורטל חלף, נחשפה שכבת הרס מהמאה השמינית לפנה״ס: כלי חרס רבים שנופצו כשקירות וקומה עליונה קרסו עליהם."
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "חומת העופל",
+  "place_en": "Ophel, Jerusalem",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "kings",
+   "chron27",
+   "shilo"
+  ],
+  "evidence": "בניית יותם נתפסת בידי חלק כתיקון נזקי הרעש; פרשנות בלבד",
+  "page_sentence": "יש מי שרואה בכך עדות עקיפה לתיקון נזקי הרעש.[^shilo]"
+ },
+ {
+  "event": "0760bce-uzziah",
+  "place_he": "עמק בית שאן",
+  "place_en": "Beit She'an Valley",
+  "kind": "region",
+  "status": "doubtful",
+  "footnotes": [
+   "salamon",
+   "zilberman"
+  ],
+  "evidence": "הוצע שייתכן שנוצר קרע בפני השטח",
+  "page_sentence": "גם בשטח הפתוח יש רמז: לפי סלמון וחבריו (2007), זילברמן וחבריו (2004) הציעו שייתכן שהרעידה יצרה קרע בפני השטח בעמק בית שאן.[^salamon][^zilberman]"
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "יהודה",
+  "place_en": "Judea",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "war",
+   "ant",
+   "zohar974",
+   "zohar2017"
+  ],
+  "evidence": "בקר רב מת ורבים נהרגו במפולת בתים; אין יישוב מסוים מאומת",
+  "page_sentence": "הבקר מת בהמוניו, ורבים נהרגו כשבתיהם קרסו עליהם."
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "ירושלים",
+  "place_en": "Jerusalem",
+  "kind": "city",
+  "status": "rejected",
+  "footnotes": [
+   "zoharA"
+  ],
+  "evidence": "קטלוגים ישנים ייחסו נזק; אמברייזיס דחה",
+  "page_sentence": "**ירושלים והגליל.** קטלוגים ישנים ייחסו לרעידה נזק בירושלים ובגליל."
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "הגליל",
+  "place_en": "Galilee",
+  "kind": "region",
+  "status": "rejected",
+  "footnotes": [
+   "zoharA"
+  ],
+  "evidence": "קטלוגים ישנים ייחסו נזק; אמברייזיס דחה",
+  "page_sentence": "**ירושלים והגליל.** קטלוגים ישנים ייחסו לרעידה נזק בירושלים ובגליל."
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "חורבת קומראן",
+  "place_en": "Qumran",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "zoharA",
+   "karcz",
+   "karczkafri"
+  ],
+  "evidence": "סדק במקווה, תקרה שקרסה ונזק למגדל; הפירוש הסייסמי שנוי במחלוקת",
+  "page_sentence": "**קומראן.** בחורבת קומראן תוארו סדק שחוצה את אחד המקוואות, תקרה שקרסה ונזק למגדל."
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "דיר חג׳לה",
+  "place_en": "Deir Hajla",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "zoharA"
+  ],
+  "evidence": "עדות סייסמית שדווחה הוטלה בספק",
+  "page_sentence": "**דיר חג׳לה.** גם העדות הסייסמית שדווחה ליד דיר חג׳לה, מצפון לים המלח, הוטלה בספק.[^zoharA]"
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "דיוספוליס (לוד)",
+  "place_en": "Lod",
+  "kind": "city",
+  "status": "doubtful",
+  "footnotes": [
+   "karcz",
+   "zoharB"
+  ],
+  "evidence": "מלאלאס: עיר נפגעה ונבנתה מחדש; כנראה בלבול עם סלמיס בקפריסין",
+  "page_sentence": "הוא מזכיר גם את יוחנן מלאלאס, היסטוריון ביזנטי מהמאה השישית, שמספר על עיר בשם \"סלמיס\" שנפגעה ונבנתה מחדש בשם \"דיוספוליס\".[^karcz]"
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "ערוץ צאלים",
+  "place_en": "Nahal Tze'elim",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "zoharA",
+   "kentor"
+  ],
+  "evidence": "שכבה מעוותת (סייסמיט) במשקעי ים המלח קושרה לרעידה",
+  "page_sentence": "בערוץ צאלים תוארכה שכבה כזו לטווח שבין 50 לפנה״ס ל-230 לספירה, וקושרה לרעידה הזו.[^zoharA][^kentor]"
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "ים המלח",
+  "place_en": "Dead Sea",
+  "kind": "sea/lake",
+  "status": "found",
+  "footnotes": [
+   "zoharA",
+   "kentor",
+   "wechsler",
+   "williams"
+  ],
+  "evidence": "שכבות משקע מעוותות מעידות על טלטלה חזקה באגן",
+  "page_sentence": "בשכבות הדקות של משקעי ים המלח נשמרו שכבות מעוותות (סייסמיטים), שנוצרו כשטלטול חזק ערבב את הבוץ הרך בקרקעית."
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "העתק יריחו",
+  "place_en": "Jericho Fault",
+  "kind": "region",
+  "status": "doubtful",
+  "footnotes": [
+   "kentor"
+  ],
+  "evidence": "דווח על קרע אפשרי בפני השטח",
+  "page_sentence": "החוקרים שתיארכו אותה דיווחו גם על קרע אפשרי בפני השטח לאורך העתק יריחו.[^kentor]"
+ },
+ {
+  "event": "0031bce-judea",
+  "place_he": "עין גדי",
+  "place_en": "Ein Gedi",
+  "kind": "village",
+  "status": "found",
+  "footnotes": [
+   "williams"
+  ],
+  "evidence": "בגלעין קידוח שכבה המיוחסת לרעידה משמשת נקודת ייחוס",
+  "page_sentence": "מחקרים נוספים באגן, ובהם גלעין קידוח מעין גדי, משתמשים בשכבה המיוחסת לרעידה הזו כנקודת ייחוס.[^williams]"
+ },
+ {
+  "event": "0130-judea",
+  "place_he": "קיסריה",
+  "place_en": "Caesarea",
+  "kind": "city",
+  "status": "rejected",
+  "footnotes": [
+   "jerome",
+   "salamon",
+   "zoharC"
+  ],
+  "evidence": "הכרוניקון: נהרסה; המחקר מייחס כנראה לקיסריה אחרת באסיה הקטנה",
+  "page_sentence": "בכרוניקון של אוסביוס, רשימה ארוכה של אירועים שנה אחר שנה, מופיעה בין ידיעות על הקיסר אדריאנוס שורה קצרה אחת: ניקופוליס וקיסריה נהרסו ברעידת אדמה.[^jerome] בארץ ישראל יש קיסריה, העיר שעל החוף, ויש ניקופוליס, השם היווני של אמאוס."
+ },
+ {
+  "event": "0130-judea",
+  "place_he": "ניקופוליס (אמאוס)",
+  "place_en": "Emmaus Nicopolis",
+  "kind": "archaeological site",
+  "status": "rejected",
+  "footnotes": [
+   "jerome",
+   "salamon",
+   "zoharC",
+   "dsq"
+  ],
+  "evidence": "הכרוניקון: נהרסה; כנראה ניקופוליס באסיה הקטנה; אין עדות בשטח",
+  "page_sentence": "כך, למשל, נרשמו בהם \"נזק חמור בקיסריה\", ונזק בקיסריה ובאמאוס.[^salamon]"
+ },
+ {
+  "event": "0130-judea",
+  "place_he": "לוד",
+  "place_en": "Lod",
+  "kind": "city",
+  "status": "rejected",
+  "footnotes": [
+   "caesarea"
+  ],
+  "evidence": "נזק בלוד הוא תוספת של ספרות משנית מאוחרת, לא בכרוניקון",
+  "page_sentence": "כל שאר הפרטים שנקשרו לרעידה, כמו נזק בלוד או במבצרים ברחבי הארץ, אינם מופיעים בכרוניקון."
+ },
+ {
+  "event": "0130-judea",
+  "place_he": "ניאוקיסריה",
+  "place_en": "Neocaesarea (Niksar)",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zoharC"
+  ],
+  "evidence": "לפי אמברייזיס וקרץ, העיר שנהרסה לפי הכרוניקון",
+  "page_sentence": "לפי אמברייזיס (2009) וקרץ (1987), הערים בכרוניקון הן כנראה ניאוקיסריה וניקופוליס שבאסיה הקטנה, ולא קיסריה ואמאוס."
+ },
+ {
+  "event": "0130-judea",
+  "place_he": "ניקופוליס שבאסיה הקטנה",
+  "place_en": "Nicopolis (Pontus, Koyulhisar)",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zoharC"
+  ],
+  "evidence": "לפי אמברייזיס וקרץ, העיר שנהרסה לפי הכרוניקון",
+  "page_sentence": "לפי אמברייזיס (2009) וקרץ (1987), הערים בכרוניקון הן כנראה ניאוקיסריה וניקופוליס שבאסיה הקטנה, ולא קיסריה ואמאוס."
+ },
+ {
+  "event": "0130-judea",
+  "place_he": "צפון הארץ",
+  "place_en": "Northern Israel",
+  "kind": "region",
+  "status": "doubtful",
+  "footnotes": [
+   "zoharC",
+   "zohar982"
+  ],
+  "evidence": "סימני פעילות סייסמית 137–206; כנראה רעידה נפרדת",
+  "page_sentence": "Wechsler וחבריו (2014) מצאו סימנים לפעילות סייסמית בצפון הארץ בין 137 ל-206 לספירה, והציעו לקשור אותם לאירוע הזה."
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "צוער",
+  "place_en": "Zoara (Ghor as-Safi)",
+  "kind": "archaeological site",
+  "status": "reported+found",
+  "footnotes": [
+   "dsq",
+   "meimaris",
+   "zoharA",
+   "zohar2017"
+  ],
+  "evidence": "מצבות של מתים ברעידה; הנזק הגיע עד דרום ים המלח",
+  "page_sentence": "על אחת נכתב שסמאכון מת ברעידת האדמה."
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "בית גוברין",
+  "place_en": "Beit Guvrin (Eleutheropolis)",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "יותר ממחציתה נהרסה לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "בית שאן",
+  "place_en": "Beit She'an",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "חלק ממנה נהרס לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "סבסטיה",
+  "place_en": "Sebastia",
+  "kind": "village",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "כולה וסביבתה נהרסו לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "ניקופוליס",
+  "place_en": "Emmaus Nicopolis",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "כולה וסביבתה נהרסו לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "לוד",
+  "place_en": "Lod",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "יותר ממחציתה וסביבתה נהרסו לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "אשקלון",
+  "place_en": "Ashkelon",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "כמחציתה נהרסה לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "אנטיפטריס",
+  "place_en": "Antipatris",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "כולה וסביבתה נהרסו לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "קיסריה",
+  "place_en": "Caesarea",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "חלק ממנה נהרס לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "שומרון",
+  "place_en": "Samaria",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "יותר ממחציתה נהרסה לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "בניאס",
+  "place_en": "Banias",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "שליש נהרס לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "אשדוד",
+  "place_en": "Ashdod",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "מחציתה נהרסה לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "גופנה",
+  "place_en": "Jifna (Gophna)",
+  "kind": "village",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "חלק ממנה נהרס לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "ירושלים",
+  "place_en": "Jerusalem",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "יותר ממחציתה נהרסה לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "טבריה",
+  "place_en": "Tiberias",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "חלק ממנה וסביבתה נהרסו לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "יפו",
+  "place_en": "Jaffa",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson66"
+  ],
+  "evidence": "כל יפו אבדה לפי האיגרת",
+  "page_sentence": "> \"בית גוברין, יותר ממחציתה; חלק מבית שאן; כל סבסטיה וסביבתה; כל ניקופוליס וסביבתה; יותר ממחצית לוד וסביבתה; כמחצית אשקלון; כל אנטיפטריס וסביבתה; חלק מקיסריה; יותר ממחצית שומרון; ... שליש בניאס, מחצית אשדוד, חלק מגופנה, יותר ממחצית פטרה ... יותר ממחצית ירושלים ... גם חלק מטבריה וסביבתה ... כל ציפורי וסביבתה ... כל יפו אבדה\".[^levenson66]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "שכם",
+  "place_en": "Nablus",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson64",
+   "levenson72"
+  ],
+  "evidence": "פילוסטורגיוס מזכיר ערים סביבה שנפגעו",
+  "page_sentence": "Levenson מראה שהיא קרובה מאוד לשני מקורות אחרים: כרוניקה סורית מהמאה השביעית, שמונה 21 ערים שנפגעו, וקטע מההיסטוריה הכנסייתית של פילוסטורגיוס, שמזכיר ערים סביב ניקופוליס, שכם, בית גוברין ועזה.[^levenson64][^levenson72]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "עזה",
+  "place_en": "Gaza",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "levenson64",
+   "levenson72"
+  ],
+  "evidence": "פילוסטורגיוס מזכיר ערים סביבה שנפגעו",
+  "page_sentence": "Levenson מראה שהיא קרובה מאוד לשני מקורות אחרים: כרוניקה סורית מהמאה השביעית, שמונה 21 ערים שנפגעו, וקטע מההיסטוריה הכנסייתית של פילוסטורגיוס, שמזכיר ערים סביב ניקופוליס, שכם, בית גוברין ועזה.[^levenson64][^levenson72]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "פטרה",
+  "place_en": "Petra",
+  "kind": "archaeological site",
+  "status": "reported+found",
+  "footnotes": [
+   "levenson66",
+   "zohar2017",
+   "dsqpetra"
+  ],
+  "evidence": "לפי האיגרת רובה נהרס (זיהוי מפוקפק); שלדים תחת תקרה בא-זנטור",
+  "page_sentence": "**פטרה.** לפי האיגרת, יותר ממחצית העיר נהרסה."
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "ציפורי",
+  "place_en": "Sepphoris",
+  "kind": "archaeological site",
+  "status": "reported+found",
+  "footnotes": [
+   "levenson66",
+   "dsqsepphoris"
+  ],
+  "evidence": "לפי האיגרת נהרסה כולה; החופרים חלוקים אם ההרס מרעידה",
+  "page_sentence": "**ציפורי.** לפי האיגרת, כל ציפורי וסביבתה נהרסו."
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "סוסיתא",
+  "place_en": "Hippos (Susita)",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "eisenberg",
+   "hippos"
+  ],
+  "evidence": "שלדים תחת גג שקרס בבזיליקה; לא נבנתה מחדש",
+  "page_sentence": "בבזיליקה שבמרכז העיר נמצאו, תחת הגג שקרס, שלדים של לפחות ארבעה בני אדם, ובהם גבר ואישה צעירה."
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "נבוריה",
+  "place_en": "Nabratein",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "dsqnab",
+   "meyers"
+  ],
+  "evidence": "סוף שלב בית הכנסת יוחס בין השאר לרעידה; שנוי במחלוקת",
+  "page_sentence": "לכן אי אפשר לקבוע שנבוריה נחרבה ברעידה הזו."
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "פלשתינה",
+  "place_en": "Palestine",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "libanius"
+  ],
+  "evidence": "ליבניוס: ערים רבות נחרבו בפלשתינה",
+  "page_sentence": "> \"כמו סוס המשליך את רוכבו, היא החריבה ערים כה רבות, בפלשתינה רבות, בלוב כולן.\"[^libanius]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "לוב",
+  "place_en": "Libya",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "libanius"
+  ],
+  "evidence": "ליבניוס: כל הערים בלוב נחרבו",
+  "page_sentence": "> \"כמו סוס המשליך את רוכבו, היא החריבה ערים כה רבות, בפלשתינה רבות, בלוב כולן.\"[^libanius]"
+ },
+ {
+  "event": "0363-galilee",
+  "place_he": "הגליל",
+  "place_en": "Galilee",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "zoharA",
+   "dsq"
+  ],
+  "evidence": "הרעידה השנייה פגעה בעיקר בצפון, בגליל",
+  "page_sentence": "ג׳פרסון ויליאמס מציע חלוקה: רעידה \"דרומית\" ראשונה, שפגעה בצוער ובפטרה, ורעידה \"צפונית\" שנייה, שפגעה בגליל."
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "טבריה",
+  "place_en": "Tiberias",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar16",
+   "marco",
+   "sal07"
+  ],
+  "evidence": "בין המקומות שנפגעו; קרע פני שטח ומבנים מוסטים לאורך העתקים",
+  "page_sentence": "**טבריה.** בחפירות בטבריה מצאו שמואל מרקו ועמיתיו קרע של פני השטח, ומייחסים אותו לרעידת 749.[^marco][^sal07]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "בית שאן",
+  "place_en": "Beit She'an",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar16",
+   "tf92",
+   "zohar16s",
+   "tf",
+   "gil"
+  ],
+  "evidence": "עיר נפגעה; מטבעות ושלד בהריסות; גיל חולק על הפרשנות",
+  "page_sentence": "יורם צפריר וגדעון פרסטר תיארכו את הרעידה ל-749 לפי מטבעות מהריסות העיר, וזהר ועמיתיו מקבלים את התיארוך כאמין.[^tf92][^zohar16s]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "הר תבור",
+  "place_en": "Mount Tabor",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar16s"
+  ],
+  "evidence": "נמנה בין המקומות שנפגעו",
+  "page_sentence": "ברשימה המחקרית העדכנית של רעידות האדמה בארץ נמנים בין המקומות שנפגעו טבריה, בית שאן, הר תבור ובית ירח."
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "בית ירח",
+  "place_en": "Beit Yerah",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "נמנה בין המקומות שנפגעו",
+  "page_sentence": "ברשימה המחקרית העדכנית של רעידות האדמה בארץ נמנים בין המקומות שנפגעו טבריה, בית שאן, הר תבור ובית ירח."
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "בקעת הירדן",
+  "place_en": "Jordan Valley",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "הרעידה פגעה בבקעת הירדן",
+  "page_sentence": "הרעידה פגעה בבקעת הירדן ובגליל."
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "הגליל",
+  "place_en": "Galilee",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "הרעידה פגעה בגליל",
+  "page_sentence": "הרעידה פגעה בבקעת הירדן ובגליל."
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "יריחו",
+  "place_en": "Jericho",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "הדיווחים על רעידה יחידה מזכירים אותה",
+  "page_sentence": "גם קרץ תומך בכמה רעידות, ומעיר שהדיווחים על רעידה יחידה לא נותנים תאריך מלא ומזכירים בארץ רק את טבריה, הר תבור ויריחו, בלי ירושלים.[^zohar16s]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "ים המלח",
+  "place_en": "Dead Sea",
+  "kind": "sea/lake",
+  "status": "found",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "שכבה מופרעת במשקעים לחוף ים המלח",
+  "page_sentence": "לפי מיגוסקי ועמיתיו, הרעידה נרשמה כשכבה מופרעת במשקעים לחוף ים המלח.[^zohar16s]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "סוסיתא",
+  "place_en": "Hippos (Susita)",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "yagoda"
+  ],
+  "evidence": "עמודים שנפלו בכנסייה הדרום-מזרחית",
+  "page_sentence": "**סוסיתא.** בכנסייה הדרום-מזרחית של סוסיתא נמצאו עמודים שנפלו, וההרס משויך לרעידת 749."
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "איילה (עקבה)",
+  "place_en": "Aqaba (Ayla)",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "whitcomb"
+  ],
+  "evidence": "מגדל ומבנה מרכזי נבנו מחדש סביב 750, מקושר לרעידה",
+  "page_sentence": "דונלד ויטקומב, מחוקרי איילה, מתאר מגדל ומבנה מרכזי שנבנו מחדש בסביבות 750, ומקשר אותם לרעידה שהוא מתארך ל-748."
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "מדבר ירושלים",
+  "place_en": "Judaean Desert",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "theoph"
+  ],
+  "evidence": "תיאופנס: רבבות הרוגים, כנסיות ומנזרים קרסו",
+  "page_sentence": "על הרעידה הראשונה הוא מספר, לפי תרגום עברי משני, על רבבות הרוגים ועל כנסיות ומנזרים שקרסו, בעיקר במדבר של ירושלים.[^theoph]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "מסגד אל-אקצא",
+  "place_en": "Al-Aqsa Mosque",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "zohar16s",
+   "arab",
+   "margaliot41"
+  ],
+  "evidence": "כותבים ערבים: נזק למסגד; צדדיו המזרחי והמערבי נהרסו",
+  "page_sentence": "השנייה היא ארבעה כותבים ערבים, שמוסיפים גם נזק למסגד אל-אקצא בשנת 757.[^zohar16s][^arab]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "ירושלים",
+  "place_en": "Jerusalem",
+  "kind": "city",
+  "status": "doubtful",
+  "footnotes": [
+   "margaliot41",
+   "tf92",
+   "avni",
+   "zohar16s"
+  ],
+  "evidence": "מקור מאוחר: העיר נחרבה; שכבות ההרס שנויות במחלוקת",
+  "page_sentence": "אבן תע'רי-ברדי (מת ב-1469) מוסר שירושלים נחרבה ושאנשים רבים נהרגו, ומוסיף שיש המתארכים את האירוע לשנת 131.[^margaliot41]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "ג'רש",
+  "place_en": "Jerash",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "tf92"
+  ],
+  "evidence": "שכבות הרס שיוחסו לרעידה; שנוי במחלוקת",
+  "page_sentence": "**אתרים שנויים במחלוקת.** צפריר ופרסטר מונים שכבות הרס גם בירושלים, בג'רש, בפחל, בכפר נחום ובח'רבת אל-מפג'ר.[^tf92]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "פחל",
+  "place_en": "Pella (Tabaqat Fahl)",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "tf92"
+  ],
+  "evidence": "שכבות הרס שיוחסו לרעידה; שנוי במחלוקת",
+  "page_sentence": "**אתרים שנויים במחלוקת.** צפריר ופרסטר מונים שכבות הרס גם בירושלים, בג'רש, בפחל, בכפר נחום ובח'רבת אל-מפג'ר.[^tf92]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "כפר נחום",
+  "place_en": "Capernaum",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "tf92"
+  ],
+  "evidence": "שכבות הרס שיוחסו לרעידה; שנוי במחלוקת",
+  "page_sentence": "**אתרים שנויים במחלוקת.** צפריר ופרסטר מונים שכבות הרס גם בירושלים, בג'רש, בפחל, בכפר נחום ובח'רבת אל-מפג'ר.[^tf92]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "ח'רבת אל-מפג'ר",
+  "place_en": "Khirbat al-Mafjar (Hisham's Palace)",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "tf92",
+   "alfonsi"
+  ],
+  "evidence": "שכבת הרס; חוקרים אחרים מייחסים אותה לרעידת 1033",
+  "page_sentence": "**אתרים שנויים במחלוקת.** צפריר ופרסטר מונים שכבות הרס גם בירושלים, בג'רש, בפחל, בכפר נחום ובח'רבת אל-מפג'ר.[^tf92]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "סוריה",
+  "place_en": "Syria",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "תיאופנס: רעידות בסוריה ולאורך הירדן",
+  "page_sentence": "זהר ועמיתיו קוראים אצלו שלוש רעידות: הראשונה בשנת 745/6 בארץ ישראל, בסוריה ולאורך הירדן; השנייה ב-748/9 בסוריה ובמסופוטמיה; והשלישית ב-755/6 בארץ ישראל ובסוריה.[^zohar16s]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "מסופוטמיה",
+  "place_en": "Mesopotamia",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "zohar16s",
+   "sal07"
+  ],
+  "evidence": "תיאופנס ואמברייזיס: הרעידה השנייה פגעה שם",
+  "page_sentence": "ובמאמר מ-2005 כתב שהרעידה השנייה פגעה רק במסופוטמיה ובצפון סוריה (זהר ואחרים 2016 נספח A; סלמון ואחרים 2007 נספח 1)."
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "קהיר",
+  "place_en": "Cairo",
+  "kind": "city",
+  "status": "doubtful",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "אמברייזיס: נזק נרחב מדי לרעידה אחת",
+  "page_sentence": "ניקולס אמברייזיס טוען שהיו כנראה שלוש רעידות: נזק שמשתרע מקהיר ועד טבריה, ניקאה וח'בורה גדול מכדי שרעידה אחת על שבר כזה תגרום לו.[^zohar16s]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "ניקאה",
+  "place_en": "Nicaea (Iznik)",
+  "kind": "city",
+  "status": "doubtful",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "אמברייזיס: נזק נרחב מדי לרעידה אחת",
+  "page_sentence": "ניקולס אמברייזיס טוען שהיו כנראה שלוש רעידות: נזק שמשתרע מקהיר ועד טבריה, ניקאה וח'בורה גדול מכדי שרעידה אחת על שבר כזה תגרום לו.[^zohar16s]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "ח'בורה",
+  "place_en": "Khabur (Khabura)",
+  "kind": "region",
+  "status": "doubtful",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "אמברייזיס: נזק נרחב מדי לרעידה אחת",
+  "page_sentence": "ניקולס אמברייזיס טוען שהיו כנראה שלוש רעידות: נזק שמשתרע מקהיר ועד טבריה, ניקאה וח'בורה גדול מכדי שרעידה אחת על שבר כזה תגרום לו.[^zohar16s]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "הים התיכון",
+  "place_en": "Mediterranean Sea",
+  "kind": "sea/lake",
+  "status": "doubtful",
+  "footnotes": [
+   "anton",
+   "sal07"
+  ],
+  "evidence": "ספינות רבות טבעו; לא הוכרע אם גל רעידה או סערה",
+  "page_sentence": "סלמון ועמיתיו עצמם מפרשים אותו כגל בים התיכון, מול אזור הנזק הקשה.[^sal07]"
+ },
+ {
+  "event": "0749-shviit",
+  "place_he": "הכנרת",
+  "place_en": "Sea of Galilee",
+  "kind": "sea/lake",
+  "status": "doubtful",
+  "footnotes": [
+   "sal07"
+  ],
+  "evidence": "קרץ העלה אפשרות לגל בכנרת או בים המלח",
+  "page_sentence": "המקורות לא אומרים איפה היה הגל: קרץ העלה את ים המלח או הכנרת, ואמברייזיס הציע לקרוא את תיאורו של מיכאל הסורי כסערה חריגה בים המלח."
+ },
+ {
+  "event": "0881-acre",
+  "place_he": "עכו",
+  "place_en": "Acre",
+  "kind": "city",
+  "status": "rejected",
+  "footnotes": [
+   "anton",
+   "sal07"
+  ],
+  "evidence": "דיווח על רעידה וגל ים שהרס; נמצא כהעתק שגוי של 1303",
+  "page_sentence": "בשנת 881 פגעה רעידת אדמה חזקה בעכו, וגל ים הסב לעיר נזק רב."
+ },
+ {
+  "event": "0881-acre",
+  "place_he": "אלכסנדריה",
+  "place_en": "Alexandria",
+  "kind": "city",
+  "status": "rejected",
+  "footnotes": [
+   "anton",
+   "sal07"
+  ],
+  "evidence": "דיווח על גלים בחוף; נמצא כטעות",
+  "page_sentence": "גלים הוכו גם בחופי אלכסנדריה ובנילוס."
+ },
+ {
+  "event": "0881-acre",
+  "place_he": "הנילוס",
+  "place_en": "Nile",
+  "kind": "region",
+  "status": "rejected",
+  "footnotes": [
+   "anton",
+   "sal07"
+  ],
+  "evidence": "דיווח על גלים בנילוס; נמצא כטעות",
+  "page_sentence": "גלים הוכו גם בחופי אלכסנדריה ובנילוס."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "רמלה",
+  "place_en": "Ramla",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16s",
+   "zohar16",
+   "zohar17",
+   "amiran"
+  ],
+  "evidence": "נפגעה קשות; לפי סיכומים משניים שליש ממנה נהרס",
+  "page_sentence": "לפי הסיכום של החוקרים, המכתב מספר על רעידה גדולה שפגעה קשות ברמלה ובערים נוספות במרכז הארץ.[^zohar16s]"
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "יריחו",
+  "place_en": "Jericho",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar16",
+   "zohar17",
+   "ferry"
+  ],
+  "evidence": "נמנית בין המקומות שנפגעו; סימני קרע פני שטח בסביבתה",
+  "page_sentence": "הנזק התפרש על שטח גדול: יריחו, רמלה, בניאס, אשקלון, ירושלים, עכו, עזה, שכם, חברון והכפר אל-באד'אן."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "בניאס",
+  "place_en": "Banias",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17"
+  ],
+  "evidence": "נמנית בין המקומות שנפגעו",
+  "page_sentence": "הנזק התפרש על שטח גדול: יריחו, רמלה, בניאס, אשקלון, ירושלים, עכו, עזה, שכם, חברון והכפר אל-באד'אן."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "אשקלון",
+  "place_en": "Ashkelon",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17",
+   "sal07t"
+  ],
+  "evidence": "נמנית בין המקומות שנפגעו; דווח על גלים",
+  "page_sentence": "הנזק התפרש על שטח גדול: יריחו, רמלה, בניאס, אשקלון, ירושלים, עכו, עזה, שכם, חברון והכפר אל-באד'אן."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "ירושלים",
+  "place_en": "Jerusalem",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17",
+   "nusseibeh"
+  ],
+  "evidence": "נמנית בין המקומות שנפגעו; חלקים מהחומות קרסו",
+  "page_sentence": "גם בירושלים, לפי אותם סיכומים, קרסו חלקים מחומות העיר."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "עכו",
+  "place_en": "Acre",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "sal07t",
+   "zohar16",
+   "zohar17"
+  ],
+  "evidence": "הים נסוג, הנמל התייבש וגל הרס חצי ממנו",
+  "page_sentence": "בנמל עכו נסוג הים, והמעגן נשאר יבש."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "עזה",
+  "place_en": "Gaza",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17",
+   "amiran",
+   "sal07t"
+  ],
+  "evidence": "המסגד הגדול קרס והמגדלור נפגע; דווח על גלים",
+  "page_sentence": "בעזה קרס המסגד הגדול, והמגדלור נפגע.[^amiran]"
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "שכם",
+  "place_en": "Nablus",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17",
+   "amiran"
+  ],
+  "evidence": "לפי סיכומים משניים מחצית העיר נהרסה ו-300 מתו",
+  "page_sentence": "בשכם נהרסה מחצית העיר ומתו 300 מתושביה."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "חברון",
+  "place_en": "Hebron",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17"
+  ],
+  "evidence": "נמנית בין המקומות שנפגעו",
+  "page_sentence": "הנזק התפרש על שטח גדול: יריחו, רמלה, בניאס, אשקלון, ירושלים, עכו, עזה, שכם, חברון והכפר אל-באד'אן."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "אל-באד'אן",
+  "place_en": "al-Badhan",
+  "kind": "village",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17",
+   "amiran"
+  ],
+  "evidence": "מפולת קברה את הכפר ומתו כל תושביו",
+  "page_sentence": "מפולת קברה את הכפר אל-באד'אן, ומתו בו כל התושבים ובעלי החיים."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "יפו",
+  "place_en": "Jaffa",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "sal07t"
+  ],
+  "evidence": "לפי קטלוג אחד היה צונאמי גם ביפו",
+  "page_sentence": "לפי אחד מהם הנמל של עכו התייבש לשעה, והיה צונאמי גם ביפו."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "החופים הצפוניים והמרכזיים של ארץ ישראל",
+  "place_en": "Northern and central coast of Israel",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "sal07t"
+  ],
+  "evidence": "צונאמי אמין מוגבל לחופים אלה",
+  "page_sentence": "סלמון ועמיתיו רושמים את הצונאמי הזה בין הרשומות האמינות, ומגבילים אותו לחופים הצפוניים והמרכזיים של ארץ ישראל.[^sal07t]"
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "ים המלח",
+  "place_en": "Dead Sea",
+  "kind": "sea/lake",
+  "status": "found",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "שכבה מופרעת במשקעים בשולי ים המלח",
+  "page_sentence": "**משקעי ים המלח.** לפי מיגוסקי ועמיתיו, הרעידה נרשמה כשכבה מופרעת במשקעים בשולי ים המלח.[^zohar16s]"
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "ארמון הישאם (ח'רבת אל-מפג'ר)",
+  "place_en": "Khirbat al-Mafjar (Hisham's Palace)",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "alfonsi"
+  ],
+  "evidence": "סדקים ברצפות, עמודים וקירות קרסו, העתק ושרידי אדם",
+  "page_sentence": "לפי סיכום של מחקרם, ברצפות נמצאו סדקים בקו אחד, ועמודים וקירות קרסו."
+ },
+ {
+  "event": "1033-jordan-valley",
+  "place_he": "הכנרת",
+  "place_en": "Sea of Galilee",
+  "kind": "sea/lake",
+  "status": "found",
+  "footnotes": [
+   "ferry"
+  ],
+  "evidence": "מחקרים ליד הכנרת מצאו סימני קרע פני שטח",
+  "page_sentence": "**קרע פני שטח.** לפי סיכום משני, מחקרים ליד יריחו וליד הכנרת מצאו סימנים לקרע של פני השטח.[^ferry]"
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "איילה (עקבה)",
+  "place_en": "Aqaba (Ayla)",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "whitcomb"
+  ],
+  "evidence": "הריסות חסמו את השער; חומה וכתובת נפלו; שיבוש עירוני",
+  "page_sentence": "בשער של העיר איילה, בראש מפרץ עקבה, מצאו הארכיאולוגים הריסות שחסמו את המעבר כולו."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "רמלה",
+  "place_en": "Ramla",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16s",
+   "zohar17",
+   "ama",
+   "abdel"
+  ],
+  "evidence": "כ-15,000 הרוגים, ובהם 200 ילדים בבית ספר",
+  "page_sentence": "**רמלה, ירושלים, מצרים.** לפי הסיכום של אמברייזיס, מלוויל ואדמס, ברמלה נהרגו כ-15,000 איש, ובהם 200 ילדים בבית ספר."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "בניאס",
+  "place_en": "Banias",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "ama"
+  ],
+  "evidence": "נהרגו כ-100",
+  "page_sentence": "בבניאס נהרגו כ-100."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "ירושלים",
+  "place_en": "Jerusalem",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "ama"
+  ],
+  "evidence": "גג כיפת הסלע זז; הנזק קטן יחסית",
+  "page_sentence": "בירושלים, לפי אחד התיאורים, גג כיפת הסלע זז וחזר למקומו."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "תיניס",
+  "place_en": "Tinnis",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "ama"
+  ],
+  "evidence": "העיר שבדלתא נפגעה",
+  "page_sentence": "הנזק הגיע גם למצרים: העיר תיניס שבדלתא נפגעה, ואלכסנדריה לא."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "פוסטאט",
+  "place_en": "Fustat (Old Cairo)",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "ama"
+  ],
+  "evidence": "פינה של מסגד עמר אבן אל-עאץ נפגעה",
+  "page_sentence": "בפוסטאט, היא קהיר העתיקה, נפגעה פינה של מסגד עמר אבן אל-עאץ."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "מנזר סנטה קתרינה",
+  "place_en": "Saint Catherine's Monastery",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "ama"
+  ],
+  "evidence": "נגרמה בהלה",
+  "page_sentence": "במנזר סנטה קתרינה בסיני נגרמה בהלה, ונזק דווח גם ממזרח, לאורך הפרת.[^ama]"
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "הפרת",
+  "place_en": "Euphrates",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "ama"
+  ],
+  "evidence": "נזק דווח ממזרח לאורך הפרת",
+  "page_sentence": "במנזר סנטה קתרינה בסיני נגרמה בהלה, ונזק דווח גם ממזרח, לאורך הפרת.[^ama]"
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "יבנה",
+  "place_en": "Yavne",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "sal07t"
+  ],
+  "evidence": "גל חזק נצפה; הים נסוג",
+  "page_sentence": "לפי קטלוג אחד, הים נסוג \"מרחק של יום הליכה\", ונצפה גל חזק ביבנה ובאשדוד."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "אשדוד",
+  "place_en": "Ashdod",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "sal07t"
+  ],
+  "evidence": "גל חזק נצפה; הים נסוג",
+  "page_sentence": "לפי קטלוג אחד, הים נסוג \"מרחק של יום הליכה\", ונצפה גל חזק ביבנה ובאשדוד."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "מפרץ אילת",
+  "place_en": "Gulf of Aqaba",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "הרעידה הראשונה הכתה סביב המפרץ",
+  "page_sentence": "הראשונה הכתה בדרום, סביב מפרץ אילת."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "דרום הערבה (שבר אילת)",
+  "place_en": "Southern Arava",
+  "kind": "region",
+  "status": "found",
+  "footnotes": [
+   "zil",
+   "zohar16s"
+  ],
+  "evidence": "קרעי פני שטח צעירים עם העתק אנכי של כמטר",
+  "page_sentence": "**קרע בערבה.** עזרא זילברמן ועמיתיו מצאו קרעי פני שטח צעירים לאורך שבר אילת בדרום הערבה, וקשרו אותם לרעידת 1068."
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "פלאיית עברונה",
+  "place_en": "Evrona playa",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "zil"
+  ],
+  "evidence": "הרעידה עיוותה את הפלאיה ושינתה את הניקוז",
+  "page_sentence": "לפי תקציר מאמרם, הרעידה עיוותה את פלאיית עברונה והפכה אותה מאגן סגור לאגן שמתנקז דרומה.[^zil]"
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "מצפון לעקבה ולאילת",
+  "place_en": "Eilat",
+  "kind": "region",
+  "status": "found",
+  "footnotes": [
+   "klinger"
+  ],
+  "evidence": "יותר מ-12 ק\"מ של קרע לאורך השבר",
+  "page_sentence": "מצפון לעקבה ולאילת תוארו, לפי סיכום משני, יותר מ-12 קילומטרים של קרע לאורך השבר, מלפני 900 עד 1,000 שנה.[^klinger]"
+ },
+ {
+  "event": "1068-near-east",
+  "place_he": "ים המלח",
+  "place_en": "Dead Sea",
+  "kind": "sea/lake",
+  "status": "found",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "שכבות מופרעות במשקעים לחוף ים המלח",
+  "page_sentence": "**משקעי ים המלח.** לפי מיגוסקי ועמיתיו, שתי הרעידות של 1068 נרשמו כשכבות מופרעות במשקעים לחוף ים המלח.[^zohar16s]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "צפת",
+  "place_en": "Safed",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "daeron-530",
+   "katz-guide"
+  ],
+  "evidence": "העיר נחרבה ונפגעה שוב; רוב הנזק מגלישות קרקע",
+  "page_sentence": "הרעידה הראשונה החריבה את צפת ואת קוניטרה ורבים מהכפרים סביבן."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "קוניטרה",
+  "place_en": "Quneitra",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "daeron-530"
+  ],
+  "evidence": "העיר נחרבה ברעידה הראשונה",
+  "page_sentence": "הרעידה הראשונה החריבה את צפת ואת קוניטרה ורבים מהכפרים סביבן."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "טבריה",
+  "place_en": "Tiberias",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "נזק דווח ברעידה הראשונה",
+  "page_sentence": "נזק דווח גם בטבריה, בעכו, בנצרת ובשכם.[^zohar16]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "עכו",
+  "place_en": "Acre",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "salamon07-t1"
+  ],
+  "evidence": "נזק; גל הציף רחובות, ספינות הוטלו לחוף והיו הרוגים",
+  "page_sentence": "נזק דווח גם בטבריה, בעכו, בנצרת ובשכם.[^zohar16]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "נצרת",
+  "place_en": "Nazareth",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "נזק דווח ברעידה הראשונה",
+  "page_sentence": "נזק דווח גם בטבריה, בעכו, בנצרת ובשכם.[^zohar16]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "שכם",
+  "place_en": "Nablus",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "נזק דווח בשתי הרעידות",
+  "page_sentence": "נזק דווח גם בטבריה, בעכו, בנצרת ובשכם.[^zohar16]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "בקעת הלבנון",
+  "place_en": "Beqaa Valley",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "daeron-530",
+   "volney",
+   "kitto-cvii"
+  ],
+  "evidence": "כל הכפרים נהרסו; מפי השמועה נבקעה האדמה",
+  "page_sentence": "כל הכפרים בבקעת הלבנון נהרסו, ובעלבכ חרבה."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "בעלבכ",
+  "place_en": "Baalbek",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "daeron-530",
+   "volney",
+   "lewis"
+  ],
+  "evidence": "העיר חרבה; עמודים נפלו במקדשי יופיטר ובכחוס",
+  "page_sentence": "כל הכפרים בבקעת הלבנון נהרסו, ובעלבכ חרבה."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "דמשק",
+  "place_en": "Damascus",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "daeron-530"
+  ],
+  "evidence": "נפגעה ברעידה השנייה",
+  "page_sentence": "צפת ודמשק נפגעו שוב, והרעידה הורגשה עד מצרים ואנטוליה, במרחק של כ-1,100 קילומטר.[^daeron-530]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "החולה",
+  "place_en": "Hula Valley",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "נזק דווח ברעידה השנייה",
+  "page_sentence": "בארץ דווח הפעם על נזק מהחולה ועד קיסריה ושכם.[^zohar16]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "קיסריה",
+  "place_en": "Caesarea",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "נזק דווח ברעידה השנייה",
+  "page_sentence": "בארץ דווח הפעם על נזק מהחולה ועד קיסריה ושכם.[^zohar16]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "הלבנון",
+  "place_en": "Lebanon",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "volney"
+  ],
+  "evidence": "תושבים נטשו בתים וגרו באוהלים שלושה חודשים",
+  "page_sentence": "הוא הקדיש לרעידת 1759 רק כמה שורות, אבל יש בהן תמונה אחת שקשה לשכוח: במשך שלושה חודשים, כתב, הפחידו הזעזועים את תושבי הלבנון עד כדי כך שעזבו את בתיהם וגרו באוהלים.[^volney]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "טריפולי",
+  "place_en": "Tripoli (Lebanon)",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "salamon07-t1"
+  ],
+  "evidence": "גל הציף את הרציפים, בלי נזק נראה",
+  "page_sentence": "אחרי הראשונה הציף גל את עכו ואת הרציפים בטריפולי, בלי נזק נראה לעין."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "דלתת הנילוס",
+  "place_en": "Nile Delta",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "salamon07-t1"
+  ],
+  "evidence": "נראה גל והים שינה את צבעו; דורש בדיקה",
+  "page_sentence": "אחרי השנייה נראה גל עד דלתת הנילוס, והים שם שינה את צבעו לימים רבים."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "הכנרת",
+  "place_en": "Sea of Galilee",
+  "kind": "sea/lake",
+  "status": "reported",
+  "footnotes": [
+   "daeron-530",
+   "salamon07-t6"
+  ],
+  "evidence": "דווח על גל; צונאמי או סייש",
+  "page_sentence": "גם בכנרת דווח על גל אחרי הרעידה של אוקטובר.[^daeron-530]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "תל עתרת",
+  "place_en": "Tel Ateret (Vadum Iacob)",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "marco-guide",
+   "daeron-529",
+   "salamon07-t3",
+   "ateret"
+  ],
+  "evidence": "חומות זזו כחצי מטר; קריעה חצתה מסגד; תיארוך שנוי",
+  "page_sentence": "חפירות מאוחרות יותר באתר מייחסות את התזוזה ל-1759, ולפיהן הקריעה חצתה גם את המסגד העות׳מאני בתל.[^ateret]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "בקעת זבדאני",
+  "place_en": "Zabadani",
+  "kind": "region",
+  "status": "found",
+  "footnotes": [
+   "daeron-530"
+  ],
+  "evidence": "מדרון העתק טרי; קריעה אחרי 1650, כנראה 1759",
+  "page_sentence": "**בקעת זבדאני, סוריה.** על העתק סרע׳איה נמצא מדרון העתק טרי בגובה של כחצי מטר."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "סרע׳איה",
+  "place_en": "Serghaya",
+  "kind": "village",
+  "status": "found",
+  "footnotes": [
+   "daeron-530",
+   "nemer"
+  ],
+  "evidence": "תלמים ומדרגות טריים על השבר, קושרו ל-1759",
+  "page_sentence": "**רשאיה וסרע׳איה.** על שני השברים האלה, בצד המזרחי של בקעת הלבנון, נמצאו תלמים ומדרגות טריים בפני הקרקע.[^daeron-530]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "רשאיה",
+  "place_en": "Rashaya",
+  "kind": "village",
+  "status": "found",
+  "footnotes": [
+   "daeron-530",
+   "nemer"
+  ],
+  "evidence": "תלמים ומדרגות טריים על השבר, קושרו ל-1759",
+  "page_sentence": "**רשאיה וסרע׳איה.** על שני השברים האלה, בצד המזרחי של בקעת הלבנון, נמצאו תלמים ומדרגות טריים בפני הקרקע.[^daeron-530]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "אגן יאמונה",
+  "place_en": "Yammouneh",
+  "kind": "region",
+  "status": "rejected",
+  "footnotes": [
+   "daeron-531",
+   "daeron-530"
+  ],
+  "evidence": "לא נמצאה קריעה אחרי 1400; ייחוס הקרע לשבר זה נדחה",
+  "page_sentence": "**אגן יאמונה, לבנון.** בתעלה שנחפרה במשקעי אגם עתיק על העתק יאמונה לא נמצאה שום קריעה אחרי 1400."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "מבצר נמרוד",
+  "place_en": "Nimrod Fortress",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "agnon-guide"
+  ],
+  "evidence": "מבנים נפגעו קשה; קשתות וקמרונות זזו",
+  "page_sentence": "**מבצר נמרוד ומבצר הונין.** במבצר נמרוד נפגעו קשה מבנים מהתקופה המוסלמית."
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "מבצר הונין",
+  "place_en": "Hunin",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "agnon-guide"
+  ],
+  "evidence": "המבצר נהרס ברעידה",
+  "page_sentence": "מבצר הונין, שמעל עמק החולה, נהרס שלוש פעמים ברעידות גדולות: ב-1202, ב-1759 וב-1837.[^agnon-guide]"
+ },
+ {
+  "event": "1759-galilee-lebanon",
+  "place_he": "ים המלח",
+  "place_en": "Dead Sea",
+  "kind": "sea/lake",
+  "status": "found",
+  "footnotes": [
+   "zohar16s-30"
+  ],
+  "evidence": "רעידת נובמבר זוהתה בשכבות המשקע",
+  "page_sentence": "**ים המלח.** רעידת נובמבר 1759 זוהתה גם בשכבות המשקע לאורך חופי ים המלח.[^zohar16s-30]"
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "ירושלים",
+  "place_en": "Jerusalem",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "dsq"
+  ],
+  "evidence": "בתים רבים נהרסו וקטע חומה נפל ליד הר הבית",
+  "page_sentence": "**נוסע וולשי.** נוסע בן התקופה, ששמו לא ידוע, תיאר בתים רבים שנהרסו בירושלים, קטע של חומת העיר שנפל ליד הר הבית, ומנזר בבית לחם שלא היה ראוי עוד למגורים."
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "כנסיית הקבר",
+  "place_en": "Church of the Holy Sepulchre",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "dsq"
+  ],
+  "evidence": "כיפת הקתוליקון נסדקה בשבעה מקומות",
+  "page_sentence": "ובכל זאת, בשלוש השניות האלה נסדקה כיפת הקתוליקון בכנסיית הקבר בשבעה מקומות, והטיח נשר ממנה.[^dsq]"
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "בית לחם",
+  "place_en": "Bethlehem",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "dsq"
+  ],
+  "evidence": "נזק; מנזר לא היה ראוי עוד למגורים",
+  "page_sentence": "הנזק נרשם בירושלים ובבית לחם, במנזר מר סבא ובאזור ים המלח."
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "מנזר מר סבא",
+  "place_en": "Mar Saba",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "נזק נרשם",
+  "page_sentence": "הנזק נרשם בירושלים ובבית לחם, במנזר מר סבא ובאזור ים המלח."
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "אזור ים המלח",
+  "place_en": "Dead Sea",
+  "kind": "sea/lake",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar16",
+   "asphalt",
+   "zohar16s"
+  ],
+  "evidence": "נזק; גושי אספלט צפו; שכבה מופרעת במשקעים",
+  "page_sentence": "שכבה מופרעת במשקעי האגם תוארכה למאה ה-19 ונקשרה לרעידה הזו."
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "יפו",
+  "place_en": "Jaffa",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "דיווחים על נזק",
+  "page_sentence": "דיווחים על נזק הגיעו גם מיפו ומקיסריה שבחוף, וממידבא ומאום א-רצאץ שבעבר הירדן.[^zohar16]"
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "קיסריה",
+  "place_en": "Caesarea",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "דיווחים על נזק",
+  "page_sentence": "דיווחים על נזק הגיעו גם מיפו ומקיסריה שבחוף, וממידבא ומאום א-רצאץ שבעבר הירדן.[^zohar16]"
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "מידבא",
+  "place_en": "Madaba",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "דיווחים על נזק",
+  "page_sentence": "דיווחים על נזק הגיעו גם מיפו ומקיסריה שבחוף, וממידבא ומאום א-רצאץ שבעבר הירדן.[^zohar16]"
+ },
+ {
+  "event": "1834-jerusalem",
+  "place_he": "אום א-רצאץ",
+  "place_en": "Umm ar-Rasas",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "דיווחים על נזק",
+  "page_sentence": "דיווחים על נזק הגיעו גם מיפו ומקיסריה שבחוף, וממידבא ומאום א-רצאץ שבעבר הירדן.[^zohar16]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "צפת",
+  "place_en": "Safed",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar16",
+   "thomson-436",
+   "thomson-438",
+   "pasha",
+   "katz"
+  ],
+  "evidence": "העיר נחרבה, אלפי הרוגים; רוב הנזק מגלישות קרקע",
+  "page_sentence": "צפת נחרבה, וטבריה נפגעה קשה."
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "טבריה",
+  "place_en": "Tiberias",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "thomson-438",
+   "pasha",
+   "ishshalom2",
+   "salamon07-t6"
+  ],
+  "evidence": "נפגעה קשה, כ-700 הרוגים; גלים בכנרת פגעו בחופיה",
+  "page_sentence": "צפת נחרבה, וטבריה נפגעה קשה."
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "נבטיה",
+  "place_en": "Nabatieh",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "קצה הצפוני של תחום היישובים שנפגעו",
+  "page_sentence": "נזק דווח ביותר מחמישים יישובים, מנבטיה בצפון ועד עזה בדרום.[^zohar16]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "עזה",
+  "place_en": "Gaza",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "קצה הדרומי של תחום היישובים שנפגעו",
+  "page_sentence": "נזק דווח ביותר מחמישים יישובים, מנבטיה בצפון ועד עזה בדרום.[^zohar16]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "צידון",
+  "place_en": "Sidon",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "thomson-434"
+  ],
+  "evidence": "דווח על שבעה הרוגים",
+  "page_sentence": "בצידון דווח על שבעה הרוגים."
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "צור",
+  "place_en": "Tyre",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "thomson-434"
+  ],
+  "evidence": "החומה נפלה ונהרגו שנים-עשר",
+  "page_sentence": "בצור, שבה נכנסו לעיר מעל החומה שנפלה, נהרגו שנים-עשר.[^thomson-434]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "רמיש",
+  "place_en": "Rmeish",
+  "kind": "village",
+  "status": "reported",
+  "footnotes": [
+   "thomson-435"
+  ],
+  "evidence": "שלושים הרוגים; חלק מהכנסייה נפל",
+  "page_sentence": "ברמיש נהרגו שלושים איש."
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "ג׳ש",
+  "place_en": "Jish",
+  "kind": "village",
+  "status": "reported",
+  "footnotes": [
+   "thomson-435",
+   "kitto-calman"
+  ],
+  "evidence": "הכנסייה נפלה ויותר מ-130 נספו; בקע בהר",
+  "page_sentence": "גם בג׳ש היו האנשים בתפילה בכנסייה, אבל גורלם היה אחר:[^thomson-435]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "לוביה",
+  "place_en": "Lubya",
+  "kind": "village",
+  "status": "reported",
+  "footnotes": [
+   "kitto-calman",
+   "robinson"
+  ],
+  "evidence": "נהרגו 143 מתושבי הכפר",
+  "page_sentence": "**רובינסון** עבר בלוביה ב-1838, ורשם שנהרגו בה 143 מתושבי הכפר.[^robinson]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "טובאס",
+  "place_en": "Tubas",
+  "kind": "village",
+  "status": "reported",
+  "footnotes": [
+   "guerin",
+   "zohar16"
+  ],
+  "evidence": "בתים רבים והמסגד נחרבו ולא נבנו מחדש",
+  "page_sentence": "**גרן.** החוקר הצרפתי ויקטור גרן, שסייר בארץ ב-1863 וב-1870, כתב שבטובאס שבצפון השומרון נחרבו ברעש בתים רבים והמסגד, ולא נבנו מחדש.[^guerin]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "לבנון",
+  "place_en": "Lebanon",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "dsq"
+  ],
+  "evidence": "כמה מאות הרוגים",
+  "page_sentence": "מלבד הערכתו של תומסון, דיווחי הפחה מונים 1,700 עד 1,800 הרוגים בצפת וכ-600 בטבריה,[^pasha] ודיווח רשמי מונה 4,083 הרוגים, ובהם כמה מאות בלבנון.[^dsq]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "הגליל",
+  "place_en": "Galilee",
+  "kind": "region",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar16",
+   "wachs"
+  ],
+  "evidence": "הרעידה פגעה בגליל; גלישות קרקע נבדקו",
+  "page_sentence": "גלישות הקרקע בגליל ב-1837 וב-1927 נבדקו כבר ב-1978 במכון הגיאולוגי.[^wachs]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "הכנרת",
+  "place_en": "Sea of Galilee",
+  "kind": "sea/lake",
+  "status": "reported",
+  "footnotes": [
+   "salamon07-t6"
+  ],
+  "evidence": "גלים פגעו בחופי טבריה; צונאמי או סייש",
+  "page_sentence": "אחרי הרעידה דווח על גלים בכנרת, שפגעו בחופי טבריה."
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "העתק רום",
+  "place_en": "Roum Fault",
+  "kind": "region",
+  "status": "found",
+  "footnotes": [
+   "salamon24",
+   "agnon"
+  ],
+  "evidence": "עדות לקריעה של פני השטח",
+  "page_sentence": "- **העתק רום.** חפירות על העתק רום בדרום לבנון מצאו עדות לקריעה של פני השטח.[^salamon24]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "מבצר הונין",
+  "place_en": "Hunin",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "agnon"
+  ],
+  "evidence": "המבצר נהרס ברעידה",
+  "page_sentence": "- **מבצר הונין.** המבצר שמעל עמק החולה נהרס שלוש פעמים ברעידות גדולות: ב-1202, ב-1759 וב-1837.[^agnon]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "תל עתרת",
+  "place_en": "Tel Ateret (Vadum Iacob)",
+  "kind": "archaeological site",
+  "status": "doubtful",
+  "footnotes": [
+   "daeron"
+  ],
+  "evidence": "תזוזת חומות של כחצי מטר, אולי 1837 ואולי 1759",
+  "page_sentence": "- **תל עתרת.** התזוזה של כחצי מטר בחומות המבצר הצלבני יכולה להתאים לרעידת אוקטובר 1759, אבל גם לרעידת 1837.[^daeron]"
+ },
+ {
+  "event": "1837-safed",
+  "place_he": "ים המלח",
+  "place_en": "Dead Sea",
+  "kind": "sea/lake",
+  "status": "found",
+  "footnotes": [
+   "zohar16s"
+  ],
+  "evidence": "הרעידה זוהתה בשכבות המשקע",
+  "page_sentence": "- **ים המלח.** הרעידה זוהתה גם בשכבות המשקע של ים המלח.[^zohar16s]"
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "חיפה",
+  "place_en": "Haifa",
+  "kind": "city",
+  "status": "doubtful",
+  "footnotes": [
+   "zohar-1285",
+   "zohar-1289",
+   "zohar16s",
+   "salamon07-t2"
+  ],
+  "evidence": "חומות ישנות נסדקו, ים סוער; ייחוס הנזק לארץ שנוי במחלוקת",
+  "page_sentence": "כמה חומות ישנות נסדקו."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "עכו",
+  "place_en": "Acre",
+  "kind": "city",
+  "status": "doubtful",
+  "footnotes": [
+   "zohar-1285",
+   "zohar-1289"
+  ],
+  "evidence": "הורגשה; זוהר: עדות רוג׳רס מחזקת דיווחי נזק",
+  "page_sentence": "שאר התיאור שלה, לדברי זוהר, כנראה אמין, והוא מחזק את הדיווחים על נזק בחיפה, בעכו, בצור ובצידון."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "צור",
+  "place_en": "Tyre",
+  "kind": "city",
+  "status": "doubtful",
+  "footnotes": [
+   "zohar-1285",
+   "zohar-1289"
+  ],
+  "evidence": "הורגשה; זוהר: עדות רוג׳רס מחזקת דיווחי נזק",
+  "page_sentence": "שאר התיאור שלה, לדברי זוהר, כנראה אמין, והוא מחזק את הדיווחים על נזק בחיפה, בעכו, בצור ובצידון."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "צידון",
+  "place_en": "Sidon",
+  "kind": "city",
+  "status": "doubtful",
+  "footnotes": [
+   "zohar-1285",
+   "zohar-1289"
+  ],
+  "evidence": "הורגשה; זוהר: עדות רוג׳רס מחזקת דיווחי נזק",
+  "page_sentence": "שאר התיאור שלה, לדברי זוהר, כנראה אמין, והוא מחזק את הדיווחים על נזק בחיפה, בעכו, בצור ובצידון."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "חניה",
+  "place_en": "Chania",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar-1286"
+  ],
+  "evidence": "בין ערי כרתים שנפגעו בעיקר",
+  "page_sentence": "היא פגעה בעיקר בערי כרתים, בהן חניה, הרקליון ויירפטרה, וגרמה נזק ניכר גם בערים אחרות ביוון."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "הרקליון",
+  "place_en": "Heraklion",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar-1286",
+   "deaths"
+  ],
+  "evidence": "נפגעה; לפי סיכומים כמעט נהרסה",
+  "page_sentence": "היא פגעה בעיקר בערי כרתים, בהן חניה, הרקליון ויירפטרה, וגרמה נזק ניכר גם בערים אחרות ביוון."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "יירפטרה",
+  "place_en": "Ierapetra",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar-1286"
+  ],
+  "evidence": "בין ערי כרתים שנפגעו בעיקר",
+  "page_sentence": "היא פגעה בעיקר בערי כרתים, בהן חניה, הרקליון ויירפטרה, וגרמה נזק ניכר גם בערים אחרות ביוון."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "כרתים",
+  "place_en": "Crete",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "zohar-1286",
+   "deaths"
+  ],
+  "evidence": "538 הרוגים",
+  "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "רודוס",
+  "place_en": "Rhodes",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "deaths"
+  ],
+  "evidence": "כשישים הרוגים",
+  "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "קסוס",
+  "place_en": "Kasos",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "deaths"
+  ],
+  "evidence": "עשרים הרוגים (עם קרפתוס)",
+  "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "קרפתוס",
+  "place_en": "Karpathos",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "deaths"
+  ],
+  "evidence": "עשרים הרוגים (עם קסוס)",
+  "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "מלטה",
+  "place_en": "Malta",
+  "kind": "region",
+  "status": "reported",
+  "footnotes": [
+   "deaths"
+  ],
+  "evidence": "בתים וכנסיות נסדקו",
+  "page_sentence": "במלטה נסדקו בתים וכנסיות."
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "קהיר",
+  "place_en": "Cairo",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "deaths"
+  ],
+  "evidence": "כעשרים בתים קרסו ולפחות עשרה מתו",
+  "page_sentence": "בקהיר קרסו כעשרים בתים ומתו לפחות עשרה בני אדם, ובאלכסנדריה מתו שניים.[^deaths]"
+ },
+ {
+  "event": "1856-crete",
+  "place_he": "אלכסנדריה",
+  "place_en": "Alexandria",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "deaths"
+  ],
+  "evidence": "שני הרוגים",
+  "page_sentence": "בקהיר קרסו כעשרים בתים ומתו לפחות עשרה בני אדם, ובאלכסנדריה מתו שניים.[^deaths]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "יריחו",
+  "place_en": "Jericho",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "winter-palace",
+   "zohar17-11"
+  ],
+  "evidence": "מלון ארמון החורף קרס ונהרגו שלוש תיירות",
+  "page_sentence": "ביריחו קרס מלון \"ארמון החורף\", שנבנה זמן קצר לפני כן, ונהרגו בו שלוש תיירות.[^winter-palace]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "ירושלים",
+  "place_en": "Jerusalem",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar14-912",
+   "zohar17-11",
+   "zohar14-913",
+   "zohar14-918",
+   "zohar14-920"
+  ],
+  "evidence": "הרוג אחד או כמה, פצועים ומאות בלי קורת גג; עוגני ברזל",
+  "page_sentence": "ירושלים, שנמצאת במרחק דומה, נפגעה פחות.[^zohar17-11]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "כנסיית הקבר",
+  "place_en": "Church of the Holy Sepulchre",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "zohar14-914"
+  ],
+  "evidence": "כיפת הקתוליקון נפגעה קשה והומלץ לבנותה מחדש",
+  "page_sentence": "בירושלים נפגעה קשה כיפת הקתוליקון בכנסיית הקבר, עד שהמהנדסים המליצו לפרק אותה ולבנות אותה מחדש.[^zohar14-914]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "מלון פטרה",
+  "place_en": "Petra Hotel, Jerusalem",
+  "kind": "archaeological site",
+  "status": "found",
+  "footnotes": [
+   "zohar14-913"
+  ],
+  "evidence": "שנים-עשר פסי ברזל הופיעו בחזית אחרי הרעידה",
+  "page_sentence": "הדוגמה הבולטת היא מלון פטרה."
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "כנסיית המשיח",
+  "place_en": "Christ Church, Jerusalem",
+  "kind": "archaeological site",
+  "status": "reported",
+  "footnotes": [
+   "zohar14-913"
+  ],
+  "evidence": "נזק לבנייני הכנסייה ליד מגדל דוד",
+  "page_sentence": "**כתב עת מיסיונרי.** Jewish Missionary Intelligence דיווח בספטמבר 1927 על נזק לבנייני כנסיית המשיח שליד מגדל דוד.[^zohar14-913]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "שכם",
+  "place_en": "Nablus",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17-11"
+  ],
+  "evidence": "נפגעה קשה ונהרגו עשרות",
+  "page_sentence": "שכם נפגעה קשה, ונהרגו בה עשרות."
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "צפת",
+  "place_en": "Safed",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "בין היישובים שנפגעו",
+  "page_sentence": "נזק נרשם בעשרות רבות של יישובים, משכם וצפת בצפון ועד חברון ובאר שבע בדרום, ומיפו ותל אביב במערב ועד עמאן וא-סלט במזרח.[^zohar16]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "חברון",
+  "place_en": "Hebron",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "בין היישובים שנפגעו",
+  "page_sentence": "נזק נרשם בעשרות רבות של יישובים, משכם וצפת בצפון ועד חברון ובאר שבע בדרום, ומיפו ותל אביב במערב ועד עמאן וא-סלט במזרח.[^zohar16]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "באר שבע",
+  "place_en": "Beersheba",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "בין היישובים שנפגעו",
+  "page_sentence": "נזק נרשם בעשרות רבות של יישובים, משכם וצפת בצפון ועד חברון ובאר שבע בדרום, ומיפו ותל אביב במערב ועד עמאן וא-סלט במזרח.[^zohar16]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "יפו",
+  "place_en": "Jaffa",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "בין היישובים שנפגעו",
+  "page_sentence": "נזק נרשם בעשרות רבות של יישובים, משכם וצפת בצפון ועד חברון ובאר שבע בדרום, ומיפו ותל אביב במערב ועד עמאן וא-סלט במזרח.[^zohar16]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "תל אביב",
+  "place_en": "Tel Aviv",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "בין היישובים שנפגעו",
+  "page_sentence": "נזק נרשם בעשרות רבות של יישובים, משכם וצפת בצפון ועד חברון ובאר שבע בדרום, ומיפו ותל אביב במערב ועד עמאן וא-סלט במזרח.[^zohar16]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "עמאן",
+  "place_en": "Amman",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16"
+  ],
+  "evidence": "בין היישובים שנפגעו",
+  "page_sentence": "נזק נרשם בעשרות רבות של יישובים, משכם וצפת בצפון ועד חברון ובאר שבע בדרום, ומיפו ותל אביב במערב ועד עמאן וא-סלט במזרח.[^zohar16]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "א-סלט",
+  "place_en": "As-Salt",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar16",
+   "zohar17-11"
+  ],
+  "evidence": "בין היישובים שנפגעו",
+  "page_sentence": "מעבר לירדן נפגעו א-סלט, ג׳רש, כרך וטפילה.[^zohar17-11]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "לוד",
+  "place_en": "Lod",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar17-11"
+  ],
+  "evidence": "נפגעה יותר מירושלים, כנראה בגלל הגברת קרקע",
+  "page_sentence": "לוד ורמלה נפגעו יותר מירושלים ומיריחו, אף שהיו רחוקות יותר מהמוקד."
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "רמלה",
+  "place_en": "Ramla",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar17-11"
+  ],
+  "evidence": "נפגעה יותר מירושלים, כנראה בגלל הגברת קרקע",
+  "page_sentence": "לוד ורמלה נפגעו יותר מירושלים ומיריחו, אף שהיו רחוקות יותר מהמוקד."
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "ג׳רש",
+  "place_en": "Jerash",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar17-11"
+  ],
+  "evidence": "נפגעה",
+  "page_sentence": "מעבר לירדן נפגעו א-סלט, ג׳רש, כרך וטפילה.[^zohar17-11]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "כרך",
+  "place_en": "Al-Karak",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar17-11"
+  ],
+  "evidence": "נפגעה",
+  "page_sentence": "מעבר לירדן נפגעו א-סלט, ג׳רש, כרך וטפילה.[^zohar17-11]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "טפילה",
+  "place_en": "Tafilah",
+  "kind": "city",
+  "status": "reported",
+  "footnotes": [
+   "zohar17-11"
+  ],
+  "evidence": "נפגעה",
+  "page_sentence": "מעבר לירדן נפגעו א-סלט, ג׳רש, כרך וטפילה.[^zohar17-11]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "עכו",
+  "place_en": "Acre",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar14-920"
+  ],
+  "evidence": "דווח שנפגעה; עוגני ברזל לתיקון קירות סדוקים",
+  "page_sentence": "עוגנים דומים נמצאים גם בעכו, בטבריה, בנצרת, בפתח תקווה, בבית ג׳מאל, בדיר חג׳לה ובמקווה ישראל, יישובים שדווח שנפגעו ב-1927.[^zohar14-920]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "טבריה",
+  "place_en": "Tiberias",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar14-920"
+  ],
+  "evidence": "דווח שנפגעה; עוגני ברזל לתיקון קירות סדוקים",
+  "page_sentence": "עוגנים דומים נמצאים גם בעכו, בטבריה, בנצרת, בפתח תקווה, בבית ג׳מאל, בדיר חג׳לה ובמקווה ישראל, יישובים שדווח שנפגעו ב-1927.[^zohar14-920]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "נצרת",
+  "place_en": "Nazareth",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar14-920"
+  ],
+  "evidence": "דווח שנפגעה; עוגני ברזל לתיקון קירות סדוקים",
+  "page_sentence": "עוגנים דומים נמצאים גם בעכו, בטבריה, בנצרת, בפתח תקווה, בבית ג׳מאל, בדיר חג׳לה ובמקווה ישראל, יישובים שדווח שנפגעו ב-1927.[^zohar14-920]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "פתח תקווה",
+  "place_en": "Petah Tikva",
+  "kind": "city",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar14-920"
+  ],
+  "evidence": "דווח שנפגעה; עוגני ברזל לתיקון קירות סדוקים",
+  "page_sentence": "עוגנים דומים נמצאים גם בעכו, בטבריה, בנצרת, בפתח תקווה, בבית ג׳מאל, בדיר חג׳לה ובמקווה ישראל, יישובים שדווח שנפגעו ב-1927.[^zohar14-920]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "בית ג׳מאל",
+  "place_en": "Beit Jimal",
+  "kind": "archaeological site",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar14-920"
+  ],
+  "evidence": "דווח שנפגעה; עוגני ברזל לתיקון קירות סדוקים",
+  "page_sentence": "עוגנים דומים נמצאים גם בעכו, בטבריה, בנצרת, בפתח תקווה, בבית ג׳מאל, בדיר חג׳לה ובמקווה ישראל, יישובים שדווח שנפגעו ב-1927.[^zohar14-920]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "דיר חג׳לה",
+  "place_en": "Deir Hajla",
+  "kind": "archaeological site",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar14-920"
+  ],
+  "evidence": "דווח שנפגעה; עוגני ברזל לתיקון קירות סדוקים",
+  "page_sentence": "עוגנים דומים נמצאים גם בעכו, בטבריה, בנצרת, בפתח תקווה, בבית ג׳מאל, בדיר חג׳לה ובמקווה ישראל, יישובים שדווח שנפגעו ב-1927.[^zohar14-920]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "מקווה ישראל",
+  "place_en": "Mikveh Israel",
+  "kind": "village",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar14-920"
+  ],
+  "evidence": "דווח שנפגעה; עוגני ברזל לתיקון קירות סדוקים",
+  "page_sentence": "עוגנים דומים נמצאים גם בעכו, בטבריה, בנצרת, בפתח תקווה, בבית ג׳מאל, בדיר חג׳לה ובמקווה ישראל, יישובים שדווח שנפגעו ב-1927.[^zohar14-920]"
+ },
+ {
+  "event": "1927-dead-sea",
+  "place_he": "ים המלח",
+  "place_en": "Dead Sea",
+  "kind": "sea/lake",
+  "status": "reported+found",
+  "footnotes": [
+   "zohar16s",
+   "salamon07-t3"
+  ],
+  "evidence": "שכבה מופרעת במשקעים; נרשם גל בים המלח",
+  "page_sentence": "בזמן הרעידה נרשם גל בים המלח.[^salamon07-t3]"
+ }
+]
