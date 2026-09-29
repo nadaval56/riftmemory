@@ -79,6 +79,7 @@ review_notes:
 - 'אימות ציטוטים (ספטמבר 2026): בדף אין ציטוטים, ואין בידינו טקסט ראשוני לרעידה הזו (ניאופיטוס, הנוסע הוולשי). הפרטים מהם נשארו פרפרזה עם TODO.'
 - 'הדף נכתב מחדש לקריאות: פתיחה בירושלים הנצורה ובנזיר ממר סבא. רשימות מקורות ושעות עברו להערות.'
 - 'אימות מקורות (ספטמבר 2026, קבצים מנדב): Ken-Tor ועמיתיו 2001 נקרא במלואו; הוסר ה-TODO, והושלמו המחברים, הגיליון (B2) וה-DOI. אומת שהשכבה בצאלים נקשרה ל-1834 (שכבה G, עמ׳ 2231), ונוסף שהזיהוי מותנה בפרשנות של שכבת האגם שמעליה. נוספו מהמאמר, כסיכום משני לפי עמירן ועמיתיו 1994 ובן-מנחם 1991: נזק לכנסיות, לצריחים ולחומה בירושלים ולמנזרים בבית לחם, "נהרגו רבים" בבית לחם (בניגוד ל"אין דיווח על נפגעים" אצל זוהר ועמיתיו; שתי העמדות מוצגות), גושי האספלט בים המלח (עכשיו עם מקור משני; מקור בן התקופה עדיין TODO), וההצעה שהמוקד היה מדרום לאגן ים המלח. Spyridon, אמברייזיס 2009, מיגובסקי ו-deadseaquake.info לא נקראו.'
+- 'סבב מקורות חלופיים (ספטמבר 2026, באישור נדב): הכרוניקה של ניאופיטוס (ספירידון 1938) נמשכה ונקראה. אומתו המשך (שלוש שניות), הנזק בכנסיית הקבר, בירושלים, בבית לחם ובמר סבא, והשעה (שש בבוקר). התאריך אצלו: יום ראשון, 13 במאי. תוקן: ניאופיטוס ישב בירושלים, לא במר סבא; הלחימה נפסקה רק לרגע. time_local נשאר null בגלל המחלוקת.'
 ---
 
 ## הסיפור
@@ -87,7 +88,7 @@ review_notes:
 
 בירושלים חי אז נזיר יווני בשם ניאופיטוס, שהגיע לעיר מקפריסין ב-1801. בכרוניקה שכתב על אירועי התקופה, שכתב היד שלה שמור באוסף כתבי היד של מר סבא, הוא תיאר גם את הרעידה.[^spyridon] לדבריו היא הייתה ביום ראשון בשש בבוקר, ו-"It lasted but three seconds". ובכל זאת, בשלוש השניות האלה נסדקה כיפת הקתוליקון בכנסיית הקבר בשבעה מקומות, וכל הטיח נשר ממנה. הכיפה הגדולה של כנסיית הקבר, שהייתה עשויה עץ ומחוזקת היטב, לא ניזוקה הרבה.[^spyridon-92]
 
-בתים גדולים רבים בירושלים נסדקו, ורבים נפלו. קטע מחומת העיר, ליד "מסגד עומר", נפל. נפלו צריח בעיר וצריח בהר הזיתים, וגם כיפת קפלת העלייה. בורות מים רבים נסדקו, והמים ברחו מהם. בבית לחם ניזוקו קשה המנזרים של הלטינים, של הארמנים ושל היוונים, ובייחוד מגדל הפעמונים, אבל כנסיית המולד ואכסניית הצליינים החדשה לא ניזוקו. במנזר מר סבא נסדק כולו המגדל של יוחנן מדמשק.[^spyridon-92]
+בתים גדולים רבים בירושלים נסדקו, ורבים נפלו. קטע מחומת העיר, ליד "מסגד עומר", נפל. נפלו צריח בעיר וצריח בהר הזיתים, וגם כיפת קפלת העלייה. בורות מים רבים נסדקו, והמים ברחו מהם. בבית לחם ניזוקו קשה המנזרים של הלטינים, של הארמנים ושל היוונים, ובייחוד מגדל הפעמונים, אבל כנסיית המולד ואכסניית הצליינים החדשה לא ניזוקו, מלבד סדק בקיר הכנסייה ליד מקום התפילה של הארמנים. במנזר מר סבא נסדק כולו המגדל של יוחנן מדמשק.[^spyridon-92]
 
 הפלאחים שכיתרו את העיר נבהלו מהרעידה והפסיקו לירות, אבל רק לזמן קצר: למחרת חזרו לירות, וגם התותחים מתוך העיר חזרו לפעול.[^spyridon-92]
 
@@ -99,7 +100,7 @@ review_notes:
 
 ## מתי בדיוק?
 
-התאריך, 26 במאי 1834, מקובל על החוקרים.[^zohar16][^salamon07-t3] ניאופיטוס כותב "Sunday morning, May 13th".[^spyridon-92] אם מנה לפי הלוח היוליאני, שהקדים אז את הגרגוריאני ב-12 יום, זהו יום ראשון, 25 במאי 1834: יום לפני התאריך המקובל. החישוב שלנו.
+התאריך, 26 במאי 1834, מקובל על החוקרים.[^zohar16][^salamon07-t3] ניאופיטוס כותב "Sunday morning, May 13th".[^spyridon-92] אם מנה לפי הלוח היוליאני, שפיגר אז אחרי הגרגוריאני ב-12 יום, זהו יום ראשון, 25 במאי 1834: יום לפני התאריך המקובל. החישוב שלנו.
 
 עדות עברית בת הזמן נותנת תאריך קרוב אך לא זהה. ר׳ מנחם מנדל מקמניץ, שעלה לארץ ב-1833, כתב בספרו "קורות העתים לישורון בארץ ישראל" (וילנה 1839) שבשנת תקצ"ד, "שלשים יום בעומר רעשה הארץ פעמים. פעם אחד בעת הצהרים. ופעם השני בלילה בשעה ט' והיה הולך וחזק הרעש והרעדה", ושהוא ואחרים "הוכרחנו לעזוב רכושנו בבתינו לנוס החוצה".[^kamenitz] היום השלושים לעומר הוא ט"ו באייר, שחל באותה שנה ב-24 במאי, יומיים לפני התאריך המקובל. הוא אינו כותב באיזו עיר היה באותה שעה, ואנחנו לא יודעים אם מדובר באותה רעידה.
 
@@ -150,6 +151,6 @@ review_notes:
 [^salamon07-notes]: Salamon et al. 2007, נספח אלקטרוני, הערות לטבלה 3.
 [^kentor-2231]: R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco and J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (B2) (2001), pp. 2221–2234, עמ׳ 2231, סעיף 6.1.6 (שכבות G ו-H; תיאור הנזק לפי Amiran et al. 1994 ו-Ben-Menahem 1991: "At Bethlehem, several monasteries were damaged and many people were killed"; "Large blocks of asphalt appeared on the Dead Sea"; "the epicenter was likely south of the Dead Sea basin"), וכן עמ׳ 2233.
 [^spyridon]: S. N. Spyridon (תרגום), "Annals of Palestine, 1821–1841", *Journal of the Palestine Oriental Society* 18 (1938), pp. 63–132 ([סריקה ב-Internet Archive](https://archive.org/details/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834)). על המחבר, בהקדמה (עמ׳ 63): "a translation of a part of a manuscript by the Monk Neophytos"; "he came to Jerusalem from Cyprus in 1801".
-[^spyridon-92]: Spyridon 1938, עמ׳ 92–93 והערות שם: "At six o'clock on Sunday morning, May 13th, there was an earthquake. It lasted but three seconds, but it was so violent that the dome of the Catholicon was cracked in seven places and all the plaster fell off"; "A minaret fell in Jerusalem, and another one on the Mount of Olives, as did the dome of the Shrine of the Ascension"; "The fellaheen got frightened at the earthquake and stopped firing for the moment, but the next day they began again".
+[^spyridon-92]: Spyridon 1938, עמ׳ 92–93 והערות שם ("The wall of the Church was cracked near where the Armenians celebrate"): "At six o'clock on Sunday morning, May 13th, there was an earthquake. It lasted but three seconds, but it was so violent that the dome of the Catholicon was cracked in seven places and all the plaster fell off"; "A minaret fell in Jerusalem, and another one on the Mount of Olives, as did the dome of the Shrine of the Ascension"; "The fellaheen got frightened at the earthquake and stopped firing for the moment, but the next day they began again".
 [^dsq]: "[1834 CE Fellahin Revolt Quake](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html)", deadseaquake.info. השעה שם: שש בבוקר. TODO: לבדוק במקור. <!-- הגיע דרך תוצאות חיפוש, לא מקריאת הדף -->
 [^kamenitz]: מנחם מנדל מקמניץ, *קורות העתים לישורון בארץ ישראל*, וילנה תקצ"ט (1839), [בפרויקט בן-יהודה](https://benyehuda.org/read/2695). הציטוט מהנוסח שם. ההמרה של ט"ו באייר תקצ"ד ל-24 במאי 1834 שלנו. על עלייתו: "בעת באי לארץ הקדושה בשנת תקצ"ג בחודש אלול", שם.
