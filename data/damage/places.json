@@ -125,20 +125,6 @@
  },
  {
   "event": "0760bce-uzziah",
-  "place_he": "חומת העופל",
-  "place_en": "Ophel, Jerusalem",
-  "kind": "archaeological site",
-  "status": "doubtful",
-  "footnotes": [
-   "kings",
-   "chron27",
-   "shilo"
-  ],
-  "evidence": "בניית יותם נתפסת בידי חלק כתיקון נזקי הרעש; פרשנות בלבד",
-  "page_sentence": "יש מי שרואה בכך עדות עקיפה לתיקון נזקי הרעש.[^shilo]"
- },
- {
-  "event": "0760bce-uzziah",
   "place_he": "עמק בית שאן",
   "place_en": "Beit She'an Valley",
   "kind": "region",
@@ -230,19 +216,6 @@
  },
  {
   "event": "0031bce-judea",
-  "place_he": "ערוץ צאלים",
-  "place_en": "Nahal Tze'elim",
-  "kind": "archaeological site",
-  "status": "found",
-  "footnotes": [
-   "zoharA",
-   "kentor"
-  ],
-  "evidence": "שכבה מעוותת (סייסמיט) במשקעי ים המלח קושרה לרעידה",
-  "page_sentence": "בערוץ צאלים תוארכה שכבה כזו לטווח שבין 50 לפנה״ס ל-230 לספירה, וקושרה לרעידה הזו.[^zoharA][^kentor]"
- },
- {
-  "event": "0031bce-judea",
   "place_he": "ים המלח",
   "place_en": "Dead Sea",
   "kind": "sea/lake",
@@ -255,30 +228,6 @@
   ],
   "evidence": "שכבות משקע מעוותות מעידות על טלטלה חזקה באגן",
   "page_sentence": "בשכבות הדקות של משקעי ים המלח נשמרו שכבות מעוותות (סייסמיטים), שנוצרו כשטלטול חזק ערבב את הבוץ הרך בקרקעית."
- },
- {
-  "event": "0031bce-judea",
-  "place_he": "העתק יריחו",
-  "place_en": "Jericho Fault",
-  "kind": "region",
-  "status": "doubtful",
-  "footnotes": [
-   "kentor"
-  ],
-  "evidence": "דווח על קרע אפשרי בפני השטח",
-  "page_sentence": "החוקרים שתיארכו אותה דיווחו גם על קרע אפשרי בפני השטח לאורך העתק יריחו.[^kentor]"
- },
- {
-  "event": "0031bce-judea",
-  "place_he": "עין גדי",
-  "place_en": "Ein Gedi",
-  "kind": "village",
-  "status": "found",
-  "footnotes": [
-   "williams"
-  ],
-  "evidence": "בגלעין קידוח שכבה המיוחסת לרעידה משמשת נקודת ייחוס",
-  "page_sentence": "מחקרים נוספים באגן, ובהם גלעין קידוח מעין גדי, משתמשים בשכבה המיוחסת לרעידה הזו כנקודת ייחוס.[^williams]"
  },
  {
   "event": "0130-judea",
@@ -344,19 +293,6 @@
   ],
   "evidence": "לפי אמברייזיס וקרץ, העיר שנהרסה לפי הכרוניקון",
   "page_sentence": "לפי אמברייזיס (2009) וקרץ (1987), הערים בכרוניקון הן כנראה ניאוקיסריה וניקופוליס שבאסיה הקטנה, ולא קיסריה ואמאוס."
- },
- {
-  "event": "0130-judea",
-  "place_he": "צפון הארץ",
-  "place_en": "Northern Israel",
-  "kind": "region",
-  "status": "doubtful",
-  "footnotes": [
-   "zoharC",
-   "zohar982"
-  ],
-  "evidence": "סימני פעילות סייסמית 137–206; כנראה רעידה נפרדת",
-  "page_sentence": "Wechsler וחבריו (2014) מצאו סימנים לפעילות סייסמית בצפון הארץ בין 137 ל-206 לספירה, והציעו לקשור אותם לאירוע הזה."
  },
  {
   "event": "0363-galilee",
@@ -1069,20 +1005,6 @@
  },
  {
   "event": "1033-jordan-valley",
-  "place_he": "ירושלים",
-  "place_en": "Jerusalem",
-  "kind": "city",
-  "status": "reported",
-  "footnotes": [
-   "zohar16",
-   "zohar17",
-   "nusseibeh"
-  ],
-  "evidence": "נמנית בין המקומות שנפגעו; חלקים מהחומות קרסו",
-  "page_sentence": "גם בירושלים, לפי אותם סיכומים, קרסו חלקים מחומות העיר."
- },
- {
-  "event": "1033-jordan-valley",
   "place_he": "עכו",
   "place_en": "Acre",
   "kind": "city",
@@ -1097,35 +1019,6 @@
  },
  {
   "event": "1033-jordan-valley",
-  "place_he": "עזה",
-  "place_en": "Gaza",
-  "kind": "city",
-  "status": "reported",
-  "footnotes": [
-   "zohar16",
-   "zohar17",
-   "amiran",
-   "sal07t"
-  ],
-  "evidence": "המסגד הגדול קרס והמגדלור נפגע; דווח על גלים",
-  "page_sentence": "בעזה קרס המסגד הגדול, והמגדלור נפגע.[^amiran]"
- },
- {
-  "event": "1033-jordan-valley",
-  "place_he": "שכם",
-  "place_en": "Nablus",
-  "kind": "city",
-  "status": "reported",
-  "footnotes": [
-   "zohar16",
-   "zohar17",
-   "amiran"
-  ],
-  "evidence": "לפי סיכומים משניים מחצית העיר נהרסה ו-300 מתו",
-  "page_sentence": "בשכם נהרסה מחצית העיר ומתו 300 מתושביה."
- },
- {
-  "event": "1033-jordan-valley",
   "place_he": "חברון",
   "place_en": "Hebron",
   "kind": "city",
@@ -1136,20 +1029,6 @@
   ],
   "evidence": "נמנית בין המקומות שנפגעו",
   "page_sentence": "הנזק התפרש על שטח גדול: יריחו, רמלה, בניאס, אשקלון, ירושלים, עכו, עזה, שכם, חברון והכפר אל-באד'אן."
- },
- {
-  "event": "1033-jordan-valley",
-  "place_he": "אל-באד'אן",
-  "place_en": "al-Badhan",
-  "kind": "village",
-  "status": "reported",
-  "footnotes": [
-   "zohar16",
-   "zohar17",
-   "amiran"
-  ],
-  "evidence": "מפולת קברה את הכפר ומתו כל תושביו",
-  "page_sentence": "מפולת קברה את הכפר אל-באד'אן, ומתו בו כל התושבים ובעלי החיים."
  },
  {
   "event": "1033-jordan-valley",
@@ -1186,18 +1065,6 @@
   ],
   "evidence": "שכבה מופרעת במשקעים בשולי ים המלח",
   "page_sentence": "**משקעי ים המלח.** לפי מיגוסקי ועמיתיו, הרעידה נרשמה כשכבה מופרעת במשקעים בשולי ים המלח.[^zohar16s]"
- },
- {
-  "event": "1033-jordan-valley",
-  "place_he": "ארמון הישאם (ח'רבת אל-מפג'ר)",
-  "place_en": "Khirbat al-Mafjar (Hisham's Palace)",
-  "kind": "archaeological site",
-  "status": "found",
-  "footnotes": [
-   "alfonsi"
-  ],
-  "evidence": "סדקים ברצפות, עמודים וקירות קרסו, העתק ושרידי אדם",
-  "page_sentence": "לפי סיכום של מחקרם, ברצפות נמצאו סדקים בקו אחד, ועמודים וקירות קרסו."
  },
  {
   "event": "1033-jordan-valley",
@@ -1370,18 +1237,6 @@
   ],
   "evidence": "הרעידה עיוותה את הפלאיה ושינתה את הניקוז",
   "page_sentence": "לפי תקציר מאמרם, הרעידה עיוותה את פלאיית עברונה והפכה אותה מאגן סגור לאגן שמתנקז דרומה.[^zil]"
- },
- {
-  "event": "1068-near-east",
-  "place_he": "מצפון לעקבה ולאילת",
-  "place_en": "Eilat",
-  "kind": "region",
-  "status": "found",
-  "footnotes": [
-   "klinger"
-  ],
-  "evidence": "יותר מ-12 ק\"מ של קרע לאורך השבר",
-  "page_sentence": "מצפון לעקבה ולאילת תוארו, לפי סיכום משני, יותר מ-12 קילומטרים של קרע לאורך השבר, מלפני 900 עד 1,000 שנה.[^klinger]"
  },
  {
   "event": "1068-near-east",
@@ -1584,21 +1439,6 @@
  },
  {
   "event": "1759-galilee-lebanon",
-  "place_he": "תל עתרת",
-  "place_en": "Tel Ateret (Vadum Iacob)",
-  "kind": "archaeological site",
-  "status": "found",
-  "footnotes": [
-   "marco-guide",
-   "daeron-529",
-   "salamon07-t3",
-   "ateret"
-  ],
-  "evidence": "חומות זזו כחצי מטר; קריעה חצתה מסגד; תיארוך שנוי",
-  "page_sentence": "חפירות מאוחרות יותר באתר מייחסות את התזוזה ל-1759, ולפיהן הקריעה חצתה גם את המסגד העות׳מאני בתל.[^ateret]"
- },
- {
-  "event": "1759-galilee-lebanon",
   "place_he": "בקעת זבדאני",
   "place_en": "Zabadani",
   "kind": "region",
@@ -1733,20 +1573,6 @@
   ],
   "evidence": "נזק נרשם",
   "page_sentence": "הנזק נרשם בירושלים ובבית לחם, במנזר מר סבא ובאזור ים המלח."
- },
- {
-  "event": "1834-jerusalem",
-  "place_he": "אזור ים המלח",
-  "place_en": "Dead Sea",
-  "kind": "sea/lake",
-  "status": "reported+found",
-  "footnotes": [
-   "zohar16",
-   "asphalt",
-   "zohar16s"
-  ],
-  "evidence": "נזק; גושי אספלט צפו; שכבה מופרעת במשקעים",
-  "page_sentence": "שכבה מופרעת במשקעי האגם תוארכה למאה ה-19 ונקשרה לרעידה הזו."
  },
  {
   "event": "1834-jerusalem",
@@ -2152,18 +1978,6 @@
   ],
   "evidence": "עשרים הרוגים (עם קסוס)",
   "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
- },
- {
-  "event": "1856-crete",
-  "place_he": "מלטה",
-  "place_en": "Malta",
-  "kind": "region",
-  "status": "reported",
-  "footnotes": [
-   "deaths"
-  ],
-  "evidence": "בתים וכנסיות נסדקו",
-  "page_sentence": "במלטה נסדקו בתים וכנסיות."
  },
  {
   "event": "1856-crete",
