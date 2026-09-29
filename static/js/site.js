@@ -26,9 +26,15 @@
   function initMap(el) {
     var data = JSON.parse(el.dataset.map);
     var map = L.map(el, { scrollWheelZoom: false }).setView([31.8, 35.2], 7);
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 12,
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    // מפת בסיס נקייה (CARTO), בגרסה בהירה או כהה לפי ערכת הנושא.
+    // מפת OSM הרגילה מסמנת שטחי אש ואזורים צבאיים בפוליגונים ורודים, שמבלבלים עם שכבות האתר.
+    var root = document.documentElement;
+    var dark = root.dataset.theme
+      ? root.dataset.theme === "dark"
+      : window.matchMedia("(prefers-color-scheme: dark)").matches;
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png", {
+      maxZoom: 12, subdomains: "abcd",
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
     }).addTo(map);
 
     var css = getComputedStyle(document.documentElement);
@@ -40,6 +46,7 @@
       rust: css.getPropertyValue("--accent").trim()
     };
     var bounds = [];
+    var faultBounds = [];
 
     // קווי ההעתקים (GEM / EMME), מקובצים לפי מקטע
     data.segments.forEach(function (s) {
@@ -47,6 +54,7 @@
         var latlngs = line.map(function (c) { return [c[1], c[0]]; });
         L.polyline(latlngs, { color: colors.rust, weight: 3, opacity: 0.85, dashArray: s.draft ? "6 5" : null })
           .bindTooltip(s.name, { sticky: true }).addTo(map);
+        latlngs.forEach(function (p) { faultBounds.push(p); });
       });
     });
 
@@ -66,8 +74,12 @@
       bounds.push([e.lat, e.lon]);
     });
 
-    if (bounds.length > 1) map.fitBounds(bounds, { padding: [20, 20], maxZoom: 9 });
-    else if (bounds.length === 1) map.setView(bounds[0], 8);
+    // תמיד רואים את כל קו השבר בארץ, ובנוסף את הרעידות שעל המפה
+    // רעידות רחוקות (קפריסין, סוריה) נשארות על המפה אבל לא מרחיקות את המבט מהארץ
+    var near = bounds.filter(function (p) { return p[0] > 29 && p[0] < 33.6 && p[1] > 34 && p[1] < 36.6; });
+    var all = faultBounds.filter(function (p) { return p[0] < 33.4; }).concat(near);
+    if (all.length > 1) map.fitBounds(all, { padding: [16, 16], maxZoom: 9 });
+    else if (all.length === 1) map.setView(all[0], 8);
   }
 
   // מצב כהה/בהיר: מחליף בין שני המצבים, וזוכר את הבחירה בדפדפן בלבד.

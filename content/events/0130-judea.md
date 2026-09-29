@@ -64,6 +64,7 @@ sources:
   url: http://www.daat.ac.il/encyclopedia/value.asp?id1=2055
 - label: 'לקריאה נוספת: ויקיפדיה העברית, רעידת האדמה ביהודה (130)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(130)
+verdict: misattributed
 status: draft
 reviewed_by: null
 review_notes:
