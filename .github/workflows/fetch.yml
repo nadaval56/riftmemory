@@ -1,8 +1,12 @@
-# משיכת נתונים מרשתות חיצוניות, בהפעלה ידנית (workflow_dispatch).
-# התוצאה נשמרת כ-commit על אותו branch שממנו הופעל ה-workflow.
+# משיכת נתונים מרשתות חיצוניות. התוצאה נשמרת כ-commit על אותו branch.
+# הפעלה: ידנית (workflow_dispatch), או push של .github/fetch-request
+# שמכיל את שם המשימה, ל-branch שאינו main.
 name: fetch
 
 on:
+  push:
+    branches-ignore: [main]
+    paths: [.github/fetch-request]
   workflow_dispatch:
     inputs:
       task:
@@ -21,6 +25,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - id: task
+        run: |
+          if [ -n "${{ inputs.task }}" ]; then
+            echo "task=${{ inputs.task }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "task=$(tr -d '[:space:]' < .github/fetch-request)" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -28,11 +39,11 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: wikipedia
-        if: inputs.task == 'wikipedia'
+        if: steps.task.outputs.task == 'wikipedia'
         run: python scripts/fetch_wikipedia.py
 
       - name: gsi-probe
-        if: inputs.task == 'gsi-probe'
+        if: steps.task.outputs.task == 'gsi-probe'
         run: |
           mkdir -p data/raw/gsi
           UA="riftmemory/0.1 (https://github.com/nadaval56/riftmemory)"
@@ -50,6 +61,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "no changes"
           else
-            git commit -m "fetch: ${{ inputs.task }}"
+            git commit -m "fetch: ${{ steps.task.outputs.task }}"
             git push
           fi
