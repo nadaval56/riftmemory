@@ -1,9 +1,9 @@
-# טקסטים פתוחים בלבד. slug url   (סבב 7: גישה פתוחה ונחלת הכלל)
-irving2023-mashriq https://lebanesestudies.ojs.chass.ncsu.edu/index.php/mashriq/article/download/351/787/3148
-irving2023-eprints https://eprints.staffs.ac.uk/7950/
-willis1928-zadok http://zadok.org/research/1927/willis.html
-benyehuda-2695 https://benyehuda.org/read/2695
-benyehuda-47476 https://benyehuda.org/read/47476
-perrey1859-persee https://www.persee.fr/doc/marb_0770-8459_1859_num_8_1_2102
-sbeinati2005 https://www.earth-prints.org/server/api/core/bitstreams/3fff4914-a300-4d98-b08d-8233437b071c/content
-thomson-safed https://bibletruthpublishers.com/chapter-19-kudes-safed-kefr-buriam/william-m-thomson/land-and-the-book/lac103264-lrc-23561-23562
+# טקסטים פתוחים בלבד. slug url   (סבב 8: נחלת הכלל ומטא-נתונים)
+crossref-willis1928 https://api.crossref.org/works/10.1785/BSSA0180020073
+russell1759-rs https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1759.0054
+russell1759-ia-meta https://archive.org/metadata/paper-doi-10_1098_rstl_1759_0054
+jta-1927-400-bodies https://www.jta.org/archive/four-hundred-bodies-recovered-in-ruins-of-palestine-earthquake
+nyt-1927-zadok http://zadok.org/research/1927/nyt3.html
+robinson-dli-meta https://archive.org/metadata/in.ernet.dli.2015.181236
+robinson-princeton-meta https://archive.org/metadata/biblicalresearch03robi
+spyridon-ia-meta https://archive.org/metadata/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834
