@@ -1,13 +1,6 @@
-# טקסטים פתוחים בלבד (CC BY / נחלת הכלל). slug url   (סבב 4: אימות מקורות)
-karcz2004 https://www.annalsofgeophysics.eu/index.php/annals/article/view/3334
-abdelfattah1997 https://www.annalsofgeophysics.eu/index.php/annals/article/view/3831
-ambraseys1997 https://www.annalsofgeophysics.eu/index.php/annals/article/view/3887
-papazachos1996 https://www.annalsofgeophysics.eu/index.php/annals/article/view/4023
-galea2007 https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/3053/3096
-regev2024 https://pmc.ncbi.nlm.nih.gov/articles/PMC11087761/
-schweppe2021 https://link.springer.com/content/pdf/10.1007/s10950-021-10009-0.pdf
-cfti5med2019 https://www.nature.com/articles/s41597-019-0091-9
-noaa-1033 https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/8156
-kitto1841-02 https://archive.org/download/palestinephysica02kitt/palestinephysica02kitt_djvu.txt
-robinson1841-v3-uoft https://archive.org/download/biblicalresearch03robiuoft/biblicalresearch03robiuoft_djvu.txt
-reicher-shaarei https://download.hebrewbooks.org/downloadhandler.ashx?req=39561
+# טקסטים פתוחים בלבד (CC BY / נחלת הכלל). slug url   (סבב 4ב: קובצי PDF)
+karcz2004 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3334/3380
+abdelfattah1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3831/3895
+ambraseys1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3887/3952
+papazachos1996 https://www.annalsofgeophysics.eu/index.php/annals/article/download/4023/4088
+regev2024 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11087761/fullTextXML
