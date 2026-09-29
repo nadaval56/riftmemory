@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% from "_macros.html" import map, source_sheet %}
+{% set title = "מה המכשירים רואים" %}
+{% set description = "רעידות האדמה באזור השבר מאז שהתחילו למדוד אותן במכשירים: מפה, עומקים לאורך השבר, והרעידות החזקות שנמדדו." %}
+{% block head %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+{% endblock %}
+{% block main %}
+<article class="instr-page">
+  <h1>מה המכשירים רואים</h1>
+  <p class="lede">על הרעידות ההיסטוריות אנחנו יודעים ממכתבים, מכרוניקות ומחפירות. על הרעידות של המאה האחרונה יש גם רישום של מכשירים: סייסמוגרפים קולטים את הגלים, ומהזמן שלוקח לגלים להגיע לכמה תחנות מחשבים איפה הרעידה התחילה.<sup><a class="footnote-ref" href="#i-usgs-sci">1</a></sup> כאן כל מה שנרשם באזור השבר, בלי פרשנות.</p>
+
+  <section aria-labelledby="map-h">
+    <h2 id="map-h">{{ inst.usgs.count }} רעידות מאז {{ inst.first_year }}</h2>
+    <p>כל הרעידות במגניטודה 2.5 ומעלה בקטלוג של המכון הגאולוגי האמריקאי (USGS) באזור שבין מפרץ אילת ללבנון.<sup><a class="footnote-ref" href="#i-usgs">2</a></sup> גודל הנקודה לפי המגניטודה. לחיצה על נקודה פותחת את הרשומה.</p>
+    {{ map(map_data, id='map', height='480px') }}
+  </section>
+
+  <section aria-labelledby="dec-h">
+    <h2 id="dec-h">כמה רעידות נרשמו בכל עשור</h2>
+    <div class="chart-wrap">{{ inst.chart_decades | safe }}</div>
+    <p class="chart-note muted">מימין: העשור הראשון בקטלוג. הגרף מראה כמה רעידות נרשמו, לא כמה קרו: רעידה שאף מכשיר לא קלט לא נכנסת לקטלוג.{% if inst.after95 %} בשנות ה־90 נרשמו {{ inst.nineties }} רעידות, ו־{{ inst.after95 }} מהן במפרץ אילת, בשנה שאחרי הרעידה של 22 בנובמבר 1995.{% endif %}</p>
+  </section>
+
+  <section aria-labelledby="dep-h">
+    <h2 id="dep-h">באיזה עומק השבר רועד</h2>
+    <p>{{ inst.near_count }} רעידות שהמוקד שלהן עד 25 ק״מ מקו שבר, לאורך השבר מדרום לצפון. הציר האנכי הוא העומק בקילומטרים, מפני הקרקע (למעלה) ועד 40 ק״מ. הרקע מסמן את המקטעים.</p>
+    <div class="chart-wrap">{{ inst.chart_section | safe }}</div>
+    <p class="chart-note muted">מימין: דרום (מפרץ אילת). משמאל: צפון. המספרים בתחתית הם קווי רוחב. העומק הוא חישוב ולא מדידה ישירה.</p>
+  </section>
+
+  <section aria-labelledby="seg-h">
+    <h2 id="seg-h">לפי מקטעים</h2>
+    <p>כמה מהרעידות בקטלוג נמצאות עד {{ 20 }} ק״מ מקווי השבר של כל מקטע:</p>
+    <ul class="mag-bands">
+      {% for s, n in inst.seg_counts %}<li><strong>{{ n }}</strong> <span>{{ s.name_he }}</span></li>{% endfor %}
+    </ul>
+  </section>
+
+  <section aria-labelledby="top-h">
+    <h2 id="top-h">הרעידות החזקות שנמדדו</h2>
+    <div class="table-wrap">
+    <table class="data">
+      <thead><tr><th>תאריך</th><th>מגניטודה</th><th>עומק</th><th>מקום (USGS)</th></tr></thead>
+      <tbody>
+      {% for q in inst.strongest %}
+        <tr>
+          <td>{{ q.label }}{% if q.event %}<br><a href="{{ base }}/events/{{ q.event.id }}/">{{ q.event.short_title }}</a>{% endif %}</td>
+          <td><bdi dir="ltr">{{ q.mag }}</bdi> <span class="muted">{{ q.mag_type }}</span></td>
+          <td>{% if q.depth is not none %}{{ q.depth }} ק״מ{% endif %}</td>
+          <td><a href="{{ q.url }}" rel="noopener"><bdi dir="ltr">{{ q.place }}</bdi></a></td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    </div>
+    <p class="chart-note muted">סוג המגניטודה (mw, mb, ml ועוד) מציין את שיטת החישוב. לכל שיטה טווח גדלים ומרחקים שבו היא מתאימה.<sup><a class="footnote-ref" href="#i-usgs-types">3</a></sup></p>
+  </section>
+
+  {% if inst.gsi_count %}
+  <section aria-labelledby="gsi-h">
+    <h2 id="gsi-h">הרשת הישראלית</h2>
+    <p>המכון הגיאולוגי לישראל מפרסם קטלוג משלו. ה־API של האתר שומר כמה חודשים אחורה: מאז {{ inst.gsi_first }} נרשמו בה {{ inst.gsi_count }} רעידות מקומיות במגניטודה 2.5 ומעלה באזור{% if inst.gsi_felt %}, ו־{{ inst.gsi_felt }} מהן דווחו כמורגשות{% endif %}.<sup><a class="footnote-ref" href="#i-gsi">4</a></sup> הרעידות של החודש האחרון, עם כל הפרטים, נמצאות ב<a href="{{ base }}/recent/">דף 30 הימים</a>.</p>
+  </section>
+  {% endif %}
+
+  <section class="sources" id="bibliography">
+    <h2>מקורות</h2>
+    <div class="footnote"><ol>
+      <li id="i-usgs-sci">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes" rel="noopener">The Science of Earthquakes</a>.</li>
+      <li id="i-usgs">USGS, <a href="https://earthquake.usgs.gov/earthquakes/search/" rel="noopener">ANSS Comprehensive Earthquake Catalog (ComCat)</a>, נמשך {{ inst.usgs.fetched_at[:10] }}: מגניטודה 2.5 ומעלה, 28–34.8 צפון, 33.8–37 מזרח. נחלת הכלל.</li>
+      <li id="i-usgs-types">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/magnitude-types" rel="noopener">Magnitude Types</a>.</li>
+      <li id="i-gsi">המכון הגיאולוגי לישראל, <a href="https://eq.gsi.gov.il/heb/earthquake/lastEarthquakes.php" rel="noopener">רעידות אדמה</a>, ה־API של האתר, נמשך {{ inst.gsi.fetched_at[:10] if inst.gsi else "" }}.</li>
+    </ol></div>
+  </section>
+</article>
+{{ source_sheet() }}
+{% endblock %}
+{% block scripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
+{% endblock %}

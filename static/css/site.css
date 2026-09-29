@@ -394,3 +394,10 @@ section + section { margin-top: 2rem; }
 .mag-bands { list-style: none; padding: 0; margin: .6rem 0 0; display: flex; flex-wrap: wrap; gap: .5rem; }
 .mag-bands li { background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--radius); padding: .35rem .7rem; font-size: .9rem; }
 .mag-bands strong { color: var(--quake); font-size: 1.05rem; margin-inline-end: .2rem; }
+
+/* ===== מה המכשירים רואים ===== */
+.table-wrap { overflow-x: auto; }
+table.data { width: 100%; border-collapse: collapse; font-size: .9rem; background: var(--surface); border-radius: var(--radius); }
+table.data th, table.data td { text-align: start; padding: .45rem .6rem; border-bottom: 1px solid var(--line-soft); vertical-align: top; }
+table.data th { color: var(--ink-2); font-weight: 600; }
+table.data td:nth-child(2), table.data td:nth-child(3) { white-space: nowrap; }

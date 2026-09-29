@@ -38,10 +38,10 @@ def bars(items, width=640, height=160, label_every=1, title=""):
     return "\n".join(out)
 
 
-def depth_section(points, x_range, depth_max, bands=(), width=640, height=260, title="", x_labels=()):
+def depth_section(points, x_range, depth_max, bands=(), width=420, height=240, title="", x_labels=()):
     """חתך עומק. points: (x, depth_km, mag). x_range: (ימין, שמאל) בערכי x.
     bands: (x1, x2, תווית) — רצועות רקע, למשל המקטעים. x_labels: (x, תווית)."""
-    top, bottom, left_pad, right_pad = 22, 22, 34, 6
+    top, bottom, left_pad, right_pad = 40, 22, 26, 4
     cw, ch = width - left_pad - right_pad, height - top - bottom
     x_right, x_left = x_range
 
@@ -55,7 +55,8 @@ def depth_section(points, x_range, depth_max, bands=(), width=640, height=260, t
     for i, (x1, x2, label) in enumerate(bands):
         a, b = sorted((px(x1), px(x2)))
         out.append(f'<rect class="chart-band b{i % 2}" x="{a:.1f}" y="{top}" width="{b - a:.1f}" height="{ch}"/>')
-        out.append(f'<text class="chart-band-label" x="{(a + b) / 2:.1f}" y="{top - 7}" text-anchor="middle">{_t(label)}</text>')
+        # תוויות לסירוגין בשתי שורות, כדי שמקטעים צרים לא יעלו זה על זה
+        out.append(f'<text class="chart-band-label" x="{(a + b) / 2:.1f}" y="{top - 6 - (i % 2) * 15}" text-anchor="middle">{_t(label)}</text>')
     for d in range(0, int(depth_max) + 1, 10):
         y = py(d)
         out.append(f'<line class="chart-grid" x1="{left_pad}" x2="{width - right_pad}" y1="{y:.1f}" y2="{y:.1f}"/>')
@@ -65,7 +66,7 @@ def depth_section(points, x_range, depth_max, bands=(), width=640, height=260, t
     for x, d, m in sorted(points, key=lambda p: p[2]):
         if d is None:
             continue
-        r = max(1.2, (m - 1.5) * 1.3)
+        r = max(1.2, (m - 2) * 1.1)
         out.append(f'<circle class="chart-dot" cx="{px(x):.1f}" cy="{py(d):.1f}" r="{r:.1f}"/>')
     out.append('</svg>')
     return "\n".join(out)

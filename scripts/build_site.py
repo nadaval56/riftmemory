@@ -169,6 +169,76 @@ def recent_summary(quakes, today, days=30):
     return items, by_mag
 
 
+
+# --- התקופה המכשירית -------------------------------------------------------
+
+def load_catalog(name):
+    path = ROOT / "data" / "catalog" / f"{name}.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
+
+
+def instruments_data(segments, segment_names, events):
+    """מה נרשם במכשירים: קטלוג USGS מ-1900, וקטלוג המכון לחודשים האחרונים."""
+    usgs = load_catalog("usgs")
+    gsi = load_catalog("gsi")
+    if not usgs:
+        return None
+    rows = []
+    for q in usgs["events"]:
+        t = dt.datetime.fromisoformat(q["t"].replace("Z", "+00:00"))
+        seg, dist = echo.nearest_segment(q["lat"], q["lon"], segments)
+        rows.append(dict(q, time=t, year=t.year, fault_km=round(dist), label=t.astimezone(TZ).strftime("%-d.%-m.%Y"),
+                         seg=seg["id"] if seg is not None and dist <= echo.SEGMENT_KM else None))
+    # רעידה היסטורית באתר מאותו יום (למשל 1927)
+    by_date = {}
+    for e in events:
+        d = e["date"]
+        if d.get("year") and d.get("month") and d.get("day"):
+            by_date[(d["year"], d["month"], d["day"])] = e
+    for q in rows:
+        q["event"] = by_date.get((q["time"].year, q["time"].month, q["time"].day))
+
+    first_decade = min(q["year"] for q in rows) // 10 * 10
+    last_decade = max(q["year"] for q in rows) // 10 * 10
+    decades = []
+    for d0 in range(first_decade, last_decade + 1, 10):
+        n = sum(1 for q in rows if d0 <= q["year"] < d0 + 10)
+        decades.append((f"{d0}", n, f"שנות ה-{d0}: {n} רעידות בקטלוג"))
+
+    seg_counts = [(s, sum(1 for q in rows if q["seg"] == s["id"])) for s in segments]
+    # חתך עומק: רעידות עד 25 ק"מ מקו שבר, לאורך השבר מדרום לצפון
+    near = [q for q in rows if q["fault_km"] <= 25 and 28.3 <= q["lat"] <= 34.0]
+    bands = []
+    for s in segments:
+        lats = [c[1] for line in s["lines"] for c in line]
+        lo, hi = max(min(lats), 28.3), min(max(lats), 34.0)
+        if hi > lo:
+            bands.append((lo, hi, s["name_he"]))
+    section = charts.depth_section(
+        [(q["lat"], q["depth"], q["mag"]) for q in near], (28.3, 34.0), 40, bands=bands,
+        x_labels=[(y, f"{y}°") for y in (29, 30, 31, 32, 33)],
+        title="חתך עומק לאורך השבר: עומק המוקד של כל רעידה, מדרום (ימין) לצפון (שמאל)")
+    strongest = sorted(rows, key=lambda q: -q["mag"])[:12]
+    # כמה מהרעידות של שנות ה-90 הן במפרץ אילת בשנה שאחרי 22.11.1995
+    nineties = [q for q in rows if 1990 <= q["year"] < 2000]
+    after95 = [q for q in nineties if "1995-11-22" <= q["t"][:10] <= "1996-11-22" and q["lat"] < 29.6]
+    gsi_rows = gsi["events"] if gsi else []
+    return dict(
+        usgs=usgs, gsi=gsi, rows=rows, strongest=strongest, seg_counts=seg_counts,
+        near_count=len(near), first_year=min(q["year"] for q in rows),
+        nineties=len(nineties), after95=len(after95),
+        chart_decades=charts.bars(decades, width=420, height=170, title="מספר הרעידות בקטלוג בכל עשור"),
+        chart_section=section,
+        gsi_count=len(gsi_rows),
+        gsi_first=dt.date.fromisoformat(gsi_rows[0]["t"][:10]).strftime("%-d.%-m.%Y") if gsi_rows else None,
+        gsi_felt=sum(1 for q in gsi_rows if q.get("felt")),
+        map_live=[dict(lat=q["lat"], lon=q["lon"], magnitude=q["mag"], time_utc=q["t"],
+                       label=q["time"].astimezone(TZ).strftime("%-d.%-m.%Y"), depth_km=q["depth"],
+                       local=q.get("place"), anchor=None, url=q.get("url"))
+                  for q in rows],
+    )
+
+
 # --- היום בהיסטוריה -----------------------------------------------------
 
 def hebrew_month_day(y, m, d):
@@ -287,7 +357,7 @@ def map_data(events, live, segments, focus=False, highlight=None):
                 "label": q["label"],
                 "depth": q.get("depth_km"),
                 "local": q.get("local"),
-                "url": f"{BASE_PATH}/recent/#{q['anchor']}" if q.get("anchor") else None,
+                "url": f"{BASE_PATH}/recent/#{q['anchor']}" if q.get("anchor") else q.get("url"),
             }
             for q in live["events"]
         ],
@@ -392,6 +462,17 @@ def build(drafts=False):
         map_data=map_data([], live_month, segments),
     ))
     pages.append("/recent/")
+
+    # מה המכשירים רואים
+    inst = instruments_data(segments, segment_names, events)
+    if inst:
+        write(SITE / "instruments" / "index.html", env.get_template("instruments.html").render(
+            **common,
+            page_path="/instruments/",
+            inst=inst,
+            map_data=dict(map_data([], {"events": inst["map_live"]}, segments), live_legend="רעידות 2.5 ומעלה בקטלוג USGS", dot_scale=2.2),
+        ))
+        pages.append("/instruments/")
 
     # ציר הזמן
     write(SITE / "timeline" / "index.html", env.get_template("timeline.html").render(
