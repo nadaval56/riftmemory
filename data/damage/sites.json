@@ -57,10 +57,11 @@
     {
      "event": "1068-near-east",
      "place_he": "איילה (עקבה)",
-     "status": "found",
-     "evidence": "הריסות חסמו את השער; חומה וכתובת נפלו; שיבוש עירוני",
+     "status": "reported+found",
+     "evidence": "הריסות חסמו את השער; שיבוש עירוני; לפי סיכום העיר נהרסה כליל",
      "footnotes": [
-      "whitcomb"
+      "whitcomb",
+      "klinger"
      ]
     }
    ]
@@ -76,10 +77,11 @@
      "event": "1033-jordan-valley",
      "place_he": "אל-באד'אן",
      "status": "reported",
-     "evidence": "מפולת קברה את הכפר ומתו כל תושביו",
+     "evidence": "לפי סיכומים משניים מפולת קברה את הכפר עם אנשיו",
      "footnotes": [
       "zohar16",
       "zohar17",
+      "ngdc",
       "amiran"
      ]
     }
@@ -111,12 +113,39 @@
    "place_he": "אנטיפטריס",
    "entries": [
     {
+     "event": "0031bce-judea",
+     "place_he": "אנטיפטריס",
+     "status": "doubtful",
+     "evidence": "ייחסו לרעידה נזק; לפי קרץ העדות קלושה",
+     "footnotes": [
+      "karcz"
+     ]
+    },
+    {
      "event": "0363-galilee",
      "place_he": "אנטיפטריס",
      "status": "reported",
      "evidence": "כולה וסביבתה נהרסו לפי האיגרת",
      "footnotes": [
       "levenson66"
+     ]
+    }
+   ]
+  },
+  {
+   "geonameid": "8224025",
+   "name_gn": "Anthedon",
+   "lat": 38.4984,
+   "lon": 23.4489,
+   "place_he": "אנתדון",
+   "entries": [
+    {
+     "event": "0031bce-judea",
+     "place_he": "אנתדון",
+     "status": "doubtful",
+     "evidence": "ייחסו לרעידה נזק; לפי קרץ העדות קלושה",
+     "footnotes": [
+      "karcz"
      ]
     }
    ]
@@ -155,6 +184,15 @@
    "lon": 34.5715,
    "place_he": "אשקלון",
    "entries": [
+    {
+     "event": "0031bce-judea",
+     "place_he": "אשקלון",
+     "status": "doubtful",
+     "evidence": "ייחסו לרעידה נזק; לפי קרץ העדות קלושה",
+     "footnotes": [
+      "karcz"
+     ]
+    },
     {
      "event": "0363-galilee",
      "place_he": "אשקלון",
@@ -260,10 +298,11 @@
      "event": "1834-jerusalem",
      "place_he": "בית לחם",
      "status": "reported",
-     "evidence": "נזק; מנזר לא היה ראוי עוד למגורים",
+     "evidence": "מנזרים נפגעו ונהרגו רבים",
      "footnotes": [
       "zohar16",
-      "dsq"
+      "dsq",
+      "kentor-2231"
      ]
     }
    ]
@@ -329,9 +368,10 @@
      "event": "1068-near-east",
      "place_he": "בניאס",
      "status": "reported",
-     "evidence": "נהרגו כ-100",
+     "evidence": "נהרגו כ-100; קצה צפוני של אזור הנזק הכבד",
      "footnotes": [
-      "ama"
+      "ama",
+      "klinger"
      ]
     }
    ]
@@ -422,6 +462,24 @@
    ]
   },
   {
+   "geonameid": "295220",
+   "name_gn": "‘En Gedi",
+   "lat": 31.4524,
+   "lon": 35.3844,
+   "place_he": "גלעין הקידוח מעין גדי",
+   "entries": [
+    {
+     "event": "0031bce-judea",
+     "place_he": "גלעין הקידוח מעין גדי",
+     "status": "found",
+     "evidence": "שכבה מעוותת שמתאימה לרעידה נמצאה בגלעין",
+     "footnotes": [
+      "kagan-11"
+     ]
+    }
+   ]
+  },
+  {
    "geonameid": "294627",
    "name_gn": "Jīsh",
    "lat": 33.0222,
@@ -432,10 +490,11 @@
      "event": "1837-safed",
      "place_he": "ג׳ש",
      "status": "reported",
-     "evidence": "הכנסייה נפלה ויותר מ-130 נספו; בקע בהר",
+     "evidence": "הכנסייה נפלה ויותר מ-130 נספו; בקע בהר; חורבן מחוסר יציבות קרקע",
      "footnotes": [
       "thomson-435",
-      "kitto-calman"
+      "kitto-calman",
+      "ambraseys-924"
      ]
     }
    ]
@@ -451,9 +510,9 @@
      "event": "0031bce-judea",
      "place_he": "דיוספוליס (לוד)",
      "status": "doubtful",
-     "evidence": "מלאלאס: עיר נפגעה ונבנתה מחדש; כנראה בלבול עם סלמיס בקפריסין",
+     "evidence": "מלאלאס: עיר נפגעה ונבנתה מחדש; זוהר: כפילות מקפריסין, קרץ חולק",
      "footnotes": [
-      "karcz",
+      "karcz-776",
       "zoharB"
      ]
     },
@@ -535,9 +594,10 @@
      "event": "1759-galilee-lebanon",
      "place_he": "דמשק",
      "status": "reported",
-     "evidence": "נפגעה ברעידה השנייה",
+     "evidence": "שליש מהעיר נהרס ומתו אלפים",
      "footnotes": [
-      "daeron-530"
+      "daeron-530",
+      "kitto"
      ]
     }
    ]
@@ -572,7 +632,7 @@
      "event": "0749-shviit",
      "place_he": "ח'רבת אל-מפג'ר",
      "status": "doubtful",
-     "evidence": "שכבת הרס; חוקרים אחרים מייחסים אותה לרעידת 1033",
+     "evidence": "צפריר ופרסטר: שכבת הרס; אלפונסי ועמיתיו מייחסים את ההרס לרעידת 1033",
      "footnotes": [
       "tf92",
       "alfonsi"
@@ -582,9 +642,10 @@
      "event": "1033-jordan-valley",
      "place_he": "ארמון הישאם (ח'רבת אל-מפג'ר)",
      "status": "found",
-     "evidence": "סדקים ברצפות, עמודים וקירות קרסו, העתק ושרידי אדם",
+     "evidence": "סדקים והעתקים בקירות, ריצוף מורם, קירות נטויים ועמודים שקרסו",
      "footnotes": [
-      "alfonsi"
+      "alfonsi-997",
+      "alfonsi-1000"
      ]
     }
    ]
@@ -628,7 +689,7 @@
      "event": "0031bce-judea",
      "place_he": "חורבת קומראן",
      "status": "doubtful",
-     "evidence": "סדק במקווה, תקרה שקרסה ונזק למגדל; הפירוש הסייסמי שנוי במחלוקת",
+     "evidence": "סדק, תקרה שקרסה ונזק למגדל; קרץ: כל רכיבי העדות לא חד-משמעיים",
      "footnotes": [
       "zoharA",
       "karcz",
@@ -648,12 +709,13 @@
      "event": "1856-crete",
      "place_he": "חיפה",
      "status": "doubtful",
-     "evidence": "חומות ישנות נסדקו, ים סוער; ייחוס הנזק לארץ שנוי במחלוקת",
+     "evidence": "חומות ישנות נסדקו, ים סוער; ייחוס הנזק והגל שנוי במחלוקת",
      "footnotes": [
       "zohar-1285",
       "zohar-1289",
       "zohar16s",
-      "salamon07-t2"
+      "salamon07-t2",
+      "papazachos96"
      ]
     }
    ]
@@ -715,11 +777,12 @@
      "event": "0749-shviit",
      "place_he": "טבריה",
      "status": "reported+found",
-     "evidence": "בין המקומות שנפגעו; קרע פני שטח ומבנים מוסטים לאורך העתקים",
+     "evidence": "בין המקומות שנפגעו; הפיוט מקונן על הרס והרוגים; קרע פני שטח ומבנים מוסטים",
      "footnotes": [
       "zohar16",
       "marco",
-      "sal07"
+      "sal07",
+      "karcz-785"
      ]
     },
     {
@@ -735,11 +798,12 @@
      "event": "1837-safed",
      "place_he": "טבריה",
      "status": "reported",
-     "evidence": "נפגעה קשה, כ-700 הרוגים; גלים בכנרת פגעו בחופיה",
+     "evidence": "נפגעה קשה, 700–822 הרוגים; גלים בכנרת פגעו בחופיה",
      "footnotes": [
       "zohar16",
       "thomson-438",
       "pasha",
+      "ambraseys-933",
       "ishshalom2",
       "salamon07-t6"
      ]
@@ -921,17 +985,6 @@
      ]
     },
     {
-     "event": "0760bce-uzziah",
-     "place_he": "חומת העופל",
-     "status": "doubtful",
-     "evidence": "בניית יותם נתפסת בידי חלק כתיקון נזקי הרעש; פרשנות בלבד",
-     "footnotes": [
-      "kings",
-      "chron27",
-      "shilo"
-     ]
-    },
-    {
      "event": "0363-galilee",
      "place_he": "ירושלים",
      "status": "reported",
@@ -967,11 +1020,11 @@
      "event": "1033-jordan-valley",
      "place_he": "ירושלים",
      "status": "reported",
-     "evidence": "נמנית בין המקומות שנפגעו; חלקים מהחומות קרסו",
+     "evidence": "נמנית בין המקומות שנפגעו; לפי סיכומים משניים חומות העיר קרסו",
      "footnotes": [
       "zohar16",
       "zohar17",
-      "nusseibeh"
+      "ngdc"
      ]
     },
     {
@@ -987,10 +1040,11 @@
      "event": "1834-jerusalem",
      "place_he": "ירושלים",
      "status": "reported",
-     "evidence": "בתים רבים נהרסו וקטע חומה נפל ליד הר הבית",
+     "evidence": "בתים רבים נהרסו; כנסיות, צריחים וחומת העיר נפגעו",
      "footnotes": [
       "zohar16",
-      "dsq"
+      "dsq",
+      "kentor-2231"
      ]
     },
     {
@@ -1052,11 +1106,21 @@
    "place_he": "יריחו",
    "entries": [
     {
+     "event": "0031bce-judea",
+     "place_he": "יריחו",
+     "status": "doubtful",
+     "evidence": "ייחסו לרעידה נזק; לפי קרץ העדות קלושה",
+     "footnotes": [
+      "karcz"
+     ]
+    },
+    {
      "event": "0749-shviit",
      "place_he": "יריחו",
      "status": "reported",
-     "evidence": "הדיווחים על רעידה יחידה מזכירים אותה",
+     "evidence": "הכרוניקות הסוריות מזכירות אותה בין המקומות בארץ",
      "footnotes": [
+      "karcz-781",
       "zohar16s"
      ]
     },
@@ -1109,6 +1173,15 @@
    "place_he": "כרך",
    "entries": [
     {
+     "event": "1834-jerusalem",
+     "place_he": "כרך",
+     "status": "reported",
+     "evidence": "הרעידה פגעה בעיר",
+     "footnotes": [
+      "kentor-2231"
+     ]
+    },
+    {
      "event": "1927-dead-sea",
      "place_he": "כרך",
      "status": "reported",
@@ -1133,7 +1206,8 @@
      "evidence": "נהרגו 143 מתושבי הכפר",
      "footnotes": [
       "kitto-calman",
-      "robinson"
+      "robinson",
+      "ambraseys-934"
      ]
     }
    ]
@@ -1199,6 +1273,51 @@
      "evidence": "מבנים נפגעו קשה; קשתות וקמרונות זזו",
      "footnotes": [
       "agnon-guide"
+     ]
+    }
+   ]
+  },
+  {
+   "geonameid": "7117228",
+   "name_gn": "Caesarea",
+   "lat": 32.5189,
+   "lon": 34.9046,
+   "place_he": "מגדל סטרטון",
+   "entries": [
+    {
+     "event": "0031bce-judea",
+     "place_he": "מגדל סטרטון",
+     "status": "doubtful",
+     "evidence": "ייחסו לרעידה נזק; לפי קרץ העדות קלושה",
+     "footnotes": [
+      "karcz"
+     ]
+    },
+    {
+     "event": "0363-galilee",
+     "place_he": "קיסריה",
+     "status": "reported",
+     "evidence": "חלק ממנה נהרס לפי האיגרת",
+     "footnotes": [
+      "levenson66"
+     ]
+    },
+    {
+     "event": "1759-galilee-lebanon",
+     "place_he": "קיסריה",
+     "status": "reported",
+     "evidence": "נזק דווח ברעידה השנייה",
+     "footnotes": [
+      "zohar16"
+     ]
+    },
+    {
+     "event": "1834-jerusalem",
+     "place_he": "קיסריה",
+     "status": "reported",
+     "evidence": "דיווחים על נזק",
+     "footnotes": [
+      "zohar16"
      ]
     }
    ]
@@ -1413,8 +1532,8 @@
     {
      "event": "1759-galilee-lebanon",
      "place_he": "סרע׳איה",
-     "status": "found",
-     "evidence": "תלמים ומדרגות טריים על השבר, קושרו ל-1759",
+     "status": "doubtful",
+     "evidence": "תלמים ומדרגות טריים; נמר: אולי סדרת 1759, לא קביעה",
      "footnotes": [
       "daeron-530",
       "nemer"
@@ -1443,10 +1562,11 @@
      "event": "1033-jordan-valley",
      "place_he": "עזה",
      "status": "reported",
-     "evidence": "המסגד הגדול קרס והמגדלור נפגע; דווח על גלים",
+     "evidence": "לפי סיכומים משניים מסגד וצריחיו נהרסו והמגדלור נפגע; דווח על גלים",
      "footnotes": [
       "zohar16",
       "zohar17",
+      "ngdc",
       "amiran",
       "sal07t"
      ]
@@ -1463,19 +1583,19 @@
    ]
   },
   {
-   "geonameid": "295220",
-   "name_gn": "‘En Gedi",
-   "lat": 31.4524,
-   "lon": 35.3844,
-   "place_he": "עין גדי",
+   "geonameid": "295179",
+   "name_gn": "‘En Zetim",
+   "lat": 32.9948,
+   "lon": 35.4851,
+   "place_he": "עין זיתים",
    "entries": [
     {
-     "event": "0031bce-judea",
-     "place_he": "עין גדי",
-     "status": "found",
-     "evidence": "בגלעין קידוח שכבה המיוחסת לרעידה משמשת נקודת ייחוס",
+     "event": "1837-safed",
+     "place_he": "עין זיתים",
+     "status": "reported",
+     "evidence": "הכפר חרב; אמברייזיס מייחס זאת לחוסר יציבות הקרקע",
      "footnotes": [
-      "williams"
+      "ambraseys-924"
      ]
     }
    ]
@@ -1496,6 +1616,24 @@
       "austin",
       "zoharA",
       "ambraseys2009"
+     ]
+    }
+   ]
+  },
+  {
+   "geonameid": "283990",
+   "name_gn": "Ein Feshkha",
+   "lat": 31.7167,
+   "lon": 35.45,
+   "place_he": "עינות צוקים",
+   "entries": [
+    {
+     "event": "0031bce-judea",
+     "place_he": "עינות צוקים",
+     "status": "found",
+     "evidence": "שכבה מעוותת שמתאימה לרעידה נמצאה באתר",
+     "footnotes": [
+      "kagan-11"
      ]
     }
    ]
@@ -1701,9 +1839,10 @@
      "event": "1837-safed",
      "place_he": "צידון",
      "status": "reported",
-     "evidence": "דווח על שבעה הרוגים",
+     "evidence": "שבעה הרוגים; ההרס עוקב אחר העתק רום מצידון",
      "footnotes": [
-      "thomson-434"
+      "thomson-434",
+      "ambraseys-929"
      ]
     },
     {
@@ -1748,9 +1887,11 @@
      "event": "1759-galilee-lebanon",
      "place_he": "צפת",
      "status": "reported+found",
-     "evidence": "העיר נחרבה ונפגעה שוב; רוב הנזק מגלישות קרקע",
+     "evidence": "העיר נחרבה ורוב תושביה מתו; רוב הנזק מגלישות קרקע",
      "footnotes": [
       "daeron-530",
+      "ab89",
+      "kitto",
       "katz-guide"
      ]
     },
@@ -1758,12 +1899,14 @@
      "event": "1837-safed",
      "place_he": "צפת",
      "status": "reported+found",
-     "evidence": "העיר נחרבה, אלפי הרוגים; רוב הנזק מגלישות קרקע",
+     "evidence": "העיר נחרבה, 2,158 הרוגים לפי אמברייזיס; נזק מחוסר יציבות קרקע וגלישות",
      "footnotes": [
       "zohar16",
       "thomson-436",
       "thomson-438",
       "pasha",
+      "ambraseys-933",
+      "ambraseys-924",
       "katz"
      ]
     },
@@ -1818,43 +1961,8 @@
      "status": "reported",
      "evidence": "העיר נחרבה ברעידה הראשונה",
      "footnotes": [
-      "daeron-530"
-     ]
-    }
-   ]
-  },
-  {
-   "geonameid": "7117228",
-   "name_gn": "Caesarea",
-   "lat": 32.5189,
-   "lon": 34.9046,
-   "place_he": "קיסריה",
-   "entries": [
-    {
-     "event": "0363-galilee",
-     "place_he": "קיסריה",
-     "status": "reported",
-     "evidence": "חלק ממנה נהרס לפי האיגרת",
-     "footnotes": [
-      "levenson66"
-     ]
-    },
-    {
-     "event": "1759-galilee-lebanon",
-     "place_he": "קיסריה",
-     "status": "reported",
-     "evidence": "נזק דווח ברעידה השנייה",
-     "footnotes": [
-      "zohar16"
-     ]
-    },
-    {
-     "event": "1834-jerusalem",
-     "place_he": "קיסריה",
-     "status": "reported",
-     "evidence": "דיווחים על נזק",
-     "footnotes": [
-      "zohar16"
+      "daeron-530",
+      "ab89"
      ]
     }
    ]
@@ -1911,19 +2019,20 @@
       "zohar16s",
       "zohar16",
       "zohar17",
-      "amiran"
+      "alfonsi-t1",
+      "ngdc"
      ]
     },
     {
      "event": "1068-near-east",
      "place_he": "רמלה",
      "status": "reported",
-     "evidence": "כ-15,000 הרוגים, ובהם 200 ילדים בבית ספר",
+     "evidence": "כ-15,000 הרוגים לפי סיכומים (\"נראה מוגזם\"), ובהם 200 ילדים",
      "footnotes": [
       "zohar16s",
       "zohar17",
       "ama",
-      "abdel"
+      "kentor"
      ]
     },
     {
@@ -1947,8 +2056,8 @@
     {
      "event": "1759-galilee-lebanon",
      "place_he": "רשאיה",
-     "status": "found",
-     "evidence": "תלמים ומדרגות טריים על השבר, קושרו ל-1759",
+     "status": "doubtful",
+     "evidence": "תלמים ומדרגות טריים; נמר: אולי סדרת 1759, לא קביעה",
      "footnotes": [
       "daeron-530",
       "nemer"
@@ -1977,11 +2086,12 @@
      "event": "1033-jordan-valley",
      "place_he": "שכם",
      "status": "reported",
-     "evidence": "לפי סיכומים משניים מחצית העיר נהרסה ו-300 מתו",
+     "evidence": "לפי סיכומים משניים מחצית הבניינים קרסו וכ-300 מתו",
      "footnotes": [
       "zohar16",
       "zohar17",
-      "amiran"
+      "alfonsi-t1",
+      "ngdc"
      ]
     },
     {
@@ -2072,7 +2182,7 @@
      "event": "1759-galilee-lebanon",
      "place_he": "תל עתרת",
      "status": "found",
-     "evidence": "חומות זזו כחצי מטר; קריעה חצתה מסגד; תיארוך שנוי",
+     "evidence": "חומות זזו כחצי מטר; קריעה חצתה מסגד; תיארוך 1759 או 1837 שנוי",
      "footnotes": [
       "marco-guide",
       "daeron-529",

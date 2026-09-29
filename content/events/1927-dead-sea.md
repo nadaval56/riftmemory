@@ -16,7 +16,7 @@ date:
 location:
   lat: null
   lon: null
-  description: צפון ים המלח, לפי שפירא, אבני ונור 1993 וזוהר ומרקו 2012. המיקום עדיין שנוי במחלוקת.
+  description: צפון ים המלח, לפי שפירא, אבני ונור 1993 ואבני ועמיתיו 2002. זוהר ומרקו 2012 מציעים מוקד בין הצעה זו להצעה הישנה ליד גשר אדם. המיקום עדיין שנוי במחלוקת.
   segment: dead-sea
   distant: false
   wikipedia_coords:
@@ -32,7 +32,7 @@ magnitude:
   note: 'ML 6.25 לפי אבני 1999 (זוהר ועמיתיו 2014). ML 6.2 לפי שפירא, אבני ונור 1993 ובן-מנחם ועמיתיו 1976. 6.3 לפי מיגובסקי ועמיתיו 2004. זוהר ועמיתיו 2016 מחשבים ממוצע 6.25. קטלוג ISC-GEM נותן Mw 6.3 (לא נבדק בקטלוג).'
 impact:
   deaths: 285
-  deaths_note: '285 לפי דוח ממשלת המנדט, כפי שהביא אותו אבני 1999 (לא נבדק במקור). זוהר ועמיתיו 2016: "כ-300 נפגעים". מקורות משניים מאוחרים מביאים עד 400 ועד 500.'
+  deaths_note: '285 לפי דוח ממשלת המנדט, כפי שהביא אותו אבני 1999 (לא נבדק במקור). זוהר ועמיתיו 2016: "כ-300 נפגעים". זוהר ומרקו 2012 (עמ׳ 19): ההערכות נעות בין 250 ל-500 הרוגים ובין 400 ל-700 פצועים (לפי Amiran et al. 1994 ואבני 1999). מקורות משניים מאוחרים מביאים עד 400 ועד 500.'
   injured: 940
   places:
   - ירושלים
@@ -59,16 +59,16 @@ sources:
   url: https://doi.org/10.1016/j.tecto.2016.12.015
 - label: 'A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
-- label: 'רון אבני, רעידת האדמה של שנת 1927: מחקר מאקרוסייסמי על בסיס מקורות התקופה, עבודת דוקטור, אוניברסיטת בן-גוריון, 1999 (TODO: לבדוק במקור)'
+- label: 'רון אבני, רעידת האדמה של שנת 1927: מחקר מאקרוסייסמי על בסיס מקורות התקופה, עבודת דוקטור, אוניברסיטת בן-גוריון, 1999. בשם האנגלי, לפי זוהר ומרקו 2012: The 1927 Jericho Earthquake. Comprehensive Macroseismic Analysis Based on Contemporary Sources (בעברית) (TODO: לבדוק במקור)'
 - label: 'A. Shapira, R. Avni, A. Nur, "A new estimate for the epicenter of the Jericho earthquake of 11 July 1927", Israel Journal of Earth Sciences 42 (1993), pp. 93–96 (TODO: לבדוק במקור)'
   url: http://zadok.org/research/1927/new-epicenter.html
-- label: 'R. Avni, D. Bowman, A. Shapira, A. Nur, "Erroneous interpretation of historical documents related to the epicenter of the 1927 Jericho earthquake in the Holy Land", Journal of Seismology 6(4) (2002), pp. 469–476 (TODO: לבדוק במקור)'
+- label: 'R. Avni, D. Bowman, A. Shapira, A. Nur, "Erroneous interpretation of historical documents related to the epicenter of the 1927 Jericho earthquake in the Holy Land", Journal of Seismology 6(4) (2002), pp. 469–476 (הפרטים אומתו ברשימת המקורות של זוהר ומרקו 2012. TODO: לבדוק במקור את התוכן)'
   url: https://doi.org/10.1023/A:1021191824396
-- label: 'M. Zohar and S. Marco, "Re-estimating the epicenter of the 1927 Jericho earthquake using spatial distribution of intensity data", Journal of Applied Geophysics 82 (2012), pp. 19–29 (TODO: לבדוק במקור)'
+- label: 'M. Zohar and S. Marco, "Re-estimating the epicenter of the 1927 Jericho earthquake using spatial distribution of intensity data", Journal of Applied Geophysics 82 (2012), pp. 19–29'
   url: https://doi.org/10.1016/j.jappgeo.2012.03.004
-- label: 'M. Vered and H. L. Striem, "A macroseismic study and the implications of structural damage of two recent major earthquakes in the Jordan Rift", Bulletin of the Seismological Society of America 67(6) (1977), pp. 1607–1613 (TODO: לבדוק במקור)'
-- label: 'B. Willis, "Earthquakes in the Holy Land", Bulletin of the Seismological Society of America 18 (1928), pp. 72–103 (TODO: לבדוק במקור)'
-- label: 'ISC, ISC-GEM Global Instrumental Earthquake Catalogue (1900–2009), גרסה 2.0, 2015, אירוע 909378 (TODO: לבדוק בקטלוג)'
+- label: 'M. Vered and H. L. Striem, "A macroseismic study and the implications of structural damage of two recent major earthquakes in the Jordan Rift", Bulletin of the Seismological Society of America 67(6) (1977), pp. 1607–1613 (TODO: לבדוק במקור. המיקום שהציעו מובא אצל זוהר ומרקו 2012, עמ׳ 20)'
+- label: 'B. Willis, "Earthquakes in the Holy Land", Bulletin of the Seismological Society of America 18 (1928), pp. 72–103 (כך אצל זוהר ועמיתיו 2014 ואצל זוהר ומרקו 2012; יש שמביאים עמ׳ 73–103. TODO: לבדוק במקור)'
+- label: 'ISC, ISC-GEM Global Instrumental Earthquake Catalogue, אירוע 909378. הקטלוג מכסה כיום את השנים 1904–2021 ויצא בכמה גרסאות (דף המבוא באתר ה-ISC, נקרא בספטמבר 2026). TODO: לבדוק בקטלוג את נתוני האירוע ולציין את הגרסה'
   url: http://www.isc.ac.uk/iscgem/index.php
 - label: 'רון אבני, דן באומן, אבי שפירא ועמוס נור, "מיקום רעידת האדמה של ה-11 יולי 1927 בארץ ישראל – אנטומיה של טעות", אופקים בגאוגרפיה 53 (2001), עמ׳ 85–94 (TODO: לבדוק במקור)'
 - label: 'דואר היום, 12 ביולי 1927, "רעש גדול בארץ ישראל", עמ׳ 2 (TODO: לבדוק במקור)'
@@ -88,13 +88,14 @@ review_notes:
 - 'places: נוספו חברון, בית לחם, עמאן וכרך לפי זוהר ועמיתיו 2016 (טבלה 3) ו-2017 (עמ׳ 11).'
 - 'אימות ציטוטים (ספטמבר 2026): הציטוט מ"דואר היום" (דרך ויקיפדיה העברית) הוסר מהטקסט הגלוי ונשמר בהערה נסתרת. העיתון לא נקרא, והנוסח לא מופיע אצל זוהר ועמיתיו 2014, שמביאים רק את הכותרת והתאריך ברשימת המקורות. יומן שלם ומכתב עגנון נשארו פרפרזה עם TODO: אין בידינו מחקר שמביא אותם.'
 - 'הדף נכתב מחדש לקריאות: פתיחה בשעה 15:04, פרק נפרד על הנזק שלא התחלק לפי המרחק, שמות חוקרים ורשימות עברו להערות.'
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) זוהר ומרקו 2012 נקרא במלואו; הוסר ה-TODO. תוקן: לפני, "מחקר מ-2012 הגיע לאותו אזור [כמו 1993] בשיטה אחרת". אחרי: התוצאה שלהם נמצאת בין שתי ההצעות, כ-35 ק"מ צפונית למוקד של אבני ועמיתיו 2002 וכ-25 ק"מ דרומית למוקד ליד גשר אדם, והם כותבים במפורש שאינם מכריעים ביניהן (עמ׳ 23–25). תוקן: המרחק של כ-50 ק"מ דרומה מיוחס אצלם לאבני ועמיתיו 2002, לא למחקר מ-1993 (עמ׳ 20); הוא הועבר. תוקן: ההצעה ליד גשר אדם יוחסה ל"מכוני מחקר באירופה" (דרך ויקיפדיה); אצל זוהר ומרקו היא של בן-מנחם ועמיתיו 1976 ושל ורד ושטרים 1977. נוסף מה שזוהר ומרקו מספרים על הטעות שזיהו אבני ועמיתיו (פרשנות שגויה של סייסמוגרמות) ועל טווח ההרוגים 250–500. (2) ISC-GEM: נקרא רק דף המבוא. נתוני האירוע (Mw 6.3, עומק 15 ק"מ) עדיין לא נבדקו; הכינוי "גרסה 2.0, 2015 (1900–2009)" הוסר מהתווית, כי הקטלוג מכסה כיום את 1904–2021. (3) Willis 1928: זוהר ומרקו נותנים עמ׳ 72–103, כמו זוהר ועמיתיו 2014; המאמר עצמו לא נבדק. (4) החלטה לנדב: זוהר ומרקו מביאים קואורדינטות לשלוש ההצעות (ראו הערה נסתרת בפרק "מה המדע אומר"). location.lat/lon נשארו null.'
 ---
 
 ## הסיפור
 
 יום שני, 11 ביולי 1927, ארבע דקות אחרי שלוש אחר הצהריים. האדמה רעדה ברוב חלקי ארץ ישראל ועבר הירדן. המוקד, לפי המחקרים המאוחרים, היה בצפון ים המלח, כשלושים קילומטר מזרחית לירושלים.[^zohar14-912] נזק נרשם בעשרות רבות של יישובים, משכם וצפת בצפון ועד חברון ובאר שבע בדרום, ומיפו ותל אביב במערב ועד עמאן וא-סלט במזרח.[^zohar16] הנזק התפרש על כ-200 קילומטר מצפון לדרום.[^zohar17-3]
 
-זו הייתה הרעידה ההרסנית הראשונה בארץ שנרשמה במכשירים.[^zohar17-3] 285 בני אדם נהרגו וכ-940 נפצעו, בארץ ישראל ובעבר הירדן יחד. אלה המספרים בדוח של מזכיר ממשלת המנדט.[^avni-18] זוהר ועמיתיו כותבים על כ-300 נפגעים, ומקורות מאוחרים יותר מביאים עד 500 הרוגים.[^zohar16s][^higher]
+זו הייתה הרעידה ההרסנית הראשונה בארץ שנרשמה במכשירים.[^zohar17-3] 285 בני אדם נהרגו וכ-940 נפצעו, בארץ ישראל ובעבר הירדן יחד. אלה המספרים בדוח של מזכיר ממשלת המנדט.[^avni-18] זוהר ועמיתיו כותבים על כ-300 נפגעים. זוהר ומרקו מביאים טווח של 250 עד 500 הרוגים ו-400 עד 700 פצועים, ומקורות מאוחרים יותר מביאים עד 500 הרוגים.[^zohar16s][^zm12-19][^higher]
 
 ביריחו קרס מלון "ארמון החורף", שנבנה זמן קצר לפני כן, ונהרגו בו שלוש תיירות.[^winter-palace] בירושלים נפגעה קשה כיפת הקתוליקון בכנסיית הקבר, עד שהמהנדסים המליצו לפרק אותה ולבנות אותה מחדש.[^zohar14-914] הנציב העליון הורה כמעט מיד למחלקת העבודות הציבוריות לסקור את הנזק ולהמליץ על תיקונים.[^zohar14-912]
 
@@ -141,11 +142,14 @@ review_notes:
 
 איפה בדיוק היה המוקד? על זה נחלקו החוקרים עשרות שנים:
 
-- **ליד גשר אדם (דמיה).** כך מיקמו אותו מכוני מחקר באירופה לפי הסייסמוגרמות.[^vered]
-- **צפון ים המלח.** מחקר מ-1993 העביר את המוקד לצפון ים המלח, כ-50 קילומטר דרומית למיקום הקודם.[^shapira] מחקר מ-2012 הגיע לאותו אזור בשיטה אחרת, לפי הפיזור המרחבי של נתוני העוצמה.[^zohar14-912] לפי מה שידוע לנו, כבר נתן שלם, שחקר את הרעידה בשטח, הציע מוקד כ-30 קילומטר דרומית לגשר אדם.[^shalem-agnon] מאמר מ-2002 עוסק, לפי כותרתו, בפרשנות שגויה של מסמכים היסטוריים בנוגע למוקד.[^avni02]
+- **ליד גשר אדם (דמיה).** כך הציעו בן-מנחם ועמיתיו (1976) וורד ושטרים (1977).[^zm12-20][^vered]
+- **צפון ים המלח.** מחקר מ-1993 העביר את המוקד לצפון ים המלח.[^shapira] אבני ועמיתיו (2002) זיהו, לפי זוהר ומרקו, פרשנות שגויה של הסייסמוגרמות, והציעו מוקד כ-50 קילומטר דרומית למיקום הקודם וכ-10 קילומטר מערבית לו.[^zm12-20][^avni02] לפי מה שידוע לנו, כבר נתן שלם, שחקר את הרעידה בשטח, הציע מוקד כ-30 קילומטר דרומית לגשר אדם.[^shalem-agnon]
+- **בין שתי ההצעות.** זוהר ומרקו (2012) ניסו שיטה אחרת: הם תיקנו את נתוני העוצמה של אבני לפי תנאי המקום, כמו איכות הבנייה, שיפוע הקרקע, עומק מי התהום וסוג הסלע, ובדקו איזה מוקד מתאים להם ביותר. התוצאה נפלה באזור צפון ים המלח, כ-35 קילומטר צפונית למוקד של אבני ועמיתיו וכ-25 קילומטר דרומית למוקד ליד גשר אדם. לדבריהם, השיטה מתיישבת עם שתי ההצעות הקודמות, בטעות אפשרית של עד 50 קילומטר, ולא נועדה להכריע ביניהן.[^zm12-24]
 - **אין הכרעה.** סקירה מ-2014 קבעה שאי אפשר לקבוע בוודאות איזה מהמוקדים שהוצעו הוא הנכון.[^aldersons]
 
-<!-- TODO: מקור. לבדוק את Aldersons & Ben-Avraham 2014 ישירות, וגם את Avni et al. 2002 (מה בדיוק הייתה הטעות). -->
+<!-- TODO: מקור. לבדוק את Aldersons & Ben-Avraham 2014 ישירות, וגם את Avni et al. 2002 עצמו. בכותרת המאמר מדובר ב"מסמכים היסטוריים", ואצל זוהר ומרקו (עמ' 20) ב"סייסמוגרמות". -->
+<!-- ההצעה ליד גשר אדם יוחסה בגרסה הקודמת ל"מכוני מחקר באירופה" (דרך ויקיפדיה). לא נמצא לכך מקור, והנוסח הוחלף. -->
+<!-- קואורדינטות: זוהר ומרקו 2012 מביאים 32.0 צפון, 35.5 מזרח (גשר אדם), 31.6 צפון, 35.4 מזרח (אבני ועמיתיו 2002), ובערך 31.8 צפון, 35.5 מזרח (התוצאה שלהם). location.lat/lon נשארו null עד החלטת נדב. -->
 <!-- TODO: מקור. לבדוק בקטלוג ISC-GEM (אירוע 909378) את המוקד המחושב. תוצאת חיפוש אחת הזכירה מוקד ב-31.92 צפון, 35.56 מזרח, בלי שברור מאיזה מחקר. -->
 
 ## מקורות וקריאה נוספת
@@ -168,6 +172,7 @@ review_notes:
 [^zohar14-920]: Zohar, Rubin and Salamon 2014, עמ׳ 920–921, בהפניה ל-Avni 1999.
 [^zohar14-refs]: Zohar, Rubin and Salamon 2014, רשימת המקורות, עמ׳ 922: B. Willis, "To the acting High Commissioner Lt-Col. G.S Symes", 1927; B. Willis, "Earthquakes in the Holy Land", *BSSA* 18 (1928), pp. 72–103.
 [^zohar14-refs-press]: Zohar, Rubin and Salamon 2014, רשימת המקורות: "The earthquake", *Doar Hayom*, 12 July 1927; "The earthquake in Eretz Israel", *Davar*, 12 ו-13 July 1927; "The earthquake in Eretz Israel", *Haaretz*, 12 July 1927; "The earthquake in Palestine", *Times*, 15 July 1927.
+[^zm12-19]: Zohar and Marco 2012, עמ׳ 19, בהפניה ל-Amiran et al. 1994 ול-Avni 1999: "Estimations of casualties range between 250–500 death and 400–700 injuries".
 [^zohar16]: M. Zohar, A. Salamon and R. Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985, טבלה 3, עמ׳ 979. שם: ML 6.2 (Shapira, Avni and Nur 1993; Ben-Menahem et al. 1976), 6.3 (Migowski et al. 2004), בממוצע 6.25.
 [^zohar16s]: Zohar, Salamon and Rubin 2016, נספח אלקטרוני, נספח A, רשומה 71, עמ׳ 15, בהפניה ל-Ken-Tor et al. 2001 ול-Migowski et al. 2004. שם גם: "כ-300 נפגעים".
 [^zohar17-3]: M. Zohar, A. Salamon and R. Rubin, *Tectonophysics* 696–697 (2017), pp. 1–13, עמ׳ 3 וטבלה 1 (עמ׳ 5).
@@ -179,8 +184,10 @@ review_notes:
 [^higher]: מקורות משניים מאוחרים מביאים 400 ו-500 הרוגים. TODO: מקור. <!-- הגיע דרך ויקיפדיה האנגלית: 400 לפי JTA, 500 לפי NGDC -->
 [^winter-palace]: TODO: מקור. <!-- הגיע דרך ויקיפדיה העברית (מברק הקונסול האמריקני) והאנגלית (זיכרונות השוטר דאגלס דאף). שם: שלוש תיירות מהודו -->
 [^shalem-agnon]: TODO: מקור. <!-- הגיע דרך ויקיפדיה העברית, בלי הפניה ליומן שלם או למכתב עגנון -->
-[^vered]: M. Vered and H. L. Striem, *BSSA* 67(6) (1977), שקיבלו גם הם את המיקום הזה. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית והאנגלית -->
-[^shapira]: A. Shapira, R. Avni and A. Nur, *Israel Journal of Earth Sciences* 42 (1993), עמ׳ 93–96; רון אבני, 1999, עמ׳ 20–22. המוקד בצפון ים המלח מאושר גם אצל Zohar, Rubin and Salamon 2014, עמ׳ 912. המרחק של כ-50 קילומטר: TODO: לבדוק במקור. <!-- המרחק הגיע דרך ויקיפדיה העברית -->
-[^avni02]: R. Avni, D. Bowman, A. Shapira and A. Nur, *Journal of Seismology* 6 (2002), עמ׳ 469–476. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה האנגלית; הפירוש לפי כותרת המאמר בלבד -->
+[^vered]: M. Vered and H. L. Striem, *BSSA* 67(6) (1977), pp. 1607–1613. המאמר עצמו לא נקרא (TODO: לבדוק במקור); ההצעה שלהם מובאת אצל זוהר ומרקו 2012, עמ׳ 20.
+[^zm12-20]: M. Zohar and S. Marco, "Re-estimating the epicenter of the 1927 Jericho earthquake using spatial distribution of intensity data", *Journal of Applied Geophysics* 82 (2012), pp. 19–29, עמ׳ 20: בן-מנחם ועמיתיו (1976) וורד ושטרים (1977) הציעו מוקד ליד גשר דמיה (32.0 צפון, 35.5 מזרח); אבני ועמיתיו (2002) "identified erroneous interpretation of seismograms" והציעו 31.6 צפון, 35.4 מזרח, "some 50 km south and 10 km west of the previous estimate".
+[^zm12-24]: Zohar and Marco 2012, עמ׳ 20–22 (תיקון העוצמות לפי תנאי המקום, לפי נתוני העוצמה של Avni 1999), עמ׳ 23 (התוצאה: כ-35 ק"מ צפונית למוקד של Avni et al. 2002 וכ-25 ק"מ דרומית לזה של Ben Menahem et al. 1976; בתקציר: בקירוב 31.8 צפון, 35.5 מזרח) ועמ׳ 24–25 (המסקנה: "it is not aimed at distinguishing between these former calculations").
+[^shapira]: A. Shapira, R. Avni and A. Nur, *Israel Journal of Earth Sciences* 42 (1993), עמ׳ 93–96; רון אבני, 1999, עמ׳ 20–22. המוקד בצפון ים המלח מאושר גם אצל Zohar, Rubin and Salamon 2014, עמ׳ 912. המאמר מ-1993 עצמו לא נקרא (TODO: לבדוק במקור).
+[^avni02]: R. Avni, D. Bowman, A. Shapira and A. Nur, "Erroneous interpretation of historical documents related to the epicenter of the 1927 Jericho earthquake in the Holy Land", *Journal of Seismology* 6 (2002), עמ׳ 469–476. המאמר עצמו לא נקרא (TODO: לבדוק במקור); תוכנו כאן לפי זוהר ומרקו 2012, עמ׳ 20.
 [^aldersons]: Aldersons and Ben-Avraham, 2014. TODO: לבדוק במקור, כולל כותרת ובמה. <!-- הגיע דרך ויקיפדיה העברית -->
-[^iscgem]: ISC-GEM Global Instrumental Earthquake Catalogue, גרסה 2.0, 2015, אירוע 909378: Mw 6.3, עומק כ-15 קילומטר. TODO: לבדוק בקטלוג. <!-- הגיע דרך ויקיפדיה האנגלית -->
+[^iscgem]: ISC-GEM Global Instrumental Earthquake Catalogue, אירוע 909378: Mw 6.3, עומק כ-15 קילומטר. TODO: לבדוק בקטלוג. דף המבוא של הקטלוג נקרא, ואין בו נתוני אירועים; לפיו הקטלוג מכסה כיום את השנים 1904–2021, כך שהכינוי "גרסה 2.0, 2015" מיושן. <!-- הערכים הגיעו דרך ויקיפדיה האנגלית -->

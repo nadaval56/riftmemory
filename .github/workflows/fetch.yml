@@ -48,7 +48,7 @@ jobs:
       - name: texts
         if: contains(steps.task.outputs.tasks, 'texts')
         run: |
-          sudo apt-get install -y -qq poppler-utils >/dev/null
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr >/dev/null
           python scripts/fetch_research.py data/raw/texts .github/text-urls.txt
 
       - name: gsi-probe

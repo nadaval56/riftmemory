@@ -1,7 +1,4 @@
-# טקסטים פתוחים בלבד. slug url   (סבב 5: הסברים על מדידת רעידות, USGS – נחלת הכלל)
-usgs-magnitude-energy https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity
-usgs-glossary https://earthquake.usgs.gov/learn/glossary/
-usgs-magnitude-types https://www.usgs.gov/programs/earthquake-hazards/magnitude-types
-usgs-science-earthquakes https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes
-gsi-last-earthquakes https://eq.gsi.gov.il/heb/earthquake/lastEarthquakes.php
-gsi-seismic-network https://eq.gsi.gov.il/heb/about/network.php
+# טקסטים פתוחים בלבד (CC BY). slug url   (סבב 4ג: PDF סרוקים, עם OCR)
+abdelfattah1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3831/3895
+ambraseys1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3887/3952
+papazachos1996 https://www.annalsofgeophysics.eu/index.php/annals/article/download/4023/4088

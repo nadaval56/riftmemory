@@ -27,7 +27,7 @@ magnitude:
   - 7.2
   type: estimated-historical
   basis: historical-estimate
-  note: 'אין מדידה. זוהר, סלמון ורובין (2016, טבלה 3) מרכזים את ההערכות שפורסמו: 6 עד 6.5 (קרץ 2004), 6.7 (Migowski ואחרים 2004), 6.7 (בן-מנחם 1991), 7 (בן-מנחם 1979), 7 (Turcotte ו-Arieh 1988). הממוצע שלהם 6.7, בדרגה "חזקה". לפי הקטלוג של ויליאמס, Kagan ואחרים (2011) העריכו 7.2 (TODO: לבדוק במקור). הטווח כאן מכסה את כל ההערכות.'
+  note: 'אין מדידה. זוהר, סלמון ורובין (2016, טבלה 3) מרכזים את ההערכות שפורסמו: 6 עד 6.5 (קרץ 2004), 6.7 (Migowski ואחרים 2004), 6.7 (בן-מנחם 1991), 7 (בן-מנחם 1979), 7 (Turcotte ו-Arieh 1988). הממוצע שלהם 6.7, בדרגה "חזקה". Kagan ואחרים (2011, עמ׳ 17–18) קבעו 7.2, בהנחה שנקרע מקטע בקעת הירדן כולו. הטווח כאן מכסה את כל ההערכות.'
 impact:
   deaths: null
   deaths_note: 'יוסף בן מתתיהו נותן שני מספרים: "מלחמות היהודים" (א, יט, ג) 30,000 הרוגים, ו"קדמוניות היהודים" (טו, ה, ב) כ-10,000 שנספו במפולת בתים (נבדק בתרגום Whiston). זוהר ואחרים (2016) רואים במספרים הגזמה, בעקבות אמברייזיס (2009), ברושי (1982) ומזר (1982).'
@@ -48,15 +48,15 @@ sources:
   url: https://doi.org/10.1016/j.tecto.2016.12.015
 - label: 'Amos Salamon et al., "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
-- label: 'Iaakov Karcz, "Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land", Annals of Geophysics 47 (2–3) (2004), pp. 759–792 (TODO: לבדוק במקור את הפרטים)'
+- label: 'Iaakov Karcz, "Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land", Annals of Geophysics 47 (2–3) (2004), pp. 759–792'
   url: https://doi.org/10.4401/ag-3334
 - label: 'Iaakov Karcz and Uri Kafri, "Evaluation of supposed archaeoseismic damage in Israel", Journal of Archaeological Science 5 (1978), pp. 237–253 (TODO: לבדוק במקור)'
   url: https://www.academia.edu/18966370/Evaluation_of_supposed_archaeoseismic_damage_in_Israel
-- label: 'R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco and J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", Journal of Geophysical Research 106 (B2) (2001), pp. 2221–2234 (TODO: לבדוק במקור)'
+- label: 'R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco and J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", Journal of Geophysical Research 106 (B2) (2001), pp. 2221–2234'
   url: https://doi.org/10.1029/2000JB900313
-- label: 'N. Wechsler et al., "A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.", Bulletin of the Seismological Society of America 104 (3) (2014) (TODO: לבדוק במקור)'
+- label: 'N. Wechsler, T. K. Rockwell, Y. Klinger, P. Štěpančíková, M. Kanari, S. Marco, A. Agnon, "A Paleoseismic Record of Earthquakes for the Dead Sea Transform Fault between the First and Seventh Centuries C.E.: Nonperiodic Behavior of a Plate Boundary Fault", Bulletin of the Seismological Society of America 104 (3) (2014). נקרא בגרסה המוקדמת (BSSA Early Edition), שעמודיה ממוספרים 1–19'
   url: https://doi.org/10.1785/0120130304
-- label: 'E. Kagan, M. Stein, A. Agnon and F. Neumann, "Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea", Journal of Geophysical Research 116 (2011), B04311 (TODO: לבדוק במקור)'
+- label: 'E. Kagan, M. Stein, A. Agnon and F. Neumann, "Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea", Journal of Geophysical Research 116 (2011), B04311'
   url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JB007452
 - label: 'Jefferson B. Williams, Markus J. Schwab and Achim Brauer, "An early first-century earthquake in the Dead Sea", International Geology Review 54 (10) (2012), pp. 1219–1228 (TODO: לבדוק במקור)'
   url: https://doi.org/10.1080/00206814.2011.639996
@@ -80,6 +80,8 @@ review_notes:
 - 'אימות ציטוטים (ספטמבר 2026) מול Whiston (Project Gutenberg): שני הציטוטים העבריים הקודמים (מלחמות א, 370 דרך ספרו של אברהם נגב, וקדמוניות דרך ויקיפדיה) הוחלפו בתרגום שלנו מ-Whiston. נגב הוסר מהמקורות, כי שימש רק כצינור לציטוט. אומתו ישירות בטקסט: השנה השביעית להורדוס, אקטיום, "בתחילת האביב" (מלחמות), הבקר, 30,000 (מלחמות) מול כעשרת אלפים (קדמוניות), הצבא בשדה לא נפגע, הריגת השליחים היהודים בידי הערבים. בקדמוניות אין ציון עונה, רק "בזמן הזה" של קרב אקטיום; הטענה שהקדמוניות מדברות על סתיו אינה נמצאת בטקסט.'
 - 'שכתוב לקריאוּת (ספטמבר 2026): פתיחה בסצנה של מחנה הורדוס, פרטי קטלוג הועברו להערות.'
 - 'magnitude.range נשאר 6.0–7.2. הערך 7.2 (Kagan ואחרים 2011) עדיין נשען על מקור משני.'
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) Ken-Tor ועמיתיו 2001 נקרא במלואו; הוסר ה-TODO. אומת: שכבה B בטרסת צאלים, 50 לפנה״ס עד 230 לספירה (טבלה 2, עמ׳ 2227), שנמצאת גם בדלתת נחל דרגה. תוקן: לפני, "החוקרים שתיארכו אותה דיווחו גם על קרע אפשרי לאורך העתק יריחו". אחרי: הם מביאים קרע ליד יריחו שחוקרים קודמים (Reches and Hoexter 1981) קשרו לרעידה, ומסיקים שהמוקד היה על העתק יריחו, "trusting the extensive historical records, despite their antiquity" (עמ׳ 2229). (2) Kagan ועמיתיו 2011 נקרא במלואו; הוסר ה-TODO. אומת ה-7.2 (עמ׳ 17–18), עם תיקון: לא "המקטע הדרומי של בקעת הירדן" אלא מקטע בקעת הירדן, 110 ק"מ, בהנחה שהקרע ליד יריחו שייך לרעידה ("tentatively"). נוסף: השכבה של 31 לפנה״ס מופיעה בשלושת האתרים באגן (עמ׳ 1, 11). ההפניה ל-deadseaquake.info בשביל הערך הזה הוסרה. (3) Wechsler ועמיתיו 2014 נקרא (גרסה מוקדמת); הוסר ה-TODO. תוקן: לפני, האירוע (392 לפנה״ס עד 91 לספירה) הוצג בפסקה על ים המלח, כמתאים "גם לרעידה אחרת שלא תועדה". אחרי: זה קרע בעמק בית צידה, מצפון לכנרת, והמועמדים האחרים הם רעידות מתועדות מ-92 לפנה״ס ומאמצע המאה השנייה לפנה״ס (עמ׳ 14–15, טבלה 3). (4) Karcz 2004, Karcz and Kafri 1978 ו-Williams ועמיתיו 2012 לא נקראו; הטקסט המלא של Karcz עדיין לא הגיע.'
+- 'אימות מקורות, סבב שני (ספטמבר 2026): Karcz 2004 נקרא במלואו (פרק 6, עמ׳ 774–778); הוסר ה-TODO מהתווית ומההערה [^karcz], ונוספו עמודים. אומתו: 6 עד 6.5 (עמ׳ 778); ארבעת הנימוקים לחשד בהיקף הנזק (עמ׳ 774–775); הספרות החיצונית, התלמוד והמגילות (עמ׳ 776–777); מלאלאס (עמ׳ 775–776); קומראן (עמ׳ 777–778). תוקן: לפני, "מקורות יהודיים קדומים הגדילו את עוצמתן של רעידות". אחרי: לפי קרץ, חוקרים השתמשו במקורות יהודיים כדי לייחס לרעידות עוצמה גבוהה (התקציר: "use and misuse of local Judaic sources"). תוקן: לפני, "רוב החיפוש לא העלה ממצאים". אחרי: "קלושה במקרה הטוב", עם הפרטים (מצדה, עינות צוקים, עין בוקק). תוקן: לפני, טבריה נוסדה "בשנות העשרים של המאה הראשונה". אחרי: ב-18 לספירה, כלשון קרץ. נוספו: עמדת קרץ נגד הזיהוי של סלמיס עם קפריסין, סקר המכ"ם בקומראן, וקריאתו את "יהודה" כממלכת יהודה המצומצמת, מול ההצעה של זוהר ועמיתיו למוקד צפוני יותר.'
 ---
 
 ## הסיפור
@@ -102,9 +104,9 @@ review_notes:
 
 בספר אחד שלושים אלף הרוגים, ובשני כעשרת אלפים. "מלחמות היהודים" מציין את תחילת האביב, וב"קדמוניות" יש רק "בזמן הזה" של קרב אקטיום.[^war][^ant] החוקרים קוראים את המספרים בזהירות. זוהר וחבריו מביאים את המספר 30,000 ומציינים שאמברייזיס (2009) הטיל בו ספק חמור. הם מזכירים גם את מגן ברושי (1982), שקבע שהאירועים שיוסף בן מתתיהו מתאר כנראה קרו, אבל המספרים שלו מוגזמים לעיתים קרובות.[^zohar974]
 
-יעקב קרץ (2004) הלך רחוק יותר. הוא הביא את הרעידה כאחד מארבעה מקרים שבהם, לדבריו, מקורות יהודיים קדומים הגדילו את עוצמתן של רעידות היסטוריות, והעריך שזו הייתה רעידה מתונה.[^karczabs][^salamon] הוא מונה כמה סיבות לחשוד בהיקף שהמקור מתאר: יוסף בן מתתיהו אינו מזכיר אף יישוב שנהרס; הצבא בשדה לא נפגע, וגם הצבא הנבטי שמעבר לגבול לא הושפע; ובשנה שאחרי הרעידה עבר אוקטביאנוס עם צבאו בארץ בדרכו למצרים ובחזרה, והורדוס קיבל אותו בפאר וסיפק לו אספקה, בלי שאף מקור מספר על הרס בדרך.[^karcz]
+יעקב קרץ (2004) הלך רחוק יותר. הוא הביא את הרעידה כאחד מארבעה מקרים שבהם, לדבריו, מקורות יהודיים קדומים שימשו, לא פעם שלא בצדק, כדי לייחס לרעידות עוצמה הרסנית בארץ. לדעתו, הטקסטים מתארים רעידה מתונה יחסית, בגודל 6 עד 6.5, ולא אסון גדול.[^karczabs][^karcz-778][^salamon] הוא מונה כמה סיבות לחשוד בהיקף שהמקור מתאר: יוסף בן מתתיהו אינו מזכיר אף יישוב שנהרס; הצבא בשדה לא נפגע, אולי לא משום שחנה בשטח הפתוח, שהרי גם העדרים היו בחוץ, אלא משום שהיה רחוק מהמוקד; גם הצבא הנבטי שממזרח לא הושפע; ובשנה שאחרי הרעידה עבר אוקטביאנוס עם צבאו בארץ בדרכו למצרים ובחזרה, והורדוס קיבל אותו בפאר וסיפק לו אספקה, בלי שאף מקור מספר על הרס בדרך.[^karcz]
 
-עוד לפי קרץ, תיאורי רעידות בספרים החיצוניים, בתלמוד ובמגילות מדבר יהודה אינם מתארכים אירוע מסוים, וחלקם משתמשים ברעידה כמטאפורה. לכן אי אפשר לקשור אותם לרעידה של 31 לפנה״ס.[^karcz] הוא מזכיר גם את יוחנן מלאלאס, היסטוריון ביזנטי מהמאה השישית, שמספר על עיר בשם "סלמיס" שנפגעה ונבנתה מחדש בשם "דיוספוליס".[^karcz] זוהר וחבריו מסווגים את הידיעה הזו כמפוקפקת: לפי אמברייזיס, היא כנראה כפילות של רעידה בקפריסין, שבה התבלבלה סלמיס שבקפריסין עם דיוספוליס, היא לוד.[^zoharB]
+עוד לפי קרץ, תיאורי רעידות בספרים החיצוניים, בתלמוד ובמגילות מדבר יהודה אינם מתארכים אירוע מסוים, וחלקם משתמשים ברעידה כמטאפורה. לכן אי אפשר לקשור אותם לרעידה של 31 לפנה״ס.[^karcz-776] הוא מזכיר גם את יוחנן מלאלאס, היסטוריון ביזנטי מהמאה השישית, שמספר על עיר בשם "סלמיס" שנפגעה ונבנתה מחדש בשם "דיוספוליס".[^karcz-776] זוהר וחבריו מסווגים את הידיעה הזו כמפוקפקת: לפי אמברייזיס, היא כנראה כפילות של רעידה בקפריסין, שבה התבלבלה סלמיס שבקפריסין עם דיוספוליס, היא לוד.[^zoharB] קרץ חושב אחרת: מלאלאס הכיר את סלמיס שבקפריסין, ולכן לדעתו לא סביר שמיקם אותה בטעות בארץ. בכל מקרה, הוא מוסיף, גם אם מלאלאס מדבר על אותה רעידה, זה לא משנה את ההערכה לגודלה.[^karcz-776]
 
 ## מה נמצא באדמה
 
@@ -112,25 +114,23 @@ review_notes:
 
 <!-- TODO: הערך הכללי "רעידת אדמה" בוויקיפדיה העברית מזכיר, בלי מקור, הרס של קבר יאסון בירושלים. לבדוק אם זה מופיע אצל Amiran ואחרים 1994 או במקור אחר. -->
 
-**קומראן.** בחורבת קומראן תוארו סדק שחוצה את אחד המקוואות, תקרה שקרסה ונזק למגדל. יש שקשרו אותם לרעידה שמתאר יוסף בן מתתיהו,[^zoharA][^karcz] ויש שהטילו ספק בפירוש הסייסמי.[^zoharA][^karczkafri] לפי קרץ, את אותו נזק אפשר לייחס גם לידי אדם, בשנים הסוערות שבין 67 ל-37 לפנה״ס בערך.[^karcz]
+**קומראן.** בחורבת קומראן תוארו סדק שחוצה את אחד המקוואות, תקרה שקרסה ונזק למגדל. יש שקשרו אותם לרעידה שמתאר יוסף בן מתתיהו,[^zoharA][^karcz] ויש שהטילו ספק בפירוש הסייסמי.[^zoharA][^karczkafri] לפי קרץ, כל אחד מרכיבי העדות הזו התברר כלא חד-משמעי: את הנזק אפשר לייחס לחוסר יציבות של הקרקע והמבנים, לקריסה מאוחרת, או לידי אדם בשנים הסוערות שבין 67 ל-37 לפנה״ס בערך. סקר מכ"ם חודר קרקע שערכו קרץ וא. בק ב-1995 לא מצא לאורך "קו ההעתק" שבאתר תזוזה גדולה מכושר ההפרדה של הסקר.[^karcz]
 
 **דיר חג׳לה.** גם העדות הסייסמית שדווחה ליד דיר חג׳לה, מצפון לים המלח, הוטלה בספק.[^zoharA]
 
-**אתרים אחרים.** לפי קרץ, ארכאולוגים חיפשו נזק מהרעידה גם במצדה, ביריחו, באנתדון, באשקלון, באנטיפטריס ובטבריה, ורוב החיפוש לא העלה ממצאים. בטבריה החיפוש היה שגוי מלכתחילה: העיר נוסדה רק בשנות העשרים של המאה הראשונה לספירה.[^karcz]
+**אתרים אחרים.** לפי קרץ, בעקבות קומראן ייחסו לרעידה נזק גם במצדה וביריחו, באנתדון, באשקלון, באנטיפטריס ובמגדל סטרטון, ולאחרונה גם בטבריה. לדבריו, העדות הארכאולוגית "קלושה במקרה הטוב": סימני הנזק האפשריים במצדה מאוחרים בהרבה, ובעינות צוקים ובעין בוקק, סמוך לקומראן, לא נמצאו סימנים לרעידה של 31 לפנה״ס. בטבריה הייחוס שגוי מלכתחילה: העיר נבנתה רק ב-18 לספירה.[^karcz]
 
-**קרקעית ים המלח.** העדות החזקה ביותר אינה בערים, אלא באגם. בשכבות הדקות של משקעי ים המלח נשמרו שכבות מעוותות (סייסמיטים), שנוצרו כשטלטול חזק ערבב את הבוץ הרך בקרקעית. בערוץ צאלים תוארכה שכבה כזו לטווח שבין 50 לפנה״ס ל-230 לספירה, וקושרה לרעידה הזו.[^zoharA][^kentor] החוקרים שתיארכו אותה דיווחו גם על קרע אפשרי בפני השטח לאורך העתק יריחו.[^kentor] מחקר אחר מצא עדות לאירוע בין 392 לפנה״ס ל-91 לספירה, שיכולה להתאים לרעידה של 31 לפנה״ס, אבל גם לרעידה אחרת שלא תועדה.[^zoharA][^wechsler] מחקרים נוספים באגן, ובהם גלעין קידוח מעין גדי, משתמשים בשכבה המיוחסת לרעידה הזו כנקודת ייחוס.[^williams]
+**קרקעית ים המלח.** העדות החזקה ביותר אינה בערים, אלא באגם. בשכבות הדקות של משקעי ים המלח נשמרו שכבות מעוותות (סייסמיטים), שנוצרו כשטלטול חזק ערבב את הבוץ הרך בקרקעית. בטרסת צאלים, על חוף ים המלח, תוארכה שכבה כזו לטווח שבין 50 לפנה״ס ל-230 לספירה. קן-תור וחבריו, שתיארכו אותה, קשרו אותה לרעידה של 31 לפנה״ס, וזיהו את אותה שכבה גם בדלתת נחל דרגה.[^zoharA][^kentor] מחקר מאוחר יותר מצא שכבה מעוותת שמתאימה לרעידה הזו בשלושה אתרים לאורך האגן: עינות צוקים בצפון, גלעין הקידוח מעין גדי במרכז, וצאלים בדרום. החוקרים מונים אותה בין מעט השכבות שמופיעות בכל שלושת האתרים.[^kagan-11] מחקרים נוספים באגן משתמשים בשכבה המיוחסת לרעידה הזו כנקודת ייחוס.[^williams]
 
-<!-- פרטי Ken-Tor ואחרים על שכבת צאלים ועל העתק יריחו הגיעו דרך ויקיפדיה האנגלית; הטווח 50 לפנה"ס עד 230 לספירה נקרא ישירות בנספח של זוהר ואחרים. -->
+גם מחוץ לאגן יש רמז. בתעלות שנחפרו על העתק ים המלח בעמק בית צידה, מצפון לכנרת, נמצא קרע של פני השטח שתוארך לטווח רחב, בין 392 לפנה״ס ל-91 לספירה. החופרים מעריכים שהוא קרוב לתחילת הטווח המאוחר, סביב ראשית הספירה, ולכן אולי מתאים לרעידה של 31 לפנה״ס. אבל הוא יכול להתאים גם לרעידות מוקדמות יותר שתועדו, מ-92 לפנה״ס או מאמצע המאה השנייה לפנה״ס, שמיקומן לא ברור.[^zoharA][^wechsler]
 
 השכבות מראות שהייתה טלטלה חזקה באגן. הן אינן מראות מה היה היקף הנזק ביישובים, והקישור שלהן לשנה מסוימת נשען על תיארוך בטווח של עשרות שנים.
 
 ## מה המדע אומר
 
-**איפה?** אין הסכמה. זוהר וחבריו משייכים את הרעידה לחלק המרכזי של שבר ים המלח, ומציעים שאזור המוקד היה אולי צפונית ליהודה.[^zoharA] הקרע האפשרי על העתק יריחו מצביע על בקעת הירדן הדרומית, אבל אינו מכריע.[^kentor]
+**איפה?** אין הסכמה. זוהר וחבריו משייכים את הרעידה לחלק המרכזי של שבר ים המלח, ומציעים שאזור המוקד היה אולי צפונית ליהודה.[^zoharA] קרץ קורא את יוסף בן מתתיהו הפוך: מאחר שהצבאות שממזרח לירדן לא נפגעו, "יהודה" שבתיאור היא לדעתו ממלכת יהודה ההיסטורית, המצומצמת, ולא יהודה הגדולה של החשמונאים והרומאים, שכללה גם את הגליל, השומרון והגולן.[^karcz-774] קן-תור וחבריו (2001) הגיעו למסקנה אחרת: ליד יריחו תואר קרע בפני השטח על העתק יריחו, שחוקרים קודמים קשרו לרעידה הזו, ומזה ומהשכבה בצאלים הם הסיקו שהמוקד היה על העתק יריחו, לא רחוק מצאלים. הם כותבים במפורש שהמסקנה נשענת גם על אמון בדיווחים ההיסטוריים, "למרות עתיקותם".[^kentor] קגן וחבריו (2011) מאמצים את זיהוי הקרע ליד יריחו עם 31 לפנה״ס רק בזהירות, ומזכירים שאמברייזיס סבר שהתזוזה שנמדדה שם גדולה מדי ביחס לדיווחים.[^kagan]
 
-**כמה חזקה?** ההערכות שפורסמו נעות בין 6 ל-7, וזוהר וחבריו מחשבים מהן ממוצע של 6.7, רעידה "חזקה" בסיווג שלהם.[^zohar978] סלמון וחבריו (2007) מאמצים במפורש את הערכת קרץ, 6 עד 6.5, כלומר רעידה מתונה.[^salamon] בקצה השני, לפי הקטלוג של ויליאמס, Kagan וחבריו (2011) הגיעו ל-7.2, בהנחה שנקרע המקטע הדרומי של בקעת הירדן.[^dsq][^kagan]
-
-<!-- TODO: לבדוק במאמר של Kagan ואחרים 2011 אם ההערכה 7.2 אכן מופיעה שם ובאיזה תנאי. -->
+**כמה חזקה?** ההערכות שפורסמו נעות בין 6 ל-7, וזוהר וחבריו מחשבים מהן ממוצע של 6.7, רעידה "חזקה" בסיווג שלהם.[^zohar978] סלמון וחבריו (2007) מאמצים במפורש את הערכת קרץ, 6 עד 6.5, כלומר רעידה מתונה.[^salamon] בקצה השני, Kagan וחבריו (2011) קבעו 7.2, בהנחה שנקרע מקטע בקעת הירדן כולו, באורך של כ-110 קילומטר, כמו שדווח לגבי רעידת 749. את הטווח סביב הערך הזה הם מותחים מהערכת המינימום של קרץ ועד המקסימום שאורך הקרע מאפשר.[^kagan]
 
 כל ההערכות האלה הן פרשנות של תיאורים ושל שכבות משקע, לא מדידה. הפער ביניהן משקף את הפער בין המקורות: טקסט שמתאר אסון עם עשרות אלפי הרוגים, ממצא ארכאולוגי שאינו מאשר הרס רחב, ושכבות גיאולוגיות שמעידות על טלטלה באגן ים המלח.[^zohar974][^karcz][^kentor]
 
@@ -142,7 +142,7 @@ review_notes:
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Earthquake damage history in Israel and its close surrounding", *Tectonophysics* 696–697 (2017), pp. 1–13.
 - Iaakov Karcz, "Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land", *Annals of Geophysics* 47 (2004), pp. 759–792.
 - Iaakov Karcz and Uri Kafri, "Evaluation of supposed archaeoseismic damage in Israel", *Journal of Archaeological Science* 5 (1978), pp. 237–253.
-- R. Ken-Tor ואחרים, "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (2001), pp. 2221–2234.
+- R. Ken-Tor et al., "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (2001), pp. 2221–2234.
 - N. Wechsler ואחרים, "A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.", *BSSA* 104 (2014).
 - E. Kagan ואחרים, "Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea", *Journal of Geophysical Research* 116 (2011).
 
@@ -156,10 +156,13 @@ review_notes:
 [^zohar2017]: Motti Zohar, Amos Salamon and Rehav Rubin, "Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns", *Tectonophysics* 696–697 (2017), pp. 1–13, טבלה 1 בעמ׳ 4 ואיור 3 בעמ׳ 7 (שם הרעידה מסומנת כאזור כללי ומפוקפק, בלי מקום מסוים).
 [^salamon]: Amos Salamon et al., "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", *Bulletin of the Seismological Society of America* 97 (2007), pp. 705–724, [הנספח האלקטרוני](https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/), הרשומות "31 B.C. early spring" ו-"31 B.C.".
 [^karczabs]: Iaakov Karcz, "Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land", *Annals of Geophysics* 47 (2–3) (2004), pp. 759–792, התקציר ([המאמר, גישה חופשית](https://doi.org/10.4401/ag-3334)).
-[^karcz]: Karcz 2004, עמ׳ 774–778. TODO: לבדוק במקור. <!-- הפרטים הגיעו דרך ויקיפדיה האנגלית -->
+[^karcz]: Karcz 2004, עמ׳ 774–778 (פרק 6). על קומראן, עמ׳ 777–778: "all individual elements of this archaeoseismic evidence were shown to be ambiguous or unacceptable"; על שאר האתרים, עמ׳ 778: "Archaeological evidence is tenuous at best"; על טבריה: "built by Herod Antipas in 18 A.D.".
+[^karcz-774]: Karcz 2004, עמ׳ 774: "Judea in his account must have been the historic Kingdom of Judah, rather than the much larger Judea of the Hasmoneans and Romans".
+[^karcz-776]: Karcz 2004, עמ׳ 775–777 (סעיפים 6.2–6.3): מלאלאס, Chronicle 10.3; "it is unlikely that he located it in Palestine while copying some early report of an earthquake that hit Cyprus"; ועל הספרות החיצונית, התלמוד ומגילות מדבר יהודה: "none are explicit and all lack distinct historic clues".
+[^karcz-778]: Karcz 2004, עמ׳ 778 (סעיף 6.4): "the textual evidence reflects a relatively modest earthquake with magnitude in the range of 6-6.5, rather then a major catastrophe".
 [^karczkafri]: Iaakov Karcz and Uri Kafri, "Evaluation of supposed archaeoseismic damage in Israel", *Journal of Archaeological Science* 5 (1978), pp. 237–253, כפי שמסוכם אצל Zohar, Salamon and Rubin 2016. TODO: לבדוק במקור, כולל העמוד.
-[^kentor]: R. Ken-Tor et al., "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (2001), pp. 2221–2234. TODO: לבדוק במקור. <!-- הפרטים על צאלים, נחל דרגה והעתק יריחו הגיעו דרך ויקיפדיה האנגלית -->
-[^wechsler]: N. Wechsler et al., "A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.", *BSSA* 104 (3) (2014), כפי שמסוכם אצל Zohar, Salamon and Rubin 2016. TODO: לבדוק במקור.
-[^kagan]: E. Kagan et al., "Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea", *Journal of Geophysical Research* 116 (2011), B04311, כפי שמובא אצל Williams, deadseaquake.info. TODO: לבדוק במקור.
+[^kentor]: R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco and J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (B2) (2001), pp. 2221–2234, טבלה 2 (עמ׳ 2227: שכבה B, 50 לפנה״ס עד 230 לספירה) ועמ׳ 2229: השכבה "can also be identified in the Darga fan delta"; הקרע ליד יריחו לפי Reches and Hoexter 1981; והמסקנה: "Considering the geological evidence and trusting the extensive historical records, despite their antiquity, it can be concluded that the 31 B.C. event was a strong earthquake with an epicenter located on the main Jericho Fault, not far from the Ze'elim Terrace".
+[^wechsler]: N. Wechsler et al., "A Paleoseismic Record of Earthquakes for the Dead Sea Transform Fault between the First and Seventh Centuries C.E.", *BSSA* 104 (3) (2014), בגרסה המוקדמת: עמ׳ 14 (אירוע CH4-E6, "likely making this event fall within the range of the first century B.C.E. to first century C.E."), עמ׳ 15 וטבלה 3 (392 לפנה״ס עד 91 לספירה; "could correlate with the 31 B.C.E. earthquake of Herod's time"; מועמדים מוקדמים יותר: 92 לפנה״ס ואמצע המאה השנייה לפנה״ס, "but the location of those events is not clear").
+[^kagan]: E. Kagan, M. Stein, A. Agnon and F. Neumann, "Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea", *Journal of Geophysical Research* 116 (2011), B04311, עמ׳ 17–18 (מתוך 27), סעיף 55: "The magnitudes of 31 B.C. and 749 A.D. are set at 7.2 assuming similarity in rupture length, both reported to have ruptured 110-km-long Jordan Valley segment"; "we tentatively adopt the identification of the surface rupture with the 31 B.C. event".
+[^kagan-11]: Kagan, Stein, Agnon and Neumann 2011, התקציר (עמ׳ 1) וסעיפים 40–41 (עמ׳ 11): "Seismites that appear in all three sites (termed here intrabasin seismites (IBS)): Mid-2nd century and 31 B.C. and 33, 419, 551, 749, 1202/1212, 1293, and 1927 A.D."; טבלה 4 שם.
 [^williams]: Jefferson B. Williams, Markus J. Schwab and Achim Brauer, "An early first-century earthquake in the Dead Sea", *International Geology Review* 54 (2012), pp. 1219–1228. TODO: לבדוק במקור. <!-- לפי התקציר -->
-[^dsq]: Jefferson B. Williams, "31 BCE Josephus Quake", בקטלוג [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/JosephusQuake.html). TODO: לבדוק במקור. <!-- לפי תוצאות חיפוש -->
