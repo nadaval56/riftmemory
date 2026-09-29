@@ -1,6 +1,8 @@
 """משיכת מחקרים ומקורות לבדיקת עובדות (לא לפרסום).
 
 קלט: .github/research-urls.txt (או קובץ אחר כארגומנט שני), שורה לכל מקור: "<slug> <url>".
+שורה בצורה "<slug> <url> | מילה;מילה" שומרת רק קטעים קצרים סביב מילות המפתח (מצב קטעים),
+למקורות מוגנים בזכויות יוצרים שפתוחים לקריאה: מספיק לאימות, בלי לשמור את הטקסט המלא.
 פלט: תיקייה (ברירת מחדל research-out/) עם <slug>.txt (הטקסט) ו-<slug>.links.txt
 (הקישורים שבדף, לדפי HTML). ה-workflow מצפין את הפלט לפני שהוא נשמר בריפו,
 כדי לא לפרסם מחדש חומר מוגן בזכויות יוצרים.
@@ -52,6 +54,29 @@ class Text(HTMLParser):
             self._atext.append(data.strip())
 
 
+EXCERPT_CONTEXT = 4   # שורות לפני ואחרי כל התאמה
+EXCERPT_MAX = 30      # מספר קטעים מרבי למקור
+
+
+def excerpts(text, keywords):
+    """רק השורות שסביב מילות המפתח, עם מספרי שורות."""
+    lines = text.splitlines()
+    keep, hits = set(), 0
+    for i, line in enumerate(lines):
+        if any(k.lower() in line.lower() for k in keywords):
+            hits += 1
+            if hits > EXCERPT_MAX:
+                break
+            keep.update(range(max(0, i - EXCERPT_CONTEXT), min(len(lines), i + EXCERPT_CONTEXT + 1)))
+    out, prev = [], None
+    for i in sorted(keep):
+        if prev is not None and i != prev + 1:
+            out.append("[...]")
+        out.append(f"{i + 1}: {lines[i]}")
+        prev = i
+    return "\n".join(out)
+
+
 def main():
     out = Path(sys.argv[1] if len(sys.argv) > 1 else "research-out")
     urls = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / ".github" / "research-urls.txt"
@@ -61,6 +86,10 @@ def main():
         line = line.strip()
         if not line or line.startswith("#"):
             continue
+        keywords = None
+        if " | " in line:
+            line, kw = line.split(" | ", 1)
+            keywords = [k.strip() for k in kw.split(";") if k.strip()]
         slug, url = line.split(None, 1)
         try:
             r = requests.get(url, headers=UA, timeout=60)
@@ -96,6 +125,14 @@ def main():
                     text = text.replace("\n\n\n", "\n\n")
                 (out / f"{slug}.txt").write_text(f"SOURCE: {url}\n\n{text}", encoding="utf-8")
                 (out / f"{slug}.links.txt").write_text("\n".join(p.links), encoding="utf-8")
+            txt = out / f"{slug}.txt"
+            if keywords and txt.exists():
+                full = txt.read_text(encoding="utf-8", errors="replace")
+                txt.write_text(f"SOURCE: {url}\nEXCERPTS ONLY (מקור מוגן; רק קטעים סביב: {'; '.join(keywords)})\n\n"
+                               + excerpts(full, keywords), encoding="utf-8")
+                links = out / f"{slug}.links.txt"
+                if links.exists():
+                    links.unlink()
         except Exception as exc:  # noqa: BLE001
             print(f"{slug}: failed {exc!r}")
             (out / f"{slug}.txt").write_text(f"ERROR {exc!r}", encoding="utf-8")
