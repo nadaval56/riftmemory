@@ -16,8 +16,8 @@
 {% endmacro %}
 
 {% macro event_card(e, base) %}
-<a class="event-card k-{{ e.kind }}" href="{{ base }}/events/{{ e.id }}/">
-  <span class="event-card-year">{{ e | year_label }}</span>
+<a class="event-card k-{{ e.kind }}{% if e.verdict %} is-{{ e.verdict }}{% endif %}" href="{{ base }}/events/{{ e.id }}/">
+  <span class="event-card-year">{{ e | year_label }}{% if e.verdict == "misattributed" %} · יוחסה לארץ בטעות{% elif e.verdict == "doubtful" %} · כנראה לא התרחשה{% endif %}</span>
   <span class="event-card-title">{{ e.title }}</span>
   {% if e.segment_name %}<span class="event-card-seg">{{ e.segment_name }}</span>{% endif %}
 </a>

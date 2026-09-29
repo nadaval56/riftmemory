@@ -314,3 +314,18 @@ section + section { margin-top: 2rem; }
 .notes ol li { margin-bottom: .35rem; }
 .notes li:target { background: var(--accent-soft); border-radius: 6px; }
 .lg-fault { width: 22px; height: 3px; border-radius: 2px; background: var(--accent); }
+
+/* ===== רעידות שיוחסו בטעות / מפוקפקות ===== */
+.verdict-note {
+  background: var(--surface-2); border: 1px dashed var(--line); border-radius: var(--radius-sm);
+  padding: .6rem .9rem; color: var(--ink-2); font-size: .92rem; margin: .6rem 0 0;
+}
+.verdict-note strong { color: var(--ink); }
+.event-card.is-misattributed, .event-card.is-doubtful { opacity: .72; border-style: dashed; }
+.event-card.is-misattributed::before, .event-card.is-doubtful::before { background: var(--muted); }
+.dot.k-verdict { fill: var(--surface); stroke: var(--muted); stroke-width: 2; stroke-dasharray: 2 2; }
+.dot-center.k-verdict { fill: var(--muted); }
+.unverified {
+  display: inline-block; font-size: .7rem; font-weight: 600; color: var(--warn-ink);
+  background: var(--warn-bg); border-radius: 999px; padding: 0 .5rem; vertical-align: middle;
+}

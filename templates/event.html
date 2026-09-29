@@ -15,6 +15,11 @@
     <p class="kicker">{{ e | year_label }}{% if e.segment_name %} · {{ e.segment_name }}{% endif %}</p>
     <h1>{{ e.title }}</h1>
     {% if e.location.distant %}<p class="distant-note">רעידה רחוקה שהורגשה בארץ.</p>{% endif %}
+    {% if e.verdict == "misattributed" %}
+    <p class="verdict-note"><strong>רעידה שיוחסה לארץ ישראל בטעות.</strong> לפי המחקר, הרעידה כנראה פגעה בערים אחרות, הרחק מכאן. הדף מספר איך זה קרה.</p>
+    {% elif e.verdict == "doubtful" %}
+    <p class="verdict-note"><strong>אירוע מפוקפק: כנראה לא התרחש.</strong> החוקרים לא מצאו לו עדות אמינה. הדף מספר איך הוא נכנס לקטלוגים.</p>
+    {% endif %}
   </header>
 
   <div class="event-layout">
@@ -49,7 +54,7 @@
         {% if e.impact.deaths is not none or e.impact.deaths_note %}
         <dt>הרוגים</dt>
         <dd>
-          {% if e.impact.deaths is not none %}{{ e.impact.deaths | number }}{% endif %}
+          {% if e.impact.deaths is not none %}{{ e.impact.deaths | number }}{% if e.impact.deaths_verified is false %} <span class="unverified">לא מאומת</span>{% endif %}{% endif %}
           {% if e.impact.deaths_note %}<span class="sub">{{ e.impact.deaths_note }}</span>{% endif %}
         </dd>
         {% endif %}

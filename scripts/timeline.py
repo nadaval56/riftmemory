@@ -102,8 +102,9 @@ def _boundary_label(y):
 
 def _dot(e, cx, cy, base):
     r = _radius(e)
-    kind = _kind(e)
-    title = escape(f"{e['title']} · {fmt.event_year_label(e)}")
+    kind = "verdict" if e.get("verdict") else _kind(e)
+    note = {"misattributed": " · יוחסה לארץ בטעות", "doubtful": " · כנראה לא התרחשה"}.get(e.get("verdict"), "")
+    title = escape(f"{e['title']} · {fmt.event_year_label(e)}{note}")
     url = f"{base}/events/{e['id']}/"
     if r is None:
         shape = (f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="7" class="dot k-{kind} no-mag"/>'
