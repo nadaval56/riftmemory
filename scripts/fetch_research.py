@@ -60,7 +60,12 @@ EXCERPT_MAX = 30      # מספר קטעים מרבי למקור
 
 def excerpts(text, keywords):
     """רק השורות שסביב מילות המפתח, עם מספרי שורות."""
-    lines = text.splitlines()
+    lines, pages, page = [], [], 1
+    for chunk in text.split("\n"):
+        # pdftotext מפריד בין עמודים בתו \f
+        page += chunk.count("\f")
+        lines.append(chunk.replace("\f", ""))
+        pages.append(page)
     keep, hits = set(), 0
     for i, line in enumerate(lines):
         if any(k.lower() in line.lower() for k in keywords):
@@ -72,7 +77,7 @@ def excerpts(text, keywords):
     for i in sorted(keep):
         if prev is not None and i != prev + 1:
             out.append("[...]")
-        out.append(f"{i + 1}: {lines[i]}")
+        out.append(f"{i + 1} [עמ׳ PDF {pages[i]}]: {lines[i]}")
         prev = i
     return "\n".join(out)
 
