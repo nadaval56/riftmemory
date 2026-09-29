@@ -127,12 +127,32 @@ def fetch_redirect(wikitext):
     }
 
 
+EN_API = "https://en.wikipedia.org/w/api.php"
+
+
+def fetch_english(pageid):
+    """הערך המקביל בוויקיפדיה האנגלית, אם יש (לבדיקה מול מקורות, לא לפרסום)."""
+    pages = api_get(action="query", pageids=pageid, prop="langlinks", lllang="en")["query"]["pages"]
+    links = pages[0].get("langlinks") or []
+    if not links:
+        return None
+    title = links[0]["title"]
+    resp = session.get(EN_API, params=dict(action="parse", page=title, prop="wikitext",
+                                           redirects="1", format="json", formatversion="2"), timeout=30)
+    resp.raise_for_status()
+    time.sleep(DELAY_SECONDS)
+    parsed = resp.json()["parse"]
+    return {"title": parsed["title"], "url": "https://en.wikipedia.org/wiki/" + parsed["title"].replace(" ", "_"),
+            "revid": parsed.get("revid"), "wikitext": parsed["wikitext"]}
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     pages = category_pages()
     for pageid, title in sorted(pages.items(), key=lambda p: p[1]):
         record = fetch_page(pageid, title)
         record["redirect"] = fetch_redirect(record["wikitext"])
+        record["english"] = None if record["redirect"] else fetch_english(pageid)
         path = OUT / f"{pageid}.json"
         path.write_text(json.dumps(record, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"{pageid}\t{record['title']}\twikidata={record['wikidata']}\tcoords={record['coordinates']}"
