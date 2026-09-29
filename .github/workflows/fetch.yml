@@ -62,13 +62,16 @@ jobs:
             wc -c bundle.js
             grep -oE '"(https?:)?/[^"]{3,200}"|`[^`]{0,200}(api|csv|json|query|earthquake)[^`]{0,200}`' bundle.js | sort -u > bundle-strings.txt || true
             grep -oiE '[a-z0-9_./:-]*(api|csv|json|php|query|quakes?|events?)[a-z0-9_./?=&-]*' bundle.js | sort -u > bundle-words.txt || true
+            grep -oE '.{0,400}startDate.{0,400}' bundle.js | head -20 > bundle-startdate-context.txt || true
             grep -oE '.{0,300}api/earthquakes.{0,400}' bundle.js > bundle-api-context.txt || true
             grep -oE '.{0,200}(\.csv|text/csv|download).{0,200}' bundle.js | head -40 > bundle-csv-context.txt || true
             rm bundle.js
           fi
-          for q in "" "latest" "?limit=5" "latest-check?lastId=0"; do
+          START=$(date -u -d '30 days ago' +%Y-%m-%dT%H:%M:%SZ)
+          END=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          for q in "?startDate=$START&endDate=$END" "gsi_tele_2026sxxe" "latest-check?lastId=0"; do
             name=$(echo "api-earthquakes-$q" | tr -c 'a-zA-Z0-9-' '_')
-            curl -sSL -A "$UA" -w "\n%{http_code} %{content_type}\n" "https://eq.gsi.gov.il/api/earthquakes/$q" | head -c 6000 > "$name.txt" || true
+            curl -sSL -A "$UA" -w "\n%{http_code} %{content_type}\n" "https://eq.gsi.gov.il/api/earthquakes/$q" | head -c 20000 > "$name.txt" || true
           done
           ls -la
 

@@ -1,2 +1,0 @@
-{"error":"Earthquake not found"}
-404 application/json; charset=utf-8

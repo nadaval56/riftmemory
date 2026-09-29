@@ -1,2 +1,0 @@
-{"latestId":"gsi_tele_2026sxxe","timestamp":"2026-09-24T07:40:34.000Z","hasUpdate":true}
-200 application/json; charset=utf-8
