@@ -129,6 +129,7 @@
 
     // מקומות שנפגעו: המקומות שהדפים מתארים בהם נזק (לא מוקדים). ריבוע קטן, ובלחיצה: מה קרה שם ובאיזו רעידה.
     var dmgBounds = [];
+    if (data.damage && data.damage.length) map.attributionControl.addAttribution('<a href="https://www.geonames.org">GeoNames</a>');
     (data.damage || []).forEach(function (d) {
       var icon = L.divIcon({ className: "dmg" + (d.doubtful ? " doubtful" : ""), iconSize: [8, 8] });
       var html = '<div class="map-popup"><strong>' + esc(d.name) + "</strong>" + d.entries.map(function (x) {
