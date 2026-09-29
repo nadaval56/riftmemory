@@ -85,6 +85,11 @@
         </section>
         {% endif %}
       {% endfor %}
+      {% if e.footnotes %}
+      <section class="notes" aria-label="הערות">
+        {{ e.footnotes | safe }}
+      </section>
+      {% endif %}
 
       {% if e.same_segment %}
       <section>
