@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T15:58:44Z",
+  "fetched_at": "2026-09-29T20:09:13Z",
   "source": "gsi",
   "events": [
     {
@@ -31,7 +31,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -41,13 +41,13 @@
       "depth_km": 3.8,
       "magnitude": 2.5,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026sssx",
-      "segment": "distant",
+      "segment": null,
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -60,10 +60,10 @@
       "place_he": "לבנון",
       "place": "Lebanon",
       "source_id": "gsi_loc_2026ssqe",
-      "segment": "distant",
+      "segment": "lebanon",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     },
     {
@@ -76,8 +76,11 @@
       "place_he": "הערבה",
       "place": "Arava",
       "source_id": "gsi_loc_2026ssjb",
-      "segment": null,
-      "echo": null
+      "segment": "arava",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
     },
     {
       "time_utc": "2026-09-20T23:37:38Z",
@@ -92,7 +95,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -108,7 +111,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -124,7 +127,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -134,13 +137,13 @@
       "depth_km": 4.7,
       "magnitude": 2.5,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "ואדי סירחאן",
       "place": "W.-Sirhan",
       "source_id": "gsi_loc_2026sphw",
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -156,7 +159,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -166,11 +169,14 @@
       "depth_km": 13.8,
       "magnitude": 2.2,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "אגן ים המלח",
       "place": "Dead-Sea-Basin",
       "source_id": "gsi_loc_2026sjcl",
-      "segment": null,
-      "echo": null
+      "segment": "arava",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
     },
     {
       "time_utc": "2026-09-15T16:00:24Z",
@@ -179,13 +185,13 @@
       "depth_km": 0.2,
       "magnitude": 2.9,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "מפרץ סואץ",
       "place": "Suez",
       "source_id": "gsi_loc_2026shxq",
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -201,7 +207,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -217,7 +223,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -227,7 +233,7 @@
       "depth_km": 2.4,
       "magnitude": 2.0,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "צפון ירדן",
       "place": "Northern-Jordan",
       "source_id": "gsi_loc_2026sfhx",
       "segment": null,
@@ -243,11 +249,14 @@
       "depth_km": 13.1,
       "magnitude": 2.1,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "מפרץ אילת",
       "place": "Elat-Deep",
       "source_id": "gsi_loc_2026sfat",
-      "segment": null,
-      "echo": null
+      "segment": "arava",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
     },
     {
       "time_utc": "2026-09-13T15:51:12Z",
@@ -256,13 +265,13 @@
       "depth_km": 6.5,
       "magnitude": 2.5,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026sefh",
-      "segment": "distant",
+      "segment": null,
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -272,13 +281,13 @@
       "depth_km": 4.4,
       "magnitude": 2.4,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026seer",
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -288,13 +297,13 @@
       "depth_km": 7.2,
       "magnitude": 2.3,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "סוריה",
       "place": "Syria2",
       "source_id": "gsi_loc_2026sees",
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -304,13 +313,13 @@
       "depth_km": 4.8,
       "magnitude": 2.4,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026sedv",
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -320,13 +329,13 @@
       "depth_km": 9.1,
       "magnitude": 2.5,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026sedl",
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -339,10 +348,10 @@
       "place_he": "סוריה",
       "place": "Syria",
       "source_id": "gsi_loc_2026sdxv",
-      "segment": "distant",
+      "segment": null,
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -355,10 +364,10 @@
       "place_he": "סוריה",
       "place": "Syria",
       "source_id": "gsi_loc_2026sdwu",
-      "segment": "distant",
+      "segment": null,
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -371,10 +380,10 @@
       "place_he": "לבנון",
       "place": "Lebanon",
       "source_id": "gsi_loc_2026sbud",
-      "segment": null,
+      "segment": "lebanon",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     },
     {
@@ -390,7 +399,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -400,13 +409,13 @@
       "depth_km": 0.5,
       "magnitude": 2.7,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "ימונה (לבנון)",
       "place": "Yamune",
       "source_id": "gsi_loc_2026rwtg",
-      "segment": "distant",
+      "segment": "lebanon",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     },
     {
@@ -416,13 +425,13 @@
       "depth_km": 1.5,
       "magnitude": 2.5,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026rwob",
-      "segment": "distant",
+      "segment": null,
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -438,7 +447,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -451,10 +460,10 @@
       "place_he": "לבנון",
       "place": "Lebanon",
       "source_id": "gsi_loc_2026rtyq",
-      "segment": null,
+      "segment": "lebanon",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     },
     {
@@ -480,13 +489,13 @@
       "depth_km": 15.6,
       "magnitude": 2.1,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "ואדי סירחאן",
       "place": "W.-Sirhan",
       "source_id": "gsi_loc_2026rsdd",
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -502,7 +511,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -512,13 +521,13 @@
       "depth_km": 5.7,
       "magnitude": 2.8,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026rpgq",
-      "segment": "distant",
+      "segment": null,
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -534,7 +543,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -547,10 +556,10 @@
       "place_he": "לבנון",
       "place": "Lebanon",
       "source_id": "gsi_loc_2026rpdm",
-      "segment": "distant",
+      "segment": "lebanon",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     },
     {
@@ -560,13 +569,13 @@
       "depth_km": 8.7,
       "magnitude": 2.4,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026rpaq",
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -592,7 +601,7 @@
       "depth_km": 6.6,
       "magnitude": 2.4,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "מזרח השומרון",
       "place": "E.Shomron",
       "source_id": "gsi_loc_2026rohl",
       "segment": null,
@@ -608,7 +617,7 @@
       "depth_km": 7.0,
       "magnitude": 2.3,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "מזרח השומרון",
       "place": "E.Shomron",
       "source_id": "gsi_loc_2026robe",
       "segment": null,
@@ -624,13 +633,13 @@
       "depth_km": 3.8,
       "magnitude": 2.7,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "מפרץ אילת",
       "place": "Aragonese-Deep",
       "source_id": "gsi_loc_2026rnji",
-      "segment": null,
+      "segment": "arava",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     },
     {
@@ -643,8 +652,11 @@
       "place_he": "הערבה",
       "place": "Arava",
       "source_id": "gsi_loc_2026rneu",
-      "segment": null,
-      "echo": null
+      "segment": "arava",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
     },
     {
       "time_utc": "2026-09-04T07:34:02Z",
@@ -656,8 +668,11 @@
       "place_he": "הערבה",
       "place": "Arava",
       "source_id": "gsi_loc_2026rmyn",
-      "segment": null,
-      "echo": null
+      "segment": "arava",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
     },
     {
       "time_utc": "2026-09-03T06:30:56Z",
@@ -669,10 +684,10 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026rlaj",
-      "segment": null,
+      "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -685,8 +700,11 @@
       "place_he": "הערבה",
       "place": "Arava",
       "source_id": "gsi_loc_2026rknj",
-      "segment": null,
-      "echo": null
+      "segment": "arava",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
     },
     {
       "time_utc": "2026-09-01T22:31:35Z",
@@ -701,7 +719,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -711,11 +729,14 @@
       "depth_km": 15.0,
       "magnitude": 2.1,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "מזרח השומרון",
       "place": "E.Shomron",
       "source_id": "gsi_loc_2026ribb",
-      "segment": null,
-      "echo": null
+      "segment": "jordan-valley",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
     },
     {
       "time_utc": "2026-09-01T14:17:54Z",
@@ -730,7 +751,7 @@
       "segment": "distant",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה משבר ים המלח."
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -740,13 +761,13 @@
       "depth_km": 3.3,
       "magnitude": 2.4,
       "mag_type": null,
-      "place_he": null,
+      "place_he": "מפרץ אילת",
       "place": "Elat-Deep",
       "source_id": "gsi_loc_2026rghg",
-      "segment": null,
+      "segment": "arava",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     }
   ]
