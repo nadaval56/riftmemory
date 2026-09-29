@@ -50,11 +50,12 @@ GEONAMEID = {
     "Umm ar-Rasas": "Umm ar Raşāş|JO|31.51225",
     "Zoara (Ghor as-Safi)": "Safi|JO",
     "al-Badhan": "Al Bādhān|PS",
+    "Ein Zeitim": "‘En Zetim|IL",
 }
 # בלי נקודה: ים/אגם, זיהוי לא ודאי, או מחוץ לנתוני GeoNames שנמשכו (טורקיה)
 SKIP = {"Dead Sea", "Mediterranean Sea", "Sea of Galilee", "Eroge (En Rogel), Jerusalem",
         "Evrona playa", "Nahal Tze'elim", "Mount Tabor", "Neocaesarea (Niksar)", "Nicaea (Iznik)",
-        "Nicopolis (Pontus, Koyulhisar)", "Nahal Darga", "Nahal Tze'elim (Ze'elim terrace)", "Valletta"}
+        "Nicopolis (Pontus, Koyulhisar)", "Nahal Darga", "Reineh", "Nahal Tze'elim (Ze'elim terrace)", "Valletta"}
 REGION_COUNTRIES = ("IL", "PS", "JO", "LB", "SY")
 
 

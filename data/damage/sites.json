@@ -1583,6 +1583,24 @@
    ]
   },
   {
+   "geonameid": "295179",
+   "name_gn": "‘En Zetim",
+   "lat": 32.9948,
+   "lon": 35.4851,
+   "place_he": "עין זיתים",
+   "entries": [
+    {
+     "event": "1837-safed",
+     "place_he": "עין זיתים",
+     "status": "reported",
+     "evidence": "הכפר חרב; אמברייזיס מייחס זאת לחוסר יציבות הקרקע",
+     "footnotes": [
+      "ambraseys-924"
+     ]
+    }
+   ]
+  },
+  {
    "geonameid": "294815",
    "name_gn": "H̱aẕeva",
    "lat": 30.81,
