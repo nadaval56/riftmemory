@@ -88,24 +88,6 @@
    ]
   },
   {
-   "geonameid": "361058",
-   "name_gn": "Alexandria",
-   "lat": 31.2018,
-   "lon": 29.9158,
-   "place_he": "אלכסנדריה",
-   "entries": [
-    {
-     "event": "1856-crete",
-     "place_he": "אלכסנדריה",
-     "status": "reported",
-     "evidence": "שני הרוגים",
-     "footnotes": [
-      "deaths"
-     ]
-    }
-   ]
-  },
-  {
    "geonameid": "295746",
    "name_gn": "Tel Afeq",
    "lat": 32.1053,
@@ -1134,16 +1116,6 @@
       "zohar17",
       "ferry"
      ]
-    },
-    {
-     "event": "1927-dead-sea",
-     "place_he": "יריחו",
-     "status": "reported",
-     "evidence": "מלון ארמון החורף קרס ונהרגו שלוש תיירות",
-     "footnotes": [
-      "winter-palace",
-      "zohar17-11"
-     ]
     }
    ]
   },
@@ -1936,15 +1908,6 @@
      "footnotes": [
       "zohar16s"
      ]
-    },
-    {
-     "event": "1856-crete",
-     "place_he": "קהיר",
-     "status": "reported",
-     "evidence": "כעשרים בתים קרסו ולפחות עשרה מתו",
-     "footnotes": [
-      "deaths"
-     ]
     }
    ]
   },
@@ -1963,24 +1926,6 @@
      "footnotes": [
       "daeron-530",
       "ab89"
-     ]
-    }
-   ]
-  },
-  {
-   "geonameid": "400666",
-   "name_gn": "Rhodes",
-   "lat": 36.4356,
-   "lon": 28.222,
-   "place_he": "רודוס",
-   "entries": [
-    {
-     "event": "1856-crete",
-     "place_he": "רודוס",
-     "status": "reported",
-     "evidence": "כשישים הרוגים",
-     "footnotes": [
-      "deaths"
      ]
     }
    ]

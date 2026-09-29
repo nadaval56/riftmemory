@@ -2137,19 +2137,6 @@
  },
  {
   "event": "1837-safed",
-  "place_he": "לבנון",
-  "place_en": "Lebanon",
-  "kind": "region",
-  "status": "reported",
-  "footnotes": [
-   "dsq",
-   "ambraseys-933"
-  ],
-  "evidence": "מאות הרוגים בכפרים בדרום לבנון",
-  "page_sentence": "מלבד הערכתו של תומסון, דיווחי הפחה מונים 1,700 עד 1,800 הרוגים בצפת וכ-600 בטבריה,[^pasha] ודיווח רשמי מונה 4,083 הרוגים, ובהם כמה מאות בלבנון.[^dsq]"
- },
- {
-  "event": "1837-safed",
   "place_he": "הגליל",
   "place_en": "Galilee",
   "kind": "region",
@@ -2317,55 +2304,6 @@
  },
  {
   "event": "1856-crete",
-  "place_he": "כרתים",
-  "place_en": "Crete",
-  "kind": "region",
-  "status": "reported",
-  "footnotes": [
-   "zohar-1286",
-   "deaths"
-  ],
-  "evidence": "538 הרוגים",
-  "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
- },
- {
-  "event": "1856-crete",
-  "place_he": "רודוס",
-  "place_en": "Rhodes",
-  "kind": "city",
-  "status": "reported",
-  "footnotes": [
-   "deaths"
-  ],
-  "evidence": "כשישים הרוגים",
-  "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
- },
- {
-  "event": "1856-crete",
-  "place_he": "קסוס",
-  "place_en": "Kasos",
-  "kind": "region",
-  "status": "reported",
-  "footnotes": [
-   "deaths"
-  ],
-  "evidence": "עשרים הרוגים (עם קרפתוס)",
-  "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
- },
- {
-  "event": "1856-crete",
-  "place_he": "קרפתוס",
-  "place_en": "Karpathos",
-  "kind": "region",
-  "status": "reported",
-  "footnotes": [
-   "deaths"
-  ],
-  "evidence": "עשרים הרוגים (עם קסוס)",
-  "page_sentence": "בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים."
- },
- {
-  "event": "1856-crete",
   "place_he": "מלטה",
   "place_en": "Malta",
   "kind": "region",
@@ -2399,43 +2337,6 @@
   ],
   "evidence": "סדקים רציניים בקירות בתים רבים",
   "page_sentence": "לפי פאולין גאליאה, שאספה את הדיווחים בעיתונים המקומיים, התושבים התעוררו באמצע הלילה ויצאו מבתיהם, בקירות של כמעט כל הבתים בוולטה ושל בתים רבים בכפרים ובגוזו נפערו סדקים רציניים, וכנסיות רבות נפגעו בכיפות ובקירות."
- },
- {
-  "event": "1856-crete",
-  "place_he": "קהיר",
-  "place_en": "Cairo",
-  "kind": "city",
-  "status": "reported",
-  "footnotes": [
-   "deaths"
-  ],
-  "evidence": "כעשרים בתים קרסו ולפחות עשרה מתו",
-  "page_sentence": "בקהיר קרסו כעשרים בתים ומתו לפחות עשרה בני אדם, ובאלכסנדריה מתו שניים.[^deaths]"
- },
- {
-  "event": "1856-crete",
-  "place_he": "אלכסנדריה",
-  "place_en": "Alexandria",
-  "kind": "city",
-  "status": "reported",
-  "footnotes": [
-   "deaths"
-  ],
-  "evidence": "שני הרוגים",
-  "page_sentence": "בקהיר קרסו כעשרים בתים ומתו לפחות עשרה בני אדם, ובאלכסנדריה מתו שניים.[^deaths]"
- },
- {
-  "event": "1927-dead-sea",
-  "place_he": "יריחו",
-  "place_en": "Jericho",
-  "kind": "city",
-  "status": "reported",
-  "footnotes": [
-   "winter-palace",
-   "zohar17-11"
-  ],
-  "evidence": "מלון ארמון החורף קרס ונהרגו שלוש תיירות",
-  "page_sentence": "ביריחו קרס מלון \"ארמון החורף\", שנבנה זמן קצר לפני כן, ונהרגו בו שלוש תיירות.[^winter-palace]"
  },
  {
   "event": "1927-dead-sea",

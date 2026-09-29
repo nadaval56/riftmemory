@@ -447,7 +447,8 @@ def build(drafts=False):
     env = make_env()
     # הפס החי בראש כל דף: הרעידה האחרונה שנרשמה
     latest_quake = live["events"][0] if live["events"] else None
-    common = dict(drafts=drafts, public_drafts=public_drafts, built_at=now, segment_names=segment_names,
+    # הבאנר "האתר בבנייה" רק כשיש באמת דף טיוטה באתר
+    common = dict(drafts=drafts, public_drafts=public_drafts and any(e["status"] != "published" for e in events), built_at=now, segment_names=segment_names,
                   live_bar=latest_quake, live_bar_by_id={e["id"]: e for e in events})
 
     if SITE.exists():
