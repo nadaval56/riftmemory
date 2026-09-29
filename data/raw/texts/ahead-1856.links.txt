@@ -1,0 +1,58 @@
+https://www.emidius.eu/AHEAD/	Homepage
+https://www.emidius.eu/AHEAD/query_study/	Consultazione per studi Query by data sources
+https://www.emidius.eu/AHEAD/query_event/	Consultazione per terremoti Query by earthquakes
+javascript:callLogin();	
+javascript:doLogout();	logout
+javascript:void(0);	Catalogues
+javascript:void(0);	
+javascript:void(0);	Studies
+javascript:void(0);	
+javascript:void(0);	Seismicity
+javascript:void(0);	
+javascript:void(0);	►  EPICAv1.1
+https://emidius.eu/epica/?event=18561012_0245_000	link
+https://emidius.eu/epica/?event=18561012_0245_000	link
+javascript:void(0);	SHEEC
+javascript:void(0);	Papazachos & P., 2003
+https://emidius.eu/epica/?event=117784	link
+javascript:selRoot('SHEEC');	Other earthquakes from this study
+https://ziti.gr/vivlio/papazaxos-vasilis-papazaxoy-katerina-the-earthquakes-of-greece/	link
+javascript:void(0);	Papazachos & P., 2003
+https://ziti.gr/vivlio/papazaxos-vasilis-papazaxoy-katerina-the-earthquakes-of-greece/	link
+javascript:selRoot('PAPA003');	Other earthquakes from this study
+javascript:void(0);	Soysal et al., 1981
+javascript:selRoot('SOYAL981');	Other earthquakes from this study
+javascript:void(0);	Shebalin et al., 1974
+http://unesdoc.unesco.org/Ulis/cgi-bin/ulis.pl?catno=47723	link
+javascript:selRoot('SHAL974');	Other earthquakes from this study
+javascript:void(0);	XML
+javascript:void(0);	
+javascript:void(0);	abstract
+http://doi.org/10.1785/0220200056	link
+javascript:void(0);	►  Albini, 2020b
+javascript:switchDivAndImage('abstract_ALBI020b');	►  Abstract
+javascript:selRoot('ALBI020b');	Other earthquakes from this study
+javascript:void(0);	►  Earthquake description
+javascript:void(0);	► 1 MDPs
+https://www.emidius.eu/AHEAD/event/download_mdp_google_earth.php?eventid=18561012_0245_000&study=ALBI020b&mdpsetid=25155	KML
+https://www.emidius.eu/AHEAD/event/download_mdp_csv.php?eventid=18561012_0245_000&study=ALBI020b&mdpsetid=25155	CSV
+https://www.emidius.eu/AHEAD/event/download_mdp_quakeml.php?eventid=18561012_0245_000&study=ALBI020b&mdpsetid=25155	XML
+javascript:void(0);	
+http://www.itsak.gr/en/db/data/macroseismic_data/	link
+javascript:void(0);	►  University of Thessaloniki, 2003
+javascript:switchDivAndImage('abstract_UNITH003');	►  Abstract
+javascript:selRoot('UNITH003');	Other earthquakes from this study
+javascript:void(0);	► 2 MDPs
+https://www.emidius.eu/AHEAD/event/download_mdp_google_earth.php?eventid=18561012_0245_000&study=UNITH003&mdpsetid=8153	KML
+https://www.emidius.eu/AHEAD/event/download_mdp_csv.php?eventid=18561012_0245_000&study=UNITH003&mdpsetid=8153	CSV
+https://www.emidius.eu/AHEAD/event/download_mdp_quakeml.php?eventid=18561012_0245_000&study=UNITH003&mdpsetid=8153	XML
+javascript:void(0);	
+https://www.emidius.eu/epica/	EPICA v1.1 1000-1899
+javascript:exportDiagram();	PNG
+http://diss.rm.ingv.it/share-edsf/	
+http://diss.rm.ingv.it/share-edsf/	
+http://diss.rm.ingv.it/share-edsf/	
+http://diss.rm.ingv.it/share-edsf/	
+https://www.epos-eu.org/tcs/near-fault-observatories	
+javascript:void(0);	
+javascript:void(0);	
