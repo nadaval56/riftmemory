@@ -34,6 +34,8 @@ jobs:
         run: |
           python scripts/build_events.py
           python scripts/build_site.py
+      - name: checks (docs/guide.pdf, פרק 10)
+        run: cd scripts && python check_site.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
