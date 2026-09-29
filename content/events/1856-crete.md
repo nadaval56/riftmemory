@@ -57,7 +57,7 @@ sources:
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009, עמ׳ 683–685 (TODO: לבדוק במקור)'
 - label: 'B. C. Papazachos, P. E. Comninakis, G. F. Karakaisis ועמיתיו, A catalogue of earthquakes in Greece and surrounding area for the period 550BC–1999, University of Thessaloniki, 2000 (TODO: לבדוק במקור)'
   url: http://geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html
-- label: 'B. C. Papazachos, "Large seismic faults in the Hellenic arc", Annali di Geofisica 39 (5) (1996), pp. 891–903 (נקרא התקציר בלבד. TODO: לבדוק במקור את גוף המאמר)'
+- label: 'B. C. Papazachos, "Large seismic faults in the Hellenic arc", Annali di Geofisica 39 (5) (1996), pp. 891–903 (נקרא בגרסת OCR)'
   url: https://doi.org/10.4401/ag-4023
 - label: 'P. Galea, "Seismic history of the Maltese islands and considerations on seismic risk", Annals of Geophysics 50 (6) (2007), pp. 725–740'
   url: https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/3053/3096
@@ -82,6 +82,7 @@ review_notes:
 - 'deaths_note: המספרים מחוץ לארץ הגיעו מוויקיפדיה האנגלית (NGDC, Jusseret & Sintubin 2017, Badawy et al. 2017) ולא נבדקו.'
 - 'אימות ציטוטים (ספטמבר 2026): בסריקה של ספר רוג׳רס שבידינו חסרים עמ׳ 333–396, ובהם תיאור הרעידה. שני ציטוטים ממנה (הירח מעל הכרמל, הים המכוסה קצף) מובאים מילה במילה אצל זוהר 2017 (עמ׳ 1285, 1287), ומשם הובאו בתרגום שלנו, בהפניה כפולה. שאר התיאור נשאר פרפרזה לפי זוהר.'
 - 'הדף נכתב מחדש לקריאות: פתיחה בלילה של רוג׳רס בחיפה.'
+- 'אימות מקורות, סבב שלישי (ספטמבר 2026, OCR): Papazachos 1996 נקרא (OCR); הוסר ה-TODO מהתווית ומההערה, ונוספו עמודים (891, 899–901). אומתו: M 8.2, עומק בינוני, שבר של כ-220 ק"מ, ללא צונאמי. נוספו: מוקד 35.6 צפון, 26.0 מזרח ועומק 100 ק"מ (טבלה III, עמ׳ 900), מול המוקד שבמפה (36.6, 25.8, לפי פפאזאכוס ופפאזאכו 1997 דרך זוהר); שתי ההצעות מוצגות, location לא שונה. נוסף גם תיאור 365 ו-1303 לפיו (1303 ממזרח לרודוס, לא ליד כרתים). תוקן בהערה הנסתרת: "60 עד 90 ק"מ (פפאזאכוס 1996)" לא נמצא; אצלו העומק 100 ק"מ.'
 ---
 
 ## הסיפור
@@ -130,15 +131,15 @@ review_notes:
 
 ## מה המדע אומר
 
-הרעידה קדמה למכשירי מדידה, והגודל שלה הוא הערכה: 7.7 עד 8.2 לפי קטלוגי הרעידות של יוון.[^zohar-1285] פפאזאכוס (1996) מתאר אותה כרעידה הגדולה ביותר הידועה בכל אזור הים התיכון מבין הרעידות העמוקות-למחצה, שמוקדן בעומק של 40 עד 100 קילומטר. לדבריו היא נוצרה על שבר באורך של כ-220 קילומטר מצפון לכרתים, גרמה נזק חמור בכמה מארצות מזרח הים התיכון, ולא לוותה בצונאמי.[^papazachos96]
+הרעידה קדמה למכשירי מדידה, והגודל שלה הוא הערכה: 7.7 עד 8.2 לפי קטלוגי הרעידות של יוון.[^zohar-1285] פפאזאכוס (1996) מתאר אותה כרעידה הגדולה ביותר הידועה בכל אזור הים התיכון מבין הרעידות העמוקות-למחצה, שמוקדן בעומק של 40 עד 100 קילומטר. לדבריו היא נוצרה על שבר באורך של כ-220 קילומטר מצפון לכרתים, גרמה נזק חמור בכמה מארצות מזרח הים התיכון, ולא לוותה בצונאמי. בטבלה שלו המוקד נמצא ב-35.6 צפון, 26.0 מזרח, בעומק של כ-100 קילומטר, ולפי כמה פתרונות מוקד של רעידות מאוחרות באזור, השבר הוא שבר של תזוזה אופקית עם רכיב הפוך.[^papazachos96] זה מוקד דרומי יותר מזה שמוצג במפה, שלקוח מקטלוג מאוחר יותר של פפאזאכוס ופפאזאכו.[^zohar-1285]
 
-<!-- TODO: מקור. לפי ויקיפדיה האנגלית: רעידה בעומק בינוני, בתוך הלוח האפריקאי שמשתפל מתחת לים האגאי; עומק 61 עד 100 ק"מ (קטלוג סלוניקי) או 60 עד 90 ק"מ (פפאזאכוס 1996); עוצמה XI במרכז כרתים. לבדוק במקורות. העוצמה VII במלטה אומתה אצל Galea 2007, עמ׳ 734. -->
+<!-- TODO: מקור. לפי ויקיפדיה האנגלית: רעידה בעומק בינוני, בתוך הלוח האפריקאי שמשתפל מתחת לים האגאי; עומק 61 עד 100 ק"מ (קטלוג סלוניקי); עוצמה XI במרכז כרתים. לבדוק במקורות. הטענה "60 עד 90 ק"מ (פפאזאכוס 1996)" לא נמצאה: אצלו העומק של 1856 הוא 100 ק"מ (טבלה III, עמ' 900), וטווח העומק של כל האזור 40 עד 100 ק"מ. העוצמה VII במלטה אומתה אצל Galea 2007, עמ׳ 734. -->
 
 גם על השעה יש הבדל קטן: 02:33 או 02:45, שתיהן לפי השעון המקומי של כרתים, שהיה גם השעון של חיפה.[^zohar-1286]
 
 האם הרעידה גרמה נזק בארץ? זו שאלה פתוחה. ב-2016 מנו זוהר, סלמון ורובין את רעידת כרתים בין הרעידות שיוחס להן בספרות, בטעות לדעתם, נזק בארץ ישראל.[^zohar16s] שנה אחר כך כתב זוהר שעדותה של רוג׳רס מחזקת את הדיווחים על נזק בחיפה ובחופי לבנון.[^zohar-1289] הנזק שתיארה רוג׳רס בחיפה היה קל: חומות ישנות שנסדקו.[^zohar-1285]
 
-זו לא הפעם הראשונה שרעידה ליד כרתים הגיעה עד חופי הארץ ולבנון. הדוגמאות הבולטות הן רעידות 365 ו-1303, שלוו גם בגלי צונאמי בים התיכון.[^zohar-1289]
+זו לא הפעם הראשונה שרעידה ליד כרתים הגיעה עד חופי הארץ ולבנון. הדוגמאות הבולטות הן רעידות 365 ו-1303, שלוו גם בגלי צונאמי בים התיכון.[^zohar-1289] לפי פפאזאכוס, אלה הרעידות הרדודות הגדולות ביותר הידועות בקשת ההלנית: 365 מול החוף הדרום-מערבי של כרתים, ו-1303 ממזרח לרודוס, ושתיהן לוו בצונאמי ענק.[^papazachos96]
 
 ## מקורות וקריאה נוספת
 
@@ -156,6 +157,6 @@ review_notes:
 [^zohar-1289]: Zohar 2017, עמ׳ 1289, בהפניה ל-Rogers 1862, עמ׳ 361, ול-Papazachos 1996.
 [^salamon07-t2]: A. Salamon et al., *Bulletin of the Seismological Society of America* 97 (2007), נספח אלקטרוני, טבלה 2 (צונאמי מפוקפקים). שם: Shalem 1956 (סערת ים חזקה בחיפה בלי רוח), Ben-Menahem 1991 (צונאמי בחיפה ובחופי לבנון), Amiran, Arieh and Turcotte 1994 (10 באוקטובר 1856), ומנגד Ambraseys, Melville and Adams 1994, שאינם מזכירים צונאמי.
 [^zohar16s]: M. Zohar, A. Salamon and R. Rubin, *Journal of Seismology* 20 (2016), נספח אלקטרוני, נספח C, רשומה 41, עמ׳ 27.
-[^papazachos96]: B. C. Papazachos, "Large seismic faults in the Hellenic arc", *Annali di Geofisica* 39 (5) (1996), pp. 891–903, התקציר: "The longest of these faults (L = 220 km) is that which produced the largest known intermediate depth earthquake in the whole Mediterranean area (12 October 1856, M = 8.2) north of Crete"; "caused very serious damage in several Eastern Mediterranean countries but were not associated with tsunamis". גוף המאמר לא נקרא.
+[^papazachos96]: B. C. Papazachos, "Large seismic faults in the Hellenic arc", *Annali di Geofisica* 39 (5) (1996), pp. 891–903, נקרא בגרסת OCR: התקציר (עמ׳ 891: "The longest of these faults (L = 220 km) is that which produced the largest known intermediate depth earthquake in the whole Mediterranean area (12 October 1856, M = 8.2) north of Crete"; "not associated with tsunamis"; 365 ו-1303 "associated with gigantic tsunamis"), עמ׳ 899 (אזור כרתים: שבר של תזוזה אופקית ימנית עם רכיב הפוך, לפי שלושה פתרונות מוקד), טבלה III בעמ׳ 900 (12.10.1856: 35.6 צפון, 26.0 מזרח, עומק 100 ק"מ, M 8.2) ועמ׳ 901 (אורך השבר, כ-220 ק"מ).
 [^galea]: P. Galea, "Seismic history of the Maltese islands and considerations on seismic risk", *Annals of Geophysics* 50 (6) (2007), pp. 725–740, טבלה I (עמ׳ 731) ועמ׳ 733–734, בהפניה לעיתונים Il Portafoglio Maltese, L'Ordine ו-The Malta Mail ול-Woo 1995. שם: "Almost all houses in Valletta, and many houses in other villages and in Gozo suffered serious cracks to their walls"; "the earthquake has been assigned an intensity of VII" (בסולם EMS-98); המרחק למלטה "around 1000 km"; הגודל 8.2 בקטלוג NEIC ו-7.7 אצל Papazachos et al. 2000.
 [^deaths]: TODO: מקור. <!-- הגיע דרך ויקיפדיה העברית והאנגלית; שם בהפניה ל-NGDC, Jusseret & Sintubin 2017, Badawy et al. 2017, Galea 2007 ו-Ambraseys, Melville and Adams 1994 -->
