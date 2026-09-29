@@ -1,0 +1,68 @@
+{% extends "base.html" %}
+{% from "_macros.html" import live_line, echo_line, map, event_card %}
+{% block head %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+{% endblock %}
+{% block main %}
+{% set by_id = {} %}
+{% for e in events %}{% set _ = by_id.update({e.id: e}) %}{% endfor %}
+
+<section class="live-strip" aria-label="רעידה אחרונה">
+  <div class="live-inner">
+    {% if latest %}
+      {% if quiet %}
+      <p class="live-kicker">השבר שקט השבוע</p>
+      <p class="live-main">הרעידה האחרונה שנרשמה: {{ live_line(latest, segment_names) }}</p>
+      {% else %}
+      <p class="live-kicker"><span class="pulse" aria-hidden="true"></span> רעידה אחרונה</p>
+      <p class="live-main">{{ live_line(latest, segment_names) }}</p>
+      {% endif %}
+      {{ echo_line(latest, by_id, base) }}
+      <p class="live-source">
+        מקור: {% if live.source == "gsi" %}המכון הגיאולוגי{% elif live.source == "usgs" %}USGS{% elif live.source == "emsc" %}EMSC{% endif %}
+        · עודכן <time datetime="{{ live.fetched_at }}" data-relative>{{ live.fetched_at }}</time>
+      </p>
+    {% else %}
+      <p class="live-kicker">רעידה אחרונה</p>
+      <p class="live-main muted">עדיין אין נתונים חיים.</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="hero">
+  <h1>השבר זוכר</h1>
+  <p class="lede">שבר ים המלח נקרע שוב ושוב לאורך אלפי שנים, ולפעמים באותם מקטעים. כאן אפשר לקרוא מה קרה בכל אחת מרעידות האדמה הגדולות שתועדו בארץ, ולראות איפה רועד היום.</p>
+</section>
+
+<section class="today" aria-labelledby="today-h">
+  <h2 id="today-h">{% if featured_reason in ("gregorian", "hebrew") %}היום בהיסטוריה{% else %}רעידה מהארכיון{% endif %}</h2>
+  {% if featured %}
+  {% if featured_reason == "gregorian" %}<p class="muted">בתאריך הזה, {{ featured | year_label }}.</p>
+  {% elif featured_reason == "hebrew" %}<p class="muted">בתאריך העברי הזה ({{ featured.date.hebrew_date }}).</p>
+  {% else %}<p class="muted">מתחלפת כל יום.</p>{% endif %}
+  {{ event_card(featured, base) }}
+  {% else %}
+  <p class="muted">הדפים על הרעידות ההיסטוריות עדיין בכתיבה.</p>
+  {% endif %}
+</section>
+
+<section class="home-map" aria-labelledby="map-h">
+  <h2 id="map-h">המפה</h2>
+  {{ map(map_data) }}
+</section>
+
+{% if events %}
+<section class="all-events" aria-labelledby="all-h">
+  <h2 id="all-h">כל הרעידות באתר</h2>
+  <div class="event-cards">
+    {% for e in events %}{{ event_card(e, base) }}{% endfor %}
+  </div>
+  <p><a class="more" href="{{ base }}/timeline/">לציר הזמן ←</a></p>
+</section>
+{% else %}
+<p><a class="more" href="{{ base }}/timeline/">לציר הזמן ←</a></p>
+{% endif %}
+{% endblock %}
+{% block scripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
+{% endblock %}
