@@ -23,6 +23,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - id: task
@@ -48,15 +49,15 @@ jobs:
           mkdir -p data/raw/gsi
           cd data/raw/gsi
           UA="riftmemory/0.1 (https://github.com/nadaval56/riftmemory)"
-          curl -sSL -A "$UA" -D page.headers -o ageEarthquakes.html \
+          curl -sSL --max-time 60 -A "$UA" -D page.headers -o ageEarthquakes.html \
             https://eq.gsi.gov.il/heb/earthquake/ageEarthquakes.php || echo "gsi failed"
-          curl -sSL -A "$UA" -o usgs-sample.json \
+          curl -sSL --max-time 60 -A "$UA" -o usgs-sample.json \
             "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minlatitude=27&maxlatitude=36&minlongitude=32&maxlongitude=38&minmagnitude=2&orderby=time&limit=30" || echo "usgs failed"
-          curl -sSL -A "$UA" -o emsc-sample.json \
+          curl -sSL --max-time 60 -A "$UA" -o emsc-sample.json \
             "https://www.seismicportal.eu/fdsnws/event/1/query?format=json&minlat=27&maxlat=36&minlon=32&maxlon=38&minmag=2&limit=30" || echo "emsc failed"
           # הדף הוא אפליקציית JS: מושכים את ה-bundle ומחלצים ממנו כתובות ומחרוזות רלוונטיות
           for js in $(grep -oE 'src="[^"]+\.js"' ageEarthquakes.html | cut -d'"' -f2); do
-            curl -sSL -A "$UA" -o bundle.js "https://eq.gsi.gov.il$js" || true
+            curl -sSL --max-time 60 -A "$UA" -o bundle.js "https://eq.gsi.gov.il$js" || true
           done
           if [ -f bundle.js ]; then
             wc -c bundle.js
@@ -71,7 +72,7 @@ jobs:
           END=$(date -u +%Y-%m-%dT%H:%M:%SZ)
           for q in "?startDate=$START&endDate=$END" "gsi_tele_2026sxxe" "latest-check?lastId=0"; do
             name=$(echo "api-earthquakes-$q" | tr -c 'a-zA-Z0-9-' '_')
-            curl -sSL -A "$UA" -w "\n%{http_code} %{content_type}\n" "https://eq.gsi.gov.il/api/earthquakes/$q" | head -c 20000 > "$name.txt" || true
+            curl -sSL --max-time 60 -A "$UA" -w "\n%{http_code} %{content_type}\n" "https://eq.gsi.gov.il/api/earthquakes/$q" | head -c 20000 > "$name.txt" || true
           done
           ls -la
 
