@@ -1,0 +1,2 @@
+{"error":"startDate is required"}
+400 application/json; charset=utf-8
