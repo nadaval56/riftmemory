@@ -51,6 +51,8 @@ GEONAMEID = {
     "Zoara (Ghor as-Safi)": "Safi|JO",
     "al-Badhan": "Al Bādhān|PS",
     "Ein Zeitim": "‘En Zetim|IL",
+    "Ar Rayna": "Ar Rayna|IL",
+    "Yavne’el": "Yavne’el|IL",
 }
 # בלי נקודה: ים/אגם, זיהוי לא ודאי, או מחוץ לנתוני GeoNames שנמשכו (טורקיה)
 SKIP = {"Dead Sea", "Mediterranean Sea", "Sea of Galilee", "Eroge (En Rogel), Jerusalem",
