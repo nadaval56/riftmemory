@@ -26,7 +26,7 @@ from build_events import load_events
 from build_site import BASE_PATH, SITE, SITE_URL
 
 # ניסוחים חיזויים (כלל 5). "תחזיות" לבד מותר, כי האתר אומר שהוא לא עוסק בהן.
-FORECAST = re.compile(r"הרעידה הבאה|צפויה|צפוי ל|מתקרבת|עומדת לפרוץ|בקרוב תהיה|סימן ש|מבשר")
+FORECAST = re.compile(r"הרעידה הבאה|צפויה|צפוי ל|מתקרבת|עומדת לפרוץ|בקרוב תהיה|סימן ש(?!אלה)|מבשר")
 FORECAST_OK = re.compile(r"לא עוסק ב(תחזיות|שאלה מתי תהיה הרעידה הבאה)|מתי תהיה הרעידה הבאה")
 
 
