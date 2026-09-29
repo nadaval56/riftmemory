@@ -187,11 +187,13 @@ def write(path, html):
     path.write_text(html, encoding="utf-8")
 
 
-def map_data(events, live, segments):
+def map_data(events, live, segments, focus=False):
+    """focus: מפה של דף רעידה בודדת. המבט כולל את הרעידה גם כשהיא רחוקה."""
     return {
+        "focus": focus,
         "segments": [
             {"id": s["id"], "name": s["name_he"] + (" (טיוטה, טרם אושר)" if s.get("draft") else ""),
-             "lines": s["lines"], "draft": bool(s.get("draft"))}
+             "note": s.get("note_he"), "lines": s["lines"], "draft": bool(s.get("draft"))}
             for s in segments if s.get("approved")
         ],
         "events": [
@@ -202,6 +204,8 @@ def map_data(events, live, segments):
                 "lat": e["location"]["lat"],
                 "lon": e["location"]["lon"],
                 "kind": evidence_kind(e),
+                "source": e["location"].get("source"),
+                "source_url": e["location"].get("source_url"),
                 "url": f"{BASE_PATH}/events/{e['id']}/",
             }
             for e in events
@@ -296,7 +300,7 @@ def build(drafts=False):
             page_path=path,
             e=e,
             by_id=by_id,
-            map_data=map_data([e], dict(live, events=e["live_nearby"]), segments),
+            map_data=map_data([e], dict(live, events=e["live_nearby"]), segments, focus=True),
         ))
         if e["status"] == "published":
             pages.append(path)
