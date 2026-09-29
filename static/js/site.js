@@ -37,15 +37,17 @@
       archaeology: css.getPropertyValue("--archaeology").trim(),
       instrumental: css.getPropertyValue("--instrumental").trim(),
       live: css.getPropertyValue("--live").trim(),
-      rust: css.getPropertyValue("--rust").trim()
+      rust: css.getPropertyValue("--accent").trim()
     };
     var bounds = [];
 
+    // קווי ההעתקים (GEM / EMME), מקובצים לפי מקטע
     data.segments.forEach(function (s) {
-      var b = [[s.bbox[0], s.bbox[1]], [s.bbox[2], s.bbox[3]]];
-      L.rectangle(b, { color: colors.rust, weight: 1, fillOpacity: 0.12, dashArray: s.draft ? "5 4" : null })
-        .bindTooltip(s.name).addTo(map);
-      bounds.push(b[0], b[1]);
+      s.lines.forEach(function (line) {
+        var latlngs = line.map(function (c) { return [c[1], c[0]]; });
+        L.polyline(latlngs, { color: colors.rust, weight: 3, opacity: 0.85, dashArray: s.draft ? "6 5" : null })
+          .bindTooltip(s.name, { sticky: true }).addTo(map);
+      });
     });
 
     data.live.forEach(function (q) {

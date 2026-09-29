@@ -191,7 +191,7 @@ def map_data(events, live, segments):
     return {
         "segments": [
             {"id": s["id"], "name": s["name_he"] + (" (טיוטה, טרם אושר)" if s.get("draft") else ""),
-             "bbox": s["bbox"], "draft": bool(s.get("draft"))}
+             "lines": s["lines"], "draft": bool(s.get("draft"))}
             for s in segments if s.get("approved")
         ],
         "events": [

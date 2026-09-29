@@ -313,3 +313,4 @@ section + section { margin-top: 2rem; }
 @media (prefers-reduced-motion: reduce) { .source-sheet-inner { animation: none; } }
 .notes ol li { margin-bottom: .35rem; }
 .notes li:target { background: var(--accent-soft); border-radius: 6px; }
+.lg-fault { width: 22px; height: 3px; border-radius: 2px; background: var(--accent); }
