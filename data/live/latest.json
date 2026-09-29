@@ -1,5 +1,753 @@
 {
-  "fetched_at": null,
-  "source": null,
-  "events": []
+  "fetched_at": "2026-09-29T15:58:44Z",
+  "source": "gsi",
+  "events": [
+    {
+      "time_utc": "2026-09-23T21:59:23Z",
+      "lat": 32.0235,
+      "lon": 35.2951,
+      "depth_km": 7.1,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "יהודה ושומרון",
+      "place": "Judea-Samaria",
+      "source_id": "gsi_loc_2026sxdu",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-22T15:21:32Z",
+      "lat": 33.5684,
+      "lon": 34.7661,
+      "depth_km": 27.6,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026suum",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-21T12:34:13Z",
+      "lat": 33.68,
+      "lon": 36.639,
+      "depth_km": 3.8,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026sssx",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-21T11:11:42Z",
+      "lat": 34.5988,
+      "lon": 36.4922,
+      "depth_km": 0.5,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "לבנון",
+      "place": "Lebanon",
+      "source_id": "gsi_loc_2026ssqe",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-21T07:39:00Z",
+      "lat": 29.6546,
+      "lon": 34.9651,
+      "depth_km": 24.9,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "הערבה",
+      "place": "Arava",
+      "source_id": "gsi_loc_2026ssjb",
+      "segment": null,
+      "echo": null
+    },
+    {
+      "time_utc": "2026-09-20T23:37:38Z",
+      "lat": 34.3719,
+      "lon": 32.881,
+      "depth_km": 151.3,
+      "magnitude": 3.0,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026srtb",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-20T08:06:05Z",
+      "lat": 34.7802,
+      "lon": 35.7865,
+      "depth_km": 45.1,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026sqny",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-20T05:50:36Z",
+      "lat": 35.9689,
+      "lon": 35.6255,
+      "depth_km": 125.8,
+      "magnitude": 3.0,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026sqjl",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-19T16:04:54Z",
+      "lat": 32.7862,
+      "lon": 36.7942,
+      "depth_km": 4.7,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": null,
+      "place": "W.-Sirhan",
+      "source_id": "gsi_loc_2026sphw",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-16T21:59:12Z",
+      "lat": 35.7738,
+      "lon": 32.3729,
+      "depth_km": 61.3,
+      "magnitude": 3.1,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026skfr",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-16T07:24:12Z",
+      "lat": 31.0259,
+      "lon": 35.4586,
+      "depth_km": 13.8,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Dead-Sea-Basin",
+      "source_id": "gsi_loc_2026sjcl",
+      "segment": null,
+      "echo": null
+    },
+    {
+      "time_utc": "2026-09-15T16:00:24Z",
+      "lat": 29.3314,
+      "lon": 32.7316,
+      "depth_km": 0.2,
+      "magnitude": 2.9,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Suez",
+      "source_id": "gsi_loc_2026shxq",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-14T23:43:51Z",
+      "lat": 32.8339,
+      "lon": 32.4673,
+      "depth_km": 106.4,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026sgrc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-14T17:32:59Z",
+      "lat": 34.1314,
+      "lon": 34.1077,
+      "depth_km": 32.6,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026sges",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-14T06:09:06Z",
+      "lat": 31.956,
+      "lon": 36.0415,
+      "depth_km": 2.4,
+      "magnitude": 2.0,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Northern-Jordan",
+      "source_id": "gsi_loc_2026sfhx",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-14T02:34:39Z",
+      "lat": 29.4516,
+      "lon": 34.8398,
+      "depth_km": 13.1,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Elat-Deep",
+      "source_id": "gsi_loc_2026sfat",
+      "segment": null,
+      "echo": null
+    },
+    {
+      "time_utc": "2026-09-13T15:51:12Z",
+      "lat": 33.7753,
+      "lon": 36.67,
+      "depth_km": 6.5,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026sefh",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-13T15:33:32Z",
+      "lat": 33.68,
+      "lon": 36.9276,
+      "depth_km": 4.4,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026seer",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-13T15:33:31Z",
+      "lat": 33.6392,
+      "lon": 36.9847,
+      "depth_km": 7.2,
+      "magnitude": 2.3,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Syria2",
+      "source_id": "gsi_loc_2026sees",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-13T15:07:04Z",
+      "lat": 33.6415,
+      "lon": 36.8772,
+      "depth_km": 4.8,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026sedv",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-13T14:55:10Z",
+      "lat": 33.6704,
+      "lon": 36.8019,
+      "depth_km": 9.1,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026sedl",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-13T12:06:52Z",
+      "lat": 34.7802,
+      "lon": 36.7679,
+      "depth_km": 32.4,
+      "magnitude": 2.9,
+      "mag_type": null,
+      "place_he": "סוריה",
+      "place": "Syria",
+      "source_id": "gsi_loc_2026sdxv",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-13T11:36:33Z",
+      "lat": 34.9118,
+      "lon": 36.7339,
+      "depth_km": 29.9,
+      "magnitude": 2.9,
+      "mag_type": null,
+      "place_he": "סוריה",
+      "place": "Syria",
+      "source_id": "gsi_loc_2026sdwu",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-12T08:16:47Z",
+      "lat": 33.3409,
+      "lon": 35.4311,
+      "depth_km": 4.2,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": "לבנון",
+      "place": "Lebanon",
+      "source_id": "gsi_loc_2026sbud",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-11T23:32:31Z",
+      "lat": 34.0634,
+      "lon": 33.9065,
+      "depth_km": 81.1,
+      "magnitude": 3.0,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026sbcq",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-09T14:52:06Z",
+      "lat": 34.6169,
+      "lon": 36.3599,
+      "depth_km": 0.5,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Yamune",
+      "source_id": "gsi_loc_2026rwtg",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-09T12:16:37Z",
+      "lat": 33.8978,
+      "lon": 36.4991,
+      "depth_km": 1.5,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026rwob",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-08T23:27:28Z",
+      "lat": 33.5292,
+      "lon": 34.56,
+      "depth_km": 10.3,
+      "magnitude": 2.3,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026rvok",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-08T02:35:09Z",
+      "lat": 33.7072,
+      "lon": 35.6004,
+      "depth_km": 11.7,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": "לבנון",
+      "place": "Lebanon",
+      "source_id": "gsi_loc_2026rtyq",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-07T11:57:24Z",
+      "lat": 32.2679,
+      "lon": 35.0461,
+      "depth_km": 8.0,
+      "magnitude": 2.3,
+      "mag_type": null,
+      "place_he": "יהודה ושומרון",
+      "place": "Judea-Samaria",
+      "source_id": "gsi_loc_2026rsvj",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-07T02:50:44Z",
+      "lat": 32.9031,
+      "lon": 36.3961,
+      "depth_km": 15.6,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": null,
+      "place": "W.-Sirhan",
+      "source_id": "gsi_loc_2026rsdd",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-07T00:46:41Z",
+      "lat": 34.8846,
+      "lon": 33.9029,
+      "depth_km": 24.4,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026rrza",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-05T13:36:33Z",
+      "lat": 34.6559,
+      "lon": 36.6886,
+      "depth_km": 5.7,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026rpgq",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-05T12:58:25Z",
+      "lat": 35.0661,
+      "lon": 32.0322,
+      "depth_km": 1.1,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026rpfj",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-05T12:02:04Z",
+      "lat": 33.8859,
+      "lon": 35.9416,
+      "depth_km": 19.5,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": "לבנון",
+      "place": "Lebanon",
+      "source_id": "gsi_loc_2026rpdm",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-05T10:36:25Z",
+      "lat": 33.7187,
+      "lon": 36.8403,
+      "depth_km": 8.7,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026rpaq",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-05T07:33:38Z",
+      "lat": 32.8605,
+      "lon": 35.2545,
+      "depth_km": 4.5,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": "הגליל",
+      "place": "Galilee",
+      "source_id": "gsi_loc_2026roun",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-05T01:01:45Z",
+      "lat": 32.2526,
+      "lon": 35.3321,
+      "depth_km": 6.6,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": null,
+      "place": "E.Shomron",
+      "source_id": "gsi_loc_2026rohl",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-04T21:53:49Z",
+      "lat": 32.2515,
+      "lon": 35.33,
+      "depth_km": 7.0,
+      "magnitude": 2.3,
+      "mag_type": null,
+      "place_he": null,
+      "place": "E.Shomron",
+      "source_id": "gsi_loc_2026robe",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-04T12:57:43Z",
+      "lat": 28.9571,
+      "lon": 34.5884,
+      "depth_km": 3.8,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Aragonese-Deep",
+      "source_id": "gsi_loc_2026rnji",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-04T10:42:05Z",
+      "lat": 30.5597,
+      "lon": 35.2906,
+      "depth_km": 19.0,
+      "magnitude": 2.0,
+      "mag_type": null,
+      "place_he": "הערבה",
+      "place": "Arava",
+      "source_id": "gsi_loc_2026rneu",
+      "segment": null,
+      "echo": null
+    },
+    {
+      "time_utc": "2026-09-04T07:34:02Z",
+      "lat": 30.5575,
+      "lon": 35.2999,
+      "depth_km": 18.7,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "הערבה",
+      "place": "Arava",
+      "source_id": "gsi_loc_2026rmyn",
+      "segment": null,
+      "echo": null
+    },
+    {
+      "time_utc": "2026-09-03T06:30:56Z",
+      "lat": 32.8532,
+      "lon": 34.7165,
+      "depth_km": 24.1,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026rlaj",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-03T00:00:24Z",
+      "lat": 30.5524,
+      "lon": 35.3075,
+      "depth_km": 16.7,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "הערבה",
+      "place": "Arava",
+      "source_id": "gsi_loc_2026rknj",
+      "segment": null,
+      "echo": null
+    },
+    {
+      "time_utc": "2026-09-01T22:31:35Z",
+      "lat": 34.5466,
+      "lon": 34.8341,
+      "depth_km": 30.0,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026riok",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-09-01T15:51:30Z",
+      "lat": 32.1244,
+      "lon": 35.5182,
+      "depth_km": 15.0,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": null,
+      "place": "E.Shomron",
+      "source_id": "gsi_loc_2026ribb",
+      "segment": null,
+      "echo": null
+    },
+    {
+      "time_utc": "2026-09-01T14:17:54Z",
+      "lat": 35.8192,
+      "lon": 35.7791,
+      "depth_km": 29.9,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026rhxy",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה משבר ים המלח."
+      }
+    },
+    {
+      "time_utc": "2026-08-31T16:58:09Z",
+      "lat": 29.134,
+      "lon": 34.7821,
+      "depth_km": 3.3,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Elat-Deep",
+      "source_id": "gsi_loc_2026rghg",
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    }
+  ]
 }
