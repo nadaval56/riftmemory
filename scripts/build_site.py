@@ -105,9 +105,10 @@ def relative_hours(t, now):
 def live_label(q, segment_names):
     if q.get("place_he"):
         return q["place_he"]
-    if q.get("segment") and q["segment"] in segment_names:
-        return segment_names[q["segment"]]
-    return q.get("place") or ""
+    seg = q.get("segment")
+    if seg and seg != echo.DISTANT and seg in segment_names:
+        return segment_names[seg]
+    return q.get("place") or segment_names.get(seg, "")
 
 
 # --- היום בהיסטוריה -----------------------------------------------------

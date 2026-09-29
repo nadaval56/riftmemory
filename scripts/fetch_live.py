@@ -65,14 +65,53 @@ def record(time, lat, lon, depth, mag, mag_type, place=None, place_he=None, sour
 GSI_API = "https://eq.gsi.gov.il/api/earthquakes/"
 
 
+# שמות האזורים ב-API של המכון הם באנגלית. תרגום רק לשמות מוכרים; אחרת נשאר המקור.
+GSI_REGIONS_HE = {
+    "Arava": "הערבה",
+    "Dead-Sea": "ים המלח",
+    "Dead Sea": "ים המלח",
+    "Judea-Samaria": "יהודה ושומרון",
+    "Jordan-Valley": "בקעת הירדן",
+    "Jordan Valley": "בקעת הירדן",
+    "Kinneret": "הכינרת",
+    "Galilee": "הגליל",
+    "Hula": "החולה",
+    "Carmel": "הכרמל",
+    "Gulf-of-Eilat": "מפרץ אילת",
+    "Gulf of Eilat": "מפרץ אילת",
+    "Gulf-of-Aqaba": "מפרץ אילת",
+    "Negev": "הנגב",
+    "Sinai": "סיני",
+    "Jordan": "ירדן",
+    "Lebanon": "לבנון",
+    "Syria": "סוריה",
+    "Cyprus": "קפריסין",
+    "Turkey": "טורקיה",
+    "Egypt": "מצרים",
+    "E.Mediter.-Sea": "מזרח הים התיכון",
+}
+
+
 def fetch_gsi(start, end):
-    resp = session.get(GSI_API, params={"startDate": iso_z(start), "endDate": iso_z(end)}, timeout=TIMEOUT)
+    resp = session.get(GSI_API, timeout=TIMEOUT, params={
+        "startDate": start.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+        "endDate": end.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+        "minMagnitude": MIN_MAG,
+    })
     resp.raise_for_status()
     return parse_gsi(resp.json())
 
 
 def parse_gsi(data):
-    raise NotImplementedError("GSI format not yet known")
+    out = []
+    for q in data["earthquakes"]:
+        if q.get("m_type", "earthquake") != "earthquake" or q.get("magnitude") is None:
+            continue
+        region = (q.get("region") or "").strip() or None
+        out.append(record(parse_time(q["timestamp"]), q["latitude"], q["longitude"], q.get("depth"),
+                          q["magnitude"], None, place=region,
+                          place_he=GSI_REGIONS_HE.get(region), source_id=q.get("id")))
+    return out
 
 
 # --- USGS ---------------------------------------------------------------
