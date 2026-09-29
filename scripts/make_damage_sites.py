@@ -54,7 +54,7 @@ GEONAMEID = {
 # בלי נקודה: ים/אגם, זיהוי לא ודאי, או מחוץ לנתוני GeoNames שנמשכו (טורקיה)
 SKIP = {"Dead Sea", "Mediterranean Sea", "Sea of Galilee", "Eroge (En Rogel), Jerusalem",
         "Evrona playa", "Nahal Tze'elim", "Mount Tabor", "Neocaesarea (Niksar)", "Nicaea (Iznik)",
-        "Nicopolis (Pontus, Koyulhisar)"}
+        "Nicopolis (Pontus, Koyulhisar)", "Nahal Darga", "Nahal Tze'elim (Ze'elim terrace)", "Valletta"}
 REGION_COUNTRIES = ("IL", "PS", "JO", "LB", "SY")
 
 
