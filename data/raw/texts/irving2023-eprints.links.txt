@@ -1,0 +1,55 @@
+https://eprints.staffs.ac.uk/cgi/users/home	Login
+https://eprints.staffs.ac.uk/	
+https://eprints.staffs.ac.uk/	STORE Home
+https://eprints.staffs.ac.uk/view	Browse
+https://eprints.staffs.ac.uk/view/year/	Year
+https://eprints.staffs.ac.uk/view/thesis	Thesis
+https://eprints.staffs.ac.uk/view/divisions/	Faculty
+https://eprints.staffs.ac.uk/view/creators	All Authors
+https://eprints.staffs.ac.uk/view/creators_id	University of Staffordshire Author
+https://eprints.staffs.ac.uk/cgi/latest_tool	Latest Additions
+https://eprints.staffs.ac.uk/view	About
+https://libguides.staffs.ac.uk/Research_publishing/STORE_Open_Access	About Store
+https://eprints.staffs.ac.uk/view/subjects/	Subjects
+https://eprints.staffs.ac.uk/cgi/stats/report	Statistics
+https://eprints.staffs.ac.uk/cgi/users/home	Login
+https://eprints.staffs.ac.uk/	STORE Home
+https://eprints.staffs.ac.uk/view	Browse
+https://eprints.staffs.ac.uk/information.html	About
+https://eprints.staffs.ac.uk/cgi/stats/report	Statistics
+https://eprints.staffs.ac.uk/cgi/users/home	Login
+https://eprints.staffs.ac.uk/cgi/search/advanced	Advanced Search
+https://eprints.staffs.ac.uk/7950/	Tools
+https://eprints.staffs.ac.uk/7950/	Tools
+https://www.addtoany.com/share?linkurl=https://eprints.staffs.ac.uk/id/eprint/7950&title="Indian Lady Tourists Killed at Jericho": Tourism, Pilgrimage and South-South relations in Interwar Palestine	
+https://www.addtoany.com/add_to/twitter?linkurl=https://eprints.staffs.ac.uk/id/eprint/7950&linkname="Indian Lady Tourists Killed at Jericho": Tourism, Pilgrimage and South-South relations in Interwar Palestine	
+https://www.addtoany.com/add_to/facebook?linkurl=https://eprints.staffs.ac.uk/id/eprint/7950&linkname="Indian Lady Tourists Killed at Jericho": Tourism, Pilgrimage and South-South relations in Interwar Palestine	
+https://www.addtoany.com/add_to/linkedin?linkurl=https://eprints.staffs.ac.uk/id/eprint/7950&linkname="Indian Lady Tourists Killed at Jericho": Tourism, Pilgrimage and South-South relations in Interwar Palestine	
+https://www.addtoany.com/add_to/pinterest?linkurl=https://eprints.staffs.ac.uk/id/eprint/7950&linkname="Indian Lady Tourists Killed at Jericho": Tourism, Pilgrimage and South-South relations in Interwar Palestine	
+https://www.addtoany.com/add_to/email?linkurl=https://eprints.staffs.ac.uk/id/eprint/7950&linkname="Indian Lady Tourists Killed at Jericho": Tourism, Pilgrimage and South-South relations in Interwar Palestine	
+https://eprints.staffs.ac.uk/7950/	Lists
+https://eprints.staffs.ac.uk/7950/	Lists
+http://orcid.org/0000-0001-8470-175X	IRVING, Sarah
+https://eprints.staffs.ac.uk/7950/1/Indian%2BLady%2BTourists%2BKilled%2Bat%2BJericho.pdf	
+http://creativecommons.org/licenses/by-nc-nd/4.0/	Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+https://eprints.staffs.ac.uk/7950/1/Indian%2BLady%2BTourists%2BKilled%2Bat%2BJericho.pdf	Download (332kB)
+https://eprints.staffs.ac.uk/7950/1.haslightboxThumbnailVersion/Indian%2BLady%2BTourists%2BKilled%2Bat%2BJericho.pdf	Preview
+http://dx.doi.org/10.24847/v10i22023.351	http://dx.doi.org/10.24847/v10i22023.351
+https://eprints.staffs.ac.uk/view/divisions/SLPF/	School of Law, Policing and Forensics
+https://eprints.staffs.ac.uk/view/divisions/4/	International Studies and History
+https://eprints.staffs.ac.uk/cgi/users/home?screen=User::View&userid=9824	Sarah IRVING
+http://lebanesestudies.ojs.chass.ncsu.edu/index.php/mashriq/article/view/351	http://lebanesestudies.ojs.chass.ncsu.ed...
+https://eprints.staffs.ac.uk/id/eprint/7950	https://eprints.staffs.ac.uk/id/eprint/7950
+https://eprints.staffs.ac.uk/cgi/users/home?screen=EPrint%3A%3AView&eprintid=7950	
+https://eprints.staffs.ac.uk/	
+https://www.staffs.ac.uk/courses	Courses
+https://www.staffs.ac.uk/business-services	Business
+https://www.staffs.ac.uk/international	International
+https://www.staffs.ac.uk/research	Research
+https://www.staffs.ac.uk/news	News
+https://www.staffs.ac.uk/about	About Us
+https://www.staffs.ac.uk/events	Events
+https://jobs.staffs.ac.uk/	Job Vacancies
+https://www.staffs.ac.uk/legal	Legal
+https://www.staffs.ac.uk/accessibility	Accessibility
+https://www.staffs.ac.uk/about/corporate-information/transparency-data	Transparency return

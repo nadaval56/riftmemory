@@ -1,0 +1,1254 @@
+Mashriq & Mahjar 10, no. 2 (2023), 95–121
+ISSN 2169-4435
+
+Sarah Irving
+
+
+“INDIAN LADY TOURISTS KILLED AT JERICHO”:
+TOURISM, PILGRIMAGE, AND SOUTH-SOUTH RELATIONS
+IN INTERWAR PALESTINE
+
+Abstract
+In press coverage of the 1927 earthquake in Palestine, frequent mention is
+made of the deaths of three women at the Winter Palace Hotel in Jericho. That
+the three were from British-occupied India apparently rendered them unusual
+enough to be noted by a journalist, whose observation was reproduced around
+the world. This article draws on newspapers, official documents, and
+secondary literature on the hajj, tourism, and the British Empire to consider
+the history of South Asian travelers to Palestine and relationships between
+colonialism and travel in the interwar period.
+         One of the three women was Lady Abdul Rauf, the wife of a retired
+high court judge and veteran Indian Muslim nationalist campaigner, Sir Syed
+Abdul Rauf. The couple had departed Bombay in April 1927 for the hajj to
+Mecca and Medina but extended their trip to include Jericho. This was not
+unusual; the Indian Hospice in the Old City of Jerusalem in fact attests to a
+long history of Indian visitors to Palestine. This paper, however, locates the ill-
+fated presence of Lady Abdul Rauf and her companions in the changing
+nature of Indian travel in the region, as religious pilgrimage to Jerusalem
+combined with politics and tourism, and as changing infrastructures of
+capitalism and colonialism shifted how Indian visitors experienced Palestine.
+
+
+
+                                                                        ‫خالصة‬
+‫ تم تكرار ذكر وفاة ثالث‬،‫ في فلسطين‬1927 ‫في التغطية الصحفية لزلزال عام‬
+،‫ ومن الواضح أن كون الثالثة من الهند‬.‫نساء في فندق وينتر باالس في أريحا‬
+‫ّزهن عن غيرهن بالنسبة ألحد‬ ّ ‫ مي‬،‫التي كانت في وقتها تحت االحتالل البريطاني‬
+‫ تعتمد هذه المقالة‬.‫ وبالتالي تم نشر مالحظته في جميع أنحاء العالم‬.‫الصحفيين‬
+‫على الص حف والوثائق الرسمية واألدبيات الثانوية حول الحج والسياحة‬
+‫واإلمبراطورية البريطانية للنظر في تاريخ المسافرين من جنوب آسيا إلى‬
+  .‫فلسطين والعالقات بين االستعمار والسفر في فترة ما بين الحربين العالميتين‬
+‫ زوجة قاضي‬،‫كانت إحدى النساء الثالث هي السيدة عبد الرؤوف‬
+‫ السير سيد‬،‫المحكمة العليا المتقاعد والناشط القومي اإلسالمي الهندي المخضرم‬
+‫ ألداء‬1927 ‫ كان الزوجان قد غادرا بومباي في أبريل نيسان‬.‫عبد الرؤوف‬
+‫ لم يكن هذا‬.‫ لكنهما مددا رحلتهما لتشمل أريحا‬،‫فريضة الحج في مكة والمدينة‬
+
+Sarah Irving is Lecturer in International History and a Leverhulme Early
+Career Fellow at Staffordshire University. Email: sarah.irving@staffs.ac.uk
+96 Sarah Irving
+
+
+‫ وفي الواقع تشهد التكية الهندية في البلدة القديمة بالقدس على تاريخ‬.‫غير عادي‬
+‫ تموضع هذه الورقة الوجود‬،‫ ومع ذلك‬.‫طويل من الزوار الهنود إلى فلسطين‬
+‫المشؤوم للسيدة عبد الرؤوف ورفاقها في الطبيعة المتغيرة للسفر الهندي في‬
+‫ وحيث أدت‬،‫ حيث اقترن الحج الديني إلى القدس بالسياسة والسياحة‬،‫المنطقة‬
+‫البنية التحتية المتغيرة للرأسمالية واالستعمار إلى تغيير تجربة الزوار الهنود مع‬
+                                                                    .‫فلسطين‬
+
+
+
+
+INTRODUCTION
+When news of the earthquake, which had hit Palestine and Transjordan
+on the afternoon of 11 July 1927, flashed around the world, one story
+received unusual amounts of newspaper coverage. Although the
+majority of the 287 killed in the quake were in Nablus, Jerusalem, and
+al-Salt, many international newspapers reported the deaths of several
+women at the Winter Palace Hotel in Jericho. What seems to have
+attracted attention was the fact that the women were Indian; they
+remain unnamed in all the reports, but the most complete identification
+describes them as “Three women from India . . . . The wife of Sir Said
+Abdul Raouf, her companion and the wife of Mohamed Massaan.”1 It
+is striking that this description, from a newspaper published in New
+York, appeared only two days after the earthquake, suggesting that the
+story must have been present in some of the first newswires to spread
+information on the disaster. Heading in the opposite direction around
+the world, an edition of the Times of India, bearing the same date stamp
+of 13 July, carried the same story: “The hotel at Jericho collapsed and
+three Indian lady tourists were killed.”2
+        Why should the deaths of Lady Abdul Rauf and her fellow
+travelers have attracted such apparently disproportionate coverage?3
+This article takes this question as a starting point to consider the
+assumptions often made in Anglophone histories about the nature of
+travel in Ottoman and British Mandate-ruled Palestine and the wider
+Levant. By challenging these preconceptions, it attempts to inscribe
+travel by South Asians—in this instance, primarily subjects of British-
+ruled India during the colonial period—as an important but
+understudied aspect of travel to and in Palestine, and as a quotidian
+presence in Levantine life. To do so, I sketch examples of the kinds of
+                              “Indian Lady Tourists Killed at Jericho” 97
+
+
+experiences and journeys that brought Indians to Palestine,4 and
+identify some broad themes, with particular reference to colonialism,
+the rise of tourism, and the sociotechnical changes which are often seen
+as inherently bound up with modernity. Specifically, I argue that
+Indian examples are useful in unsettling the dichotomy between tourist
+and pilgrim. These terms are often used to denote travelers in Palestine
+in ways which are weighted with assumptions and prejudices about
+modernity, religion, and race. In his examination of colonial discourses
+on the hajj, Michael Christopher Low makes a similar point when he
+notes: “As opposed to the European tourist, trader, or soldier, pilgrims,
+migrants, the poor, and non-Europeans were classified as
+dangerous”5—or, as Lady Abdul Rauf’s example highlights, strange
+and out-of-place.
+        In fact, far from being anomalous, the Abdul Raufs’ presence in
+Jericho was, as I argue, part of a continuous, if varying, presence of
+people from South Asia in the Levant, but one which was undergoing
+significant changes at the time of their fatal visit. South Asian Muslims
+had been traveling and trading to the Arabic-speaking world for
+centuries before 1927; this has been demonstrated in the current
+burgeoning research on those cultural circuits of the Indian Ocean
+which linked East Africa, southern Arabia, and South and Southeast
+Asia via the transportation of ideas, beliefs, and knowledge as well as
+objects. It is also evident in literature on the hajj pilgrimage and the
+ways in which Islamic religious travel to the Arabian Peninsula was
+entangled with questions of colonialism, power, health, and race. Much
+of this work, however, focuses on areas bordering directly on the
+Indian Ocean, or on Mecca and Medina as the main destinations for hajj
+pilgrims, although it was not uncommon for such visitors to visit
+Levantine cities such as Jerusalem, Aleppo, or Damascus. Travelers to
+Jerusalem are more prominent in histories of Sufi networks and
+zawiyas, which brought pilgrims from Central and South Asia to the
+Mamluk and Ottoman Levant. Traces of these visitors remain in the
+forms of lodges and hostels which still maintain their regional
+associations into the present day; the zāwiyat al-Hunūd (Indian
+Hospice) is discussed below, while other examples include the Uzbek
+and Afghan lodges.6 Much of this scholarship, however, focuses on the
+medieval, early modern, and Ottoman periods, when most (or all) of
+the regions involved were under some form of Islamic rule. This article,
+on the other hand, considers some of the impacts of the changing
+mechanics of such journeys, and the shifting composition of South
+Asian visitors, that followed occupation by European colonial
+98 Sarah Irving
+
+
+powers—not only of India during the nineteenth century but, more
+specifically, of the Levant after World War I and the imposition of
+British and French Mandatory rule over Greater Syria by the League of
+Nations. The nature of long-distance travel had been changing since
+the introduction of steamships between India and the Mediterranean
+in the nineteenth century, stopping in ports such as Aden and Jedda
+before transiting the Suez Canal for destinations including Alexandria.
+The political significance of such travel is highlighted by the fact that
+Indian Muslim nationalists in the years immediately before World War
+I considered setting up a steamship line to carry hajj pilgrims and break
+the British shipping monopoly between India and Arabia.7 Palestine
+also gained rail connections from the Hijaz under the Ottomans, via
+spurs from the main Hijaz railway to Haifa, and from Egypt to Jaffa
+and then Jerusalem under British rule. But the end of the Ottoman
+Empire and the advent of European colonialism also brought about
+new forms of colonial mobility for Muslim South Asian subjects of the
+British, including military service and manual work for the imperial
+armies and establishing transnational business networks, while
+Zionism also began attracting Indian Jews to Palestine. Even
+anticolonial movements in both South Asia and the Arab world created
+paths along which Indians—both living and dead—found their way to
+Palestine. The archival record for the Indian presence in Mandatory
+Palestine is necessarily fragmentary and widespread; in addition, this
+article is part of a wider project that was heavily impacted by the
+Covid-19 pandemic and a discussion of the sources used thus provides
+an opportunity to consider the challenges of transnational historical
+research and the pros and cons of document digitization. The
+Palestinian archive itself has been—as many scholars have explored—
+shattered, dispersed, and sometimes destroyed by the impacts of
+British and then Israeli colonialism.8 Records from the British
+administration in Palestine used for this article are divided between the
+British National Archives at Kew and the Israel National Archive,
+which has digitized substantial numbers of documents over recent
+years making research for this article possible during the Covid-19
+pandemic. As colonial archives, both collections are partial and
+distorted; the British holdings often lack documents deemed by
+officials at the end of the Mandate unworthy of being shipped to the
+metropole, and subject to both restriction and destruction by colonial
+regimes protecting themselves.9 The National Archives of India were
+also accessed via the major digitization project Abhilekh-Patal but are
+similarly subject to the sorting, preservation, and disclosure issues
+presented by the records of any nation state. 10 There are undoubtedly
+                                “Indian Lady Tourists Killed at Jericho” 99
+
+
+additional sources to be found in a variety of South Asian languages,
+including travelogues by Muslim visitors to the Levant, that are
+beyond the linguistic skills of this author.
+         Other sources included Palestinian (Arabic) and international
+newspapers, alongside memoirs and personal accounts written by
+Palestinians and other residents during the Mandate period, primarily
+in Arabic and English. However, the sparse presence of South Asians
+in life-writings by Palestinians and in the Arabic press is, at first glance,
+striking, but on further consideration perhaps not so surprising. It is
+also rare to find explicit mentions of communities that we know to be
+present in Jerusalem and other parts of Ottoman Palestine, such as
+African Palestinians or the North Africans of the Maghrebi Quarter,
+destroyed by Israeli troops in June 1967. Like members of these groups,
+South Asian visitors were likely subsumed under categories such as
+pilgrim and Muslim, or considered by their profession or where and
+with whom they stayed, rather than in terms of race and nationality.
+Like these communities, their presence might sometimes be more
+accurately traced through personal and place names such as Hindi and
+Maghrebi, and through local microhistories, reflecting the fact that
+Palestinians encountering people from India likely had a different way
+of “seeing” them than through the categories applied in colonial
+documentation.
+
+
+SOUTH ASIAN TRAVEL IN THE LEVANT UNDER ISLAMIC RULE
+A substantial body of literature already exists on travel from South
+Asia to the Arabic-speaking world in the early modern and modern
+periods. The most prominent subsection of this field are the many
+works that have emerged in recent years on hajj pilgrimages to the
+Arabian Peninsula. These intersect with the growing literature on the
+Indian Ocean as a place of cultural interactions and cross-fertilization,
+via circuits of trade, religious knowledge, and other forms of mobility
+between South and Southeast Asia, the Arabian Peninsula, and East
+Africa. The former has given rise to rich discussions of the changes
+which the hajj process underwent in interaction with colonialism.
+These focus especially on the British Empire in India, and on regimes
+of hygiene and disease control, which combined with colonial fears of
+Islamic extremism and the possibility that hajj travelers would be
+infected or carry infection, either literally as cases of cholera and other
+“tropical” diseases, or metaphorically as radical or insurrectionary
+ideas.11 The second body of literature focuses on the Indian Ocean as a
+space of cultural and economic circulation which predated European
+100 Sarah Irving
+
+
+colonialism and, indeed, incorporated and helped to shape the early
+stages of imperial enterprises such as Portuguese settlements in India.
+Much of this literature focuses on complexity and richness, with
+Middle Eastern travelers—Arabs, Jews, Armenians, or Persians—
+appearing in nodes and networks stretching from Singapore to
+Zanzibar, and vice versa.12 In a very small way, this article is inspired
+by the call from some authors within this literature to pay closer
+attention to the hinterlands of the Indian Ocean world—the inland
+regions linked to the sea by routes of trade and pilgrimage.13
+        From these two perspectives, the Levant as a travel destination
+appears very different—both conceptually and geographically—from
+much of the literature on tourism in Palestine. The Levant area is
+framed not as the eastern end of a Mediterranean world with its
+movements and exchanges, but as the westernmost point of a vast and
+diverse space of mobile people for which Jerusalem and the other holy
+places of Palestine maintained the lure of sacredness despite also being
+al-Aqsa (the furthest). Throughout the medieval and early modern
+periods, occasional Indian Muslim travelers did extend their journeys
+as far as Palestine, generally in addition to visiting Mecca and Medina.
+These journeys appear in travel accounts, mainly by South Asian
+Muslim writers, while Indian individuals are noted in accounts penned
+by Levantine chroniclers; in the nineteenth century travelogues by
+South Asian Muslims, written in Urdu and other regional languages,
+start to appear in significant numbers,14 similar to the parallel
+emergence of “Holy Land” travel texts by European and North
+American authors.
+        The most concrete illustration of Indian arrivals, however, is the
+existence of an Islamic pilgrim hospice, not dissimilar to the better-
+known Christian hostels for Armenian, Austrian, and other
+communities or to the Islamic pilgrim establishments associated with
+specific communities and regions, such as the Uzbek and Afghan
+lodges, and which were part of networks across the Islamic world.15
+While the hospice’s origins are unclear, it appears to be linked to Indian
+Sufi zawiyas established as early as the thirteenth century, and to have
+coalesced into a single base for Indian travelers by the mid-nineteenth
+century.16 After World War I, however, the hospice took on an
+implicitly political turn, when leaders of the All-India Muslim League
+decided that maintaining an Indian presence in Jerusalem was an
+important part of their project.17 This was partly in response to pressure
+from the Palestinian Supreme Muslim Council, which believed that the
+hospice represented a useful piece of propaganda against the Zionist
+                             “Indian Lady Tourists Killed at Jericho” 101
+
+
+position enshrined in the British Mandate.18 A member of the Khilafat
+movement,19 Nazir Ansari, was dispatched to Palestine in 1924 as
+caretaker of the hospice and remained there for the rest of his life,
+passing on the role to his son and grandsons.20 Under Ansari, the
+hospice provided a focal point for Indians in Palestine—including
+Commonwealth troops serving there as well as civilian residents and
+visitors—and a headquarters for the Palestine Indian Association. At
+the same time, the hospice was also embedded in the wider
+communities and networks, including its local neighborhood in the
+Old City of Jerusalem and the local Red Cross Society.21 The Indian
+Hospice thus highlights the way in which a longstanding South Asian
+presence in Palestine underwent changes in nature and meaning with
+the arrival of formal British colonialism in the region after World War
+I.
+        Another example of the way in which South Asian travelers
+during the Ottoman period became established features of the
+Levantine landscape can be found in the Indian community of the
+village of Beit Sawa, now a suburb of Damascus. It is not clear when
+they came to Syria or how they coalesced into an identified settlement,
+although it seems likely that some, or even most, arrived in connection
+to the hajj. It was not uncommon, before solvency regulations were
+introduced by the British, for Indian pilgrims to run out of funds on the
+hajj and be unable to return;22 although most of these pilgrims either
+found work or became destitute in the Arabian Peninsula, Damascus’
+status as a major node on the route between Istanbul and the
+Haramayn (Mecca and Medina, the main cities of the hajj) perhaps
+drew some north. Indeed, reports from the British consulate mention
+the presence in the 1870s of women in Damascus who stated that they
+originated from the Punjab but had been sold into slavery and traded
+along the hajj routes. 23 Another possibility is that some of these
+villagers—although not, presumably, those seeking British consular
+help—were amongst those Indian Muslims who fell foul of colonial
+authorities at home and fled to the Ottoman Empire.24
+       Under Ottoman rule, disputes arose over whether and how
+many of these Beit Sawa Indians were British subjects and thus exempt
+under the capitulations from Ottoman legal jurisdiction;25 legal
+wrangles over their status continued into the Mandate period, when
+consulate staff complained that regular calls by the Indians to protect
+them from the French authorities—whether in quotidian legal matters
+or from government bombardment in the 1925–27 Syrian Uprising—
+was causing tensions between the British representatives and their
+102 Sarah Irving
+
+
+fellow Mandatory power.26 One British solution to a reported rise in
+poverty amongst the Beit Sawa Indian community was to pressure
+them to “return” to India, despite the fact that consular officials
+themselves admitted that they had been “established in Syria for
+several generations . . . . To a very great extent they have lost touch with
+their homes in India, and many of them speak only Arabic.” 27 Taking
+matters into their own hands, some of the community, presumably
+using their British Indian subject status, moved to Iraq and Palestine,
+especially those who had been dependent on the irrigation canals in
+Ghouta for their farming; much of this agricultural infrastructure had
+been destroyed by the French during the uprising, leaving the area’s
+inhabitants unable to grow their accustomed crops. 28 Whatever their
+origins, the Beit Sawa Indians came from a very different class of
+traveler than Sir Syed Abdul Rauf and his wife, who occupied a senior
+position in colonial society and were sufficiently affluent to stay in a
+new hotel like the Winter Palace, clearly aimed at European tourists or
+the elite of Mandate Palestinian society.
+        With the radically reduced travel times that came with
+steamships and railways in the second half of the nineteenth century,
+the number of South Asians who came to the Arabic-speaking world
+and who could add more destinations to their itineraries greatly
+increased, and as more settled—and established themselves in
+businesses such as shipping—the denser the networks in which new
+arrivals could embed themselves.29 Again, the main focus of existing
+scholarship has been the hajj, for which estimated numbers show
+massive increases from the 1890s onwards. Figures quoted by Michael
+Christopher Low, for instance, show pilgrims from South Asia rising
+from approximately 5–7,000 in the mid-1800s, to 10,000 in the 1880s,
+20,000 by 1893, and perhaps exceeding 100,000 in the years
+immediately preceding World War I. In addition to technological
+developments, the infrastructures of empire also changed and, in some
+cases, forced, inspired, or facilitated movement by people acting as
+political exiles, refugees, or labor migrants. However, the majority of
+existing literature on travel and travelers in Palestine in the later
+decades of the Ottoman Empire and the period of British Mandatory
+rule in Palestine focuses on European or North American—largely
+Christian or Jewish—individuals. There are solid reasons for this.
+Firstly, the overlapping politics of European imperialism and Zionist
+immigration mean that travelers from these two areas are unavoidably
+bound up with issues such as Orientalized and biblified images of
+Palestinian people, questions of power and empire, and the present-
+                             “Indian Lady Tourists Killed at Jericho” 103
+
+
+day political situation. Secondly, technological developments such as
+steamships and railways, and social changes such as the rise in
+capitalist settings of the ideas of vacations and tourism, resulted in
+massive increases in the numbers of Christian and Jewish pilgrims and
+tourists which had significant implications for European, especially
+British, culture, society, and politics. The academic literature
+surrounding this latter phenomenon has thus addressed issues such as
+the nature of and difference between tourism and pilgrimage, and the
+growth of infrastructures deemed necessary for mass Euro-American
+tourism such as hotels, tourist agencies, and a guidebook industry. 30
+        Implicit, and sometime explicit, in this literature is the
+assumption that these developments are somehow separate from non-
+Western, non-Christian, or non-Jewish travel to Palestine, particularly
+Islamic pilgrimage and visitors from Africa and Asia.31 I would suggest
+that underlying many of the discussions is a tacit assumption that the
+visitors being talked about are white and that they exist in a category
+associated with modernity and thus differentiated from religious
+pilgrimage (Russian pilgrims, it must be said, occupy a somewhat
+liminal space in this schema, in common with Orientalist attitudes to
+peoples from Eastern Europe and further afield from Northwestern
+Europe or North America). Furthermore, travelers from Asia and
+Africa, if they are mentioned, are often implicitly or explicitly classed
+as pilgrims, and their activities in and connections with Palestine are
+confined to Islamic religious circuits and institutions. In terms of
+numerical weight, some of these assumptions may well be true. But
+relying solely on numbers is, I argue, an error which obscures a long
+history of South Asian travel to Palestine which, while often consisting
+of or intimately linked to pilgrimage, is over-simplified and, indeed,
+exoticized and Orientalized by relegation to this single term.
+Steamships and railways had immense impacts on South Asian as well
+as European and North American people and experiences, and the
+other trappings of travel that came with them—such as guidebooks
+and phrasebooks—were not the exclusive preserve of European
+languages. Guidebooks to a range of destinations (although not, to the
+best of my knowledge, Palestine) were issued by Indian publishing
+houses,32 while the commercial potential of travelers to Arabic-
+speaking countries is reflected in the existence of colloquial Arabic
+phrasebooks in languages such as Bengali, Hindi, and Urdu.33
+
+
+INDIANS IN THE MANDATORY LEVANT
+Despite the surprise with which papers around the world met the news
+104 Sarah Irving
+
+
+of Indian tourists in Jericho, by the 1920s it is possible to detect an array
+of Indian presence across the Levant which both builds on and differs
+from those of the Ottoman and earlier periods. These represented a
+broad range of social classes, motives for travel, and relationships to
+colonialism, and the signs they have left in the historical record include
+colonial archives, the media, and the built environment. These signs
+rarely, however, include the voices of Indian travelers themselves,
+whose subjective experiences are absent from the official
+correspondence, policy documents, and border regulations that helped
+to shape their encounter with the Levant.
+         Amongst the most poignant markers of Indian presence are the
+sections of the Commonwealth War Cemeteries in Gaza, Deir al-Balah,
+Ramla, Jerusalem, Tulkarem, and Haifa dedicated to South Asian
+soldiers killed in World War I. As noted on the individual web pages
+for each cemetery, Indian soldiers were originally commemorated
+collectively with nameless monuments, in contrast to the individual
+gravestones or lists of names on memorials to the British dead. New
+monuments, bearing the names of South Asians known to have been
+buried at the sites, have been added between 2001 and 2014. 34 It is
+perhaps more widely known that huge numbers of soldiers from what
+was then British-ruled India (now both India and Pakistan, with many
+soldiers coming from regions of the latter) fought in Iraq, where the
+campaign was initially commanded from Delhi, but substantial
+numbers also served in the Palestine campaign and were stationed in
+Palestine during the Mandate period.35 For Palestinians themselves in
+the wake of World War I, South Asian soldiers must have been a
+regular sight, especially in the neighborhood of military bases such as
+Sarafand, or around government buildings in Jerusalem and regional
+governorates; in 1922, for example, British military correspondence
+discusses the stationing of “2 Indian Infantry Battalions, 1 Indian
+Cavalry Regiment [and] 1 Indian Pack Battery” in Palestine, which
+could have amounted to over 4,000 men.36 That the conditions for
+Indian recruits were different—presumably poorer—than those for
+white soldiers is, however, apparent from correspondence over leisure
+facilities for Indian troops. That this provision was separate from
+existing leisure space suggests that Indian soldiers were segregated
+from white troops, while the existence of letters refusing funds but
+mentioning grants for other troops seems to show that South Asians
+were expected to put up with sparser facilities.37
+        For Indian soldiers, a posting in Palestine may have had many
+different meanings. Most were recruited from among Sikh and Islamic
+                            “Indian Lady Tourists Killed at Jericho” 105
+
+
+communities in the regions such as the Punjab, whose inhabitants were
+viewed by the British authorities through the lens of “martial races,”
+peoples who were deemed to be fitted for warfare by both their
+physical (“racial”) and cultural backgrounds.38 For Muslim soldiers,
+being in Bayt al-Maqdis must have had spiritual resonance, although—
+especially in the early years of the Mandate—this may have been
+complicated by mixed feelings towards the defeat of the Ottoman
+caliph by Britain and its allies during World War I.
+        But fighting men were not the only Indians to be found in the
+imperial army in Palestine: throughout the Mandate period, Indians
+were also employed as laborers (possibly replacing the Egyptian
+Labour Corps in the wake of the Egyptian revolution in 1919 and the
+nominal independence that followed it). Applications for work visas
+and other documents, now in the Israeli national archives, show that a
+significant number of South Asians applied, via contractors who were
+usually themselves also Indian, to come to Palestine to work for the
+British army, mainly at Sarafand. Some of these apparently settled in
+the region, judging by the request for a visa from Hamida Begum
+Abdul Rashid, who applied for permission to join her husband who
+was based at the British army camp at Sarafand,39 and it seems likely
+that at least some married locally and remained, or took Palestinian
+spouses back to India with them.
+
+
+TRAVELING TO PALESTINE
+The documents submitted by subjects of British India seeking entry
+into Palestine for shorter periods of work and travel than those in
+military employment present an image of a broad range of interests
+and incentives as well as social classes and backgrounds. As is evident
+from British records now in the Israeli national archives, Indian Jews
+also applied to come to Palestine, encouraged by the Zionist message
+or drawn by family, work, or religion. There is a rich and
+underexamined history to be written of the relationship between
+Indian Jews and Palestine,40 but the specificity of their position—in
+both India and Palestine—often makes their trajectories and
+experiences very different from those of Hindu and Muslim South
+Asians; therefore, I will not examine them as a specific group in this
+article.
+         Indian Jews, Punjabi soldiers, and military laborers, however,
+belong to the categories of travelers to Palestine who were seeking to
+settle in the country for a longer term or permanently. Those who, like
+106 Sarah Irving
+
+
+Syed Abdul Rauf and his party, were planning only short visits by
+traveling around well-known sites, seem to have been less common,
+but they did exist. At the grandest end of the scale are figures such as
+the Nawab of Rampur, who spent a couple of days in Jerusalem in 1934.
+Rumored by the Anglophone press to be one of the richest rulers of a
+semi-independent princely state in India, the itinerary of the Nawab
+and his wife, the Begum of Rampur, graced the society column of the
+Palestine Post. The couple, as well as senior members of their substantial
+entourage, were guests at a lunch hosted by Sir John Hathorn Hall,41
+the chief secretary of the Mandate administration, along with Ruhi Bey
+Abdul-Hadi, chief Arab officer to the British government and one of
+the less politically activist members of his well-known family.42 The
+Nawab’s involvement with the Islamic networks of the Indian national
+movement did not prevent him from using the luxurious King David
+Hotel rather than the struggling Palace Hotel, owned by the Supreme
+Muslim Council,43 as a base during his sojourn in Jerusalem and
+excursion to the shrine of Nabi Musa, the Dead Sea, and Jericho.44
+Despite not opting for their hospitality, during the visit, the Nawab did
+announce a donation of 15,000 rupees (around $5,680 at the time, or
+over $120,000 today) to the Supreme Muslim Council for the upkeep of
+the al-Aqsa Mosque “and other waqf properties.”45
+        On a more practical level, long-extant merchant networks,
+especially involving the Armenian, Jewish, and Parsee communities in
+India, and evolving markets for luxury products in the twentieth
+century, combined to draw Indian commercial travelers to Palestine.
+These travelers arrived on business visas and were primarily there to
+engage in trade, but they must have stayed in hotels alongside other
+travelers and perhaps took in tourist sites in between commercial
+dealings. In June 1947, for instance, we find Mazur and Paldico Ltd., a
+diamond trading company based in Jaffa,46 in correspondence with the
+Department of Migration over a visa application for a Mr. Shantilal
+Motilal Mehta of Bombay. In contrast with the often-scant paperwork
+associated with individual entry applications, this commercial process
+accrued an archive folder of telegrams (for which the Mandate
+administration charged applicants extra) and letters stressing the
+“extreme urgency” and need to hasten the permit. Mazur and Paldico
+added extra evidence to their application form, stressing the value of
+the diamond industry to Palestine, especially “following the
+resumption of the pre-war Belgian diamond industry with which the
+Palestine diamond industry is keenly endeavouring to compete,” and
+the comments of government officials on the documents in the folder
+                             “Indian Lady Tourists Killed at Jericho” 107
+
+
+back up their claims.47 The three-month visa allocated to Mehta, and
+the anticipated month-long stay mentioned in the paperwork, suggest
+ample time for business purposes, so it might be supposed that he also
+did some sightseeing. Mehta’s firm is reported by Mazur and Paldico
+as having already traded with them for several years, so we might build
+on this case to imagine a small number of Indian businessmen with
+strong links in Palestine, perhaps originally brokered via Jewish
+Indians but later making repeat visits and establishing personal
+relationships with residents of Mandatory Palestine.
+        Mehta was not an isolated case; indeed, in the same month,
+another Tel Aviv diamond polisher, Albert Alcalay, applied for a visa
+for Ratilal Jasani of a well-known firm, Anandlal Becharlal, whose case
+he pressed in similar terms to Mazur and Paldico’s expressions of
+urgency for Shantilal Mehta’s visa. Jasani was said to have been “in
+constant commercial relations with Palestine . . . for many years” and
+Alcalay presented letters of recommendation from two banks and two
+diamond export associations in support of their request.48 A month
+later, Ratilal Jasani’s brother, Raman, also wrote to Alcalay, informing
+him that they had opened a branch of the company in Burma, asking if
+Tel Aviv could supply polished diamonds of certain qualities, and
+again asking him to arrange an urgent visa from the Palestine
+government, to be cabled to the British Embassy at Antwerp, another
+major node in the global diamond trade.49 Such relations were not
+always fruitful for all concerned; the colonial archive also contains
+complaints from merchants and corporations in both countries, in the
+diamond trade and other industries from incidents when deals went
+sour or misunderstandings occurred. But Indian commercial travelers,
+and successful commercial relations with the Palestinian economy,
+were certainly a feature of the business landscape of Mandate Palestine.
+
+
+SHARED STRUGGLES AND ELITE NETWORKS
+While many Indian travelers to Palestine were following routes bound
+up with colonialism—such as soldiers, laborers, or more high-status
+workers—links between the two segments of the British Empire were
+also forged by resistance, including delegations such as that mentioned
+above, sent by the Supreme Muslim Council in 1923 to solicit funds and
+support from Indian Muslims and campaigners for liberation from
+British colonialism, or Indian delegates to the World Islamic Congress
+held in Jerusalem in 1931. In some respects, these relationships built
+upon Ottoman-era links between Palestine and India, hinted at by the
+continuity of the Indian Hospice. But, as Omar Khalidi notes, during
+108 Sarah Irving
+
+
+the Mandate period, wealthy Indian princes and aristocrats who
+historically “were always conscious of their membership in trans-
+Indian, pan-Islamic world”50 endowed numerous new awqaf in
+Jerusalem, acts which took on new political weight in the new political
+circumstances of British rule in the Levant and critiques of British
+colonialism which were now shared between India and Palestine.51 On
+a more clandestine level, the circulation of Islamic activist tracts written
+in India and distributed in Palestine and in French-ruled Syria was a
+cause of concern to the British government, with discussions on
+curbing it from reaching cabinet level.52 While it is important to note
+that the significance of Palestine and Jerusalem as religious and
+anticolonial causes varied considerably according to the priorities of
+individual Muslims, and that events in India often took precedence
+over those in Palestine, the idea that Jerusalem should remain under
+Islamic rule was among the core beliefs of many Muslim Indian
+nationalists and pan-Islamists.53 Equally, not all Indian Muslim
+nationalists were opposed to the British Empire, and thus, for some,
+Jerusalem may have remained a purely religious symbol. 54
+        Thinking about this relationship in terms of a physical Indian
+presence in Palestine, a corporeal example of the entanglement of
+Indian Muslim nationalists into the networks and narratives of
+Palestinian politics was the burial on the Haram al-Sharif of
+Muhammed Ali Jouhar, a leading figure in the Khilafat movement
+during World War I and in the establishment of the All-India Muslim
+League (Jouhar was also well known to Syed Abdul Rauf, in these and
+other capacities, as we shall shortly see). Muhammad Ali, whose health
+had been seriously damaged by the denial of medical treatment for his
+diabetes when he was imprisoned by the British in India, died in
+London in January 1931. Within a week of his death, the announcement
+was made that Muhammad Ali would be buried in Jerusalem, as the
+result of a flurry of telegrams between Amin al-Husayni and
+Muhammad’s brother Shaukat Ali. The initiative seemingly came from
+Hajj Amin, who had been cultivating links with Indian Muslim
+nationalists since just after the First World War, both for their financial
+clout and in order to focus the attention of India’s huge Islamic
+population on Jerusalem as both a sacred site and a victim of British
+occupation.55 Despite their role in the opposition to colonial rule in
+India, which saw them interned without trial in 1918, the Ali brothers
+had a close relationship to the British state, which cultivated separate
+Islamic groups as a means of splitting resistance to colonialism in India.
+Sir John Chancellor, High Commissioner in Palestine in early 1931, was
+                             “Indian Lady Tourists Killed at Jericho” 109
+
+
+thus ordered by London to facilitate the burial, 56 which saw crowds of
+over 20,000 Palestinians (assumed by journalists to be Muslims) lining
+the route and following the coffin.57 The main beneficiary of this
+display of funerary pageantry was certainly Amin al-Husayni in his
+competition with rival nationalist groups in Palestine, as well as the
+British in their quest to divert attention from colonial misrule, but the
+material presence of the grave of a widely popular Indian Muslim
+leader also helped to inscribe the relationship on the soil of Palestine,
+as well as in the more ethereal realms of words and ideas. Like the
+hundreds, if not thousands, of Indian war graves spread across
+present-day Israel and Palestine, and the hospice in Jerusalem’s Old
+City, Muhammad Ali’s grave created a concrete link between the
+countries which could be read in multiple ways by Indians and
+Palestinians of different persuasions.
+        Such links also emerge in more everyday and private ways. In
+1945–46 the Indian scholar M. L. Roy Choudhury spent a year as a
+lecturer in the Faculty of Oriental Studies at Cairo University, funded
+by a travel fellowship endowed by the lawyer and politician Sir
+Rashbehari Ghosh (1845–1921). During his sojourn in Egypt,
+Choudhury undertook a journey through Syria, Palestine, Lebanon,
+and the Arabian Peninsula during which he visited the Palestinian
+doctor, ethnographer, and nationalist Tawfik Canaan.58 Choudhury
+was a historian of Mughal India and of Persian cultural and religious
+influences in India (amongst others, he authored a volume on the
+“Golden Age” Islamic scientist Abu Rayhan al-Biruni), and the volume
+in which he recounts his meeting with Canaan and their conversation
+on the hardships imposed by British rule in both Palestine and India is
+a modern-day continuation of his historical studies—namely, an
+attempt to inform Indians about wider Arab politics, culture, and
+society in contemporary Egypt. The book, partly authored by
+Choudhury and with contributions from Jawaharlal Nehru alongside
+former Wafd prime minister of Egypt Mustafa Nahas Pasha, leading
+Egyptian feminist Huda Sha’arawi, and a range of local scholars, is
+explicitly billed as an effort to build bridges between the Middle East
+and India in the interests both of anti-imperial struggle and of wider
+knowledge and understanding independent of European powers.59 So,
+while earlier Indian Muslim visitors to Palestine had Mecca and Jeddah
+as their main aims and were inspired by religious devotion,
+Choudhury embarked on his travels in the Levant from a Cairene base
+and was impelled by a combined thirst for knowledge and to build
+understanding and networks across peoples linked not just by Islamic
+110 Sarah Irving
+
+
+culture and history, but also by their shared experiences of British
+colonialism and their struggles against it.
+
+
+THE MANY DEATHS OF LADY ABDUL RAUF
+The sad death of Lady Abdul Rauf and her companion in the ruins of
+the Winter Palace in the earthquake of July 1927 draws together many
+of the themes sketched above. On the one hand, she and her husband
+were visiting Palestine as an extension of their hajj, as many Indians
+had done before them. Like hundreds of thousands of others, they had
+embarked by sea from Bombay, although their berths on the SS Dara
+were no doubt much more comfortable than those occupied by many
+of their compatriots. Indeed, there were 1,432 pilgrims on the Dara on
+26 April 1927, “consisting of 1,169 males, 241 females, 9 boys and 6
+girls,”60 and conditions on hajj ships were a recurrent source of scandal
+in British-ruled India. The Abdul Raufs were described by the Indian
+press as traveling in a “party of nineteen” which included another
+“high official from northern India” and was seen off at from the
+disinfection shed at Bombay by well-known figures from the Islamic
+wing of the Indian nationalist movement, including Khilafat veterans
+Shaukat Ali (brother of Muhammad Ali Jouhar, whose burial within
+the Haram al-Sharif is mentioned above) and Shoaib Qureshi.61 That
+the Abdul Raufs and several others—presumably members of the
+group of nineteen—then chose to travel from the Haramayn to
+Palestine was less usual, but the voyage still placed them in a long
+tradition of Indian pilgrimage to Jerusalem. Jericho, however, has very
+little religious significance for Muslims (unless we extend the borders
+to include the Maqam of Nabi Musa around seven miles away); this
+part of their tour departs from the long-standing religious practices
+with which most literature on South Asian travel to the Arabic-
+speaking world is concerned and appears instead to have entered the
+realms of that most modern of activities—tourism. They went to a site
+of historical and scenic interest, and they stayed in a very new and
+“modern” hotel aimed squarely at European and elite Palestinian
+guests.
+        Like Muhammad Ali, the Khilafat leader discussed above, Syed
+Abdul Rauf, his career, and his political convictions embodied many of
+the contradictions of elite nationalism and of Indian Muslim relations
+with the British authorities. In 1927, he was a recently retired judge of
+the high court in Lahore,62 having spent a long career working with or
+in the Indian legal system, mainly in Allahabad,63 under British rule.
+He had considerable social and professional status within the Raj, as
+                              “Indian Lady Tourists Killed at Jericho” 111
+
+
+seen in the prominent place his departure for the hajj took in the Times
+of India but also, for many years prior, in the regularity with which his
+name and activities appear in newspaper reports on Indian politics and
+society, often alongside the likes of Gandhi, Jinnah, and Motilal, and
+later Jawaharlal Nehru.64 As well as a judge and thus member of the
+national establishment, he was also a longstanding member of the
+Indian national and Islamic movements. He had been drawn into
+politics via his senior colleagues on the Allahabad bar in the 1880s,65 in
+his early years flirted with the Congress Party, and in the first two
+decades of the twentieth century engaged in a range of political
+activities which included some that focused on India’s Muslims and
+others which explicitly or implicitly crossed religious lines. The latter
+included attendance, especially prior to World War I, at several high-
+profile independence conferences and the vice presidency of a United
+Provinces Political Association which also brought together Hindus
+and Muslims.66 He also, however, worked with and helped to found
+organizations resistant to cooperation with Hindus or specific to the
+Muslim community, including a boarding house for Muslim students
+in Allahabad, the Aligarh university project, the Khilafat movement,
+the Mohammedan Anglo-Oriental Defence Association, and the
+Muslim League,67 and he remained embedded in elite Muslim
+nationalist circles which linked urban professionals with rural
+landowners.68 In 1906, he was also one of the thirty-five members of the
+Minto Deputation, a delegation to the viceroy, Lord Minto, asking for
+greater political representation for Muslims in India.69 And yet in 1918,
+he courted widespread controversy—and hostility from fellow Indian
+nationalists—when along with fellow Allahabad lawyer Benjamin
+Lindsay he accepted the role of reporting to the government on the
+legality and conditions of the internment of Khilafat leaders Shaukat
+and Muhammad Ali.70 Not unlike many of the elite men of the
+Palestinian national movement, Syed Abdul Rauf’s personal and
+political life story is one in which commitment to self-determination
+and indigenous rights exists closely bound up with the colonial state
+and its structures of power and domination.
+        The most detailed account of the collapse of the Winter Palace
+and the deaths of Lady Abdul Rauf, her maid, and her friend highlights
+the complex colonial and cultural place that the couple inhabited.
+Douglas Duff, an officer in the Palestine police, claimed in his 1953
+memoir of his years in Palestine to have been dispatched to Jericho on
+the afternoon of the earthquake due to reports that “some eminent
+visitors” had been trapped in a damaged hotel.71 Duff reports that he
+112 Sarah Irving
+
+
+reached the Winter Palace to find “a deeply distressed Indian, a retired
+Justice of the Supreme Court, a K.C.I.E.” surrounded by men from
+Jericho who were refusing to help remove the remains of the collapsed
+hotel until paid from the “leather shoulder-satchel, literally stuffed
+with gold sovereigns,” which the “Muslim Indian knight” was offering
+to those who might help to save his wife from the ruins. In this version
+of events, which places heavy emphasis on the class differences
+between Abdul Rauf and the Palestinian men surrounding him, and
+ignores any notion of commonalities such as religion, Duff started to
+attack the local men with a hide whip to force them to start digging
+and, if they stopped for any reason, compelled them to resume with
+further blows of the whip and his fists.72 Eventually the bodies of the
+two women are uncovered and, according to Duff:
+
+
+       [Abdul Rauf] ran towards me as I freed her from the dust and
+       the fallen masonry. He fell prone beside her, his eyes streaming
+       with tears.
+       “Please carry her yourself, British officer,” he begged, looking
+       at me. “Carry her, sir, for I do not want her to be touched by any
+       of these common men. Cover her face. She would be grieved if
+       she knew that her features were exposed to the mob when she
+       could no longer protect herself.” I have seen many tragedies
+       before and since that afternoon in Jericho, but I have never felt
+       worse than I did while I carried that poor, dusty, crumpled,
+       shattered body of an old Indian woman to the shelter of the
+       bougainvillaea-covered summer-house in the hotel garden.73
+
+
+To the best of my knowledge, no other account exists to confirm or
+deny Duff’s details. His predilection for purple prose and self-
+aggrandizement means that we can assume some level of exaggeration;
+certainly, Syed Abdul Rauf was not a “Supreme Court” judge and Duff
+upgrades his honorific from Knight Bachelor to Knight Commander of
+the Indian Empire (“K.C.I.E.”). It is also highly unlikely that Abdul
+Rauf would have been carrying a satchel of gold sovereigns, at lunch
+or any other time (but, like many of Duff’s other descriptions of Arabs
+and other people not from northwest Europe, it does fit neatly into
+Orientalist stereotypes). Some contemporary news stories back up the
+idea that Abdul Rauf and his friend were indeed in a separate location
+from their wives because the latter practiced strict veiling, so he may
+have wished her face not to be on public display even after death, but
+                             “Indian Lady Tourists Killed at Jericho” 113
+
+
+the attitude to “common men” attributed to him by Duff, writing a
+quarter-century later, looks suspiciously similar to Duff’s own
+abundantly expressed class attitudes from elsewhere in the book.74
+        Thinking about the death of Lady Abdul Rauf, it is hard not be
+reminded of Gayatri Chakravorty Spivak’s famous account of what she
+terms “widow sacrifice,” in which she suggests the complete obscuring
+of the subjectivities of Indian women by multiple layers of colonial and
+patriarchal silencing.75 At the moment of her death, Lady Abdul Rauf
+is rendered nameless in news reports that flash around the world. A
+day or two later, like Spivak’s “grotesquely mistranscribed” widows’
+names,76 she appears again, in various spellings but always as “Sir
+Abdul Raouf’s” Lady.77 Indeed, after months of searching, I still do not
+know her own name. And, at the moment of her death, she and her
+husband—who despite the obsequious references to markers of social
+status is rendered equally nameless in Duff’s account—become signs
+by which a violent, prejudiced former police officer can shore up his
+racist imaginaries of working-class and peasant Palestinians. Duff’s
+description of the weeping judge asking the white policeman to take
+his wife out of the sight of the massed Palestinian men clearing the
+rubble of the hotel is the ultimate expression of the colonial fantasy
+“white men saving brown women from brown men,”78 whilst
+simultaneously rendering Abdul Rauf, the other “brown man” of the
+triangle, weak, emasculated, and dependent on white colonial power.
+Would Duff have been so keen to aid the bereaved husband if he had
+known of the latter’s decades of activity in the Indian nationalist
+movement? Or would he have relished the opportunity to show off the
+colonizer’s strength over that of the colonized, however much of an
+elite social and professional status the latter may have attained?
+
+
+THE INDIAN TRAVELER IN MANDATORY PALESTINE
+In the end, almost all we know for sure of Lady Abdul Rauf is that she
+died when part of the newly constructed Winter Palace Hotel in Jericho
+collapsed in an earthquake on the afternoon of 11 July 1927. Beyond
+that, like many women of the nineteenth and early twentieth centuries,
+of whatever nationality, her archival presence solely exists as the
+shadow of a politically active, professionally successful husband. But
+the provocations raised by the circumstances of her death open up a
+range of questions and draw together a number of threads, which force
+us to confront assumptions and stereotypes about the presence of
+people from British-colonized India in British-colonized Palestine. This
+article is just a starting point, a selection of examples, and possible
+114 Sarah Irving
+
+
+strands for future investigation. But, as the many types and trajectories
+of Indian travelers to and in Palestine show, there is scope for a wide
+range of investigations, whether of economic relations, south-south
+solidarity in the face of British colonialism, extensions to the main hajj
+which take in the Levant (with implications for understandings of the
+role of Jerusalem and Palestine in Islamic thought), or the expansion of
+studies of pilgrimage in Palestine to include Muslims alongside the
+more commonly treated Christians and Jews.
+         Furthermore, I argue that considering the place and experiences
+of Indian travelers in Palestine pushes us to rethink some of the
+entrenched narratives of the growing literature on tourism in the
+Levant, with its Eurocentric foci. Yes, the huge growth in the numbers
+of visitors to Palestine from the late nineteenth century on and after the
+First World War was bound up with sociotechnical changes such as
+steamships, railways, guidebooks, and travel agents. However, these
+developments did not apply solely to European and North American
+travelers; these new infrastructures and sources of knowledge and
+encounter also applied to other peoples and other parts of the world,
+albeit often intimately bound up with structures of colonialism.
+
+
+NOTES
+
+1 “Over One Hundred Dead in Palestine Earthquake,” Jewish Daily Bulletin,
+
+13 July 1927, 4.
+2 “Earthquake in Jerusalem—Numerous Deaths—Indian Lady Tourists
+
+Killed at Jericho,” Times of India, 13 July 1927, 9.
+3 Sir Syed Abdul Rauf’s name is transliterated in multiple ways in the Indian
+
+press, government documents, and the secondary literature (mainly
+Syed/Saiyid/Sayyid Abdul/Abdur Rauf/Raouf/Raoof). I have opted for the
+version which appears used most frequently in documents closely related to
+him and, thus, over which he may have had some influence regarding the
+spelling.
+4 In this article, Indians are defined broadly as inhabitants of British-ruled
+
+South Asia, all of which was designated as India in travel documents, as well
+as in press coverage. This definition thus includes individuals coming from
+what, after 1947, would be considered Pakistan and East Pakistan, later
+Bangladesh.
+5 Michael Christopher Low, Imperial Mecca: Ottoman Arabia and the Indian
+
+Ocean Hajj (New York: Columbia University Press, 2020), 153.
+6 Thierry Zarcone, Sufi Pilgrims from Central Asia and India in Jerusalem (Kyoto:
+
+Center for Islamic Area Studies at Kyoto University, 2009).
+                                 “Indian Lady Tourists Killed at Jericho” 115
+
+
+
+7 Gail Minault, The Khilafat Movement: Religious Symbolism and Political
+
+Mobilization in India (Delhi: Oxford University Press, 1982), 36.
+8 The daughter of Palestine doctor and ethnographer Tawfik Canaan wrote,
+
+for instance, that “Mother and father would go daily to the top of the Wall of
+Jerusalem to look at their home. They witnessed it being ransacked, together
+with the wonderful priceless library and manuscripts, which mother
+guarded jealously and with great pride.” Quoted in Khaled Nashef, “Tawfik
+Canaan: His Life and Works,” Jerusalem Quarterly 16 (2002): 24. Broader
+discussions of the acquisition of both personal and institutional archives by
+Israel in 1948 and after, as well as its impact, can be found in Gish Amit,
+“Salvage or Plunder? Israel’s ‘Collection’ of Private Palestinian Libraries in
+West Jerusalem,” Journal of Palestine Studies 40, no. 4 (Summer 2011): 6–23;
+Ariella Azoulay, “Photographic Conditions: Looting, Archives, and the
+Figure of the ‘Infiltrator,’” Jerusalem Quarterly 61 (Winter 2015): 6–22; Hannah
+Mermelstein, “Overdue Books: Returning Palestine's ‘Abandoned Property’
+of 1948,” Jerusalem Quarterly 47 (Autumn 2011): 46–64.
+9 Displaced Archives, edited by James Lowry, contains several useful case
+
+studies and comparative chapters on the damage or removal of archives by
+colonial states. Lowry, ed., Displaced Archives (Abingdon: Routledge, 2017).
+One of the most high-profile discussions of the removal and destruction of
+colonial archives in recent years has been admission by the British
+government in 2011 that it was illegally holding large numbers of documents
+that had been removed from thirty-seven former colonies at the time they
+became independent, between the late 1940s and the 1970s. This fact
+emerged as a result of research conducted by historians, including David
+Anderson and Caroline Elkins, for a legal case which resulted in a £20
+million payment to former Mau Mau detainees who had been tortured by
+British officials. David M. Anderson, “Guilty Secrets: Deceit, Denial, and the
+Discovery of Kenya’s ‘Migrated Archive,’” History Workshop Journal 80
+(Autumn 2015): 142–60; Caroline Elkins, Imperial Reckoning: The Untold Story
+of Britain’s Gulag in Kenya (New York: Henry Holt, 2005).
+10 Abilekh-Patal: Portal for Access to Archives and Learning,
+
+https://www.abhilekh-patal.in/jspui/
+11 See, for example, Umar Ryad, ed., The Hajj and Europe in the Age of Empire
+
+(Leiden: Brill, 2017); Low, Imperial Mecca; John Slight, The British Empire and
+the Hajj: 1865–1956 (Cambridge, MA: Harvard University Press, 2015).
+12 See, for example, Sebouh Aslanian, From the Indian Ocean to the
+
+Mediterranean: The Global Trade Networks of Armenian Merchants from New Julfa
+(Berkeley: University of California Press, 2014); Sugata Bose and Ayesha
+Jalal, eds., Oceanic Islam: Muslim Universalism and European Imperialism
+(London: Bloomsbury, 2020); Sugata Bose, A Hundred Horizons: the Indian
+Ocean in the Age of Global Empire (Cambridge, MA: Harvard University Press,
+2006); Sara Keller, Knowledge and the Indian Ocean: Intangible Networks of
+Western India and Beyond (Basingstoke: Palgrave Macmillan, 2018); Linda
+116 Sarah Irving
+
+
+
+Boxberger, On the Edge of Empire: Hadhramawt, Emigration, and the Indian
+Ocean, 1880s–1930s (Albany: State University of New York Press, 2002); Laila
+Fawaz and Christopher Bayly, eds., Modernity and Culture from the
+Mediterranean to the Indian Ocean (New York: Columbia University Press,
+2002); Scott Kugle, Hajj to the Heart: Sufi Journeys across the Indian Ocean
+(Chapel Hill: University of North Carolina Press, 2021).
+13 See, for example, Philip Gooding, On the Frontiers of the Indian Ocean World:
+
+A History of Lake Tanganyika, c.1830–1890 (Cambridge: Cambridge University
+Press, 2022), 3–23; Beatrice Nicolini and Shihan de Silva Jayasuriya, Land and
+Maritime Empires in the Indian Ocean (Milan: Educatt, 2017).
+14 Ayesha Jalal, “Muslim Universalist Aspirations: Intimacies between the
+
+Indus-Gangetic Plain and the Indian Ocean,” in Oceanic Islam: Muslim
+Universalism and European Imperialism, eds. Ayesha Jalal and Sugata Bose
+(London: Bloomsbury, 2020), 28.
+15 Zarcone, Sufi Pilgrims from Central Asia; Alexandre Papas, Thomas
+
+Welsford, and Thierry Zarcone, eds., Central Asian Pilgrims: Hajj Routes and
+Pious Visits between Central Asia and the Hijaz (Berlin: Klaus Schwarz Verlag,
+2012), 14, 35, 48–50, 110, 113.
+16 Omar Khalidi, “Indian Muslims and Palestinian Awqaf,” Jerusalem
+
+Quarterly 40 (2009): 53–54.
+17 Established in 1906, the All-India Muslim League was intended to provide
+
+a political voice to India’s large Islamic minority, after Muslims involved in
+nationalist groups such as the Congress Party objected to Hindu domination
+in terms of both personnel and agenda.
+18 Navtej Sarna, Indians at Herod’s Gate: A Jerusalem Tale (New Delhi: Rupa
+
+Publications, 2014), 38.
+19 The Khilafat movement emerged in British-ruled India due to fears at the
+
+beginning of World War I that Indian soldiers would be expected to fight the
+Ottoman Empire, the sultan of which was still also regarded as the caliph of
+all Sunni Muslims. The movement saw itself as an expression of solidarity
+with fellow Muslims, but also as sign of cooperation with Indian Hindus in
+campaigning for Indian independence.
+20 Khalidi, “Indian Muslims,” 53–54.
+
+21 Secretary of the Palestine Indian Association to the High Commissioner, 23
+
+March 1941, “Palestine Indian Association,” D65 109/11, Israel State
+Archives (ISA).
+22 Low, Imperial Mecca, 209–16.
+
+23 I am indebted to Till Grallert for sharing this example with me, found
+
+during his research in the British National Archives at Kew.
+24 Seemi Alavi, “‘Fugitive Mullahs and Outlawed Fanatics’: Indian Muslims
+
+in Nineteenth Century Trans-Asiatic Imperial Rivalries,” Modern Asian
+Studies 45, no. 6 (2011): 1337–82.
+                                 “Indian Lady Tourists Killed at Jericho” 117
+
+
+
+25 Alavi, “‘Fugitive Mullahs and Outlawed Fanatics.’”
+
+26 “Protection: Beit Sawa Indians: French Attitudes towards Village,” 1926–
+
+27, FO 684.4, British National Archives, Kew (BNA).
+27 Damascus to Secretary of State for Persian Affairs, London, 27 June 1927,
+
+FO 684/4, BNA.
+28 Louis Allday, “Destitute Indian Women in 1930s Damascus,” Untold Lives
+
+(blog), British Library, 8 June 2018,
+https://blogs.bl.uk/untoldlives/2018/06/destitute-indian-women-in-1930s-
+damascus.html.
+29 Ulrike Freitag notes, for example, that by the mid-nineteenth century,
+
+steamships traveling into and out of Jedda were run by Indian entrepreneurs
+as well as Europeans, and that both were resented by local boatmen. Freitag,
+A History of Jeddah: The Gate to Mecca in the Nineteenth and Twentieth Centuries
+(Cambridge: Cambridge University Press, 2020), 58.
+30 See, e.g. Kobi Cohen-Hattab and Noam Shoval, Tourism, Religion and
+
+Pilgrimage in Jerusalem (Abingdon: Routledge, 2015) and a plethora of other
+works by Cohen-Hattab; Jasmin Daam, “Palestinian Past, Zionist Future:
+Vocabularies of Tourism in Mandate Palestine,” Contemporary Levant,
+published ahead of print (June 2023); Sarah Irving, “‘This is Palestine’:
+History and Modernity in Guidebooks to Mandate Palestine,” Contemporary
+Levant 4,1 (2019): 64-74; Daniella Ohad Smith, “Hotel Design in British
+Mandate Palestine: Modernism and the Zionist Vision,” Journal of Israeli
+History 29,1 (2010): 99-123.
+31 The main way in which assumptions about visitors to Palestine emerge is
+
+that of omission; despite encompassing titles, the actual subjects of many
+articles are almost entirely of European origins, whether Christian or Jewish.
+For example, see Cohen-Hattab and Shoval, Tourism, Religion and Pilgrimage
+in Jerusalem; Serena Di Napi and Arturo Marzano, eds., “Travels to the ‘Holy
+Land’: Perceptions, Representations and Narratives,” special issue, Quest:
+Issues in Contemporary Jewish History 6 (2013); Thomas Wright, ed., Early
+Travels in Palestine (Piscataway, NJ: Gorgias Press, 2008).
+32 Aparajita Mukhopadhyay, “Colonised Gaze?: Guidebooks and Journeying
+
+in Colonial India,” South Asia: Journal of South Asian Studies 37, no. 4 (2014):
+656–69.
+33 Rachel Mairs, “Singara Devi Chenapa – Mersha Chinnappa: Investigating a
+
+Female Author of a Military Arabic Phrasebook,” in Women in the History of
+Language Learning and Teaching, eds. Sabine Doff, Giovanni Iamartino, and
+Rachel Mairs (Amsterdam: Amsterdam University Press, forthcoming).
+34 “Deir El Belah War Cemetery,” Commonwealth War Graves Commission
+
+(CWGC), website, accessed 31 May 2022, https://www.cwgc.org/visit-
+us/find-cemeteries-memorials/cemetery-details/71200/deir-el-belah-war-
+cemetery/; “Jerusalem Indian War Cemetery,” CWGC,
+https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-
+118 Sarah Irving
+
+
+
+details/72111/jerusalem-indian-war-cemetery/; “Haifa Indian Cemetery,”
+CWGC, https://www.cwgc.org/visit-us/find-cemeteries-
+memorials/cemetery-details/72107/haifa-indian-cemetery/; “Tul Karm War
+Cemetery,” CWGC, https://www.cwgc.org/visit-us/find-cemeteries-
+memorials/cemetery-details/4007282/tul-karm-war-cemetery/; “Gaza War
+Cemetery,” CWGC, https://www.cwgc.org/visit-us/find-cemeteries-
+memorials/cemetery-details/71701/gaza-war-cemetery/.
+35 Alan Axelrod and Michael Dubowe, Mercenaries: A Guide to Private Armies
+
+and Private Military Companies (Thousand Oaks, CA: CQ Press, 2014), 70.
+36 Under-Secretary of State, India Office to Air Ministry, 25 January 1922,
+
+Palestine–India Correspondence, CO 733/32, p. 45, BNA.
+37 “Grants for Recreational Purposes to Indian Troops,” series Palestine 1922,
+
+vol. 12, CO 733/29, fol. 374–89, bound volume, BNA.
+38 Omar Khalidi, “Ethnic Group Recruitment in the Indian Army: The
+
+Contrasting Cases of Sikhs, Muslims, Gurkhas and Others,” Pacific Affairs 74,
+no. 4 (2001–2002): 530; Kate Imy, Faithful Fighters: Identity and Power in the
+British Indian Army (Stanford, CA: Stanford University Press, 2019).
+39 “Famida [sic] Begum and Mohemed [sic] Shamim, wife/son of Abdul
+
+Rashid,” 1945–47, 2282/020, ISA.
+40 Existing work includes Joan G. Roland, Jews in British India: Identity in a
+
+Colonial Era (Waltham, MA: Tauber Institute for the Study of European
+Jewry, 1989); selections of Sarah Abrevaya Stein’s copious work on the
+Sephardic diaspora, including “Protected Persons?: The Baghdadi Jewish
+Diaspora, the British State, and the Persistence of Empire,” American
+Historical Review 116, no. 1 (2011): 80–108; and specialized studies such as
+Suparna Bhattacharya, “Women in Sport: The Parsis and Jews in Twentieth‐
+Century India,” International Journal of the History of Sport 21, no. 3–4 (2004):
+502–29.
+41 “Social and Personal: Chief Secretary’s House,” Palestine Post, 24 October
+
+1934, 5.
+42 Bernard Wasserstein, “Clipping the Claws of the Colonisers: Arab Officials
+
+in the Government of Palestine, 1917–48,” Middle Eastern Studies 13, no. 2
+(1977): 186–87.
+43 Daam, “Palestinian Past, Zionist Future”: 1–2
+
+https://doi.org/10.1080/20581831.2023.2221086.
+44 “Moslem Indian Prince Here,” Palestine Post, 22 October 1934, 5.
+
+45 “Social and Personal,” Palestine Post, 28 October 1934, 5.
+
+46 David De Vries, Diamonds and War: State, Capital, and Labor in British-Ruled
+
+Palestine (New York: Berghahn Books, 2010), 259, 261.
+47 “Shantilal Motilal Mehta,” 2317/137, ISA.
+
+48 “Jasani, Ratilal B.,” 2318/086, ISA.
+                                 “Indian Lady Tourists Killed at Jericho” 119
+
+
+
+49 “Raman N. Jasani,” 2321/053, ISA.
+
+50 Khalidi, “Indian Muslims,” 52.
+
+51 Ibid., 56.
+
+52 “Indian Islamic Propaganda in Palestine and Syria,” Palestine 1921, vol. 12,
+
+CO 733/12, pp. 83–87, bound volume, BNA.
+53 Ian Henderson Douglas, Abul Kalam Azad: An Intellectual and Religious
+
+Biography (Delhi: Oxford University Press, 1988), 178.
+54 Minault, The Khilafat Movement, 10, 14.
+
+55 Maoz Azaryahu and Yitzhak Reiter, “The Geopolitics of Interment: An
+
+Inquiry into the Burial of Muhammad Ali in Jerusalem, 1931,” Israel Studies
+20, no. 1 (Spring 2015): 33–37.
+56 Azaryahu and Reiter, “The Geopolitics of Interment,” 37.
+
+57 “21,000 at Funeral of Muhammad Ali,” New York Times, 24 January 1931, 9.
+
+58 Canaan is named as “Dr. Canon” in the book but can clearly be identified
+
+from his description as “an Arab by birth, a Christian by religion, a German
+by education, and cosmopolitan by conviction,” as well as from Choudhury’s
+observations of his interlocutor as a leader amongst Palestinian nationalists,
+recently released from British prison, well-informed on the many problems
+of British rule in India, and as a talented pianist who resorted to the
+instrument to hide his tears at Choudhury’s accounts of Indian women and
+children starving to death during the recent Bengal famine. M. L. Roy
+Choudhury, Egypt in 1945 (Calcutta: University of Calcutta Press, 1946), xv–
+xvii.
+59 Despite its imperial associations, Choudhury’s book uses English as a
+
+lingua franca, highlighting the complex ways in which imposed
+infrastructures (whether of travel, bureaucracy or language) were subverted
+by colonized peoples.
+60 “Pilgrims for Jeddah,” Times of India, 27 April 1927, 5.
+
+61 “Pilgrims for Jeddah.”
+
+62 “Retirement of the Hon`ble Mr. Justice Abdur Rauf of the Lahore High
+
+Court, and the appointment of Mr. A. Campbell, I.C.S. in the Resultant
+Vacancy. Appointment of Kunwar Kalip Singh, Bar-at-Law as an Additional
+Judge of the Lahore High Court,” PR_000001179817, National Archives of
+India (NAI), accessible online, last updated 24 August 2023,
+https://www.abhilekh-patal.in/; “Appointment of Mr. Saiyid Muhammad
+Abdur Rauf, Khan Bahadur, Barrister-at-Law, to Act as a Judge of the
+Allahabad High Court, Vice the Hon`ble Mr. Justice Muhammad Rafiq,
+Granted Furlough,” PR_000001171039, NAI; “Local and Provincial,” Tribune,
+14 March 1919, 6.
+63 High Court of Judicature at Allahabad, “List of Former Hon’ble Judges,
+
+Arranged According to Date of Appointment, 1900–1990,” Allahabad High
+120 Sarah Irving
+
+
+
+Court, website, accessed 1 June 2022,
+https://www.allahabadhighcourt.in/Judges/ex-judges/ex-judge1900-
+1990.htm; “Meeting of Ghazipur Mahomedans,” Leader, 8 March 1918, 4;
+“Welcome from Bar and Vakils’ Association,” Leader, 6 March 1918, 5.
+64 “Joint Khilafat Conference,” Amrita Bazar Patrika, 7 June 1920, page
+
+illegible; “City and Provinces,” Indian People, 7 February 1907, 2; “The
+Kayasth Pathshala,” Indian People, 8 April 1909, 3; “The Hindu-Mahomedan
+Conference at Allahabad,” Leader, 3 January 1911, 6; “Mahomedan Boarding
+House, M.C. College, Allahabad,” Leader, 2 May 1911, 2; “Sanatana Dharm
+College,” Tribune, 11 November 1922, 3.
+65 C. A. Bayly, The Local Roots of Indian Politics: Allahabad 1880–1920 (Oxford:
+
+Clarendon Press, 1975), 133.
+66 Bayly, Local Roots, 139, 172; “The Hindu Mahomedan Conference,” Amrita
+
+Bazar Patrika, 2 January 1911, page illegible.
+67 “All-India Moslem League: Resolutions and Amendments,” Amrita Bazar
+
+Patrika, 1 January 1914, 5; “Local and Provincial,” Indian People, 1 April 1909,
+3; “The Moslem League Meeting at Lucknow,” Tribune, 28 July 1909, 6;
+“Mahomedan Students,” Pioneer, 11 November 1890, 7.
+68 Bayly, Local Roots, 173, 221.
+
+69 Muzaffar Husain, Anil Kumar, B. D. Usmani, and Pramod Gupta, History
+
+of Indian Nation: Post-Independence India (New Delhi: KK Publications, 2014),
+43; “The Mahomedan Deputation to the Viceroy,” Indian People, 4 October
+1906, 4.
+70 “Case against Ali Brothers,” Amrita Bazar Patrika, 20 December 1918, page
+
+illegible; “The Case of the Ali Brothers,” Amrita Bazar Patrika, 22 October
+1922, 2.
+71 Douglas Duff, Bailing with a Teaspoon (London: John Long, 1953), 154.
+
+72 Duff, Bailing with a Teaspoon, 154–56. Duff’s book is replete with repellently
+
+gleeful descriptions of meting out violence to both Arabs and Jews; these are
+probably to some extent exaggerated. See Seán William Gannon, “Black-and-
+Tan Tendencies: Policing Insurgency in the Palestine Mandate, 1922–1948,”
+in Unconventional Warfare from Antiquity to the Present Day, eds. Brian Hughes
+and Fergus Robson (Basingstoke: Palgrave Macmillan, 2017), 71. Other
+firsthand accounts of forcing reluctant Palestinians to dig earthquake rubble
+also exist. British soldiers and police were quick to attribute this to idleness
+and lack of care for their fellows, but we might question whether an
+appreciation of the dangers of unprepared, unplanned disturbance of
+collapsed buildings might also have played a part.
+73 Duff, Bailing with a Teaspoon, 156.
+
+74 Duff’s ideas of class, race and gender are, at times, surprisingly complex,
+
+but it is possible to make some generalizations, including a respect for titles
+(sir, knight, etc.) which borders on the obsequious, versus descriptions of
+                               “Indian Lady Tourists Killed at Jericho” 121
+
+
+
+working-class men, sex workers, and other subaltern groups as dirty,
+corrupt, unwashed, and unintelligent.
+75 Gayatri Chakravorty Spivak, “Can the Subaltern Speak?,” in Colonial
+
+Discourse and Post-Colonial Theory: A Reader, eds. Patrick Williams and Laura
+Chrisman (New York: Columbia University Press, 1994), 66–111.
+76 Spivak, “Can the Subaltern Speak?,” 93.
+
+77 “Wife of Sir Abdul Raouf Dead,” Bombay Chronicle, 14 July 1927, 7.
+
+78 Spivak, “Can the Subaltern Speak?,” 93.
+
