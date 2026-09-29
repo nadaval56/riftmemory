@@ -2,6 +2,7 @@
 {% from "_macros.html" import live_line, map, event_card %}
 {% set title = e.title %}
 {% set og_type = "article" %}
+{% set noindex = e.status != "published" %}
 {% set description = "רעידת אדמה, " ~ (e | year_label) ~ (". " ~ e.location.description if e.location.description else "") %}
 {% block head %}
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
@@ -9,6 +10,7 @@
 {% block main %}
 <article class="event">
   <header class="event-header">
+    {% if e.status != "published" %}<p class="draft-note">טיוטה: הדף עוד לא נבדק מול המקורות. מקומות שדורשים בדיקה מסומנים ב-TODO.</p>{% endif %}
     {% if e.status != "published" %}<p class="status-tag">{{ {"draft": "טיוטה", "reviewed": "נבדק, טרם פורסם"}[e.status] or e.status }}</p>{% endif %}
     <p class="kicker">{{ e | year_label }}{% if e.segment_name %} · {{ e.segment_name }}{% endif %}</p>
     <h1>{{ e.title }}</h1>
