@@ -1,0 +1,29 @@
+https://ecommons.cornell.edu/home	Cornell University
+https://ecommons.cornell.edu/home	Library
+https://ecommons.cornell.edu/home	Cornell University
+https://ecommons.cornell.edu/home	Library
+https://ecommons.cornell.edu/home	eCommons
+https://guides.library.cornell.edu/ecommons	Help
+https://ecommons.cornell.edu/login	Log In (current)
+https://ecommons.cornell.edu/	Home
+https://ecommons.cornell.edu/communities/73cf7e84-d2b4-4aea-8d21-4f5628e6d493	College of Engineering
+https://ecommons.cornell.edu/communities/932d3571-3ef2-462d-9a12-2805929cba57	Earth and Atmospheric Sciences
+https://ecommons.cornell.edu/communities/2c953f7d-d79e-4f17-9d4e-5de2c7bc590e	Active Tectonics, Geophysics, and Structure
+https://ecommons.cornell.edu/collections/a6bbd595-472d-4ef7-b45e-32f9b99e17b7	Middle East and North Africa Region Projects
+https://ecommons.cornell.edu/bitstreams/25841f29-4b82-4450-9373-f0135ee6722c/download	Ambraseys1989_Abstract&Figure.pdf (106.18 KB)
+https://hdl.handle.net/1813/5311	https://hdl.handle.net/1813/5311
+https://ecommons.cornell.edu/collections/a6bbd595-472d-4ef7-b45e-32f9b99e17b7	Middle East and North Africa Region Projects
+https://ecommons.cornell.edu/collections/4792da7a-6f73-4962-92db-8eeaf5016b5c	Prof. Muawia Barazangi
+https://ecommons.cornell.edu/browse/subject?value=Earthquake%20hazard%20assessment	Earthquake hazard assessment
+https://ecommons.cornell.edu/browse/subject?value=Eastern%20Mediterranean	Eastern Mediterranean
+https://ecommons.cornell.edu/browse/subject?value=Bekaa%20Valley	Bekaa Valley
+https://ecommons.cornell.edu/browse/subject?value=Dead%20Sea%20Fault%20System	Dead Sea Fault System
+https://ecommons.cornell.edu/statistics	Site Statistics
+https://guides.library.cornell.edu/ecommons	Help
+http://guides.library.cornell.edu/ecommons	About eCommons
+http://guides.library.cornell.edu/ecommons/policy	Policies
+http://guides.library.cornell.edu/ecommons/terms	Terms of use
+https://ecommons.cornell.edu/info/feedback	Contact Us
+https://www.library.cornell.edu	Cornell University Library
+https://www.library.cornell.edu/privacy	Privacy
+https://www.library.cornell.edu/web-accessibility	Web Accessibility Assistance
