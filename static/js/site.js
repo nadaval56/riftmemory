@@ -25,19 +25,39 @@
 
   function initMap(el) {
     var data = JSON.parse(el.dataset.map);
-    var map = L.map(el, { scrollWheelZoom: false }).setView([31.8, 35.2], 7);
-    // מפת בסיס נקייה (CARTO), בגרסה בהירה או כהה לפי ערכת הנושא.
-    // מפת OSM הרגילה מסמנת שטחי אש ואזורים צבאיים בפוליגונים ורודים, שמבלבלים עם שכבות האתר.
-    var root = document.documentElement;
-    var dark = root.dataset.theme
-      ? root.dataset.theme === "dark"
-      : window.matchMedia("(prefers-color-scheme: dark)").matches;
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/" + (dark ? "dark_all" : "light_all") + "/{z}/{x}/{y}{r}.png", {
-      maxZoom: 12, subdomains: "abcd",
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-    }).addTo(map);
-
+    var map = L.map(el, { scrollWheelZoom: false, minZoom: 5, maxZoom: 10 }).setView([31.8, 35.2], 7);
     var css = getComputedStyle(document.documentElement);
+
+    // מפת בסיס מקומית (Natural Earth, נחלת הכלל): ים, אגמים, נהרות ושמות ערים.
+    // בלי שרת אריחים חיצוני: CARTO דורש מפתח, ו-OSM מסמן שטחים צבאיים בוורוד.
+    map.createPane("base").style.zIndex = 200;
+    map.createPane("cities").style.zIndex = 250;
+    map.attributionControl.setPrefix(false);
+    map.attributionControl.addAttribution('<a href="https://leafletjs.com">Leaflet</a> · <a href="https://www.naturalearthdata.com">Natural Earth</a>');
+    fetch(data.basemap).then(function (r) { return r.json(); }).then(function (b) {
+      var water = css.getPropertyValue("--map-water").trim();
+      var poly = function (rings) { return rings.map(function (r) { return r.map(function (c) { return [c[1], c[0]]; }); }); };
+      b.sea.concat(b.lakes).forEach(function (p) {
+        L.polygon(poly(p), { pane: "base", stroke: false, fillColor: water, fillOpacity: 1, interactive: false }).addTo(map);
+      });
+      b.rivers.forEach(function (l) {
+        L.polyline(l.map(function (c) { return [c[1], c[0]]; }), { pane: "base", color: water, weight: 1.5, interactive: false }).addTo(map);
+      });
+      var cities = b.cities.map(function (c) {
+        return L.tooltip({ permanent: true, direction: "center", className: "city-label", pane: "cities", interactive: false })
+          .setLatLng([c.lat, c.lon]).setContent(c.name);
+      });
+      var showCities = function () {
+        var z = map.getZoom();
+        b.cities.forEach(function (c, i) {
+          var on = z >= 6 + c.rank;
+          if (on && !map.hasLayer(cities[i])) cities[i].addTo(map);
+          if (!on && map.hasLayer(cities[i])) map.removeLayer(cities[i]);
+        });
+      };
+      map.on("zoomend", showCities);
+      showCities();
+    }).catch(function () {});
     var colors = {
       texts: css.getPropertyValue("--texts").trim(),
       archaeology: css.getPropertyValue("--archaeology").trim(),
@@ -87,7 +107,7 @@
         }
       });
       if (mid) {
-        L.tooltip({ permanent: true, direction: "left", offset: [-8, 0], className: "seg-label" + (dim ? " dim" : "") })
+        L.tooltip({ permanent: true, direction: "right", offset: [8, 0], className: "seg-label" + (dim ? " dim" : "") })
           .setLatLng(mid).setContent(esc(s.name)).addTo(map);
       }
     });

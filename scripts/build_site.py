@@ -172,6 +172,7 @@ def make_env():
         magnitude=fmt.magnitude,
         mag_type=fmt.mag_type,
         mag_basis=fmt.mag_basis,
+        untodo=lambda t: TODO_RE.sub("", t or "").strip(),
     )
     env.globals.update(
         base=BASE_PATH,
@@ -182,9 +183,30 @@ def make_env():
     return env
 
 
+# סימוני עבודה בתוכן (כלל 1-2) נשארים בקובצי content/, אבל הקורא רואה תווית ברורה
+# ולא "TODO". הערות HTML (הערות עבודה) לא נכנסות לדף בכלל.
+TODO_RE = re.compile(r"\s*\(TODO:?\s*([^)<;]*)[^)<]*\)|TODO:?\s*([^.)<;]*)")
+COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
+
+
+def _todo_label(m):
+    what = m.group(1) if m.group(1) is not None else m.group(2)
+    if what.startswith("מקור"):
+        text = "חסר מקור"
+    elif "ציטוט" in what:
+        text = "ציטוט טרם אומת"
+    else:
+        text = "טרם נבדק במקור"
+    return f' <span class="unchecked">{text}</span>'
+
+
+def reader_facing(html):
+    return TODO_RE.sub(_todo_label, COMMENT_RE.sub("", html))
+
+
 def write(path, html):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(html, encoding="utf-8")
+    path.write_text(reader_facing(html), encoding="utf-8")
 
 
 def map_data(events, live, segments, focus=False, highlight=None):
@@ -192,6 +214,7 @@ def map_data(events, live, segments, focus=False, highlight=None):
     highlight: מזהה המקטע של הרעידה. המקטע מודגש והמבט מתמקד בו."""
     return {
         "focus": focus,
+        "basemap": f"{BASE_PATH}/static/data/basemap.json",
         "highlight": highlight,
         "segments": [
             {"id": s["id"], "name": s["name_he"] + (" (טיוטה, טרם אושר)" if s.get("draft") else ""),

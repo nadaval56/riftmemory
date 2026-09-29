@@ -36,7 +36,8 @@
   --archaeology: #9a7b2f;
   --instrumental: #4f7391;
   --live: #c96442;
-  --quake: #4f7391; /* רעידות חיות על המפה: כחול, כדי לא להתבלבל עם קווי השבר */
+  --map-water: #e1e7ea; /* מים במפת הבסיס */
+  --quake: #3f607a; /* רעידות חיות על המפה: כחול, כדי לא להתבלבל עם קווי השבר */
   --warn-bg: #fbf3dc;
   --warn-ink: #7a5a10;
   --radius: 16px;
@@ -52,7 +53,7 @@
     --ink: #f5f3ee; --ink-2: #a8a59d; --muted: #6e6b64;
     --line: #34322d; --line-soft: #2a2825;
     --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
-    --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4;
+    --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42;
     --warn-bg: #33291a; --warn-ink: #e3c47a;
     color-scheme: dark;
   }
@@ -62,7 +63,7 @@
   --ink: #f5f3ee; --ink-2: #a8a59d; --muted: #6e6b64;
   --line: #34322d; --line-soft: #2a2825;
   --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
-  --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4;
+  --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42;
   --warn-bg: #33291a; --warn-ink: #e3c47a;
   color-scheme: dark;
 }
@@ -236,7 +237,7 @@ section + section { margin-top: 2rem; }
 /* ===== מפה ===== */
 .map { border-radius: var(--radius); border: 1px solid var(--line-soft); background: var(--surface-2); z-index: 0; }
 /* Leaflet מחשב מיקום של תוויות וחלונות לפי כיוון שמאל-לימין. הטקסט שבתוכם חוזר ל-RTL. */
-.map.leaflet-container { direction: ltr; }
+.map.leaflet-container { direction: ltr; background: var(--surface-2); }
 .map .leaflet-tooltip, .map .leaflet-popup-content, .map .leaflet-control-attribution { direction: rtl; }
 .map-legend, .timeline-legend {
   list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .35rem 1.1rem;
@@ -341,6 +342,12 @@ section + section { margin-top: 2rem; }
   background: color-mix(in srgb, var(--surface) 85%, transparent); border: 0; box-shadow: none;
   color: var(--accent); font: 600 .78rem/1.2 Heebo, sans-serif; padding: 1px 5px; white-space: nowrap;
 }
+/* שמות ערים במפת הבסיס */
+.leaflet-tooltip.city-label {
+  background: none; border: 0; box-shadow: none; padding: 0;
+  color: var(--ink-2); font: .72rem/1 Heebo, sans-serif; white-space: nowrap;
+}
+.leaflet-tooltip.city-label::before { display: none; }
 .leaflet-tooltip.seg-label.dim { opacity: .5; font-weight: 400; }
 .leaflet-tooltip.seg-label::before, .leaflet-tooltip.approx-label::before { display: none; }
 .leaflet-tooltip.approx-label {
@@ -350,3 +357,9 @@ section + section { margin-top: 2rem; }
 .map-popup { direction: rtl; text-align: right; font-family: Heebo, sans-serif; line-height: 1.45; }
 .map-popup .src { color: var(--ink-2); font-size: .85em; margin-top: .3rem; }
 .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--ink); }
+
+/* מקור שעוד לא נבדק (בקובצי התוכן: TODO) */
+.unchecked {
+  display: inline-block; font-size: .78em; line-height: 1.3; padding: 0 .4em; border-radius: 999px;
+  color: var(--ink-2); background: var(--surface-2); border: 1px solid var(--line); white-space: nowrap;
+}
