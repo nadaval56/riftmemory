@@ -4,8 +4,11 @@
 יוצא בקוד 1 אם יש כשל בדף שמסומן published, או קישור פנימי שבור.
 
 בדיקות תוכן (רק על published):
-  - אין TODO בגוף או ב-frontmatter
-  - יש לפחות מקור אחד עם url, ואין מקור שהתווית שלו TODO
+  - אין "TODO: מקור" או "TODO: לאמת ציטוט" גלויים (מחוץ להערות HTML ול-review_notes):
+    טענה בלי מקור, או ציטוט שלא אומת, לא מתפרסמים (כללים 1–2).
+    "TODO: לבדוק במקור" מותר בדף מפורסם, לפי החלטת נדב (ספטמבר 2026): הקורא רואה
+    תווית גלויה "טרם נבדק במקור" ליד מקור שעוד לא נבדק מול המקור עצמו.
+  - יש לפחות מקור אחד עם url
   - אין ניסוח חיזויי
 בדיקות טכניות (על site/):
   - אין שנה שלילית מוצגת ("-31")
@@ -27,6 +30,8 @@ from build_site import BASE_PATH, SITE, SITE_URL
 
 # ניסוחים חיזויים (כלל 5). "תחזיות" לבד מותר, כי האתר אומר שהוא לא עוסק בהן.
 FORECAST = re.compile(r"הרעידה הבאה|צפויה|צפוי ל|מתקרבת|עומדת לפרוץ|בקרוב תהיה|סימן ש(?!אלה)|מבשר")
+# סימוני TODO שחוסמים פרסום: טענה בלי מקור, ציטוט שלא אומת. "לבדוק במקור" מותר (מוצג כתווית).
+BLOCKING_TODO = re.compile(r"TODO:?\s*(מקור|לאמת ציטוט)")
 FORECAST_OK = re.compile(r"לא עוסק ב(תחזיות|שאלה מתי תהיה הרעידה הבאה)|מתי תהיה הרעידה הבאה")
 
 
@@ -67,13 +72,12 @@ def check_content(problems):
             continue
         where = f"content/events/{e['id']}.md"
         raw = (Path(__file__).resolve().parent.parent / where).read_text(encoding="utf-8")
-        if "TODO" in raw:
-            problems.append(f"{where}: published עם TODO")
+        visible = re.sub(r"<!--.*?-->", "", raw.split("\nreview_notes:", 1)[0] + raw.split("\n---", 2)[-1], flags=re.S)
+        for m in BLOCKING_TODO.finditer(visible):
+            problems.append(f"{where}: published עם {m.group(0)!r}")
         sources = e.get("sources") or []
         if not any(s.get("url") for s in sources):
             problems.append(f"{where}: אין מקור עם קישור")
-        if any("TODO" in (s.get("label") or "") for s in sources):
-            problems.append(f"{where}: מקור שעדיין TODO")
         body = FORECAST_OK.sub("", e["body"])
         for m in FORECAST.finditer(body):
             problems.append(f"{where}: ניסוח חיזויי: {m.group(0)!r}")

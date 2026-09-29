@@ -80,9 +80,10 @@ sources:
   url: https://he.wikipedia.org/wiki/רעידות_האדמה_בצפון_ארץ_ישראל_ובלבנון_(1759)
 - label: 'לקריאה נוספת: ויקיפדיה האנגלית, 1759 Near East earthquakes'
   url: https://en.wikipedia.org/wiki/1759_Near_East_earthquakes
-status: draft
-reviewed_by: null
+status: published
+reviewed_by: נדב
 review_notes:
+- 'פורסם באישור נדב (ספטמבר 2026). מקורות שעוד לא נבדקו מול המקור מסומנים בדף "טרם נבדק במקור".'
 - 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati.'
 - 'החלטת נדב (ספטמבר 2026): מספר ההרוגים של קיטו הוסר מהדף עד שיימצא העמוד. נשאר וולני, שאומת.'
 - שתי רעידות באותו דף. התאריך בשדות date הוא של הראשונה. segment=galilee לפי אזור הנזק של הראשונה.

@@ -63,9 +63,10 @@ sources:
   url: https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל
 - label: 'לקריאה נוספת: ויקיפדיה האנגלית, 1834 Jerusalem earthquake'
   url: https://en.wikipedia.org/wiki/1834_Jerusalem_earthquake
-status: draft
-reviewed_by: null
+status: published
+reviewed_by: נדב
 review_notes:
+- 'פורסם באישור נדב (ספטמבר 2026). מקורות שעוד לא נבדקו מול המקור מסומנים בדף "טרם נבדק במקור".'
 - 'החלטת נדב (ספטמבר 2026): segment=dead-sea, לפי זוהר ועמיתיו 2017.'
 - 'certainty שונה מ-disputed ל-exact: זוהר ועמיתיו 2016 (טבלה 3, עמ׳ 979) וסלמון ועמיתיו 2007 (נספח, טבלה 3) נותנים שניהם 26 במאי 1834. התאריכים האחרים (13 ו-23 במאי) הגיעו מוויקיפדיה בלי מקור, ולכן הוסרו מהטקסט הגלוי ונשמרו בהערה נסתרת.'
 - 'time_local נשאר null: זוהר ועמיתיו 2016 נותנים 13:00, הנספח של סלמון ועמיתיו 2007 נותן 04:00 (כנראה לפי שעון אחר), ו-deadseaquake.info נותן שש בבוקר. המחלוקת מוצגת בגוף הדף.'
@@ -111,7 +112,7 @@ review_notes:
 <!-- TODO: לאמת ציטוט. הפרטים על ניאופיטוס ועל הנוסע הוולשי הם סיכומי חיפוש של deadseaquake.info, לא ציטוטים. לקרוא את המקורות עצמם. -->
 <!-- TODO: מקור. ויקיפדיה האנגלית (דרך תוצאות חיפוש) מוסיפה: קריסת הכיפה של קפלת העלייה בהר הזיתים, נפילת צריחים בעיר ובהר הזיתים, ונזק כבד למנזרים הלטיני והארמני בבית לחם. לא הוכנס לטקסט הגלוי עד שיימצא מקור. -->
 
-**אספלט בים המלח.** קן-תור ועמיתיו מביאים, בהסתמך על בן-מנחם (1991), שאחרי הרעידה הופיעו על פני ים המלח גושי אספלט גדולים.[^kentor-2231] מקור בן התקופה לתיאור הזה עוד לא ידוע לנו.[^asphalt]
+**אספלט בים המלח.** קן-תור ועמיתיו מביאים, בהסתמך על בן-מנחם (1991), שאחרי הרעידה הופיעו על פני ים המלח גושי אספלט גדולים.[^kentor-2231] מקור בן התקופה לתיאור הזה עוד לא ידוע לנו.
 
 <!-- TODO: מקור. לאתר מקור בן התקופה לאספלט בים המלח. -->
 
@@ -144,4 +145,3 @@ review_notes:
 [^kentor-2231]: R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco and J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (B2) (2001), pp. 2221–2234, עמ׳ 2231, סעיף 6.1.6 (שכבות G ו-H; תיאור הנזק לפי Amiran et al. 1994 ו-Ben-Menahem 1991: "At Bethlehem, several monasteries were damaged and many people were killed"; "Large blocks of asphalt appeared on the Dead Sea"; "the epicenter was likely south of the Dead Sea basin"), וכן עמ׳ 2233.
 [^spyridon]: S. N. Spyridon, "Annals of Palestine, 1821–1841", *Journal of the Palestine Oriental Society* 18 (1938), pp. 63–132. הפרטים הביבליוגרפיים לפי רשימת המקורות של זוהר ועמיתיו 2016 (נספח אלקטרוני, עמ׳ 31). TODO: לבדוק במקור.
 [^dsq]: "[1834 CE Fellahin Revolt Quake](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html)", deadseaquake.info. השעה שם: שש בבוקר. TODO: לבדוק במקור. <!-- הגיע דרך תוצאות חיפוש, לא מקריאת הדף -->
-[^asphalt]: TODO: מקור. <!-- הגיע דרך ויקיפדיה העברית, "רעידת אדמה" ו"רעידות אדמה באזור הלבנט", בלי הפניה; וגם דרך סיכום חיפוש של deadseaquake.info -->
