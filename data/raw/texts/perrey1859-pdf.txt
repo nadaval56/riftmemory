@@ -1,0 +1,2 @@
+HTTP 403
+<!DOCTYPE html> <html><body><div id="announcement-page"><h1 class="title">This resource is protected by altcha</h1><p>Please visit <a href="https://www.persee.fr/doc/marb_0770-8459_1859_num_8_1_2102">the document page</a> to view its content or download the PDF version</p></div></body></html>

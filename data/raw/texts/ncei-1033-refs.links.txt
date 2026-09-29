@@ -1,0 +1,1 @@
+https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/8156/\"http:/dx.doi.org/10.1560/IJES.58.2-3.327\"	DOI: 10.1560/IJES.58.2-3.327
