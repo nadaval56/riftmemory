@@ -1,0 +1,5 @@
+# פלט הבנייה — נוצר ע"י scripts/build_site.py, לא נשמר בריפו
+site/
+__pycache__/
+*.pyc
+.venv/
