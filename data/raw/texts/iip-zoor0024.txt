@@ -1,0 +1,97 @@
+SOURCE: https://raw.githubusercontent.com/Brown-University-Library/iip-texts/master/epidoc-files/zoor0024.xml
+
+
+
+            Inscriptions of Israel/Palestine
+
+               Prinicipal Investigator
+               Michael Satlow
+
+ERROR-could not find publication information which should appear in this space.
+
+            zoor0024
+
+                  Zoor 0024
+
+Zoora, May 18, 363 CE. Tombstone. Epitaph.
+
+                              56
+                              38
+                              7
+
+White-yellowish sandstone
+
+Almost rectangular in shape, broken at the lower left corner and
+                              mended from two fragments
+
+Smoothed surface with some scratches. Round alphabet with well cut
+                              letters
+
+                     Monday May 18, 363 CE
+
+                        Negev
+                        Zoora
+                        An Naq
+                        cemetery
+
+Found by local inhabitants in the northwest corner of the Bronze Age,
+                        Byzantine and Islamic cemetery in the An Naq neighborhood south of the Wadi
+                        al-Hasa, probably in secondary use in later graves.
+
+                     Department of Antiquities of Jordan
+
+ERROR: could not find taxonomies file, which should appear in this space.
+
+         Creation
+         Adding Pleiades IDs to origin/placenames
+         Edited metadata; corrected encoding
+
+                adding period attribute to date element, with Periodo value.
+
+Μνημῖονμνημεῖον Σαμάκωνος ἀρχιδιακόνου ἀπογενομένουἀπογενόμενος
+
+               Μνημῖονμνημεῖον Σαμάκωνος Ζάβδα ἀρχιδιακόνου ἀπογενόμενος
+               ἐτῶν μʹ ἐν τῷ
+               εισζμῷσεισμῷ
+               ἔτους
+               μνηʹ
+               μηνὶμηνὸς Ἀρτεμισίου
+               ηκʹ
+               θάρσιθάρσει
+               οὐδὶςοὐδείς ἀθάνατος
+               ἡμέρᾳ Σελήνης
+
+Monument of Samakon, (the) archdeacon, who died... Monument of Samakon, (son) of
+                    Zabdas, (the) archdeacon, who died (at the age) of 40 years during the
+                    earthquake, in (the) year 258, on (the) 28th (day) of (the) month Artemisios. Be
+                    of good cheer, no one (is) immortal. (He died) on the day of (the) Moon
+                    (Monday).
+
+Μνημῖονμνημεῖον Σαμάκωνος ἀρχιδιακόνου ἀπογενόμενος Μνημῖονμνημεῖον Σαμάκωνος Ζάβδα ἀρχιδιακόνου ἀπογενόμενος ἐτῶν μʹ ἐν τῷ εισζμῷσεισμῷ ἔτους μνηʹ μηνὶμηνὸς Ἀρτεμισίου ηκʹ θάρσιθάρσει οὐδὶςοὐδείς ἀθάνατος ἡμέρᾳ Σελήνης
+
+The inscription provides the date as the 28th day of the month Artemisios on the day
+               of the Moon in the year 258 according to the Era of the Province of Arabia, that is,
+               Monday May 18, 363 CE. The tombstone is one of about 700 discovered in Byzantine
+               Zoora, and was discovered in two fragments. The majority of the Greek tombstones from
+               this location have been identified as Christian. The inscription contains spelling
+               and grammatical errors, and is recorded in a round alphabet. The author indicates
+               that the letter cutter seems to have begun the inscription only to realize during the
+               second line that he left out the patronymic. The tombstone was then (it seems)
+               rotated 180 degress, at which point the lettercutter began again. The first text is
+               engraved only, while the second text is engraved and painted red. The age, year and
+               month day numneral are all indicated with a horizontal bar above them. The word ἡμέρᾳ
+               is abbreviated with the initial eta and a ligature of the consonents mu and rho. In
+               this epitaph, as well as in zoor0022 and zoor0023, the cause of death is indicated to
+               have been the earthquake, recorded by many ancient writers, which took place on May
+               18th, 363 CE. These three inscriptions are, so far as we know, the only epigraphical
+               records of the date and occurrence of an earthquake in this region. The earthquake
+               seems to have caused damage throughout most of Transjordan and Palestine, and in many
+               accounts is seen to have been divine retribution for the Emperor Julian's attempt to
+               rebuild the Temple in Jerusalem. The author indicates that archdeacon was an
+               important role, the title indicating that Samakon was the senior deacon of his
+               bishopric. The author notes that the deceased named in Zoor00023, Obbe, may be the
+               daughter of Samakon. This is based upon the patronymic found in Zoor0023 as well as
+               the relative ages of the two figures.
+
+                  24
+

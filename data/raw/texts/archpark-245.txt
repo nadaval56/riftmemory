@@ -1,0 +1,1 @@
+ERROR ConnectionError(MaxRetryError('HTTPConnectionPool(host=\'www.archpark.org.il\', port=80): Max retries exceeded with url: /article.asp?id=245 (Caused by NameResolutionError("HTTPConnection(host=\'www.archpark.org.il\', port=80): Failed to resolve \'www.archpark.org.il\' ([Errno -2] Name or service not known)"))'))

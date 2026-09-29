@@ -1,0 +1,162 @@
+SOURCE: https://www.tau.ac.il/~shmulikm/Publications/Schweppe-Slip_Velocities_Ateret-JOSE-2021.pdf
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: 1759; 1202; slip velocit; m/s)
+
+4 [עמ׳ PDF 1]:  ORIGINAL ARTICLE
+5 [עמ׳ PDF 1]: 
+6 [עמ׳ PDF 1]: 
+7 [עמ׳ PDF 1]: 
+8 [עמ׳ PDF 1]: Reconstructing the slip velocities of the 1202 and 1759 CE
+9 [עמ׳ PDF 1]: earthquakes based on faulted archaeological structures
+10 [עמ׳ PDF 1]: at Tell Ateret, Dead Sea Fault
+11 [עמ׳ PDF 1]: Gregor Schweppe & Klaus-G. Hinzen & Sharon K. Reamer & Shmuel Marco
+12 [עמ׳ PDF 1]: 
+[...]
+17 [עמ׳ PDF 1]: 
+18 [עמ׳ PDF 1]: 
+19 [עמ׳ PDF 1]: Abstract Archaeological structures built across active       fortification wall to a variety of earthquake scenarios
+20 [עמ׳ PDF 1]: faults and ruptured by earthquakes have been used as         supports the hypothesis that the wall was ruptured by
+21 [עמ׳ PDF 1]: markers to measure the amount of displacement caused         two earthquakes in 1202 and 1759 CE. For the first time,
+22 [עמ׳ PDF 1]: by ground motion and thus to estimate the magnitude of       we can estimate the slip velocity during the earthquakes
+23 [עמ׳ PDF 1]: ancient earthquakes. The example used in this study is       to 3 and 1 m/s for the two events, attribute the main
+24 [עמ׳ PDF 1]: the Crusader fortress at Tel Ateret (Vadum Iacob) in the     motion to the Arabian plate with a mostly locked Sinai
+25 [עמ׳ PDF 1]: Jordan Gorge, north of the Sea of Galilee, a site which      plate, and exclude significant creep contribution to the
+26 [עמ׳ PDF 1]: has been ruptured repeatedly since the Iron Age. We use      observed displacements of 1.25 and 0.5 m, respectively.
+27 [עמ׳ PDF 1]: detailed laser scans and discrete element models of the      Considering a minimum long-term slip rate at the site of
+28 [עמ׳ PDF 1]: fortification walls to deduce the slip velocity during the   2.6 mm/year, there is a deficit of at least 1.6 m slip
+29 [עמ׳ PDF 1]: earthquake. Further, we test whether the in-situ ob-         corresponding to a potential future magnitude 7.5 earth-
+30 [עמ׳ PDF 1]: served deformation pattern of the walls allows quantifi-     quake; if we assume ~5 mm/year geodetic rate, the
+31 [עמ׳ PDF 1]: cation of the amount both sides of the fault moved and       deficit is even larger.
+32 [עמ׳ PDF 1]: whether post-seismic creep contributed to total displace-
+[...]
+88 [עמ׳ PDF 2]: however, which side moved and by which amount                wealth of information from historical, geological, and
+89 [עמ׳ PDF 2]: is not evident a priori. And (c) discriminate                archaeological archives were used to compile historical
+90 [עמ׳ PDF 2]: coseismic slip from possible pre- or post-seismic            earthquake catalogs (Guidoboni and Comastri 2005;
+91 [עמ׳ PDF 2]: creep that contributed to the total displacement.            Sbeinati et al. 2005; Ambraseys 2009). Location and
+92 [עמ׳ PDF 2]: Because the magnitude of the causing earthquake              fault strands activated during the 1202 and 1759 earth-
+93 [עמ׳ PDF 2]: is mainly dependent on the offset and length of              quakes which affected Tell Ateret (Fig. 1) have been
+94 [עמ׳ PDF 2]: the ruptured fault segment, any creep contribution           discussed in several papers (Marco et al. 1997, 2005;
+95 [עמ׳ PDF 2]: to the offset would result in overestimated magni-           Ellenblum et al. 1998; Daëron et al. 2004, 2005, 2007;
+96 [עמ׳ PDF 2]: tude. Therefore, determining the extent of potential         Nemer et al. 2008).
+[...]
+107 [עמ׳ PDF 3]: 
+108 [עמ׳ PDF 3]: 
+109 [עמ׳ PDF 3]: 
+110 [עמ׳ PDF 3]: 
+111 [עמ׳ PDF 3]: Fig. 1 a Digital terrain map of the border between the Arabian         and 1759 earthquakes. The area within the black rectangle at Tell
+112 [עמ׳ PDF 3]: Plate and the Sinai Sub-Plate. The black arrows indicate the left-     Ateret is shown enlarged in b. The black line show the main
+113 [עמ׳ PDF 3]: lateral plate movement along the Dead Sea Transform Fault. The         strands of the DSF; the numbers indicate the average slip rates
+114 [עמ׳ PDF 3]: blue lines indicate the fault strands which ruptured during the 1202   (Gomez et al. 2007; Nemer and Meghraui 2020)
+115 [עמ׳ PDF 3]: 
+116 [עמ׳ PDF 3]: the most conspicuous remnant and includes a formida-                   the Crusader Fortress at Ateret in 1178 was to take
+117 [עמ׳ PDF 3]: ble 4.4 m wide defense wall and inner structures. The                  control of the only crossing of the Jordan River between
+118 [עמ׳ PDF 3]: name (Latin: Vadum Iacob; Hebrew: Metzad Ateret;                       its source in the north and the SG. The crossing was part
+[...]
+128 [עמ׳ PDF 3]: wanted to consolidate their power in the Muslim terri-                 sities and magnitudes of past earthquakes of the area.
+129 [עמ׳ PDF 3]: tory north of the SG. The purpose of the construction of               Two of these earthquakes offset the crusader fortress,
+130 [עמ׳ PDF 4]:                                                                                                                    J Seismol
+131 [עמ׳ PDF 4]: 
+132 [עמ׳ PDF 4]: first on 20 May 1202, and again on 30 October 1759                km. The October 1759 rupture was found pre-
+133 [עמ׳ PDF 4]: (Marco et al. 1997; Ellenblum et al. 1998). Ambraseys             served in the Ottoman mosque at Ateret and in
+134 [עמ׳ PDF 4]: and Melville (1988) estimated the magnitude of the                palaeoseismic trenches at Bet Saida (Marco et al.
+135 [עמ׳ PDF 4]: 1202 earthquake at MS 7.6 with intensities from VIII              2005), and the November 1759 rupture was locat-
+136 [עמ׳ PDF 4]: to IX over a wide area, ranging from Nablus, south of             ed on the Rachaya Fault (RaF), which has a po-
+137 [עמ׳ PDF 4]: the SG, to Arqa, in current day Lebanon. For the 30               tential rupture length of about ~50 km (Nemer
+138 [עמ׳ PDF 4]: October 1759 earthquake, Ambraseys and Barazangi                  et al. 2008).
+139 [עמ׳ PDF 4]: (1989) estimated MS 6.6 based on the intensity and the
+140 [עמ׳ PDF 4]: radius of the isoseismal of the area in which the
+141 [עמ׳ PDF 4]: earthquake was felt. From the historical records,                 4 Methods
+142 [עמ׳ PDF 4]: Sbeinati et al. (2005) derived intensities up to VIII.
+143 [עמ׳ PDF 4]: The earthquake history of the fortification walls is sum-         We use a numerical model of the fortress wall to back
+144 [עמ׳ PDF 4]: marized in Fig. 2.                                                calculate what type of ground movement caused the
+145 [עמ׳ PDF 4]:     Palaeoseismological research revealed the sur-                current deformation. This approach requires an accurate
+146 [עמ׳ PDF 4]: face rupture of the 1202 earthquake along the YF                  documentation of the current state of the deformation of
+147 [עמ׳ PDF 4]: i n L e b a n o n ( D a ër o n e t a l . 2 0 05 ) , A t e r e t   the northern fortification walls and a numerical model
+148 [עמ׳ PDF 4]: (Ellenblum et al. 1998), and Bet Saida (Marco                     representing the state of the ruin before it was deformed.
+149 [עמ׳ PDF 4]: et al. 2005), with a probable fault length of ~200                Based on estimates of the local tectonic setting and the
+150 [עמ׳ PDF 4]: 
+[...]
+277 [עמ׳ PDF 8]: the boundary conditions of zero acceleration, velocity,               of the first scenario.
+278 [עמ׳ PDF 8]: and displacement at the start and zero acceleration                      A movement scenario in which both plates are
+279 [עמ׳ PDF 8]: and velocity at the end of the signal, while the final                displaced southwards (opposite of Fig. 7e) was not
+280 [עמ׳ PDF 8]: displacements match those between the two plates. This                considered because it contradicts the tectonic regime at
+281 [עמ׳ PDF 8]: signal type was previously successfully applied in                    the DSF. The slip velocities of the first scenario range
+282 [עמ׳ PDF 8]: archaeoseismological research; the displacement history               from 0.1 to 5 m/s. The slow movement is of particular
+283 [עמ׳ PDF 8]: of the pulse is similar to the horizontal ground move-                interest in order to estimate the effect of a potential creep
+284 [עמ׳ PDF 8]: ment close to a strike slip event (Hinzen 2009; Hinzen                movement to the fortification wall. If a significant frac-
+285 [עמ׳ PDF 8]: and Montabert 2017).                                                  tion of the observed wall offset was due to creep, this
+286 [עמ׳ PDF 8]:    In the high-resolution PCL of the northern fortifica-              would reduce the magnitude estimate of the earthquake.
+[...]
+291 [עמ׳ PDF 8]: 4.3 Simulations                                                       quakes dislocated the fortress walls. According to
+292 [עמ׳ PDF 8]:                                                                       Ellenblum et al. (2015), the younger (second) event
+293 [עמ׳ PDF 8]: We ran a total of 58 simulations for two scenarios. The first         displaced the site by 0.5 m. To achieve a total offset of
+294 [עמ׳ PDF 8]: scenario focused on the influence of different movement               1.75 m, the preceding earthquake must have displaced the
+295 [עמ׳ PDF 8]: directions and slip velocities of the plates on the resulting         fortification walls by 1.25 m. Therefore, the simulations of
+296 [עמ׳ PDF 8]: 
+297 [עמ׳ PDF 8]: 
+298 [עמ׳ PDF 8]: 
+299 [עמ׳ PDF 8]: 
+[...]
+320 [עמ׳ PDF 10]: offset by 0.5 m. The first stage included six simulations           occurs during the stopping phase. In the second failure
+321 [עמ׳ PDF 10]: with different offset velocities. In the second stage, each         mechanism, the direction of collapse is opposite to the
+322 [עמ׳ PDF 10]: end status of the first stage simulation was displaced by 0.5       direction of ground motion and occurs during the starting
+323 [עמ׳ PDF 10]: m, with five different offset velocities, resulting in a total of   phase. The failure effects were present in the calculation
+324 [עמ׳ PDF 10]: 30 simulations for this stage.                                      results when the displacement velocities were 2 m/s and
+325 [עמ׳ PDF 10]:                                                                     higher. However, due to the construction of the fortifica-
+326 [עמ׳ PDF 10]: 4.4 Comparison of the simulations with measured data                tion wall, the blocks of the inner and outer shell did not
+327 [עמ׳ PDF 10]:                                                                     show the same falling characteristic. For the first failure
+328 [עמ׳ PDF 10]: The following procedure was used to objectively com-                mechanism, the blocks of one shell were hampered by the
+[...]
+335 [עמ׳ PDF 10]: by Rusinkiewicz and Levoy (2001). This technique                    pered from falling by the filling and then still drop out
+336 [עמ׳ PDF 10]: estimates the best fit between the observed and calcu-              during the stopping phase of the movement.
+337 [עמ׳ PDF 10]: lated results by reducing the root-mean-square (RMS) of                 Inertial forces increase proportional to the acceleration
+338 [עמ׳ PDF 10]: the residual distances in an iterative process. In 3DEC             of ground motion, the effect of which can be seen in the
+339 [עמ׳ PDF 10]: the coordinates of the starting and end position of the             first nine simulations where higher slip velocities cause
+340 [עמ׳ PDF 10]: vertices of each block were recorded. From the simula-              stronger inertial forces and thus larger deformation. In the
+341 [עמ׳ PDF 10]: tion results, a dataset of points representing the outside          four simulations with velocities of 1 m/s and lower, no
+342 [עמ׳ PDF 10]: of the ashlars of the shells was exported and compared              effect of the inertial forces on the deformation pattern is
+343 [עמ׳ PDF 10]: with the measured values.                                           observed. To quantify the effect of inertial forces, it is
+344 [עמ׳ PDF 10]:                                                                     necessary to analyze the displacements of the blocks rela-
+345 [עמ׳ PDF 10]:                                                                     tive to the movement of the baseplate. A null or small
+[...]
+350 [עמ׳ PDF 10]: The first scenario focused on testing the effect of the             forces. This result only applies to the blocks which rest
+351 [עמ׳ PDF 10]: direction of plate motions and displacement velocity on             on a moving plate and thus might help differentiate which
+352 [עמ׳ PDF 10]: the resulting deformation. In nine simulations, the east-           plate(s) moved during the earthquake(s).
+353 [עמ׳ PDF 10]: ern plate moved 1.75 m north (Fig. 7b) with slip veloc-                 Figure 8 summarizes the vectors of relative displace-
+354 [עמ׳ PDF 10]: ities of 0.1 m/s, 0.25 m/s, 0.5 m/s, 1 m/s, 2 m/s, 2.5 m/s,         ment between blocks and the baseplate for the low slip
+355 [עמ׳ PDF 10]: 3 m/s, 4 m/s, and 5 m/s.                                            velocities. It is evident that the blocks to the right (east)
+356 [עמ׳ PDF 10]:     In the simulation with slip velocities above 2 m/s,             of the fault line show only small vectors of relative
+357 [עמ׳ PDF 10]: blocks which were not covered by the construction ramps             displacement. The largest of these occur in the southern
+358 [עמ׳ PDF 10]: dropped out of the wall due to inertial forces. The inertial        shell close to the fault line, where the shell is pulled
+359 [עמ׳ PDF 10]: forces occur during the starting and stopping phases of             apart. The largest overall displacement occurs left of the
+360 [עמ׳ PDF 10]: movement, and with increasing slip velocities, inertial             fault line on the locked plate. During the movement of
+361 [עמ׳ PDF 10]: forces contribute progressively to the deformation of the           the western plate, the fortification wall is pulled apart
+362 [עמ׳ PDF 10]: structure. Schweppe et al. (2017) described two failure             and the blocks on the western plate are dragged along
+363 [עמ׳ PDF 10]: mechanisms for free-standing walls utilizing cycloidal              with the movement of the eastern plate as long as the
+364 [עמ׳ PDF 10]: pulses related to the inertial forces based on the relation         friction between interlocking ashlars is large enough. It
+[...]
+369 [עמ׳ PDF 11]: 
+370 [עמ׳ PDF 11]: 
+371 [עמ׳ PDF 11]: Fig. 8 Top view to the model of the fortification wall. Vectors of       vector colour as shown in the legend. The grey line marks the
+372 [עמ׳ PDF 11]: the relative displacement between the baseplate and the ashlars of       course of the fault, and the grey arrow points in the direction of the
+373 [עמ׳ PDF 11]: the shells at the end of the four simulations with low slip velocities   ground motion. All scales are in metres, and the origin (0/0) is the
+374 [עמ׳ PDF 11]: are plotted on top of each other; slip velocities are indicated by the   centre of the model (m) (Schweppe 2019)
+375 [עמ׳ PDF 11]: 
+376 [עמ׳ PDF 11]: 
+377 [עמ׳ PDF 11]: 
+378 [עמ׳ PDF 11]: 
+379 [עמ׳ PDF 11]: outer shell of the wall section based on the moving plate                reached blocks at larger distance from the fault line than at
+380 [עמ׳ PDF 11]: because its movement is hampered by filling which is                     higher slip velocities (Fig. 9), with the latter causing a
+381 [עמ׳ PDF 11]: backing the shell. Therefore, only the blocks of the inner               “sharper cut” of the wall.
+382 [עמ׳ PDF 11]: shell show relative displacement to the baseplate that                      In the other simulations of the first scenario, further
+383 [עמ׳ PDF 11]: does not result from inertial forces, but can be attributed              movement directions were examined. In six simulations,
+384 [עמ׳ PDF 11]: to the pulling. The relative displacement vectors of the                 both plates were moved in opposite directions (Fig. 7c)
+385 [עמ׳ PDF 11]: four simulations shown in Fig. 8 are similar, a strong                   with velocities of 0.5 m/s, 1 m/s, 2 m/s, 3 m/s, 4 m/s, and
+386 [עמ׳ PDF 11]: indicator that no significant inertial forces contributed to             5 m/s, and subsequently, the western plate moved south-
+387 [עמ׳ PDF 11]: the deformation pattern.                                                 wards (Fig. 7d) with 1 m/s, 2 m/s, 3 m/s, 4 m/s, and 5 m/s.
+388 [עמ׳ PDF 11]:     In simulations with slip velocities above 2 m/s, both first          In further two simulations of this scenario, both plates
+389 [עמ׳ PDF 11]: and second failure mechanisms occurred. Figure 9 shows                   were moved northward (Fig. 7e) with different displace-
+390 [עמ׳ PDF 11]: the absolute displacement vectors (including the displace-               ments and slip velocities.
+391 [עמ׳ PDF 11]: ment of the baseplate). The total deformation in the simula-                The quality of the fit between simulation results
+392 [עמ׳ PDF 11]: tion with 1 m/s slip velocity is the result of the plate                 and the in-situ deformation was quantified with the
+393 [עמ׳ PDF 11]: movement and a pulling effect (Fig. 8). At a slip velocity               ICP method in the form of the residual distance
+394 [עמ׳ PDF 11]: of 3 m/s, numerous blocks drop out of the outer shell in the             between both datasets (Rusinkiewicz and Levoy

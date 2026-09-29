@@ -1,5 +1,5 @@
 SOURCE: https://dergipark.org.tr/tr/download/article-file/781254
-EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Kandiye; ölü; yaralı; Rodos; Kerpe; Kaşot; 3620; 538; Mısır; İskenderiye; Kahire)
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: 538; Rodos; Kerpe; Kaşot; Mısır; İskenderiye; Kahire; toplam; vefat)
 
 5 [עמ׳ PDF 1]:                                                                    Nuri ADIYEKE∗∗
 6 [עמ׳ PDF 1]:         Öz
@@ -10,19 +10,6 @@ EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Kandiye; ölü; yara
 11 [עמ׳ PDF 1]: sayıda yıkıcı deprem meydana gelmiştir.
 12 [עמ׳ PDF 1]:       Bu büyük depremlerden biri olmak üzere 12 Ekim 1856 Pazar günü gece
 13 [עמ׳ PDF 1]: yarısında Girit’te bir deprem oldu. Deprem, sonradan hazırlanan kataloglara, “ağır
-14 [עמ׳ PDF 1]: yıkıcı” olarak kaydedildi. 8.1 veya 8.2 şiddetindeki deprem, adanın doğu kısmında
-15 [עמ׳ PDF 1]: özellikle Kandiye sancağında çok büyük bir zarar verdi. Adanın doğusunda olan
-16 [עמ׳ PDF 1]: Sitia/Estiye ise neredeyse tamamen yıkıldı. Resmo ve Hanya depremden daha az
-17 [עמ׳ PDF 1]: etkilendi. Özellikle Kandiye civarında yüzlerce insan öldü yüzlercesi yaralandı.
-18 [עמ׳ PDF 1]: Aylarca devam eden artçı depremler ve yangınlar nedeniyle çok sayıda dükkân ve
-19 [עמ׳ PDF 1]: işyeri yok oldu. Bu yıkım sırasında Ada’da resmi ve sivil mimarinin önemli eserleri
-20 [עמ׳ PDF 1]: de zarar gördü. Yetkililer depremin ardından yaraların sarılması ve Kandiye’nin
-21 [עמ׳ PDF 1]: yeniden imarı için yoğun çaba sarf ettiler.
-22 [עמ׳ PDF 1]:         Anahtar kelimeler: Girit, Kandiye, deprem, yangın, imar.
-23 [עמ׳ PDF 1]:         Abstract
-24 [עמ׳ PDF 1]:      Located at the intersection of the Mediterranean and the Aegean seas, Crete
-25 [עמ׳ PDF 1]: has been ruined by earthquakes many times. The island is on an earthquake fault
-26 [עמ׳ PDF 1]: called “Hellenistic arch” or “Cretan hollow” that stretches from the south of Crete
 [...]
 48 [עמ׳ PDF 2]: 
 49 [עמ׳ PDF 2]:      Giriş
@@ -34,47 +21,6 @@ EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Kandiye; ölü; yara
 55 [עמ׳ PDF 2]: kesin olmakla birlikte, bilinebilen 11; milattan sonraki ilk bin yılda ise 10
 56 [עמ׳ PDF 2]: büyük deprem yaşanmıştır.2 Ada, milattan sonra ikinci bin içinde, Osmanlı
 [...]
-58 [עמ׳ PDF 2]: ortalarında Girit savaşının sürdüğü 1662 ve 1665 yıllarında da adada iki kez
-59 [עמ׳ PDF 2]: şiddetli deprem olmuştur.3
-60 [עמ׳ PDF 2]:      Adanın Osmanlı yönetimine girişinden sonra en önemli yer sarsıntısı
-61 [עמ׳ PDF 2]: 1681 yılında yaşandı. 1 Ocak 1681 tarihinde meydana gelen ve kuzeydoğu
-62 [עמ׳ PDF 2]: Girit’i tahrip eden depremde pek çok zayiat oldu.4 Kandiye’nin üçte birinin
-63 [עמ׳ PDF 2]: yıkıldığı bu depremde, 3.400’den fazla insan öldü ve 600’ü ağır olmak üzere
-64 [עמ׳ PDF 2]: 2.400 kişi yaralandı.5 Benzeri şekilde 1717 yılında da Girit’in batı
-65 [עמ׳ PDF 2]: 
-66 [עמ׳ PDF 2]: 1
-[...]
-86 [עמ׳ PDF 3]: 1856 Girit Depremi                                                                       3
-87 [עמ׳ PDF 3]: 
-88 [עמ׳ PDF 3]: kesimlerinde geniş hasar yaratan büyük bir deprem yaşandı.6 Bu depremde
-89 [עמ׳ PDF 3]: de birçok köy zarar gördü.7 Aralık 1769’da meydana gelen bir depremde ise
-90 [עמ׳ PDF 3]: Kandiye kalesinin büyük bir bölümü zarar gördü.8 Yüzyılın son büyük
-91 [עמ׳ PDF 3]: depremi ise 1780 yılı Ekiminin sonlarında meydana geldi.9 Birkaç yıl
-92 [עמ׳ PDF 3]: sonrasına ait belgelerden bu depremin Spinalonga kalesinde hasar
-93 [עמ׳ PDF 3]: oluşturduğu10 ve Yerapetre’yi mahvedip, 200’ün üzerinde can aldığı11
-94 [עמ׳ PDF 3]: anlaşılmaktadır.
-95 [עמ׳ PDF 3]:       Adalar Denizi deprem hareketliliği açısından XIX. yüzyılda da hızını
-96 [עמ׳ PDF 3]: kaybetmedi. Temmuz 1805’de yaşanan deprem12 hakkında tarihinin dışında
-97 [עמ׳ PDF 3]: başkaca bir bilgi yoksa da 1810 yılı Şubat ve Mayısında yaşanan iki kuvvetli
-98 [עמ׳ PDF 3]: depremin tüm Girit’te yıkıcı olduğu bilinmektedir. Buna göre; 17 Şubat 1810
-99 [עמ׳ PDF 3]: günü saat beş buçukta olan depremde, Kandiye Kalesi içindeki Sultan
-100 [עמ׳ PDF 3]: Đbrahim ve Sultan Mehmet camileri, Fazıl Ahmet Paşa, Zülfikar Paşa,
-101 [עמ׳ PDF 3]: Defterdar Ahmet Paşa, Abdurrahman Paşa, El-hac Mehmet Paşa camileri
-102 [עמ׳ PDF 3]: hasar gördü ve minareleri yıkıldı. Ayrıca kente su getiren su kemerlerinin iki
-103 [עמ׳ PDF 3]: gözü, bazı siper bedenleri, yerli yeniçeri kışlası, cephaneler ve tophane ağır
-104 [עמ׳ PDF 3]: hasar gördü. Bu depremde birçok yerde kale surları ile birçok ev ve dükkân
-105 [עמ׳ PDF 3]: yıkıldı. Ayakta kalabilenlerin çoğu da ertesi gün yaşanan artçı depremle
-106 [עמ׳ PDF 3]: harap oldu. Oturulacak ev kalmayan Kandiye’de binden fazla insan yaşamını
-107 [עמ׳ PDF 3]: yitirdi. Kalanlar korkudan şehri terk edip tarlalarda ikamet etmeye başladılar.
-108 [עמ׳ PDF 3]: Halk bir yandan kışın zor şartları ile uğraşırken öte yandan enkaz altında
-109 [עמ׳ PDF 3]: kalan yakınlarını çıkarıp defnetmek için uğraşıyordu. Kandiye’ye bağlı
-110 [עמ׳ PDF 3]: Kenuryo, Moloviz, Temenos ve Piryotiçe nahiyelerindeki çiftlik ve köyler de
-111 [עמ׳ PDF 3]: perişan bir halde idi. Buralarda da çok sayıda insanın öldüğü bildirilmişti.13
-112 [עמ׳ PDF 3]: Mesara ovasında 17 köyde taş üstünde taş kalmadı. Bu depremde iki binin
-113 [עמ׳ PDF 3]: üzerinde insan hayatını kaybetti.14
-[...]
-144 [עמ׳ PDF 4]: Girit’te XIX. yüzyılın diğer depremleri, çalışmamıza konu olan 1856
-145 [עמ׳ PDF 4]: dışında, 1862 ve 1887 yıllarında yaşanmıştır.16
 146 [עמ׳ PDF 4]:      Đnceleme konumuz olan 1856 Girit depremine ilişkin Başbakanlık
 147 [עמ׳ PDF 4]: Osmanlı Arşivi’nde iki tür belge oldukça dikkat çekicidir. Bunlardan birisi
 148 [עמ׳ PDF 4]: Hanya ve Kandiye’ye ait yıkılan ve zarar gören binaların; ölen ve
@@ -84,32 +30,6 @@ EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Kandiye; ölü; yara
 152 [עמ׳ PDF 4]: tasnif edilerek mahalle mahalle ve köy köy yazılmıştır. Bu defterler
 153 [עמ׳ PDF 4]: depremin oluşturduğu hasarın anlaşılması ve sonrasında izlenen yardım
 154 [עמ׳ PDF 4]: politikası açısından oldukça önemlidir. Đkinci tür belge ise az bir süreyi
-155 [עמ׳ PDF 4]: kapsayan, Kandiye Memleket Hastanesi jurnal defterleridir. Ancak birkaç
-156 [עמ׳ PDF 4]: haftalık veriler sunan bu defterlerde hastanedeki yaralılar hakkında oldukça
-157 [עמ׳ PDF 4]: önemli ve detaylı bilgilere ulaşmak mümkün olmuştur.18
-158 [עמ׳ PDF 4]:      Diğer yandan tam bu tarihte Girit kadısı olan Hafız Nuri Efendi, yazdığı
-159 [עמ׳ PDF 4]: Divân’da bu depremle ilgili çok önemli bilgiler sunmuştur.19 Heinkele’ye
-160 [עמ׳ PDF 4]: göre, Hafız Nuri Efendi’nin bu depreme ilişkin betimlemeleri, son derece
-[...]
-213 [עמ׳ PDF 5]: halkının bütünüyle mürted olduğu ve özellikle böyle cezalandırıldığını
-214 [עמ׳ PDF 5]: belirterek26 “Bize hakk terbiye için mesaib (felaket) verdi”27 demektedir.
-215 [עמ׳ PDF 5]:      1856 Depremi ve Oluşan Hasar28
-216 [עמ׳ PDF 5]:     Sonradan hazırlanan kataloglara, “ağır yıkıcı” olarak kaydedildi.29 8.1
-217 [עמ׳ PDF 5]: veya 8.2 şiddetindeki depremin,30 adanın doğu kısmında özellikle Kandiye
-218 [עמ׳ PDF 5]: 
-219 [עמ׳ PDF 5]: 23
-220 [עמ׳ PDF 5]:    Ambraseys-Finkel, a.g.m., s. 100.
-221 [עמ׳ PDF 5]: 24
-[...]
-232 [עמ׳ PDF 5]: 27
-233 [עמ׳ PDF 5]:    Divân, v. 248 a.
-234 [עמ׳ PDF 5]: 28
-235 [עמ׳ PDF 5]:    1856 depreminin Girit Adası’nda oluşturduğu yıkımı harita üzerinde göstermek mümkün
-236 [עמ׳ PDF 5]: olamaıştır. Zira Hanya ve Kandiye sancaklarına ait deprem verileri oldukça detaylı olmasına
-237 [עמ׳ PDF 5]: karşın Resmo Sancağı’na ait vesikalar sınırlıdır. Özellikle deprem hasarının listelendiği
-238 [עמ׳ PDF 5]: defterlerden Resmo’ya ait defter mevcut değildir. Bu nedenle Ada’nın tamamındaki hasarı
-239 [עמ׳ PDF 5]: değerlendirecek bir harita oluşturmak mümkün olamamıştır.
-240 [עמ׳ PDF 5]: 29
 [...]
 246 [עמ׳ PDF 6]: 
 247 [עמ׳ PDF 6]: 
@@ -123,16 +43,6 @@ EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Kandiye; ölü; yara
 255 [עמ׳ PDF 6]: dakikadan fazla sürdüğünü söylemektedir.34 6 Mayıs 1857 Çarşamba günü
 256 [עמ׳ PDF 6]: öğleden sonra olan şiddetli bir depremin35 bu büyük depremin artçılarından
 [...]
-263 [עמ׳ PDF 6]: deprem sırasında, Attarlar Çarşısı’nda bulunan dükkânlarda kırılan
-264 [עמ׳ PDF 6]: şişelerden dökülen ispirto ve yağların ateş almasıyla büyük bir yangın
-265 [עמ׳ PDF 6]: çıkmış, çarşı tamamen yanmıştır.40 Yangınların artçı depremler sırasında da
-266 [עמ׳ PDF 6]: devam ettiği anlaşılmaktadır. 5 Ocak 1857 Salı gecesi saat altı sıralarında
-267 [עמ׳ PDF 6]: Kandiye’de bir yangın çıkmış, askerlerin müdahalesiyle söndürülmüştür.41 6
-268 [עמ׳ PDF 6]: Mayıs 1857 Çarşamba gecesi üç buçukta hükümet konağının Maliye kalemi,
-269 [עמ׳ PDF 6]: mahkeme ve Eytam sandığı bürolarının bulunduğu kısmının çatısında yangın
-270 [עמ׳ PDF 6]: başlamıştır. Yangına askerler tarafından derhal müdahale edildiyse de
-271 [עמ׳ PDF 6]: rüzgârın sert esmesinden dolayı bina ve bir kısım resmi evrak tamamen
-[...]
 278 [עמ׳ PDF 6]: Mediterranean Studies’daki dostlara teşekkür ederiz.}
 279 [עמ׳ PDF 6]: 31
 280 [עמ׳ PDF 6]:    Papazachos - Papazahou, a.g.e., s. 234.
@@ -143,24 +53,6 @@ EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Kandiye; ölü; yara
 285 [עמ׳ PDF 6]: 33
 286 [עמ׳ PDF 6]:    Papadopoulos, Vassilopoulou, a.g.m., s. 128.
 [...]
-301 [עמ׳ PDF 6]: 41
-302 [עמ׳ PDF 6]:    BOA., Đ.DH., 368-24337.
-303 [עמ׳ PDF 7]: 1856 Girit Depremi                                                                      7
-304 [עמ׳ PDF 7]: 
-305 [עמ׳ PDF 7]: yanmıştır.42 Aynı dönemde Kandiye hükümet konağının da birkaç kez
-306 [עמ׳ PDF 7]: yandığı anlaşılmaktadır. Bu yangınlardan birinde, Kandiye’nin imarı için
-307 [עמ׳ PDF 7]: kullanılacak miri kereste de yanmıştır.43
-308 [עמ׳ PDF 7]:      Depremin yarattığı ilk etki kuşkusuz büyük bir korku ve panik
-309 [עמ׳ PDF 7]: olmuştur. Hafız Nuri Efendi, Divân’ında, mum ve kandillerin söndüğünü
-310 [עמ׳ PDF 7]: karanlıkta bir yere kıpırdayamayıp kıyametin koptuğunu sandığını44 ve
-[...]
-321 [עמ׳ PDF 7]: koşullarının da ortaya çıkması bu sıkıntıların aylarca sürmesine yol açmıştır.
-322 [עמ׳ PDF 7]:      Depremde çok sayıda insanın öldüğü ve yaralandığı tespit edilmektedir.
-323 [עמ׳ PDF 7]: Girit Kadısı Hafız Nuri Efendi’nin depremden birkaç hafta sonra Đstanbul’a
-324 [עמ׳ PDF 7]: yazdığı arzında yer alan, Hanya ve Resmo’da nüfus kaybının çok olduğu,
-325 [עמ׳ PDF 7]: Kandiye ve kırsal alanında da iki binden fazla insanın enkaz altında kalıp
-326 [עמ׳ PDF 7]: can verdiği47 bilgisinin abartılı olduğu anlaşılmaktadır. Ayrıca Nuri Efendi,
-327 [עמ׳ PDF 7]: Kandiye’de dört yüzden fazla yaralı olduğunu da söylemektedir. Oysa Girit
 328 [עמ׳ PDF 7]: valisi Veliüddin Paşa arzında Hanya ve Resmo’da can kaybının olmadığını,
 329 [עמ׳ PDF 7]: Hanya’da birkaç kişinin ayaklarını kırdığını, fakat Kandiye’de çok can
 330 [עמ׳ PDF 7]: kaybının ve yaralının olduğunu merkeze bildirilmiştir.48 Đlk anda Kandiye’de
@@ -172,12 +64,154 @@ EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Kandiye; ölü; yara
 336 [עמ׳ PDF 7]: 
 337 [עמ׳ PDF 7]: 
 [...]
-354 [עמ׳ PDF 7]:    BOA., Đ.DH., 361-23880.
-355 [עמ׳ PDF 8]: 8                                                                             A. Nükhet ADIYEKE – Nuri ADIYEKE
-356 [עמ׳ PDF 8]: 
 357 [עמ׳ PDF 8]: 
 358 [עמ׳ PDF 8]:      Đlk etapta tespit edilen bu ölü ve yaralı sayıları gün geçtikçe artmış ve
 359 [עמ׳ PDF 8]: daha sonraki incelemelerde tespit edilebilen ölü ve yaralı sayısı bu
 360 [עמ׳ PDF 8]: rakamların birkaç katına çıkmıştır. Yapılan incelemede Hanya’da 10,
 361 [עמ׳ PDF 8]: Kandiye’de ise toplam 527 kişinin vefat ettiği anlaşılmıştır.50 Şunu kabul
 362 [עמ׳ PDF 8]: etmek gerekir ki bu kesin sayı değil ancak kayda girmiş olan toplamdır.
+363 [עמ׳ PDF 8]: Sonradan vefat eden yaralılar ve Resmo’daki insan kayıplarıyla bu sayının
+364 [עמ׳ PDF 8]: biraz daha yüksek olduğunu söyleyebiliriz.51 Vefat eden toplam 527 kişinin
+365 [עמ׳ PDF 8]: mahalle ve köylerine dağılımı da Tablo I’deki gibidir.52 Kandiye kasabasının
+366 [עמ׳ PDF 8]: yanı sıra Moloviz nahiyesi ile Pedya ve Mirabela kazalarında yaşanan can
+367 [עמ׳ PDF 8]: kaybı da dikkat çekicidir.
+368 [עמ׳ PDF 8]: Tablo I: Ölen Müslüman ve Hıristiyanların yerleşimlere göre sayıları53
+[...]
+421 [עמ׳ PDF 8]:    BOA., Đ.DH., 362-23979. Bu belgede, tek tek mahalle ve köylerin halkından ölenler,
+422 [עמ׳ PDF 8]: yaralananlar, yıkılan binalar listelenmiştir. Ayrıca bu belgenin eklerinde iki tane de Kandiye
+423 [עמ׳ PDF 8]: hastanesine ait jurnal kaydı bulunmaktadır.
+424 [עמ׳ PDF 8]: 51
+425 [עמ׳ PDF 8]:    Papazachos - Papazahou, bu depremde Girit’deki ölü sayısını 538, yaralı sayısını da 637
+426 [עמ׳ PDF 8]: olarak vermektedir. Resmo’da ise neredeyse bütün evlerin yıkılmasına rağmen hiç kimsenin
+427 [עמ׳ PDF 8]: ölmediğini belirtmektedir. (a.g.e., s.234.) Depremin şiddetine göre yine de ölen insan
+428 [עמ׳ PDF 8]: sayısının az olduğunu ileri süren Papazachos - Papazahou, bunu binaların çatılarının hafif
+429 [עמ׳ PDF 8]: malzemeden yapılmasına bağlamıştır.
+430 [עמ׳ PDF 8]: 52
+431 [עמ׳ PDF 8]:    BOA., Đ.DH., 362-23979. Belgede düzenlenen tablolarda toplamlar kimi zaman ayrıca
+432 [עמ׳ PDF 8]: verilen toplam sonuçları ile birbirini tutmamaktadır.
+433 [עמ׳ PDF 8]: 53
+434 [עמ׳ PDF 8]:    Burada ve devamında geçen Kandiye köy isimlerinin okunmasında; O Kodikas ton Tision,
+435 [עמ׳ PDF 8]: Ed. Vasilis Dimitriadis, Iraklio 2003 adlı eserden yararlanılmıştır.
+436 [עמ׳ PDF 9]: 1856 Girit Depremi                                                          9
+[...]
+512 [עמ׳ PDF 10]: 
+513 [עמ׳ PDF 10]: 
+514 [עמ׳ PDF 10]: 
+515 [עמ׳ PDF 10]:      Ölen 527 kişiden büyük bir kısmının yıkılan binaların altında kalıp
+516 [עמ׳ PDF 10]: yaşamlarını kaybettikleri54 veya enkazdan çıkarıldıktan sonra vefat ettiği
+517 [עמ׳ PDF 10]: düşünülebilir. Kandiye Memleket Hastanesi’ne ait 11-24 Teşrini Evvel (23
+518 [עמ׳ PDF 10]: Ekim-5 Kasım 1856) tarihleri arasındaki jurnal kayıtlarından55 hastanede
+519 [עמ׳ PDF 10]: yatan yaralılardan 5 tanesinin vefat ettiği öğrenilmektedir. Vefat eden bu
+520 [עמ׳ PDF 10]: yaralılardan biri kangren, üçü de tetanos olmuştur.
+521 [עמ׳ PDF 10]:      Hafız Nuri Efendi, birçok insanın yıkıntılar altında kalmasına rağmen,
+522 [עמ׳ PDF 10]: bazen Mevla’nın onları hıfz ettiğini ve enkaz altından canlı çıkarıldığını
+523 [עמ׳ PDF 10]: aktarmaktadır.56 Hayatta kalanlar arasında öncelikle ilgi bekleyenler bu
+524 [עמ׳ PDF 10]: yaralılardır. Hanya’da 22 kişinin yaralanmasına karşın depremin ağır
+525 [עמ׳ PDF 10]: yaşandığı Kandiye’de yaralı sayısı 258 Müslüman, 249 Hıristiyan olmak
+526 [עמ׳ PDF 10]: üzere toplam 607 kişidir. Yaralı sayılarının da ölümlerin çok olduğu
+527 [עמ׳ PDF 10]: kazalarda yoğunlaştığı görülmektedir. Toplam 629 yaralının dağılımı Tablo
+528 [עמ׳ PDF 10]: II’de gösterilmiştir.
+529 [עמ׳ PDF 10]: 
+530 [עמ׳ PDF 10]: 
+531 [עמ׳ PDF 10]: 
+[...]
+664 [עמ׳ PDF 12]: 58
+665 [עמ׳ PDF 12]:      BOA., Đ.DH. 362-23979 Ek: 4.
+666 [עמ׳ PDF 13]: 1856 Girit Depremi                                                                13
+667 [עמ׳ PDF 13]: 
+668 [עמ׳ PDF 13]: sonra vefat etmiştir. Bu şekilde vefat eden iki hasta daha vardır. Ayrıca farklı
+669 [עמ׳ PDF 13]: zamanlarda çıkan yangınlarda özellikle askeri görevliler arasında hafif veya
+670 [עמ׳ PDF 13]: ağır yanıklarla yaralanmalar meydana gelmiştir.
+671 [עמ׳ PDF 13]:      Kandiye’de yaralılara hizmet veren biri Memleket Hastanesi, diğeri
+672 [עמ׳ PDF 13]: Asakir-i Nizamiye Hastanesi olmak üzere iki adet hastane mevcuttur. Birçok
+[...]
+732 [עמ׳ PDF 14]: içinde kaldığını, hatta burada bir sülfür kokusunun duyulduğunu
+733 [עמ׳ PDF 14]: anlatmaktadır.71 Bunlar küçük çaplı bir tsunami oluştuğunu
+734 [עמ׳ PDF 14]: düşündürmektedir.
+735 [עמ׳ PDF 14]:      Đlk aşamada yapılan tespit çalışmalarına göre yıkılan ve hasar gören
+736 [עמ׳ PDF 14]: evlerin toplam sayısı aşağıdaki tabloda aktarılmıştır.
+737 [עמ׳ PDF 14]: Tablo VI: Kandiye ve Hanya’da yıkılan ve hasarlı ev sayıları
+738 [עמ׳ PDF 14]: 
+739 [עמ׳ PDF 14]:      Yerleşim bölgesi               Yıkılan ev sayısı        Hasarlı ev sayısı
+740 [עמ׳ PDF 14]:      Kandiye kasabası                              2.090                   1.506
+[...]
+742 [עמ׳ PDF 14]: 
+743 [עמ׳ PDF 14]:      Hanya kasabası                                     48                 2.448
+744 [עמ׳ PDF 14]:      Hanya kasaba ve köyleri                        107                    1.751
+745 [עמ׳ PDF 14]: 
+746 [עמ׳ PDF 14]:      Toplam                                        5.671                   7.955
+747 [עמ׳ PDF 14]: 
+748 [עמ׳ PDF 14]: 
+749 [עמ׳ PDF 14]:      Tablo VI’ ten de anlaşılacağı üzere Kandiye’de yıkılan ev sayısı çok
+750 [עמ׳ PDF 14]: fazla olmuştur. Depremin, Hanya bölgesinde de çok sayıdaki eve hasar
+[...]
+820 [עמ׳ PDF 15]: Mahallesi
+821 [עמ׳ PDF 16]: 16                                           A. Nükhet ADIYEKE – Nuri ADIYEKE
+822 [עמ׳ PDF 16]: 
+823 [עמ׳ PDF 16]: 
+824 [עמ׳ PDF 16]:      Estiye Kazası’nda toplam 22 köy zarar görmüştür. Köylerde yıkılan ev
+825 [עמ׳ PDF 16]: sayısı 1 ile 59 arası değişmektedir. En çok evin yıkıldığı köy, 59 hane ile
+826 [עמ׳ PDF 16]: Đsfaka karyesidir, onu 38 hane ile Pisko Kefali izlemiştir. Bu kazadan hasarlı
+827 [עמ׳ PDF 16]: ev sayıları bildirilmemiştir.
+828 [עמ׳ PDF 16]:      Kenuryo Kazası’sında 9 köyde yıkılan ev vardır. Hasarlı hane bulunan
+[...]
+871 [עמ׳ PDF 17]: sayısı köylere göre 3 ile 18 arası değişmektedir.
+872 [עמ׳ PDF 17]:      Yıkımın ağır olduğu Yerapetre Kazası’nda hasarlı haneler
+873 [עמ׳ PDF 17]: bildirilmemiştir. Yera Petre kasabasında 387, Kato Horyo’da 60, Kendri
+874 [עמ׳ PDF 17]: karyesinde 52, Apano Horyo’da 37 ve Piskopi karyesinde 26 ev yıkılmıştır.
+875 [עמ׳ PDF 17]: Toplam 7 köyde hasar söz konusu olmuştur.
+876 [עמ׳ PDF 17]:       Hanya’da fazlaca hasar olmadığı Tablo V’den de anlaşılmaktadır. En
+877 [עמ׳ PDF 17]: ciddi hasar Kisamo kazasında olmuştur. Özellikle Bulmari Karyesi’nde hasar
+878 [עמ׳ PDF 17]: etkilidir. Bu köyde 17 ev yıkılmış 117 ev de hasar görmüştür. Bunun dışında
+879 [עמ׳ PDF 17]: ağır hasarlı köy yoktur.
+[...]
+896 [עמ׳ PDF 17]:  Mahallesi
+897 [עמ׳ PDF 17]: 
+898 [עמ׳ PDF 17]: 
+899 [עמ׳ PDF 17]: 
+900 [עמ׳ PDF 17]:      Tablo VI’de verilen toplam sayılar tablo V ve VI’de yer alan sayıların
+901 [עמ׳ PDF 17]: toplamından biraz farklıdır. Detay sayıların toplamında yıkılan ev sayısı
+902 [עמ׳ PDF 17]: olarak 5.792 hasarlı ev sayısı olarak da 7.289 rakamları ortaya çıkmaktadır.
+903 [עמ׳ PDF 17]: Biz her ikisi için de yüksek sayıyı kabul etsek bile Papazachos’un verdiği
+904 [עמ׳ PDF 17]: sayıların altında bir sonuç ortaya çıkmaktadır. Zira Papazachos, tamamen
+905 [עמ׳ PDF 18]: 18                                                  A. Nükhet ADIYEKE – Nuri ADIYEKE
+[...]
+968 [עמ׳ PDF 19]:  Yeni Cami Çarşısı.                     77                  1             6                 1
+969 [עמ׳ PDF 19]:  Debbağ Çarşısı                         9                   -             -                 -
+970 [עמ׳ PDF 19]:  Liman Çarşısı                          19                  1             2                 -
+971 [עמ׳ PDF 19]:  Çukur Çeşme Mahallesi                  -                   -             -                 -
+972 [עמ׳ PDF 19]:  Toplam                                508                  5            22             10
+973 [עמ׳ PDF 19]: 
+974 [עמ׳ PDF 19]: 
+975 [עמ׳ PDF 19]: 
+976 [עמ׳ PDF 19]: Tablo VII.b: Kandiye merkezinde işyerlerinin durumu
+[...]
+1000 [עמ׳ PDF 20]:  Yeni Cami Çarşısı                    12          1         -     1      -         -        11          2    1       1         -
+1001 [עמ׳ PDF 20]:  Debbağ Çarşısı                        6          1         -     1      -         1        10          1    -       -         -
+1002 [עמ׳ PDF 20]:  Liman Çarşısı                         -          -         -     -      -         -         7          -    -       -         -
+1003 [עמ׳ PDF 20]:  Çukur Çeşme Mahallesi                 -          -         1     -      -         -         -          -    -       -         -
+1004 [עמ׳ PDF 20]:  Toplam                               141         5         2     8      1         1        279         13   2       20       18
+1005 [עמ׳ PDF 20]:  D:Dükkân           F:Fırın        K:Kahvehane              M:Meyhane             H:Hamam           Y:Yağhane
+1006 [עמ׳ PDF 20]: 
+1007 [עמ׳ PDF 20]: 
+1008 [עמ׳ PDF 20]: 
+[...]
+1027 [עמ׳ PDF 20]:      Pedya Kazası             -            -           -         21          -         -            -            -        12
+1028 [עמ׳ PDF 20]:      Temenos Kazası           -            -           11        1           -         1            -        10           1
+1029 [עמ׳ PDF 20]:      Moloviz Nahiyesi         -            -           2         10          -         -            2            7        -
+1030 [עמ׳ PDF 20]:      Topaltı Arazisi          -            1           32        1           -         -            4        46           -
+1031 [עמ׳ PDF 20]:      Toplam                   40           2           45        46          12        16           9        63           28
+1032 [עמ׳ PDF 20]:      D:Dükkân SD:Su Değirmeni              Ç:Çiftlik        Y:Yağhane    YD:Yel Değirmeni
+1033 [עמ׳ PDF 20]: 
+1034 [עמ׳ PDF 20]: 
+1035 [עמ׳ PDF 20]: 78
+[...]
+1051 [עמ׳ PDF 21]:  Hanya Nahiyesi                  -     1             -   1    18    3         35      80
+1052 [עמ׳ PDF 21]:  Apokoron Kazası                 -     -             -   -     -    -             -   3
+1053 [עמ׳ PDF 21]:  Selene Kazası                   -     -             -   -     1    -             -   2
+1054 [עמ׳ PDF 21]:  Kisamo Kazası                   -     -             1   3                            1
+1055 [עמ׳ PDF 21]:  Toplam                          3     1             1   4    20    3         35      86
+1056 [עמ׳ PDF 21]: 
+1057 [עמ׳ PDF 21]:  D:Dükkân De:Değirmen      Ç:Çiftlik   Y:Yağhane
+1058 [עמ׳ PDF 21]: 
+1059 [עמ׳ PDF 21]: 

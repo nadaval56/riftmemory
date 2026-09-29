@@ -29,122 +29,122 @@ Flow of River Jordan stopped for 21.5 hours owing to a landslide at Jisr ed-Dami
 
 Damage to buildings and casualties:[54]
 
-CityHouses Collapsed
-Or Seriously DamagedNumber of Persons KilledNumber of Persons Injured
+ | City | Houses Collapsed
+Or Seriously Damaged | Number of Persons Killed | Number of Persons Injured
 
-Acre3
+ | Acre | 3 |   |
 
-Kafr Manda 14
+ | Kafr Manda |   | 1 | 4
 
-er Reina16059
+ | er Reina | 160 | 5 | 9
 
-Mash-had 1
+ | Mash-had |   | 1 |
 
-Tiberias8
+ | Tiberias | 8 |   |
 
-Ubeidaya 3
+ | Ubeidaya |   | 3 |
 
-Beisan2
+ | Beisan | 2 |   |
 
-Nablus~30069100
+ | Nablus | ~300 | 69 | 100
 
-Beit Dejen (Samaria) 22
+ | Beit Dejen (Samaria) |   | 2 | 2
 
-Mazari'en-Nubani74
+ | Mazari'en-Nubani | 7 | 4 |
 
-'Atara20
+ | 'Atara | 20 |  |
 
-Bir Zeit15 5
+ | Bir Zeit | 15 |   | 5
 
-Yabrud4011
+ | Yabrud | 40 | 1 | 1
 
-'Ein Yabrud1224
+ | 'Ein Yabrud | 12 | 2 | 4
 
-Ramallah1711
+ | Ramallah | 17 | 1 | 1
 
-'Ein Qinya2011
+ | 'Ein Qinya | 20 | 1 | 1
 
-'Ein 'Arik1511
+ | 'Ein 'Arik | 15 | 1 | 1
 
-Deir ibzi'2
+ | Deir ibzi' | 2 |   |
 
-Beit 'Ur el-Fauqa20
+ | Beit 'Ur el-Fauqa | 20 |   |
 
-Beit 'Ur et-Tahta20
+ | Beit 'Ur et-Tahta | 20 |   |
 
-Kharbata1
+ | Kharbata | 1 |   |
 
-Saffa153
+ | Saffa | 15 | 3 |
 
-Beit Sira3
+ | Beit Sira | 3 |   |
 
-Beit Liqya5014
+ | Beit Liqya | 50 | 1 | 4
 
-Bir Imma'in 26
+ | Bir Imma'in |   | 2 | 6
 
-Jimzu 112
+ | Jimzu |   | 1 | 12
 
-Beit Nuba 22
+ | Beit Nuba |   | 2 | 2
 
-Yalu 42
+ | Yalu |   | 4 | 2
 
-el-Qubab 11
+ | el-Qubab |   | 1 | 1
 
-Rammun104
+ | Rammun | 10 | 4 |
 
-Mukhmas1596
+ | Mukhmas | 15 | 9 | 6
 
-Jaba' 14
+ | Jaba' |   | 1 | 4
 
-Kafr 'Aqab6
+ | Kafr 'Aqab | 6 |   |
 
-Qalandiya2
+ | Qalandiya | 2 |   |
 
-er-RamNearly Ruined
+ | er-Ram | Nearly Ruined |   |
 
-Qatanna 1
+ | Qatanna |   | 1 |
 
-Beit Surik1 2
+ | Beit Surik | 1 |   | 2
 
-Lifta1213
+ | Lifta | 12 | 1 | 3
 
-'Ein Katim25
+ | 'Ein Katim | 2 | 5 |
 
-Jerusalem17312
+ | Jerusalem | 17 | 3 | 12
 
-et-Tur1232
+ | et-Tur | 12 | 3 | 2
 
-Silwan 42
+ | Silwan |   | 4 | 2
 
-Abu Dis9043
+ | Abu Dis | 90 | 4 | 3
 
-Sur Bahir1
+ | Sur Bahir | 1 |   |
 
-Jericho53
+ | Jericho | 5 | 3 |
 
-Allenby Bridge4
+ | Allenby Bridge | 4 |   |
 
-Hebron157
+ | Hebron | 15 | 7 |
 
-Dura2
+ | Dura | 2 |   |
 
-Ramle301650
+ | Ramle | 30 | 16 | 50
 
-Lydda451770
+ | Lydda | 45 | 17 | 70
 
-Irbid 1520
+ | Irbid |   | 15 | 20
 
-'Ajlun 62
+ | 'Ajlun |   | 6 | 2
 
-es-Salt 3534
+ | es-Salt |   | 35 | 34
 
-'Amman 935
+ | 'Amman |   | 9 | 35
 
-Madaba 25
+ | Madaba |   | 2 | 5
 
- 25
+ |  |   | 2 | 5
 
-Total1026250405
+ | Total | 1026 | 250 | 405
 
 [42]
 

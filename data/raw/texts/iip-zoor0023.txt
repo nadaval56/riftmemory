@@ -1,0 +1,73 @@
+SOURCE: https://raw.githubusercontent.com/Brown-University-Library/iip-texts/master/epidoc-files/zoor0023.xml
+
+
+
+            Inscriptions of Israel/Palestine
+
+               Prinicipal Investigator
+               Michael Satlow
+
+ERROR-could not find publication information which should appear in this space.
+
+            zoor0023
+
+                  zoor0023
+
+Negev. Zoora. May 18, 363 CE. Sandstone tombstone, engraved and painted. Epitaph.
+
+                              45
+                              28
+                              08
+
+                        cross
+                        beginning and end of first line, end of eleventh line, end of twelfth line,
+                        below text
+
+                        guide lines
+                        between lines of text
+
+                     Monday May 18, 363 CE
+
+                        Negev
+                        Zoora
+                        An Naq
+                        cemetery
+
+Found by local inhabitants in the northwest corner of the Bronze
+                            Age, Byzantine and Islamic cemetery in the An Naq neighborhood south of
+                            the Wadi al-Hasa, probably in secondary use in later graves.
+
+                     Department of Antiquities of Jordan
+
+ERROR: could not find taxonomies file, which should appear in this space.
+
+         Creation
+         Adding Pleiades IDs to origin/placenames
+
+                adding period attribute to date element, with Periodo value.
+
++
+               ΜνημῖονΜνημεῖον
+               + Ὄββης Σαμάκωνος παυσαμένης
+                     ἐτῶν
+
+               ιεʹ ἐν τῷ σιζμῷσεισμῷ
+                ἔτους σνηʹ
+               μηνὸς
+                Ἀρτεμισίου
+               ηκʹ
+               Θάρσιθάρσει
+                Ὄββη οὐδὶςοὐδεὶς ἀθάνατος + Εἷς Θεός +
+               +
+
+Monument of Obbe, (daughter) of Samakon, who died (at the age) of 15 years during
+                    the earthquake, in (the) year 258, on (the) 28th (day) of (the) month
+                    Artemisios, on (the) day of (the) Moon (Monday). Be of good cheer, Obbe, no one
+                    (is) immortal. One (is) the God.
+
+ ΜνημῖονΜνημεῖον  Ὄββης Σαμάκωνος παυσαμένης ἐτῶν ιεʹ ἐν τῷ σιζμῷσεισμῷ ἔτους σνηʹ μηνὸς Ἀρτεμισίου ηκʹ Θάρσιθάρσει Ὄββη οὐδὶςοὐδεὶς ἀθάνατος  Εἷς Θεός
+
+The inscription provides the date as the 28th day of the month Artemisios on the day of the Moon in the year 258 according to the Era of the Province of Arabia, that is, Monday May 18, 363 CE. The tombstone is one of about 700 discovered in Byzantine Zoora. The majority of the Greek tombstones from this location have been identified as Christian. The inscription contains numerous spelling errors, and is recorded in a round alphabet with the letters both engraved and painted red. Guide lines are still visible in certain parts of the text. There are numerous crosses engraved in this inscription: The word "μνημῖον" on line one is flanked by crosses, line eleven and twelve each end with a cross, and there is a large isosceles cross below the text. The age, year and inverted month day numeral are all indicated with a horizontal stroke above them. The word ἐτῶν is abbreviated with the first two letters and a small oblique stroke to the upper right of the tau, while the word μηνὸςis abbreviated with a small eta over a mu. In this epitaph, as well as in zoor0022 and zoor0024, the cause of death is indicated to have been the earthquake, recorded by many ancient writers, which took place on May 18th, 363 CE. These three inscriptions are, so far as we know, the only epigraphical records of the date and occurrence of an earthquake in this region. The earthquake seems to have caused damage throughout most of Transjordan and Palestine, and in many accounts is seen to have been divine retribution for the Emperor Julian's attempt to rebuild the Temple in Jerusalem. The author notes that the phrase "Εἷς Θεός" is found commonly in inscriptions from the East starting in the late third century CE (and becoming increasingly common in the fourth and firth centuries CE), though its placement at Ghor es-Safi is usually at the beginning of the epitaph. The author notes that the deceased named in Zoor00024, Samakon, may be the father of Obbe. This is based upon the patronymic found in this inscription as well as the relative ages of the two figures.
+
+                  23
+

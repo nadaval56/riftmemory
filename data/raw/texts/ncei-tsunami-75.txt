@@ -1,0 +1,4 @@
+SOURCE: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/75
+
+{"id":75,"year":881,"month":4,"day":8,"locationName":"ISRAEL AND EGYPTIAN COASTS","country":"ISRAEL","regionCode":50,"causeCode":0,"eventValidity":2,"publish":true,"comments":"881 - 882 (the correct date Is not known; erroneously 811). \r\nA tsunami in Palestine and in Egypt was observed according to certain data. A tidal wave was observed in Akko. The sea level rose in Alexandria, and ships were cast ashore. The Nile overflowed its banks and washed ashore wooden barges moored at the river bank. (reference #2130)\r\n
+\r\nOn April 8, 881 a tsunami occurred at Akko but no damage is reported either from this or any other community. (reference #1598)","flagLocTimeChk":false,"flagEffectsChk":false,"flagMaxRunupChk":false,"flagAllRunupsEnteredChk":false,"flagAllRunupsSocioChk":false,"oceanicTsunami":true,"referenceIds":[20,1598,2130]}
