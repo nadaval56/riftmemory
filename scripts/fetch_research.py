@@ -6,6 +6,7 @@
 כדי לא לפרסם מחדש חומר מוגן בזכויות יוצרים.
 """
 
+import shutil
 import subprocess
 import sys
 import time
@@ -71,7 +72,19 @@ def main():
             if "pdf" in ctype or r.content[:4] == b"%PDF":
                 pdf = out / f"{slug}.pdf"
                 pdf.write_bytes(r.content)
-                subprocess.run(["pdftotext", "-layout", str(pdf), str(out / f"{slug}.txt")], check=False)
+                txt = out / f"{slug}.txt"
+                subprocess.run(["pdftotext", "-layout", str(pdf), str(txt)], check=False)
+                # PDF סרוק בלי שכבת טקסט: זיהוי תווים (OCR) עם tesseract, אם הוא מותקן
+                if (not txt.exists() or txt.stat().st_size < 2000) and shutil.which("tesseract"):
+                    pages = out / f"{slug}-pages"
+                    pages.mkdir(exist_ok=True)
+                    subprocess.run(["pdftoppm", "-r", "300", "-gray", "-png", str(pdf), str(pages / "p")], check=False)
+                    parts = []
+                    for img in sorted(pages.glob("p-*.png")):
+                        res = subprocess.run(["tesseract", str(img), "-", "-l", "eng"], capture_output=True, text=True)
+                        parts.append(f"\n\n=== {img.stem} ===\n" + res.stdout)
+                    txt.write_text(f"SOURCE: {url} (OCR)\n" + "".join(parts), encoding="utf-8")
+                    shutil.rmtree(pages)
                 pdf.unlink()
             else:
                 r.encoding = r.encoding or r.apparent_encoding

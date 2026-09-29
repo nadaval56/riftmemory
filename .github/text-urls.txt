@@ -1,6 +1,4 @@
-# טקסטים פתוחים בלבד (CC BY / נחלת הכלל). slug url   (סבב 4ב: קובצי PDF)
-karcz2004 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3334/3380
+# טקסטים פתוחים בלבד (CC BY). slug url   (סבב 4ג: PDF סרוקים, עם OCR)
 abdelfattah1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3831/3895
 ambraseys1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3887/3952
 papazachos1996 https://www.annalsofgeophysics.eu/index.php/annals/article/download/4023/4088
-regev2024 https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11087761/fullTextXML
