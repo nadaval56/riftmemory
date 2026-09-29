@@ -321,11 +321,44 @@ def write(path, html):
     path.write_text(reader_facing(html), encoding="utf-8")
 
 
-def map_data(events, live, segments, focus=False, highlight=None, all_events=None):
+DAMAGE_STATUS = {
+    "reported": "לפי המקורות",
+    "found": "נמצא בשטח",
+    "reported+found": "לפי המקורות, ונמצא בשטח",
+    "doubtful": "הקשר לרעידה שנוי במחלוקת",
+}
+
+
+def load_damage():
+    path = ROOT / "data" / "damage" / "sites.json"
+    return json.loads(path.read_text(encoding="utf-8"))["sites"] if path.exists() else []
+
+
+def damage_data(sites, events, only=None):
+    """מקומות שנפגעו, לכל מקום הרעידות שפגעו בו. only: מזהה רעידה אחת (בדף רעידה)."""
+    by_id = {e["id"]: e for e in events}
+    out = []
+    for s in sites:
+        entries = [
+            {"title": by_id[x["event"]]["short_title"], "url": f"{BASE_PATH}/events/{x['event']}/",
+             "place": x["place_he"], "what": x["evidence"], "status": DAMAGE_STATUS.get(x["status"], ""),
+             "doubtful": x["status"] == "doubtful", "year": by_id[x["event"]]["date"]["year"]}
+            for x in s["entries"]
+            if x["event"] in by_id and x["status"] in DAMAGE_STATUS and (only is None or x["event"] == only)
+        ]
+        if entries:
+            entries.sort(key=lambda x: x["year"])
+            out.append({"name": s["place_he"], "lat": s["lat"], "lon": s["lon"], "entries": entries,
+                        "doubtful": all(x["doubtful"] for x in entries)})
+    return out
+
+
+def map_data(events, live, segments, focus=False, highlight=None, all_events=None, damage=None):
     """focus: מפה של דף רעידה בודדת. המבט כולל את הרעידה גם כשהיא רחוקה.
     highlight: מזהה המקטע של הרעידה. המקטע מודגש והמבט מתמקד בו."""
     return {
         "focus": focus,
+        "damage": damage or [],
         "basemap": f"{BASE_PATH}/static/data/basemap.json",
         "highlight": highlight,
         "segments": [
@@ -387,6 +420,7 @@ def build(drafts=False):
     if drafts or public_drafts:
         segments = [dict(s, draft=not s.get("approved"), approved=True) for s in segments]
     live = load_live()
+    damage_sites = load_damage()
     echo.annotate(live["events"], events, segments)
     for q in live["events"]:
         q["ago"] = relative_hours(q["time"], now)
@@ -432,7 +466,7 @@ def build(drafts=False):
         featured_reason=featured_reason,
         today=today,
         events=events,
-        map_data=map_data(events, live_month, segments, all_events=events),
+        map_data=map_data(events, live_month, segments, all_events=events, damage=damage_data(damage_sites, events)),
     ))
     pages.append("/")
 
@@ -446,6 +480,7 @@ def build(drafts=False):
             e=e,
             by_id=by_id,
             map_data=map_data([e], dict(live, events=e["live_nearby"]), segments, focus=True, all_events=events,
+                              damage=damage_data(damage_sites, events, only=e["id"]),
                               highlight=e["location"].get("segment") if e["segment_name"] and e["location"].get("segment") != echo.DISTANT else None),
         ))
         if e["status"] == "published":

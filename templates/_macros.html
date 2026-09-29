@@ -29,6 +29,7 @@
 <ul class="map-legend">
   <li><span class="lg lg-fault"></span> קו שבר פעיל (העתק). לחיצה על קו מציגה לאיזה מקטע הוא שייך</li>
   {% if data.highlight %}<li><span class="lg lg-fault lg-strong"></span> המקטע של הרעידה הזו</li>{% endif %}
+  {% if data.damage %}<li><span class="lg lg-dmg"></span> מקום שבו תועד נזק (לא המוקד). לחיצה: מה קרה שם ולפי מי</li>{% endif %}
   {% if data.events %}<li><span class="lg lg-hist"></span> מיקום משוער של רעידה היסטורית, לפי מחקר. העיגול הגדול מסמן שהמיקום לא מדויק</li>{% endif %}
   {% if data.live %}<li><span class="lg lg-live"></span> {{ data.live_legend or "רעידות מהחודש האחרון (המכון הגיאולוגי)" }}</li>{% endif %}
 </ul>

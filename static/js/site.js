@@ -127,6 +127,19 @@
       bounds.push([q.lat, q.lon]);
     });
 
+    // מקומות שנפגעו: המקומות שהדפים מתארים בהם נזק (לא מוקדים). ריבוע קטן, ובלחיצה: מה קרה שם ובאיזו רעידה.
+    var dmgBounds = [];
+    (data.damage || []).forEach(function (d) {
+      var icon = L.divIcon({ className: "dmg" + (d.doubtful ? " doubtful" : ""), iconSize: [8, 8] });
+      var html = '<div class="map-popup"><strong>' + esc(d.name) + "</strong>" + d.entries.map(function (x) {
+        return '<div class="dmg-entry"><a href="' + x.url + '">' + esc(x.title) + "</a>" +
+          (x.place !== d.name ? " (" + esc(x.place) + ")" : "") + ": " + esc(x.what) +
+          '<div class="src">' + esc(x.status) + "</div></div>";
+      }).join("") + "</div>";
+      L.marker([d.lat, d.lon], { icon: icon, keyboard: false }).bindPopup(html).addTo(map);
+      dmgBounds.push([d.lat, d.lon]);
+    });
+
     // רעידות היסטוריות: המיקום משוער בלבד. עיגול גדול ושקוף מראה שאין כאן נקודה מדויקת,
     // והחלון שנפתח בלחיצה אומר לפי איזה חוקר נקבע המיקום ומפנה לביבליוגרפיה בדף הרעידה.
     var hist = [];
@@ -154,9 +167,9 @@
     var inRegion = function (p) { return p[0] > 29 && p[0] < 33.6 && p[1] > 34 && p[1] < 36.6; };
     var near = bounds.concat(data.focus ? [] : hist).filter(inRegion);
     var all = faultBounds.filter(function (p) { return p[0] < 33.4; }).concat(near, data.focus ? hist : []);
-    // מפה של מקטע בלבד (בלי מיקום לרעידה): המבט על המקטע, עם מעט סביבה
-    if (segBounds.length && !hist.length) {
-      all = segBounds.concat(near);
+    // מפה של מקטע בלבד (בלי מיקום לרעידה): המבט על המקטע והמקומות שנפגעו, עם מעט סביבה
+    if (data.focus && !hist.length && (segBounds.length || dmgBounds.length)) {
+      all = segBounds.concat(near, dmgBounds);
       map.fitBounds(L.latLngBounds(all).pad(0.6), { maxZoom: 9 });
       return;
     }

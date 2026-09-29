@@ -401,3 +401,9 @@ table.data { width: 100%; border-collapse: collapse; font-size: .9rem; backgroun
 table.data th, table.data td { text-align: start; padding: .45rem .6rem; border-bottom: 1px solid var(--line-soft); vertical-align: top; }
 table.data th { color: var(--ink-2); font-weight: 600; }
 table.data td:nth-child(2), table.data td:nth-child(3) { white-space: nowrap; }
+
+/* מקומות שנפגעו */
+.dmg { background: var(--ink-2); border: 1px solid var(--surface); opacity: .85; border-radius: 2px; transform: rotate(45deg); box-shadow: 0 0 0 .5px var(--ink-2); }
+.dmg.doubtful { background: var(--surface); border: 1.5px dashed var(--ink-2); }
+.lg-dmg { width: 9px; height: 9px; border-radius: 2px; transform: rotate(45deg); background: var(--ink-2); }
+.dmg-entry { margin-top: .35rem; }

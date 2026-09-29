@@ -121,7 +121,7 @@
       </section>
       {% endif %}
 
-      {% if map_data.events or map_data.live or map_data.highlight %}
+      {% if map_data.events or map_data.live or map_data.highlight or map_data.damage %}
       <section>
         <h2>על המפה</h2>
         {{ map(map_data, height='340px') }}
@@ -144,7 +144,7 @@
 {{ source_sheet() }}
 {% endblock %}
 {% block scripts %}
-{% if map_data.events or map_data.live or map_data.highlight %}
+{% if map_data.events or map_data.live or map_data.highlight or map_data.damage %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
 {% endif %}
 {% endblock %}
