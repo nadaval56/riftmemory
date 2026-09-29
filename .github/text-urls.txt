@@ -1,4 +1,4 @@
-# טקסטים פתוחים בלבד (CC BY). slug url   (סבב 4ג: PDF סרוקים, עם OCR)
-abdelfattah1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3831/3895
-ambraseys1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3887/3952
-papazachos1996 https://www.annalsofgeophysics.eu/index.php/annals/article/download/4023/4088
+# טקסטים פתוחים בלבד. slug url   (סבב 6: 1927, תמונות American Colony בספריית הקונגרס – נחלת הכלל)
+loc-matpc-03034 https://www.loc.gov/item/2019711015/?fo=json
+loc-search-winter-palace https://www.loc.gov/pictures/search/?q=winter%20palace%20jericho%201927&co=matpc&fo=json
+commons-1927-earthquake https://commons.wikimedia.org/wiki/Category:1927_earthquake_in_Palestine
