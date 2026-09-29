@@ -51,7 +51,8 @@ sources:
   url: https://doi.org/10.1016/j.tecto.2016.12.015
 - label: 'A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
-- label: 'S. N. Spyridon (תרגום), "Annals of Palestine, 1821–1841", Journal of the Palestine Oriental Society 18 (1938), pp. 63–132 (כרוניקה של הנזיר ניאופיטוס. TODO: לבדוק במקור)'
+- label: 'S. N. Spyridon (תרגום), "Annals of Palestine, 1821–1841", Journal of the Palestine Oriental Society 18 (1938), pp. 63–132 (כרוניקה של הנזיר ניאופיטוס; נבדק בסריקה)'
+  url: https://archive.org/details/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009, עמ׳ 642–643 (TODO: לבדוק במקור)'
   url: https://assets.cambridge.org/97805218/72928/index/9780521872928_index.pdf
 - label: 'R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco, J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", Journal of Geophysical Research 106 (B2) (2001), pp. 2221–2234'
@@ -84,25 +85,29 @@ review_notes:
 
 באביב 1834 הייתה ירושלים עיר נצורה. הפלאחים מרדו בשלטון המצרי של איברהים פאשה, והמורדים כיתרו את העיר. בעיצומו של המצור, ב-26 במאי, רעדה האדמה.[^zohar16s][^zohar16]
 
-במנזר מר סבא, במדבר יהודה, ישב אז נזיר בשם ניאופיטוס. הוא הרגיש את הרעידה בעצמו, ותיאר בפירוט אותה ואת תוצאותיה בכרוניקה שכתב על אירועי התקופה.[^zohar16s] לפי מה שידוע לנו, הוא כתב שהרעידה נמשכה שלוש שניות בלבד. ובכל זאת, בשלוש השניות האלה נסדקה כיפת הקתוליקון בכנסיית הקבר בשבעה מקומות, והטיח נשר ממנה.[^dsq]
+בירושלים חי אז נזיר יווני בשם ניאופיטוס, שהגיע לעיר מקפריסין ב-1801. בכרוניקה שכתב על אירועי התקופה, שכתב היד שלה שמור באוסף כתבי היד של מר סבא, הוא תיאר גם את הרעידה.[^spyridon] לדבריו היא הייתה ביום ראשון בשש בבוקר, ו-"It lasted but three seconds". ובכל זאת, בשלוש השניות האלה נסדקה כיפת הקתוליקון בכנסיית הקבר בשבעה מקומות, וכל הטיח נשר ממנה. הכיפה הגדולה של כנסיית הקבר, שהייתה עשויה עץ ומחוזקת היטב, לא ניזוקה הרבה.[^spyridon-92]
+
+בתים גדולים רבים בירושלים נסדקו, ורבים נפלו. קטע מחומת העיר, ליד "מסגד עומר", נפל. נפלו צריח בעיר וצריח בהר הזיתים, וגם כיפת קפלת העלייה. בורות מים רבים נסדקו, והמים ברחו מהם. בבית לחם ניזוקו קשה המנזרים של הלטינים, של הארמנים ושל היוונים, ובייחוד מגדל הפעמונים, אבל כנסיית המולד ואכסניית הצליינים החדשה לא ניזוקו. במנזר מר סבא נסדק כולו המגדל של יוחנן מדמשק.[^spyridon-92]
+
+הפלאחים שכיתרו את העיר נבהלו מהרעידה והפסיקו לירות, אבל רק לזמן קצר: למחרת חזרו לירות, וגם התותחים מתוך העיר חזרו לפעול.[^spyridon-92]
 
 הנזק נרשם בירושלים ובבית לחם, במנזר מר סבא ובאזור ים המלח. דיווחים על נזק הגיעו גם מיפו ומקיסריה שבחוף, וממידבא ומאום א-רצאץ שבעבר הירדן.[^zohar16]
 
 על הרוגים אין ברשימה של זוהר ועמיתיו שום דיווח.[^zohar16] לעומת זאת, קן-תור ועמיתיו, בהסתמך על הקטלוג של עמירן ועמיתיו (1994), כותבים שבבית לחם נפגעו כמה מנזרים ונהרגו רבים, ושבירושלים נפגעו כמה כנסיות וצריחים וחומת העיר.[^kentor-2231] הנזק היה, כנראה, קל מזה של רעידת 1927.[^salamon07-notes]
 
-<!-- TODO: מקור. לפי ויקיפדיה האנגלית (דרך תוצאות חיפוש): הלחימה נפסקה לכמה ימים אחרי הרעידה, והיו מוסלמים בעיר שראו בה תגובה לגיוס חיילים מהעיר. לבדוק באמברייזיס 2009 או בכרוניקה של ניאופיטוס. -->
+<!-- הוסר: ויקיפדיה האנגלית (דרך תוצאות חיפוש) כתבה שהלחימה נפסקה לכמה ימים; אצל ניאופיטוס היא התחדשה למחרת. הטענה שמוסלמים בעיר ראו ברעידה תגובה לגיוס לא נמצאה אצלו, ולא הוחזרה. -->
 
 ## מתי בדיוק?
 
-התאריך, 26 במאי 1834, מקובל על החוקרים.[^zohar16][^salamon07-t3] ניאופיטוס, לפי מה שידוע לנו, רשם אותו בלוח היוליאני, והוא הומר ללוח הגרגוריאני.[^dsq]
+התאריך, 26 במאי 1834, מקובל על החוקרים.[^zohar16][^salamon07-t3] ניאופיטוס כותב "Sunday morning, May 13th".[^spyridon-92] אם מנה לפי הלוח היוליאני, שהקדים אז את הגרגוריאני ב-12 יום, זהו יום ראשון, 25 במאי 1834: יום לפני התאריך המקובל. החישוב שלנו.
 
 עדות עברית בת הזמן נותנת תאריך קרוב אך לא זהה. ר׳ מנחם מנדל מקמניץ, שעלה לארץ ב-1833, כתב בספרו "קורות העתים לישורון בארץ ישראל" (וילנה 1839) שבשנת תקצ"ד, "שלשים יום בעומר רעשה הארץ פעמים. פעם אחד בעת הצהרים. ופעם השני בלילה בשעה ט' והיה הולך וחזק הרעש והרעדה", ושהוא ואחרים "הוכרחנו לעזוב רכושנו בבתינו לנוס החוצה".[^kamenitz] היום השלושים לעומר הוא ט"ו באייר, שחל באותה שנה ב-24 במאי, יומיים לפני התאריך המקובל. הוא אינו כותב באיזו עיר היה באותה שעה, ואנחנו לא יודעים אם מדובר באותה רעידה.
 
 <!-- הוסרו מהטקסט הגלוי: 13 במאי (ויקיפדיה האנגלית, לפי תוצאות חיפוש) ו-23 במאי (ויקיפדיה העברית, "רעידת אדמה", בלי הפניה). ב-1834 ההפרש בין הלוחות היה 12 ימים, כך ש-26 במאי גרגוריאני הוא 14 במאי יוליאני. ייתכן ש-13 במאי קשור לתאריך היוליאני, אבל זו השערה שלא נבדקה. -->
 
-השעה, לעומת זאת, לא ידועה. המקורות נותנים 13:00, ארבע לפנות בוקר או שש בבוקר, ובחומר שבידינו אין הסבר לפער.[^zohar16][^salamon07-t3][^dsq] לכן הדף אינו מציג שעה.
+השעה, לעומת זאת, לא ידועה בוודאות. הקטלוגים נותנים 13:00 או ארבע לפנות בוקר,[^zohar16][^salamon07-t3] וניאופיטוס כותב "At six o'clock on Sunday morning".[^spyridon-92] ר׳ מנחם מנדל מקמניץ מתאר שתי רעידות, אחת בצהריים ואחת בלילה.[^kamenitz] בחומר שבידינו אין הסבר לפער.
 
-<!-- TODO: מקור. לבדוק בכרוניקה של ניאופיטוס (Spyridon 1938) ובאמברייזיס 2009, עמ' 642-643, מה השעה ובאיזה שעון. -->
+<!-- TODO: לבדוק באמברייזיס 2009, עמ' 642-643, מאיפה 13:00 וארבע לפנות בוקר, ובאיזה שעון. -->
 <!-- הוסר: ויקיפדיה העברית (ערך 1837, פרק "רקע", בלי מקור) מספרת על שתי רעידות בצפת ב-24 במאי 1834. ויקיפדיה האנגלית (ערך 1834 looting of Safed, דרך תוצאת חיפוש) מספרת שצפת ניזוקה קשה במאי 1834. צפת אינה מופיעה ברשימת היישובים שנפגעו אצל זוהר ועמיתיו 2016. TODO: מקור. -->
 
 ## מה כתוב במקורות
@@ -111,8 +116,7 @@ review_notes:
 
 **נוסע וולשי.** נוסע בן התקופה, ששמו לא ידוע, תיאר בתים רבים שנהרסו בירושלים, קטע של חומת העיר שנפל ליד הר הבית, ומנזר בבית לחם שלא היה ראוי עוד למגורים. כך לפי סיכום באתר deadseaquake.info.[^dsq]
 
-<!-- TODO: לאמת ציטוט. הפרטים על ניאופיטוס ועל הנוסע הוולשי הם סיכומי חיפוש של deadseaquake.info, לא ציטוטים. לקרוא את המקורות עצמם. -->
-<!-- TODO: מקור. ויקיפדיה האנגלית (דרך תוצאות חיפוש) מוסיפה: קריסת הכיפה של קפלת העלייה בהר הזיתים, נפילת צריחים בעיר ובהר הזיתים, ונזק כבד למנזרים הלטיני והארמני בבית לחם. לא הוכנס לטקסט הגלוי עד שיימצא מקור. -->
+<!-- הפרטים על ניאופיטוס אומתו מול התרגום של ספירידון (1938). TODO: לאמת ציטוט: הפרטים על הנוסע הוולשי הם סיכום של deadseaquake.info. -->
 
 **אספלט בים המלח.** קן-תור ועמיתיו מביאים, בהסתמך על בן-מנחם (1991), שאחרי הרעידה הופיעו על פני ים המלח גושי אספלט גדולים.[^kentor-2231] מקור בן התקופה לתיאור הזה עוד לא ידוע לנו.
 
@@ -145,6 +149,7 @@ review_notes:
 [^salamon07-t3]: A. Salamon et al., *Bulletin of the Seismological Society of America* 97 (2007), נספח אלקטרוני, טבלה 3, בהפניה ל-Ben-Menahem 1991 (ML 6.3). השעה שם: 04:00.
 [^salamon07-notes]: Salamon et al. 2007, נספח אלקטרוני, הערות לטבלה 3.
 [^kentor-2231]: R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco and J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (B2) (2001), pp. 2221–2234, עמ׳ 2231, סעיף 6.1.6 (שכבות G ו-H; תיאור הנזק לפי Amiran et al. 1994 ו-Ben-Menahem 1991: "At Bethlehem, several monasteries were damaged and many people were killed"; "Large blocks of asphalt appeared on the Dead Sea"; "the epicenter was likely south of the Dead Sea basin"), וכן עמ׳ 2233.
-[^spyridon]: S. N. Spyridon, "Annals of Palestine, 1821–1841", *Journal of the Palestine Oriental Society* 18 (1938), pp. 63–132. הפרטים הביבליוגרפיים לפי רשימת המקורות של זוהר ועמיתיו 2016 (נספח אלקטרוני, עמ׳ 31). TODO: לבדוק במקור.
+[^spyridon]: S. N. Spyridon (תרגום), "Annals of Palestine, 1821–1841", *Journal of the Palestine Oriental Society* 18 (1938), pp. 63–132 ([סריקה ב-Internet Archive](https://archive.org/details/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834)). על המחבר, בהקדמה (עמ׳ 63): "a translation of a part of a manuscript by the Monk Neophytos"; "he came to Jerusalem from Cyprus in 1801".
+[^spyridon-92]: Spyridon 1938, עמ׳ 92–93 והערות שם: "At six o'clock on Sunday morning, May 13th, there was an earthquake. It lasted but three seconds, but it was so violent that the dome of the Catholicon was cracked in seven places and all the plaster fell off"; "A minaret fell in Jerusalem, and another one on the Mount of Olives, as did the dome of the Shrine of the Ascension"; "The fellaheen got frightened at the earthquake and stopped firing for the moment, but the next day they began again".
 [^dsq]: "[1834 CE Fellahin Revolt Quake](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html)", deadseaquake.info. השעה שם: שש בבוקר. TODO: לבדוק במקור. <!-- הגיע דרך תוצאות חיפוש, לא מקריאת הדף -->
 [^kamenitz]: מנחם מנדל מקמניץ, *קורות העתים לישורון בארץ ישראל*, וילנה תקצ"ט (1839), [בפרויקט בן-יהודה](https://benyehuda.org/read/2695). הציטוט מהנוסח שם. ההמרה של ט"ו באייר תקצ"ד ל-24 במאי 1834 שלנו. על עלייתו: "בעת באי לארץ הקדושה בשנת תקצ"ג בחודש אלול", שם.
