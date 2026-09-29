@@ -2,9 +2,12 @@
 
 פלט: data/raw/wikipedia/<pageid>.json לכל ערך (ראו docs/guide.pdf, פרק 4.1).
 תת-קטגוריות לא נמשכות, וכפילויות מוסרות לפי pageid.
+דף הפניה (#הפניה) נשמר עם היעד שלו: אם ההפניה היא לפסקה בערך אחר,
+נשמר הוויקיטקסט של הפסקה הזו בלבד, בשדה redirect.
 """
 
 import json
+import re
 import time
 from pathlib import Path
 
@@ -87,14 +90,53 @@ def fetch_page(pageid, title):
     }
 
 
+REDIRECT_RE = re.compile(r"^#(?:הפניה|redirect)\s*\[\[([^\]#|]+)(?:#([^\]|]+))?", re.I)
+
+
+def section_wikitext(wikitext, heading):
+    """הוויקיטקסט של פסקה לפי כותרת, עד הכותרת הבאה באותה רמה או גבוהה ממנה."""
+    lines = wikitext.splitlines()
+    for i, line in enumerate(lines):
+        m = re.match(r"^(=+)\s*(.*?)\s*\1\s*$", line)
+        if m and m.group(2) == heading:
+            level = len(m.group(1))
+            out = [line]
+            for rest in lines[i + 1:]:
+                n = re.match(r"^(=+)[^=].*?\1\s*$", rest)
+                if n and len(n.group(1)) <= level:
+                    break
+                out.append(rest)
+            return "\n".join(out)
+    return None
+
+
+def fetch_redirect(wikitext):
+    m = REDIRECT_RE.match(wikitext.strip())
+    if not m:
+        return None
+    target, section = m.group(1).strip(), (m.group(2) or "").strip() or None
+    parsed = api_get(action="parse", page=target, prop="wikitext", redirects="1")["parse"]
+    info = api_get(action="query", titles=parsed["title"], prop="info", inprop="url")["query"]["pages"][0]
+    text = parsed["wikitext"]
+    return {
+        "title": parsed["title"],
+        "section": section,
+        "url": info.get("fullurl") + (("#" + section.replace(" ", "_")) if section else ""),
+        "revid": parsed.get("revid"),
+        "wikitext": section_wikitext(text, section) if section else text,
+    }
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     pages = category_pages()
     for pageid, title in sorted(pages.items(), key=lambda p: p[1]):
         record = fetch_page(pageid, title)
+        record["redirect"] = fetch_redirect(record["wikitext"])
         path = OUT / f"{pageid}.json"
         path.write_text(json.dumps(record, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(f"{pageid}\t{record['title']}\twikidata={record['wikidata']}\tcoords={record['coordinates']}")
+        print(f"{pageid}\t{record['title']}\twikidata={record['wikidata']}\tcoords={record['coordinates']}"
+              + (f"\tredirect={record['redirect']['title']}#{record['redirect']['section']}" if record["redirect"] else ""))
     print(f"saved {len(pages)} pages")
 
 
