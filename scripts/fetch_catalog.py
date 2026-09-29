@@ -1,4 +1,7 @@
-"""משיכת קטלוג הרעידות של המכון הגיאולוגי לאורך שנים, לעמוד "מה המכשירים רואים".
+"""משיכת קטלוגים של רעידות לאורך שנים, לעמוד "מה המכשירים רואים".
+
+1. המכון הגיאולוגי: ה-API של האתר שומר רק כמה חודשים אחורה, אבל עם רעידות קטנות.
+2. USGS ComCat (נחלת הכלל): מתחילת התקופה המכשירית, רעידות 2.5 ומעלה באזור.
 
 המקור: ה-API של אתר המכון (eq.gsi.gov.il/api/earthquakes), אותו API שמשמש את הפס החי.
 נמשכות רעידות מקומיות בלבד (id שמתחיל ב-gsi_loc), מגניטודה MIN_MAG ומעלה,
@@ -56,10 +59,52 @@ def keep(q):
     )
 
 
+USGS_API = "https://earthquake.usgs.gov/fdsnws/event/1/query"
+USGS_OUT = ROOT / "data" / "catalog" / "usgs.json"
+
+
+def fetch_usgs(now):
+    rows = {}
+    for start_year in range(1900, now.year + 1, 10):
+        start = f"{start_year}-01-01"
+        end = f"{min(start_year + 10, now.year + 1)}-01-01"
+        r = requests.get(USGS_API, headers=UA, timeout=120, params=dict(
+            format="geojson", starttime=start, endtime=end, minmagnitude=MIN_MAG,
+            minlatitude=BOX["min_lat"], maxlatitude=BOX["max_lat"],
+            minlongitude=BOX["min_lon"], maxlongitude=BOX["max_lon"], orderby="time-asc", limit=20000))
+        r.raise_for_status()
+        for f in r.json()["features"]:
+            p, (lon, lat, depth) = f["properties"], f["geometry"]["coordinates"]
+            if p.get("type") != "earthquake" or p.get("mag") is None:
+                continue
+            t = dt.datetime.fromtimestamp(p["time"] / 1000, dt.timezone.utc)
+            rows[f["id"]] = {
+                "id": f["id"], "t": t.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                "lat": round(lat, 3), "lon": round(lon, 3),
+                "depth": None if depth is None else round(depth, 1),
+                "mag": round(p["mag"], 2), "mag_type": p.get("magType"),
+                "place": p.get("place"), "felt": p.get("felt"), "url": p.get("url"),
+            }
+        print("usgs", start_year, len(rows))
+        time.sleep(1)
+    out = sorted(rows.values(), key=lambda e: e["t"])
+    USGS_OUT.write_text(json.dumps({
+        "fetched_at": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "source": "USGS ComCat (earthquake.usgs.gov/fdsnws/event/1), נחלת הכלל",
+        "min_magnitude": MIN_MAG, "box": BOX, "count": len(out), "events": out,
+    }, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+    print(f"{len(out)} events -> {USGS_OUT.relative_to(ROOT)}")
+
+
 def main():
     now = dt.datetime.now(dt.timezone.utc)
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        fetch_usgs(now)
+    except Exception as exc:  # noqa: BLE001
+        print(f"usgs failed: {exc!r}", file=sys.stderr)
     events, per_year = {}, {}
-    for year in range(START_YEAR, now.year + 1):
+    for year in range(max(START_YEAR, now.year - 2), now.year + 1):
         start = dt.datetime(year, 1, 1, tzinfo=dt.timezone.utc)
         end = min(dt.datetime(year + 1, 1, 1, tzinfo=dt.timezone.utc), now)
         got = query(start, end)
