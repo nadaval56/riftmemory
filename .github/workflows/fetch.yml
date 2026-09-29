@@ -56,5 +56,6 @@ jobs:
             echo "no changes"
           else
             git commit -m "fetch: ${{ steps.task.outputs.tasks }}"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
           fi

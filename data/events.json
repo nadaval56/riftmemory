@@ -29,12 +29,12 @@
     "magnitude": {
       "value": null,
       "range": [
-        7.8,
+        7.3,
         8.2
       ],
       "type": "estimated-historical",
       "basis": "historical-estimate",
-      "note": "לפי הערך על רעידת 750 לפנה\"ס: לפחות 7.8 וסביר שעד 8.2. בתבנית המידע שם כתוב 8.4-7.8 בסולם ריכטר, בסתירה לגוף הערך."
+      "note": "אין מדידה. זוהר, סלמון ורובין (2016, טבלה 3) מרכזים שלוש הערכות קודמות: 7.8 עד 8.2 (Austin, Franz ו-Frost 2000), 8.2 (בן-מנחם 1979) ו-7.3 (בן-מנחם 1991). הם עצמם אינם מחשבים ממוצע ואינם מסווגים את גודל הרעידה. אמברייזיס (2005) קבע שאי אפשר להעריך את תאריכה, מיקומה וגודלה."
     },
     "impact": {
       "deaths": null,
@@ -49,41 +49,73 @@
     },
     "sources": [
       {
-        "label": "ויקיפדיה: הרעש בימי עוזיהו",
-        "url": "https://he.wikipedia.org/wiki/הרעש_בימי_עוזיהו"
+        "label": "ספר עמוס א, א; ספר זכריה יד, ה; ספר דברי הימים ב כז, ג (TODO: לאמת נוסח)"
       },
       {
-        "label": "ויקיפדיה: רעידת האדמה בארץ ישראל בשנת 750 לפנה\"ס",
-        "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_בארץ_ישראל_בשנת_750_לפנה\"ס"
+        "label": "יוסף בן מתתיהו, קדמוניות היהודים ט, י, ד (TODO: לבדוק במקור ובתרגום)"
       },
       {
-        "label": "Steven A. Austin, Gordon W. Franz and Eric G. Frost, \"Amos's Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C.\", International Geology Review 42 (2000), pp. 657–671 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "Motti Zohar, Amos Salamon and Rehav Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://link.springer.com/article/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "Motti Zohar, Amos Salamon and Rehav Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), pp. 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
+      },
+      {
+        "label": "Amos Salamon, Thomas Rockwell, Steven N. Ward, Emanuela Guidoboni and Alberto Comastri, \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "N. N. Ambraseys, \"Historical earthquakes in Jerusalem: a methodological discussion\", Journal of Seismology 9 (2005), pp. 329–340 (TODO: לבדוק במקור)",
+        "url": "https://link.springer.com/article/10.1007/s10950-005-8183-8"
+      },
+      {
+        "label": "N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "Steven A. Austin, Gordon W. Franz and Eric G. Frost, \"Amos's Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C.\", International Geology Review 42 (2000), pp. 657–671 (TODO: לבדוק במקור)",
         "url": "https://www.tandfonline.com/doi/abs/10.1080/00206810009465104"
       },
       {
-        "label": "J. Uziel and O. Chalaf, \"Archaeological Evidence of an Earthquake in the Capital of...\", City of David Studies of Ancient Jerusalem 16 (2021), pp. 51–69 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "A. Ben-Menahem, \"Four thousand years of seismicity along the Dead Sea Rift\", Journal of Geophysical Research 96 (B12) (1991), pp. 20195–20216 (TODO: לבדוק במקור)",
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/91JB01936"
       },
       {
-        "label": "Johanna Regev et al., \"Radiocarbon chronology of Iron Age Jerusalem reveals calibration offset\" (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "J. Uziel and O. Chalaf, \"Archaeological Evidence of an Earthquake in the Capital of...\", City of David Studies of Ancient Jerusalem 16 (2021), pp. 51–69 (TODO: לבדוק במקור, כולל הכותרת המלאה)"
       },
       {
-        "label": "שחר שילה, רעידות אדמה קדומות בירושלים ובארץ ישראל (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "Johanna Regev et al., \"Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments\", PNAS 121 (19) (2024), e2321024121 (TODO: לבדוק במקור)",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2321024121"
+      },
+      {
+        "label": "שחר שילה, רעידות אדמה קדומות בירושלים ובארץ ישראל (TODO: לבדוק במקור)",
         "url": "https://ras-tourism.co.il/wp-content/uploads/2020/06/רעידות-אדמה-קדומות-בירושלים-ובארץ-ישראל-שחר-שילה.pdf"
       },
       {
-        "label": "A. Ben-Menahem, \"Four thousand years of seismicity along the Dead Sea Rift\", Journal of Geophysical Research 96 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "Jefferson B. Williams, \"Amos Quake(s)\", deadseaquake.info (TODO: לבדוק במקור)",
+        "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/AmosQuakes.html"
       },
       {
-        "label": "יוסף בן מתתיהו, קדמוניות היהודים ט, י, ד (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "לקריאה נוספת: ויקיפדיה העברית, הרעש בימי עוזיהו",
+        "url": "https://he.wikipedia.org/wiki/הרעש_בימי_עוזיהו"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה העברית, רעידת האדמה בארץ ישראל בשנת 750 לפנה\"ס",
+        "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_בארץ_ישראל_בשנת_750_לפנה\"ס"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "מאוחד משני ערכים: 'הרעש בימי עוזיהו' (בקירוב 760 לפנה\"ס) ו'רעידת האדמה בארץ ישראל בשנת 750 לפנה\"ס', שקושר את הרעידה לעמוס. לאשר שמדובר באותו אירוע.",
-      "הערך על 750 לפנה\"ס מציין מוקד בבקעת הלבנון. לכן segment נשאר null.",
-      "המפה בתבנית המידע של ערך 750 לפנה\"ס מועתקת מערך 1927 (אותן קואורדינטות בדיוק). לא להשתמש בה.",
-      "year_range בנוי משתי השנים שבשני הערכים (760 בקירוב ו-750), ולא ממקור שנותן טווח."
+      "מאוחד משני ערכים: 'הרעש בימי עוזיהו' (בקירוב 760 לפנה\"ס) ו'רעידת האדמה בארץ ישראל בשנת 750 לפנה\"ס', שקושר את הרעידה לעמוס. זוהר ואחרים (2016) מתייחסים לשניהם כאירוע אחד (c. 760–750 BCE), ולכן האיחוד נתמך במחקר. לאשר.",
+      "lat/lon ו-segment נשארו null. זוהר ואחרים (2016, נספח A, רשומה 1) משייכים את הרעידה לאזור C (ישראל ודרום לבנון), וזו אינה הגדרת מקטע. Austin ואחרים (2000) מציעים את בקעת הלבנון, ובן-מנחם את אזור חצור. אין הכרעה.",
+      "year_range (760–750) נתמך עכשיו במקור: זוהר ואחרים 2016 נותנים c. 760–750 BCE עם אי-ודאות של 10 שנים (נספח A, רשומה 1; טבלה 3).",
+      "עריכה לפי הקו החדש (ספטמבר 2026): כל הייחוסים לוויקיפדיה הוסרו מהטקסט הגלוי. הטענות מיוחסות עכשיו לחוקרים ולמקורות. נקראו ישירות: זוהר ואחרים 2016 (עמ׳ 975, 978, נספח A), זוהר ואחרים 2017 (עמ׳ 3–4), ונספח סלמון ואחרים 2007.",
+      "magnitude.range שונה מ-7.8–8.2 ל-7.3–8.2, כדי לכלול את כל ההערכות שזוהר ואחרים 2016 מרכזים בטבלה 3 (כולל 7.3 של בן-מנחם 1991). הוסר האזכור של \"7.8–8.4\" מתבנית המידע בוויקיפדיה, שאין לו מקור מחקרי.",
+      "places נשאר null: זוהר ואחרים 2017 מסמנים \"ירושלים (?), יהודה (?)\", כלומר אין מקום שהנזק בו מאומת.",
+      "הוסרו: (1) הפרשנות של \"דעת מקרא\" על מלך עמון, שאין לה בסיס היסטורי עצמאי; (2) התיארוכים של יהודה זיו (760) ועוזי פז (756), שהגיעו רק דרך חוברת של שחר שילה בלי הפניה למחקר עצמו; (3) הטענה, מתוצאות חיפוש, שאמברייזיס כתב שרעידה כזו \"הייתה מחריבה את ירושלים\". במקומה מובאות עמדותיו כפי שהן מתועדות אצל זוהר ואחרים ואצל סלמון ואחרים. להחליט אם להחזיר את זיו ופז אחרי בדיקה.",
+      "בן-מנחם (1991) מתארך, לפי נספח סלמון ואחרים 2007, ל-11 באוקטובר 759 לפנה\"ס בערב, בגודל ML 7.3. לא הוכנס ל-date, כי זה תאריך של חוקר אחד שבסיסו אינו ידוע. לבדוק במאמר."
     ]
   },
   {
@@ -105,7 +137,7 @@
     "location": {
       "lat": null,
       "lon": null,
-      "description": "אזור ים המלח",
+      "description": "יהודה (בגבולותיה של אז)",
       "segment": "dead-sea",
       "distant": false,
       "wikipedia_coords": null
@@ -114,15 +146,15 @@
       "value": null,
       "range": [
         6.0,
-        6.5
+        7.2
       ],
       "type": "estimated-historical",
       "basis": "historical-estimate",
-      "note": "הערך: היעדר ראיות ארכאולוגיות להרס מרמז על 6–6.5."
+      "note": "אין מדידה. זוהר, סלמון ורובין (2016, טבלה 3) מרכזים את ההערכות שפורסמו: 6 עד 6.5 (קרץ 2004), 6.7 (Migowski ואחרים 2004), 6.7 (בן-מנחם 1991), 7 (בן-מנחם 1979), 7 (Turcotte ו-Arieh 1988). הממוצע שלהם 6.7, בדרגה \"חזקה\". לפי הקטלוג של ויליאמס, Kagan ואחרים (2011) העריכו 7.2 (TODO: לבדוק במקור). הטווח כאן מכסה את כל ההערכות."
     },
     "impact": {
-      "deaths": 30000,
-      "deaths_note": "לפי יוסף בן מתתיהו, שכתב כ-100 שנה אחרי האירוע. אמינות ההיקף מוטלת בספק.",
+      "deaths": null,
+      "deaths_note": "יוסף בן מתתיהו מדווח על הרוגים רבים. זוהר ואחרים (2016) מביאים את המספר 30,000 ורואים בו הגזמה, בעקבות אמברייזיס (2009), ברושי (1982) ומזר (1982). לפי קרץ (2004), ב\"קדמוניות היהודים\" המספר הוא כ-10,000 וב\"מלחמות היהודים\" כ-30,000 (TODO: לבדוק במקור).",
       "injured": null,
       "places": null
     },
@@ -133,33 +165,71 @@
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת האדמה ביהודה (31 לפנה\"ס)",
-        "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(31_לפנה\"ס)"
+        "label": "יוסף בן מתתיהו, מלחמות היהודים א, 369–379; קדמוניות היהודים טו, 121–124 (TODO: לבדוק במקור ובתרגום)"
       },
       {
-        "label": "יוסף בן מתתיהו, מלחמות היהודים א, 370–371; קדמוניות היהודים 15, 121–122 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "Motti Zohar, Amos Salamon and Rehav Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://link.springer.com/article/10.1007/s10950-016-9575-7"
       },
       {
-        "label": "Iaakov Karcz, \"Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land\" (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://www.researchgate.net/publication/50301796_Implications_of_some_early_Jewish_sources_for_estimates_of_earthquake_hazardin_the_Holy_Land"
+        "label": "Motti Zohar, Amos Salamon and Rehav Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), pp. 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
       },
       {
-        "label": "Iaakov Karcz and Uri Kafri, \"Evaluation of supposed archaeoseismic damage in Israel\", Journal of Archaeological Science 5 (1978), p. 237 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "Amos Salamon et al., \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "Iaakov Karcz, \"Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land\", Annals of Geophysics 47 (2–3) (2004), pp. 759–792 (TODO: לבדוק במקור את הפרטים)",
+        "url": "https://doi.org/10.4401/ag-3334"
+      },
+      {
+        "label": "Iaakov Karcz and Uri Kafri, \"Evaluation of supposed archaeoseismic damage in Israel\", Journal of Archaeological Science 5 (1978), pp. 237–253 (TODO: לבדוק במקור)",
         "url": "https://www.academia.edu/18966370/Evaluation_of_supposed_archaeoseismic_damage_in_Israel"
       },
       {
-        "label": "\"Josephus Quake\", deadseaquake.info (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco and J. F. W. Negendank, \"High-resolution geological record of historic earthquakes in the Dead Sea basin\", Journal of Geophysical Research 106 (B2) (2001), pp. 2221–2234 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1029/2000JB900313"
+      },
+      {
+        "label": "N. Wechsler et al., \"A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.\", Bulletin of the Seismological Society of America 104 (3) (2014) (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1785/0120130304"
+      },
+      {
+        "label": "E. Kagan, M. Stein, A. Agnon and F. Neumann, \"Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea\", Journal of Geophysical Research 116 (2011), B04311 (TODO: לבדוק במקור)",
+        "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JB007452"
+      },
+      {
+        "label": "Jefferson B. Williams, Markus J. Schwab and Achim Brauer, \"An early first-century earthquake in the Dead Sea\", International Geology Review 54 (10) (2012), pp. 1219–1228 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1080/00206814.2011.639996"
+      },
+      {
+        "label": "Jefferson B. Williams, \"31 BCE Josephus Quake\", deadseaquake.info (TODO: לבדוק במקור)",
         "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/JosephusQuake.html"
       },
       {
-        "label": "אברהם נגב, אדוני המדבר: תולדות הנבטים וממלכתם, פרויקט בן-יהודה (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "אברהם נגב, אדוני המדבר: תולדות הנבטים וממלכתם, פרויקט בן-יהודה (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה העברית, רעידת האדמה ביהודה (31 לפנה\"ס)",
+        "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(31_לפנה\"ס)"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 31 BC Judea earthquake",
+        "url": "https://en.wikipedia.org/wiki/31_BC_Judea_earthquake"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "נזק בקומראן, במצדה וביריחו מוצג בערך כדעה של חלק מהחוקרים, ולכן לא נכנס ל-places.",
-      "הערך: אין תמימות דעים לגבי המוקד. segment=dead-sea לפי 'באזור ים המלח' בפתיח ולפי נספח א במדריך. לאשר."
+      "נזק בקומראן, במצדה, ביריחו ובירושלים מוצג כהצעה של חלק מהחוקרים, ולא נכנס ל-places.",
+      "segment=dead-sea: לאשר. זוהר ואחרים (2016, נספח A, רשומה 2) מציינים ש\"יהודה\" של אז השתרעה עד סוריה והחורן, ושהמלחמה עם הנבטים מרמזת שאזור המוקד היה אולי צפונית ליהודה של היום. הם משייכים את הרעידה לאזור C (המרכזי). Ken-Tor ואחרים (2001) מדווחים על קרע אפשרי על העתק יריחו, שמתאים יותר לבקעת הירדן. להכריע, או להעביר ל-null.",
+      "location.description שונה מ\"אזור ים המלח\" ל\"יהודה (בגבולותיה של אז)\", כי זה מה שהמקור הקדום אומר (זוהר ואחרים 2016, עמ׳ 974: חוץ מהמונח הכללי \"יהודה\" אין דיווח נזק מאומת). \"אזור ים המלח\" הגיע מהפתיח בוויקיפדיה העברית בלי מקור.",
+      "עריכה לפי הקו החדש (ספטמבר 2026): כל הייחוסים לוויקיפדיה הוסרו מהטקסט הגלוי. נקראו ישירות: זוהר ואחרים 2016 (עמ׳ 974, טבלה 3 בעמ׳ 978, נספח A רשומה 2), זוהר ואחרים 2017 (טבלה 1 ואיור 3), ונספח סלמון ואחרים 2007 (שם מאומצת הערכת קרץ: רעידה מתונה, 6–6.5).",
+      "נפתר TODO: ההפניה של הערך העברי ל-Karcz ו-Kafri 1978 אינה שגויה. לפי זוהר ואחרים 2016 (נספח A), קרץ וכפרי הם שהטילו ספק בפירוש הנזק בקומראן כנזק סייסמי. ההפניה הועברה לפסקה על קומראן.",
+      "עמדות חדשות שנוספו מתוך זוהר ואחרים 2016: אמברייזיס (2009) דוחה את הנזק לירושלים (Amiran ואחרים 1994) ולגליל (Sieberg 1932), ומטיל ספק בעדות ליד דיר חג׳לה (Reches ו-Hoexter 1981); Wechsler ואחרים (2014) מצאו אירוע בין 392 לפנה\"ס ל-91 לספירה, שיכול להתאים לרעידה הזו או לרעידה אחרת.",
+      "עונה: זוהר ואחרים 2016 כותבים \"תחילת האביב\". הטענה שב\"קדמוניות\" מדובר בסתיו מגיעה מהקטלוג של ויליאמס בלבד (TODO). לפי סלמון ואחרים 2007, בן-מנחם (1991) ו-Amiran ואחרים (1994) נתנו 2 בספטמבר 31. month נשאר null.",
+      "magnitude.range נשאר 6.0–7.2. הערך 7.2 (Kagan ואחרים 2011) עדיין נשען על מקור משני."
     ]
   },
   {
@@ -172,7 +242,7 @@
     "date": {
       "year": 130,
       "year_range": [
-        128,
+        127,
         131
       ],
       "month": null,
@@ -202,8 +272,7 @@
       "injured": null,
       "places": [
         "אמאוס",
-        "קיסריה",
-        "לוד"
+        "קיסריה"
       ]
     },
     "evidence": {
@@ -213,30 +282,66 @@
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת האדמה ביהודה (130)",
-        "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(130)"
-      },
-      {
-        "label": "הירונימוס, כרוניקון, האולימפיאדה ה-226, שנה 12 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "אוסביוס, כרוניקון, בתרגומו הלטיני של הירונימוס (TODO: לבדוק במקור את האולימפיאדה ואת שנת אדריאנוס)",
         "url": "http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm"
       },
       {
-        "label": "Caesarea Maritima: A Retrospective after Two Millennia, p. 23 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "Motti Zohar, Amos Salamon and Rehav Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://link.springer.com/article/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "Amos Salamon et al., \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "Emanuela Guidoboni, Alberto Comastri and Giusto Traina, Catalogue of Ancient Earthquakes in the Mediterranean Area up to the 10th Century, ING-SGA, Bologna, 1994 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "Kenneth W. Russell, \"The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D.\", BASOR 260 (1985), pp. 37–59 (TODO: לבדוק במקור)",
+        "url": "https://www.journals.uchicago.edu/doi/10.2307/1356863"
+      },
+      {
+        "label": "N. Wechsler et al., \"A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.\", Bulletin of the Seismological Society of America 104 (3) (2014) (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1785/0120130304"
+      },
+      {
+        "label": "Caesarea Maritima: A Retrospective after Two Millennia, p. 23 (TODO: לבדוק במקור)",
         "url": "https://books.google.co.il/books?id=pckUkJIHjiQC&pg=PA23"
       },
       {
-        "label": "Moshe Sharon, Corpus Inscriptionum Arabicarum Palaestinae, vol. 1, p. 79 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "Moshe Sharon, Corpus Inscriptionum Arabicarum Palaestinae, vol. 1, p. 79 (TODO: לבדוק במקור)",
         "url": "https://books.google.co.il/books?id=j1rSzWgHMjoC&pg=PA79"
       },
       {
-        "label": "\"אדריינוס\", אנציקלופדיה יהודית, אתר דעת (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "Jerome, Chronicle, באוסף Caesarea Maritima Testimonia, מס׳ 277 (TODO: לבדוק במקור)",
+        "url": "https://caesarea-maritima.org/testimonia/277"
+      },
+      {
+        "label": "Jefferson B. Williams, \"Eusebius Mystery Quake\", deadseaquake.info (TODO: לבדוק במקור)",
+        "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html"
+      },
+      {
+        "label": "\"אדריינוס\", אנציקלופדיה יהודית, אתר דעת (TODO: לבדוק במקור)",
         "url": "http://www.daat.ac.il/encyclopedia/value.asp?id1=2055"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה העברית, רעידת האדמה ביהודה (130)",
+        "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(130)"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "התיארוך: 128 לפי הכרוניקון של הירונימוס, 130 לפי אחרים, 131 להרס אמאוס."
+      "הממצא המרכזי מהקריאה (ספטמבר 2026): זוהר, סלמון ורובין (2016) מסווגים את האירוע ברשימה של רעידות אמינות שיוחסו בטעות לארץ ישראל (נספח C, רשומה 7). לדבריהם, הרעידה כנראה אירעה באסיה הקטנה, והבלבול נוצר כשניאוקיסריה וניקופוליס שבאסיה הקטנה הוחלפו בפרשנות הדיווח של אוסביוס בקיסריה ובניקופוליס (אמאוס) שבארץ (לפי אמברייזיס 2009 וקרץ 1987). הם נותנים 127–130, באי-ודאות של 3 שנים. זה מאשר את ההצעה של אמברייזיס שהופיעה עד עכשיו רק דרך deadseaquake.info.",
+      "החלטה לנדב: לאור הסיווג של זוהר ואחרים, האם להשאיר את הדף כרעידה בארץ ישראל, לסמן distant=true, או לנסח את הדף כולו כ\"רעידה שיוחסה לארץ ישראל\". כרגע הדף מציג את המסורת ואת הערעור עליה, ו-distant נשאר false.",
+      "places: הוסרה לוד. היא הגיעה רק מהערך בוויקיפדיה (דרך Caesarea Maritima: A Retrospective, עמ׳ 23), ולא מהכרוניקון. אמאוס וקיסריה נשארו כי אלה הערים שהמסורת מזכירה, אבל זיהוין שנוי במחלוקת. לשקול להעביר ל-null.",
+      "year_range שונה מ-128–131 ל-127–131: הגבול התחתון לפי זוהר ואחרים 2016 (127–130), העליון לפי שרון (131, דרך ויקיפדיה, TODO).",
+      "עריכה לפי הקו החדש: כל הייחוסים לוויקיפדיה הוסרו מהטקסט הגלוי. הוסרה הפרשנות על המרד (אייזנשטיין, דרך ויקיפדיה) מגוף הדף והועברה להערה מוסתרת: זו פרשנות של אנציקלופדיה ישנה בלי מקור קדום, והיא מניחה שהרעידה פגעה בארץ, הנחה שהמחקר העדכני דוחה.",
+      "אי-התאמה בפרטי הכרוניקון (לא נפתרה): ויקיפדיה העברית כותבת אולימפיאדה 226, שנה 12 לאדריאנוס; Caesarea Maritima Testimonia (לפי תוצאת חיפוש) אולימפיאדה 227 ושנה 128 או 129; deadseaquake.info שנה 13–14 לאדריאנוס. לבדוק במהדורה של הכרוניקון.",
+      "Wechsler ואחרים (2014) מצאו, לפי זוהר ואחרים 2016, עדות לפעילות סייסמית בצפון הארץ בין 137 ל-206 לספירה, והציעו קשר לאירוע הזה. זוהר ואחרים סבורים שאלה כנראה שתי רעידות נפרדות."
     ]
   },
   {
@@ -268,62 +373,118 @@
     },
     "magnitude": {
       "value": null,
-      "range": null,
+      "range": [
+        6.4,
+        7.4
+      ],
       "type": "estimated-historical",
       "basis": "historical-estimate",
-      "note": "הערך: לכל הפחות 7 בסולם המומנט, לפי התפרושת המרחבית של ההרס."
+      "note": "אין מדידה. זוהר, סלמון ורובין (2016, טבלה 3) מרכזים: 6.7 (בן-מנחם 1991), 6.4 (בן-מנחם 1979), 7 (Turcotte ו-Arieh 1988), 6.7 (Migowski ואחרים 2004, בעקבות בן-מנחם). הממוצע שלהם 6.7, בדרגה \"חזקה\". לפי סלמון ואחרים (2007), אמברייזיס (2006) נתן Ms 7.4. זוהר ואחרים (2017) מעירים שאם פטרה נכללת באזור הנזק, הגודל צריך להיות גדול בהרבה. ההערכות מתייחסות לאירוע כולו, בלי להפריד בין שתי הרעידות."
     },
     "impact": {
       "deaths": null,
-      "deaths_note": null,
+      "deaths_note": "האיגרת המיוחסת לקירילוס מספרת על \"אבדן גדול של חיים\" בלי מספר. בצוער (ע׳ור א-צאפי) נמצאו מצבות של ארבעה אנשים שמתו ברעידה. בסוסיתא נמצאו שלדים של לפחות ארבעה בני אדם תחת גג שקרס.",
       "injured": null,
       "places": [
-        "בית שאן",
-        "סוסיתא",
-        "ציפורי",
-        "נבוריה",
-        "פטרה",
         "בית גוברין",
+        "בית שאן",
+        "סבסטיה",
+        "אמאוס (ניקופוליס)",
         "לוד",
+        "אשקלון",
+        "אנטיפטריס",
+        "קיסריה",
+        "שומרון",
+        "בניאס",
+        "אשדוד",
+        "גופנה",
+        "פטרה",
         "ירושלים",
-        "קיסריה"
+        "טבריה",
+        "ציפורי",
+        "יפו",
+        "צוער",
+        "סוסיתא"
       ]
     },
     "evidence": {
       "texts": true,
-      "archaeology": null,
+      "archaeology": true,
       "instrumental": false
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידות האדמה בגליל (363)",
-        "url": "https://he.wikipedia.org/wiki/רעידות_האדמה_בגליל_(363)"
+        "label": "איגרת בסורית המיוחסת לקירילוס מירושלים על בניין המקדש, במהדורת Sebastian P. Brock, \"A letter attributed to Cyril of Jerusalem on the rebuilding of the Temple\", Bulletin of the School of Oriental and African Studies 40 (1977), pp. 267–286 (התרגום נקרא כפי שמצוטט אצל Levenson 2013. TODO: לבדוק במהדורה)"
       },
       {
-        "label": "Kenneth W. Russell, \"The Earthquake of May 19, A.D. 363\", BASOR 238 (1980), pp. 47–64 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "David B. Levenson, \"The Palestinian Earthquake of May 363 in Philostorgius, the Syriac Chronicon miscellaneum, and the Letter Attributed to Cyril on the Rebuilding of the Jerusalem Temple\", Journal of Late Antiquity 6 (1) (2013), pp. 60–83",
+        "url": "https://doi.org/10.1353/jla.2013.0010"
+      },
+      {
+        "label": "Motti Zohar, Amos Salamon and Rehav Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://link.springer.com/article/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "Motti Zohar, Amos Salamon and Rehav Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), pp. 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
+      },
+      {
+        "label": "Kenneth W. Russell, \"The Earthquake of May 19, A.D. 363\", BASOR 238 (1980), pp. 47–64 (TODO: לבדוק במקור)",
         "url": "https://www.jstor.org/stable/1356515"
       },
       {
-        "label": "Mohamed Reda Sbeinati, Ryad Darawcheh and Mikhail Mouty, \"The historical earthquakes of Syria\", Annals of Geophysics 48 (2005) (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "http://www.earth-prints.org/bitstream/2122/908/1/01Sbeinati.pdf"
+        "label": "Amos Salamon et al., \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
       },
       {
-        "label": "Zeev Safrai, The Missing Century: Palestine in the Fifth Century, Peeters, 1998, pp. 86–87 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "E. Y. Meimaris and K. I. Kritikakou, Inscriptions from Palaestina Tertia, vol. Ia: The Greek Inscriptions from Ghor es-Safi (Byzantine Zoora), Athens, 2005 (TODO: לבדוק במקור)"
       },
       {
-        "label": "Eric M. Meyers, James F. Strange and Carol L. Meyers, \"Second Preliminary Report on the 1981 Excavations at en-Nabratein, Israel\", BASOR 246 (1982), pp. 35–54 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "Michael Eisenberg, דוח על הבזיליקה בסוסיתא (2021), עמ׳ 171–173, כפי שמובא אצל Williams, deadseaquake.info (TODO: לבדוק במקור ולהשלים פרטים ביבליוגרפיים)"
+      },
+      {
+        "label": "אוניברסיטת חיפה, \"Hippos-Sussita excavation: Silent evidence of the earthquake of 363 CE\", ScienceDaily, 23 באוקטובר 2014",
+        "url": "https://www.sciencedaily.com/releases/2014/10/141023100430.htm"
+      },
+      {
+        "label": "Eric M. Meyers, James F. Strange and Carol L. Meyers, \"Second Preliminary Report on the 1981 Excavations at en-Nabratein, Israel\", BASOR 246 (1982), pp. 35–54 (TODO: לבדוק במקור)",
         "url": "https://www.jstor.org/discover/10.2307/1356586"
       },
       {
-        "label": "\"Jewish History Sourcebook: Julian and the Jews 361-363 CE\", Fordham University (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://web.archive.org/web/20120509182929/http://www.fordham.edu/halsall/jewish/julian-jews.asp"
+        "label": "Mohamed Reda Sbeinati, Ryad Darawcheh and Mikhail Mouty, \"The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.\", Annals of Geophysics 48 (3) (2005), pp. 347–435 (TODO: לבדוק במקור)",
+        "url": "https://www.earth-prints.org/bitstream/2122/908/1/01Sbeinati.pdf"
+      },
+      {
+        "label": "Zeev Safrai, The Missing Century: Palestine in the Fifth Century: Growth and Decline, Peeters, 1998, pp. 86–87 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "Jefferson B. Williams, \"363 CE Cyril Quakes\", deadseaquake.info",
+        "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/CyrilQuakes.html"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה העברית, רעידות האדמה בגליל (363)",
+        "url": "https://he.wikipedia.org/wiki/רעידות_האדמה_בגליל_(363)"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 363 Galilee earthquake",
+        "url": "https://en.wikipedia.org/wiki/363_Galilee_earthquake"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "שתי רעידות: 18 ו-19 במאי 363.",
-      "הערך הכללי 'רעידת אדמה' מסייג שייתכן בלבול בין הרס סוסיתא ב-363 לבין 749."
+      "עריכה לפי הקו החדש (ספטמבר 2026): כל הייחוסים לוויקיפדיה הוסרו מהטקסט הגלוי. נקראו ישירות: Levenson 2013 (המאמר המלא, עמ׳ 60–79), זוהר ואחרים 2016 (טבלה 3, נספח A רשומה 4), זוהר ואחרים 2017 (עמ׳ 6–7), נספח סלמון ואחרים 2007, והדף של ויליאמס ב-deadseaquake.info (שמצטט דוחות חפירה).",
+      "תוקן: הטענה שהאיגרת מביאה \"מספרי מתים בכל עיר\" (מהערך העברי) שגויה. לפי התרגום של Brock כפי שמצוטט אצל Levenson (עמ׳ 66), האיגרת מציינת לכל עיר איזה חלק ממנה נהרס. נפתר ה-TODO.",
+      "תוקן: TODO על פטרה נפתר. האיגרת כותבת \"יותר ממחצית פטרה (RQM)\" (Levenson עמ׳ 66). זוהר ואחרים 2017 מעירים שהזיהוי של RQM עם פטרה הוא של Brock, ושאין מקור בן-זמנו נוסף לנזק בפטרה; מצבות צוער מחזקות את הטענה לנזק מדרום לים המלח.",
+      "תוקן: Wainwright (1986) אינו רואה באיגרת כולה איגרת אמיתית. לפי Levenson (עמ׳ 73, הערה 60) הוא מגן על אמינות גוף האיגרת, אבל מוציא ממנה דווקא את סעיפים 11–12, רשימת הערים והתאריך.",
+      "תוקן: הקביעה שנבוריה ובית הכנסת נחרבו ברעידה הוחלשה. לפי ויליאמס, Meyers ואחרים (1982) ייחסו את סוף השלב לשילוב של מרד גאלוס, קשיים כלכליים והרעידה, ו-Magness (2010) חולקת על כל הכרונולוגיה. נבוריה הוסרה מ-places.",
+      "places עודכן לפי רשימת האיגרת וטבלה 3 של זוהר ואחרים 2016 (רק ערים שזוהו בבטחה), ונוספו צוער (מצבות) וסוסיתא (חפירות). הושמטו מהרשימה: חדה, \"פלשתינה\", א-סלט, חיפה ואראופוליס, שזיהוין בטקסט משובש (Levenson עמ׳ 66, הערות 25–26; עמ׳ 72).",
+      "magnitude.range שונה מ-null ל-6.4–7.4, לפי ההערכות המרוכזות אצל זוהר ואחרים 2016 (טבלה 3) וסלמון ואחרים 2007 (אמברייזיס 2006). ההערכה \"לפחות 7 בסולם המומנט\" מהערך העברי הוסרה, כי אין לה מקור.",
+      "segment=galilee: להכריע. זוהר ואחרים 2016 משייכים את האירוע לאזור C (המרכזי) ומציינים שהרעידה השנייה, החלשה יותר, פגעה בעיקר בצפון. ויליאמס מדבר על \"רעידת קירילוס הצפונית\" ו\"הדרומית\". זוהר ואחרים 2017 כותבים שאי אפשר להכריע אם אלה שתי רעידות נפרדות או רעידה ראשית ורעידת משנה. ייתכן שנכון יותר segment=null, או שני מקטעים.",
+      "wikipedia_coords (32.999, 35.366) מסומנות בוויקיפדיה האנגלית \"citation needed\". אין קטלוג מדעי שנותן מוקד, ולכן lat/lon נשארו null.",
+      "time_local נשאר null. האיגרת: \"השעה השלישית, ובחלקו בשעה התשיעית של הלילה\" (Levenson עמ׳ 66). זוהר ואחרים 2016: השעה השלישית והתשיעית אחרי השקיעה, כלומר בסביבות 03:00 ביום שני, 19 במאי. ויליאמס נותן בשני מקומות בדף שלו שעות שונות (כ-21:30 או כ-22:30, וכ-03:30 או כ-04:30). לא להמיר לשעון בלי הכרעה.",
+      "date.day=18: לפי מצבות צוער (28 בארטמיסיוס, כלומר 18 במאי) והרעידה הראשונה בערב 18 במאי. האיגרת כותבת 19 באייר, כי בלוח הסלאוקי היום מתחיל בשקיעה.",
+      "נותרו לבדיקה: Safrai 1998 ו-Ferry et al. 2011, שהופיעו בגרסה הקודמת כמקור לשתי הרעידות. Ferry הוסר מהמקורות כי לא נבדק ואין בו צורך: שתי הרעידות מתועדות עכשיו ישירות מהאיגרת, דרך Levenson וזוהר ואחרים."
     ]
   },
   {
@@ -336,8 +497,8 @@
     "date": {
       "year": 749,
       "year_range": [
-        748,
-        749
+        746,
+        750
       ],
       "month": 1,
       "day": 18,
@@ -348,7 +509,7 @@
     "location": {
       "lat": null,
       "lon": null,
-      "description": "בקעת הירדן",
+      "description": "בקעת הירדן והגליל. ייתכן שהיו יותר מרעידה אחת, במוקדים שונים",
       "segment": "jordan-valley",
       "distant": false,
       "wikipedia_coords": [
@@ -364,20 +525,23 @@
       ],
       "type": "estimated-historical",
       "basis": "historical-estimate",
-      "note": "תבנית המידע: 7 עד 7.5 בסולם ריכטר, לפי כתבה בעיתון (הארץ, 2003)."
+      "note": "זהר, סלמון ורובין (2016) מרכזים: יותר מ-7 (מרקו ואחרים 2003), 7 עד 7.5 (מיגוסקי ואחרים 2004), 7.3 (בן-מנחם 1991, 1979; בן-מנחם ועבודי 1981), ופחות מ-7 (קרץ 2004; בגין 2005). הממוצע אצלם: 7.2. אמברייזיס (2006): Ms 7.0. אם היו כמה רעידות, ספק אם למספר אחד יש משמעות."
     },
     "impact": {
       "deaths": null,
-      "deaths_note": "לפי הערך: רבבות. תבנית המידע: לא ידוע.",
+      "deaths_note": "תיאופנס מספר על \"רבבות\" הרוגים. לאגפיוס ממנביג׳ מיוחס מספר של יותר מ-100,000 (לא אומת). זהר ועמיתיו מסווגים את מספר הנפגעים רק כ\"רבים\". אלה דיווחים, לא ספירה.",
       "injured": null,
       "places": [
-        "ירושלים",
-        "בית שאן",
         "טבריה",
+        "בית שאן",
+        "הר תבור",
+        "בית ירח (ח'רבת אל-כרכ)",
+        "ירושלים",
         "כפר נחום",
-        "ח'רבת אל-מפג'ר",
         "אום אל-קנאטר",
-        "סוסיתא"
+        "סוסיתא",
+        "פחל (פלה)",
+        "ג'רש"
       ]
     },
     "evidence": {
@@ -387,41 +551,108 @@
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעש שביעית",
-        "url": "https://he.wikipedia.org/wiki/רעש_שביעית"
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), עמ׳ 971–985, והנספח האלקטרוני",
+        "url": "https://link.springer.com/article/10.1007/s10950-016-9575-7"
       },
       {
-        "label": "ויקיפדיה: רעידת אדמה, הפרק \"רעידות אדמה בולטות בארץ ישראל\"",
-        "url": "https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל"
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), עמ׳ 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
       },
       {
-        "label": "מרדכי מרגליות, \"לקביעת זמנו של רעש שביעית\", ידיעות החברה העברית לחקירת ארץ ישראל ועתיקותיה ח (תש\"א) (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami Hazard Evaluation of the Eastern Mediterranean: Historical Analysis and Selected Modeling\", BSSA 97/3 (2007), עמ׳ 705–724, והנספח האלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "J. Antonopoulos, \"Data from investigation on seismic sea-waves events in the Eastern Mediterranean from 500 to 1000 A.D.\", Annali di Geofisica 33 (1980), עמ׳ 163–178",
+        "url": "https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/4702/4786"
+      },
+      {
+        "label": "I. Karcz, \"Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land\", Annals of Geophysics 47 (2004), עמ׳ 759–792 (נקרא התקציר בלבד. TODO: לבדוק במקור)",
+        "url": "https://www.annalsofgeophysics.eu/index.php/annals/article/view/3334"
+      },
+      {
+        "label": "N. N. Ambraseys, \"The seismic activity in Syria and Palestine during the middle of the 8th century; an amalgamation of historical earthquakes\", Journal of Seismology 9 (2005), עמ׳ 115–125 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "Y. Tsafrir, G. Foerster, \"The dating of the Earthquake of the Sabbatical Year of 749 C.E. in Palestine\", Bulletin of SOAS 55 (1992), עמ׳ 231–235 (TODO: לבדוק במקור)",
+        "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/dating-of-the-earthquake-of-the-sabbatical-year-of-749-ce-in-palestine1/820504A1FA350C916A6B253F21AFFD19"
+      },
+      {
+        "label": "S. Marco, M. Hartal, N. Hazan, L. Lev, M. Stein, \"Archaeology, history, and geology of the A.D. 749 earthquake, Dead Sea transform\", Geology 31 (2003), עמ׳ 665–668 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1130/G19516.1"
+      },
+      {
+        "label": "C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, \"Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments\", Earth and Planetary Science Letters 222 (2004), עמ׳ 301–314",
+        "url": "https://doi.org/10.1016/j.epsl.2004.02.015"
+      },
+      {
+        "label": "D. Whitcomb, \"Ayla at the Millennium: Archaeology and History\", Studies in the History and Archaeology of Jordan 10, עמ׳ 123–132"
+      },
+      {
+        "label": "G. Yagoda-Biran, Y. H. Hatzor, R. Amit, O. Katz, \"Paleo PGA estimates around the Sea of Galilee from back analysis of old landslides and structural failures in historic monuments\", בתוך: R. Amit, A. Agnon, A. Matmon (עורכים), The Dead Sea Rift as a natural laboratory for earthquake behavior, INQUA Dead Sea Workshop, 2009, עמ׳ 42"
+      },
+      {
+        "label": "מרדכי מרגליות, \"לקביעת זמנו של רעש שביעית\", ידיעות החברה העברית לחקירת ארץ ישראל ועתיקותיה ח (תש\"א) (TODO: לבדוק במקור)",
         "url": "http://www.dlir.org/archive/items/show/1792"
       },
       {
-        "label": "מרדכי מרגליות, \"תעודה חדשה על 'צום הרעש'\", תרביץ כט (תש\"ך), עמ׳ 339–344 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "מרדכי מרגליות, \"תעודה חדשה על 'צום הרעש'\", תרביץ כט (תש\"ך), עמ׳ 339–344",
         "url": "https://www.jstor.org/stable/23589518"
       },
       {
-        "label": "יורם צפריר וגדעון פרסטר, \"לשאלת התאריך של 'רעש שביעית'\", תרביץ נח (תשמ\"ט), עמ׳ 357–362, JSTOR 23598730 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "יורם צפריר וגדעון פרסטר, \"לשאלת התאריך של 'רעש שביעית'\", תרביץ נח (תשמ\"ט), עמ׳ 357–362 (TODO: לבדוק במקור)"
       },
       {
-        "label": "יעקב קרץ׳ ועמיקם אלעד, \"על תיארוך 'רעש השביעית' ומשמעותו\", תרביץ סא (תשנ\"ב), עמ׳ 67–82, JSTOR 23598921 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "יעקב קרץ׳ ועמיקם אלעד, \"על תיארוך 'רעש השביעית' ומשמעותו\", תרביץ סא (תשנ\"ב), עמ׳ 67–82 (TODO: לבדוק במקור)"
       },
       {
-        "label": "משה גיל, \"בענייני ארץ-ישראל בתקופה המוסלמית הראשונה\", קתדרה 70 (תשנ\"ד), עמ׳ 30–33 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "משה גיל, \"בענייני ארץ-ישראל בתקופה המוסלמית הראשונה\", קתדרה 70 (תשנ\"ד), עמ׳ 30–33 (TODO: לבדוק במקור)"
       },
       {
-        "label": "שולמית אליצור, פיוטי ר׳ פינחס הכהן, ירושלים תשס\"ד (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "שולמית אליצור, פיוטי ר׳ פינחס הכהן, ירושלים תשס\"ד (TODO: לבדוק במקור)"
       },
       {
-        "label": "עמירם ברקת, הארץ (אנגלית), 8 באוגוסט 2003 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "G. Avni, The Byzantine-Islamic Transition in Palestine: An Archaeological Approach, Oxford 2014 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "M. R. Sbeinati, R. Darawcheh, M. Mouty, \"The historical earthquakes of Syria\", Annals of Geophysics 48/3 (2005) (TODO: לבדוק במקור)",
+        "url": "https://www.earth-prints.org/bitstream/2122/908/1/01Sbeinati.pdf"
+      },
+      {
+        "label": "L. Alfonsi, F. R. Cinti, G. Ventura, \"The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace\", Seismological Research Letters 84/6 (2013), עמ׳ 997–1003 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1785/0220130060"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעש שביעית",
+        "url": "https://he.wikipedia.org/wiki/רעש_שביעית"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 749 Galilee earthquake",
+        "url": "https://en.wikipedia.org/wiki/749_Galilee_earthquake"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת אדמה, הפרק \"רעידות אדמה בולטות בארץ ישראל\"",
+        "url": "https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "התאריך 18 בינואר 749 מתבנית המידע. בגוף הערך: 748 או 749, והפיוטים מצביעים על 748."
+      "סבב מחקר (ספטמבר 2026): הדף נכתב מחדש על סמך קריאה ישירה של זהר, סלמון ורובין (2016, כולל הנספח; 2017), של הנספח האלקטרוני של סלמון ואחרים (2007), של אנטונופולוס (1980), של ויטקומב על איילה, של מדריך הסיור של INQUA (2009) ושל תקציר המאמר של קרץ (2004). כל הייחוסים לוויקיפדיה הוסרו מגוף הדף. מה שהגיע רק דרך ויקיפדיה סומן TODO, והמקור שלו רשום בהערה נסתרת.",
+      "year_range הורחב מ-746–749 ל-746–750. הסיבה: זהר ואחרים (2016, טבלה 3) מתארכים \"749 או תחילת 750\", ואמברייזיס (2005, לפי סלמון ואחרים 2007) כותב על רעידה שנייה \"ב-749 או בתחילת 750\".",
+      "תוקן: הקריאה בתיאופנס. בגרסה הקודמת (לפי סיכום משני של קרץ) נכתב שתיאופנס מונה שתי רעידות, והראשונה ב-747. זהר ואחרים (2016, נספח A, ערך 10) קוראים בתיאופנס שלוש: 745/6, 748/9 ו-755/6. אמברייזיס (2005), בן-מנחם (1991) ושלם (1956) מתארכים את הראשונה ל-18 בינואר 746, ואמברייזיס, מלוויל ואדמס (1994) ל-18 בינואר 747 (סלמון ואחרים 2007, נספח 1). הקריאה של קרץ נשארה בהערה נסתרת עם TODO.",
+      "חדש: אמברייזיס (2009) טוען שרעידה אחת לא יכולה להסביר נזק מקהיר ועד ניקאה וח׳בורה, ולכן היו כנראה שלוש. ובמאמר מ-2005 כתב שהרעידה השנייה פגעה רק במסופוטמיה ובצפון סוריה (זהר ואחרים 2016 נספח A; סלמון ואחרים 2007 נספח 1).",
+      "חדש: צונאמי. אנטונופולוס (1980, עמ׳ 169–170) לא הצליח להכריע אם זה היה גל רעידה או סערה. סלמון ואחרים (2007) מציינים שהמקורות לא אומרים איפה היה הגל, ושאמברייזיס מציע סערה בים המלח. הפסקה על \"גל דמוי צונאמי בים המלח\" נכתבה מחדש בהתאם.",
+      "מגניטודה: הטווח 7.0–7.5 נשאר, אבל עכשיו יש לו בסיס מחקרי: 7 עד 7.5 הוא ההערכה של מיגוסקי ואחרים (2004), לפי זהר ואחרים (2016, טבלה 3). הוסרו הכתבה בעיתון הארץ ומאגר NGDC כמקורות. note נכתב מחדש, כולל ההערכות \"פחות מ-7\" של קרץ ובגין. זהר ואחרים (2017, עמ׳ 6) מציעים שגודל הרעידות \"המרכזיות\" היה בערך כמו ב-1927 (6.2) או פחות, אבל מסייגים שב-749 הם אולי מעריכים בחסר. להכרעת נדב אם להרחיב את range כלפי מטה.",
+      "places: נוספו הר תבור ובית ירח (ח׳רבת אל-כרכ), מרשימת המקומות שנפגעו אצל זהר ואחרים (2016, טבלה 3). סדר הרשימה שונה כך שהמקומות מהרשימה המחקרית באים ראשונים. שאר המקומות מבוססים על ממצאים ארכיאולוגיים שלא נבדקו במקור.",
+      "deaths_note נכתב מחדש. הוסר המספר \"כ-20,000\", שבמקור המשני יוחס רק ל\"אחד המקורות\" בלי פירוט.",
+      "הוסר: הפרשנות ש\"רעש שביעית סיים את היצירה הארץ-ישראלית במדרש ובפיוט\". היא הופיעה בלי הפניה לשום חוקר.",
+      "הוסרו ממקורות frontmatter: מאגר NGDC, DEADSEAQUAKE.info והכתבה בהארץ (2003). הטענות שנשענו עליהם קיבלו מקור מחקרי או הוסרו.",
+      "אומת: מרקו ואחרים (2003) מתארים קרע פני שטח בטבריה (כך בטבלה 3 בנספח של סלמון ואחרים 2007). צפריר ופרסטר (1992) תיארכו לפי ממצא נומיסמטי מבית שאן (זהר ואחרים 2016, נספח A). מיגוסקי ואחרים (2004) מציעים שהרעידה נרשמה במשקעי ים המלח (שם).",
+      "חדש: איילה (ויטקומב, עמ׳ 123–125), שם הרעידה מתוארכת ל-748. וסוסיתא (יגודה-בירן ואחרים, INQUA 2009, עמ׳ 42).",
+      "נשאר TODO: הציטוטים העבריים (מרגליות, תיאופנס בתרגום, אל-מקדסי, אבן תע׳רי-ברדי), חישוב הגימטריה, המטבע מבית שאן לפרטיו, עמדות גיל ואליצור, אבני, אלפונסי, ומיכאל הסורי על שלושים בתי הכנסת בטבריה. כולם הגיעו דרך ויקיפדיה.",
+      "נשאר TODO: לבדוק אם \"Karcz 2004\" ו\"יעקב קרץ׳\" (תרביץ סא) הם אותו חוקר.",
+      "קואורדינטות: lat/lon נשארו null. אין בטקסטים שנקראו מוקד מנומק."
     ]
   },
   {
@@ -477,23 +708,45 @@
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת האדמה בעכו (881)",
+        "label": "J. Antonopoulos, \"Data from investigation on seismic sea-waves events in the Eastern Mediterranean from 500 to 1000 A.D.\", Annali di Geofisica 33 (1980), עמ׳ 163–178 (הדיון באירוע: סעיף 10, עמ׳ 172)",
+        "url": "https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/4702/4786"
+      },
+      {
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami Hazard Evaluation of the Eastern Mediterranean: Historical Analysis and Selected Modeling\", BSSA 97/3 (2007), עמ׳ 705–724, והנספח האלקטרוני (טבלה 2 ונספח 2)",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), עמ׳ 971–985, והנספח האלקטרוני",
+        "url": "https://link.springer.com/article/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "A. Salamon, T. Rockwell, E. Guidoboni, A. Comastri, \"A critical evaluation of tsunami records reported for the Levant coast from the second millennium BCE to the present\", Israel Journal of Earth Sciences 58 (2011), עמ׳ 327–354 (TODO: לבדוק במקור)",
+        "url": "https://www.researchgate.net/publication/266912113_A_critical_evaluation_of_tsunami_records_reported_for_the_Levant_Coast_from_the_second_millennium_BCE_to_the_present"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת האדמה בעכו (881)",
         "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_בעכו_(881)"
       },
       {
-        "label": "ויקיפדיה: רעידות אדמה באזור הלבנט",
-        "url": "https://he.wikipedia.org/wiki/רעידות_אדמה_באזור_הלבנט"
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 881 Acre earthquake",
+        "url": "https://en.wikipedia.org/wiki/881_Acre_earthquake"
       },
       {
-        "label": "J. Antonopoulos, \"Data from investigation of seismic sea waves events in the Eastern Mediterranean from 500 to 1000 A.D.\", Annals of Geophysics (1980) (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/4702/4786"
+        "label": "לקריאה נוספת: ויקיפדיה, רעידות אדמה באזור הלבנט",
+        "url": "https://he.wikipedia.org/wiki/רעידות_אדמה_באזור_הלבנט"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "הערך מביא ספק באותנטיות של האירוע (Annals of Geophysics): ייתכן שזה תיאור שגוי של רעידת כרתים ב-1303.",
-      "צונאמי לפי זיברג, דרך ויליס ותולוזן. שרשרת מקורות משנית."
+      "סבב מחקר (ספטמבר 2026): הדף נכתב מחדש על סמך קריאה ישירה של אנטונופולוס (1980), עמ׳ 172, ושל הנספח האלקטרוני של סלמון ואחרים (2007). כל ההפניות לוויקיפדיה הוסרו מגוף הדף, וערכי ויקיפדיה הועברו לסוף רשימת המקורות כקריאה נוספת.",
+      "אומת במקור: שרשרת ההעברה (זיברג 1932 עמ׳ 193, על סמך ויליס 1928, על סמך תולוזן 1879 עמ׳ 1063); הזהות בין תיאור תולוזן לבין תיאור רעידת 702 להג׳רה (1303) במצרים; מסקנת אנטונופולוס שמדובר ב\"אירוע שלא התקיים\". כל אלה כתובים אצל אנטונופולוס, עמ׳ 172. ה-TODO על המקור הקדום נפתר: אנטונופולוס מציין שהכרוניקן היחיד שמזכיר רעידה בשנת 268 להג׳רה הוא א-סיוטי, ואצלו מדובר ברעידה בבגדאד.",
+      "אומת במקור: \"811\" אצל אמברייזיס (1962b, עמ׳ 900, מס׳ 38) הוא שגיאת דפוס של 881, ו-881/2 הוא כפילות של צונאמי 1303. כך בנספח 2 של סלמון ואחרים (2007). בטבלה 2 שם גם אמברייזיס, מלוויל ואדמס (1994): \"שגוי. אין צונאמי\".",
+      "חדש: רעידה נפרדת ב-16 במאי 881, שסלמון ואחרים (2007, נספח 2) לא שייכו לשבר ים המלח, ואמברייזיס, מלוויל ואדמס (1994) מייחסים לקשת ההלנית. וגם: ברשימות של זהר, סלמון ורובין (2016) אין אירוע בשנת 881 כלל.",
+      "תוקן: בגרסה הקודמת נכתב ש\"הרעידה בכרתים ב-1303\". אנטונופולוס כותב \"רעידת 702 להג׳רה במצרים\" וסלמון ואחרים \"צונאמי 1303\". הניסוח הותאם.",
+      "הוסר: המשפט על ערך ויקיפדיה שמונה את 881 בין שנות הצונאמי. זו לא טענה מחקרית.",
+      "נשאר TODO: המאמר של סלמון ואחרים (2011) לא נקרא. העובדות בדף לא נשענות עליו.",
+      "להכרעת נדב: האם להציג את הדף כ\"אירוע שככל הנראה לא התרחש\" בסכמה (למשל certainty מיוחד), במקום disputed. שדות frontmatter לא שונו."
     ]
   },
   {
@@ -515,7 +768,7 @@
     "location": {
       "lat": null,
       "lon": null,
-      "description": "קטע שבר בקעת הירדן, מים המלח עד הכנרת",
+      "description": "מרכז ארץ ישראל ובקעת הירדן. גווידובוני וקומסטרי ממקמים את המוקד בארץ ישראל, ואמברייזיס (2009) בסוריה",
       "segment": "jordan-valley",
       "distant": false,
       "wikipedia_coords": [
@@ -524,18 +777,18 @@
       ]
     },
     "magnitude": {
-      "value": 7.3,
+      "value": null,
       "range": [
-        6.7,
+        6.0,
         7.3
       ],
-      "type": "Mw",
+      "type": "estimated-historical",
       "basis": "historical-estimate",
-      "note": "רוב החוקרים 6.7–7.1 (לפי הערך). קטלוג 2020 ו-INGV: 7.3."
+      "note": "זהר, סלמון ורובין (2016) מרכזים: 7.1 (מיגוסקי ואחרים 2004), 6.7 (בן-מנחם 1991), 6.7 (בן-מנחם 1979); ממוצע 6.8. ב-2017 הם מוסיפים Me 6 (גווידובוני וקומסטרי 2005); ממוצע 6.6. הערכות של 7.3 (CFTI5Med; גריגורטוס ואחרים 2020) לא נבדקו במקור."
     },
     "impact": {
       "deaths": 70000,
-      "deaths_note": "לפי דיווחים. הערך מסומן בוויקיפדיה כמי שייתכן שאינו מדויק.",
+      "deaths_note": "מספר שמופיע במאגרי מידע, בלי מקור קדום ידוע. לא אומת במקורות המחקריים שנקראו: זהר, סלמון ורובין מסווגים את מספר הנפגעים רק כ\"רבים\".",
       "injured": null,
       "places": [
         "רמלה",
@@ -544,40 +797,94 @@
         "חברון",
         "יריחו",
         "עזה",
+        "אשקלון",
         "עכו",
-        "בניאס"
+        "בניאס",
+        "אל-באד'אן"
       ]
     },
     "evidence": {
       "texts": true,
-      "archaeology": null,
+      "archaeology": true,
       "instrumental": false
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת האדמה בבקעת הירדן (1033)",
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), עמ׳ 971–985, והנספח האלקטרוני",
+        "url": "https://link.springer.com/article/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), עמ׳ 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
+      },
+      {
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami Hazard Evaluation of the Eastern Mediterranean: Historical Analysis and Selected Modeling\", BSSA 97/3 (2007), עמ׳ 705–724, והנספח האלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "אברהם יערי, אגרות ארץ ישראל, תל אביב 1943, עמ׳ 70–73 (מכתבו של שלמה בן צמח. TODO: לבדוק במקור)"
+      },
+      {
+        "label": "C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, \"Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments\", Earth and Planetary Science Letters 222 (2004), עמ׳ 301–314",
+        "url": "https://doi.org/10.1016/j.epsl.2004.02.015"
+      },
+      {
+        "label": "L. Alfonsi, F. R. Cinti, G. Ventura, \"The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace (Jordan Valley, Dead Sea Transform Zone)\", Seismological Research Letters 84/6 (2013), עמ׳ 997–1003 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1785/0220130060"
+      },
+      {
+        "label": "D. H. Kallner-Amiran, \"A Revised Earthquake-Catalogue of Palestine\", Israel Exploration Journal 1/4 (1950), עמ׳ 223–246 (TODO: לבדוק במקור)",
+        "url": "https://www.jstor.org/stable/27924451"
+      },
+      {
+        "label": "E. Guidoboni ואחרים, \"CFTI5Med, the new release of the catalogue of strong earthquakes in Italy and in the Mediterranean area\", Scientific Data 6 (2019), 80 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1038/s41597-019-0091-9"
+      },
+      {
+        "label": "I. Grigoratos, V. Poggi, L. Danciu, G. Rojo, \"An updated parametric catalog of historical earthquakes around the Dead Sea Transform Fault Zone\", Journal of Seismology 24 (2020), עמ׳ 803–832 (TODO: לבדוק במקור)",
+        "url": "https://link.springer.com/article/10.1007/s10950-020-09904-9"
+      },
+      {
+        "label": "M. Ferry ואחרים, \"A 48-kyr-long slip rate history for the Jordan Valley segment of the Dead Sea Fault\", Earth and Planetary Science Letters 260 (2007), עמ׳ 394–406 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1016/j.epsl.2007.05.049"
+      },
+      {
+        "label": "M. Ma׳oz, S. Nusseibeh (עורכים), Jerusalem: Points of Friction and Beyond, Kluwer 2000, עמ׳ 136–138 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "NGDC/WDS, Global Significant Earthquake Database, NOAA, רשומת 1033 (TODO: לבדוק במקור)",
+        "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/8156"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת האדמה בבקעת הירדן (1033)",
         "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_בבקעת_הירדן_(1033)"
       },
       {
-        "label": "ויקיפדיה: רעידת אדמה, הפרק \"רעידות אדמה בולטות בארץ ישראל\"",
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 1033 Jordan Valley earthquake",
+        "url": "https://en.wikipedia.org/wiki/1033_Jordan_Valley_earthquake"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת אדמה, הפרק \"רעידות אדמה בולטות בארץ ישראל\"",
         "url": "https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל"
-      },
-      {
-        "label": "אבי בליזובסקי, \"ההסטוריה של רעידות האדמה בארץ ישראל\", הידען, 12 בפברואר 2004 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "אבי שפירא, \"סיכוני רעידת אדמה במדינת ישראל\", אתר ועדת ההיגוי הבין-משרדית להיערכות לרעידות אדמה (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://www.mapi.gov.il/Earthquake/Pages/riskAvi.aspx"
-      },
-      {
-        "label": "מיגוסקי ואחרים, 2004 (נזכר בוויקיפדיה בלי הפניה מלאה. TODO: לבדוק במקור)"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "הערך בוויקיפדיה מסומן בתבנית 'ייתכן שהמידע בערך אינו מדויק'. לבדוק כל פרט מול מקור נוסף.",
-      "צונאמי לאורך החוף, לפי הערך."
+      "סבב מחקר (ספטמבר 2026): הדף נכתב מחדש על סמך קריאה ישירה של זהר, סלמון ורובין (2016, כולל הנספח; 2017) ושל הנספח האלקטרוני של סלמון ואחרים (2007). הוסרה ההערה בראש הדף על התבנית בוויקיפדיה, והוסרו כל הייחוסים לוויקיפדיה מגוף הדף. מה שהגיע רק דרך ויקיפדיה סומן TODO, והמקור שלו רשום בהערה נסתרת.",
+      "חדש: המקור הראשוני. לפי זהר ואחרים (2016, נספח A, ערך 12, עמ׳ 7) המקור העיקרי הוא מכתבו של שלמה בן צמח (יערי 1943, עמ׳ 70–73). זהר ואחרים מדרגים את הרעידה כאמינה מאוד (VR).",
+      "חדש: מחלוקת על המוקד. גווידובוני וקומסטרי (2005) בארץ ישראל, אמברייזיס (2009) בסוריה (זהר ואחרים 2016, נספח A). location.description עודכן.",
+      "מגניטודה: הטווח 6.0–7.3 נשאר. note נכתב מחדש: בגרסה הקודמת נכתב \"זהר ואחרים: 6.0 עד 7.1\". בפועל זהר ואחרים לא מציעים טווח משלהם. הם מרכזים הערכות קודמות (7.1, 6.7, 6.7, ובמאמר של 2017 גם Me 6 של גווידובוני וקומסטרי), וממוצע 6.8 (2016) או 6.6 (2017). ה-6.0 הוא של גווידובוני וקומסטרי. ה-7.3 לא אומת.",
+      "חדש: זהר ואחרים (2017, עמ׳ 6) מציעים בזהירות שגודל הרעידות \"המרכזיות\", ובהן 1033, היה דומה לזה של רעידת 1927 (M 6.2) או קטן ממנו, לפי היקף הנזק. באותו עמוד הם גם מציינים שייתכן שהגדלים ההיסטוריים מוערכים בחסר. שתי הטענות הוצגו.",
+      "תוקן: \"נזק לאורך כ-190 ק\"מ, מים המלח ועד הכנרת\". 190 ק\"מ אצל זהר ואחרים (2017, טבלה 1, עמ׳ 4) הוא המרחק בין המקום הצפוני ביותר לדרומי ביותר שנפגעו, לא אורך הבקעה. הניסוח תוקן.",
+      "חברון: TODO נפתר. חברון מופיעה ברשימת המקומות שנפגעו אצל זהר ואחרים (2016, טבלה 3; 2017, טבלה 1). נוסף גם אל-באד׳אן לרשימת places, מאותו מקור.",
+      "צונאמי: נכתב מחדש לפי סלמון ואחרים (2007, טבלה 1 ונספח 1), שמגבילים את הצונאמי לחופים הצפוניים והמרכזיים של ארץ ישראל. תוקן: הטענה שאמברייזיס כתב שלא היה נזק, ושזה \"בלבול עם 1068\", לא נמצאה בנספח. שם ההצעה על כפילות עם 1068 מיוחסת לשלם (1956). הטענה על אמברייזיס הוסרה.",
+      "חדש: נחיל רעידות בחורף 1033/4 (עמירן, אריה וטורקוטה 1994), מול עמדת גווידובוני וקומסטרי שהתאריך 4 בינואר 1034 הוא אותה רעידה בתאריך אחר. וגם: 17 בפברואר 1034 כנראה רעידת משנה מאוחרת (זהר ואחרים 2016). הוסרו \"ארבע רעידות ב-1033–1035\" (מאמר עיתונאי) ו\"רעידות באפריל-מאי 1035 הקשורות לצונאמי\" (לא נמצא להן בסיס בספרות שנקראה).",
+      "תוקן: השעה. זהר ואחרים (2016) כותבים \"בלילה\", והטבלה של סלמון ואחרים (2007) \"לפני השקיעה\". שתי הגרסאות מוצגות. time_local נשאר null.",
+      "הוסרו ממקורות frontmatter: פיקוד העורף, הידען ואבי שפירא (אתר ממשלתי). הם שימשו רק לפרטים שנמצאו עכשיו במקורות מחקריים (חברון) או שהוסרו. המאגר של NGDC לצונאמי הוסר; המאגר לרעידות נשאר רק בשביל מספר ההרוגים.",
+      "deaths 70,000 נשאר, אבל deaths_note עודכן. להכרעת נדב אם להשאיר מספר בכרטיס, כשהמקור היחיד הוא מאגר מידע ולא מקור היסטורי.",
+      "נשאר TODO: ארמון הישאם (אלפונסי ואחרים 2013), פרי ואחרים (2007), קטלוג CFTI5Med, גריגורטוס ואחרים (2020), אמירן (1950), הפרטים על ירושלים (מעוז ונוסייבה 2000). כולם הגיעו דרך ויקיפדיה האנגלית או תוצאות חיפוש.",
+      "קואורדינטות: lat/lon נשארו null. אין בטקסטים שנקראו מוקד מנומק."
     ]
   },
   {
@@ -599,7 +906,7 @@
     "location": {
       "lat": null,
       "lon": null,
-      "description": null,
+      "description": "שתי רעידות. הראשונה (18 במרץ) בדרום: ראש מפרץ אילת ועקבה והערבה, או לפי אמברייזיס, מלוויל ואדמס צפון חג׳אז ליד תבוכ. השנייה (29 במאי) פגעה ברמלה",
       "segment": null,
       "distant": false,
       "wikipedia_coords": [
@@ -608,50 +915,98 @@
       ]
     },
     "magnitude": {
-      "value": 7.0,
-      "range": null,
-      "type": "Mw",
+      "value": null,
+      "range": [
+        6.6,
+        7.8
+      ],
+      "type": "estimated-historical",
       "basis": "historical-estimate",
-      "note": null
+      "note": "לרעידת מרץ. זהר, סלמון ורובין (2016) מרכזים: 6.9 (מיגוסקי ואחרים 2004), 6.6 עד 7 (זילברמן ואחרים 2005), Ms בין 7.0 ל-7.8 (אמברייזיס וג׳קסון 1998), 7 (בן-מנחם 1991), Me 8.1 (גווידובוני וקומסטרי 2005). הממוצע אצלם: 7.3. לרעידת מאי: Me 6 בלבד (גווידובוני וקומסטרי)."
     },
     "impact": {
       "deaths": 20000,
-      "deaths_note": "בערך 20,000, לפי הערך.",
+      "deaths_note": "מספר מדווח לשתי הרעידות יחד, מתוכם כ-15,000 ברמלה. לא אומת במקורות המחקריים שנקראו: זהר, סלמון ורובין מסווגים את מספר הנפגעים בשתי הרעידות רק כ\"רבים\".",
       "injured": null,
       "places": [
         "איילה (עקבה)",
+        "רמלה",
+        "בניאס",
+        "ירושלים",
         "תיניס",
         "קהיר"
       ]
     },
     "evidence": {
       "texts": true,
-      "archaeology": null,
+      "archaeology": true,
       "instrumental": false
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת האדמה במזרח הקרוב (1068)",
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), עמ׳ 971–985, והנספח האלקטרוני",
+        "url": "https://link.springer.com/article/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), עמ׳ 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
+      },
+      {
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami Hazard Evaluation of the Eastern Mediterranean: Historical Analysis and Selected Modeling\", BSSA 97/3 (2007), עמ׳ 705–724, והנספח האלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "D. Whitcomb, \"Ayla at the Millennium: Archaeology and History\", Studies in the History and Archaeology of Jordan 10, עמ׳ 123–132"
+      },
+      {
+        "label": "N. N. Ambraseys, C. P. Melville, R. D. Adams, The Seismicity of Egypt, Arabia and the Red Sea: A Historical Review, Cambridge University Press 1994 (TODO: לבדוק במקור)",
+        "url": "https://books.google.com/books?id=fxnnk2inWT0C&pg=PA31"
+      },
+      {
+        "label": "E. Zilberman, R. Amit, N. Porat, Y. Enzel, U. Avner, \"Surface ruptures induced by the devastating 1068 AD earthquake in the southern Arava valley, Dead Sea Rift, Israel\", Tectonophysics 408 (2005), עמ׳ 79–99 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1016/j.tecto.2005.05.030"
+      },
+      {
+        "label": "Y. Klinger ואחרים, \"Seismic behaviour of the Dead Sea fault along the Araba valley, Jordan\", Geophysical Journal International 142 (2000), עמ׳ 769–782 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1046/j.1365-246x.2000.00166.x"
+      },
+      {
+        "label": "A. K. Abdel Fattah ואחרים, \"Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications\", Annali di Geofisica 40 (1997) (TODO: לבדוק במקור)",
+        "url": "http://www.annalsofgeophysics.eu/index.php/annals/article/view/3831"
+      },
+      {
+        "label": "DEADSEAQUAKE.info, 1068 CE Quake(s) (TODO: לבדוק במקור)",
+        "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1068CEQuakes.html"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת האדמה במזרח הקרוב (1068)",
         "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_במזרח_הקרוב_(1068)"
       },
       {
-        "label": "ויקיפדיה: רעידת אדמה, הפרק \"רעידות אדמה בולטות בארץ ישראל\"",
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 1068 Near East earthquakes",
+        "url": "https://en.wikipedia.org/wiki/1068_Near_East_earthquakes"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת אדמה, הפרק \"רעידות אדמה בולטות בארץ ישראל\"",
         "url": "https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל"
-      },
-      {
-        "label": "Y. Klinger ואחרים, \"Seismic behaviour of the Dead Sea fault along the Araba valley, Jordan\", Geophysical Journal International 142 (2000), עמ׳ 772 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://web.archive.org/web/20190109230444/http://www.ipgp.fr/~klinger/page_web/NewFiles/YK_gb.html"
-      },
-      {
-        "label": "A. K. Abdel Fattah ואחרים, \"Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications\", Annali di Geofisica XL (1997), עמ׳ 1557 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "http://www.annalsofgeophysics.eu/index.php/annals/article/view/3831"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "הערך כותב 'רמאללה' כמקום עם 15,000 הרוגים לפי אמברייזיס. כנראה טעות תרגום של רמלה. TODO: מקור. לא הוכנס ל-places.",
-      "הקואורדינטות בוויקיפדיה (28.5, 36.7) הן בחצי האי ערב. לא לשימוש בלי מקור."
+      "סבב מחקר (ספטמבר 2026): הדף נכתב מחדש על סמך קריאה ישירה של זהר, סלמון ורובין (2016, כולל הנספח; 2017), של הנספח האלקטרוני של סלמון ואחרים (2007) ושל ויטקומב על איילה (SHAJ 10). הייחוסים לוויקיפדיה הוסרו מגוף הדף. מה שהגיע רק דרך ויקיפדיה סומן TODO, והמקור שלו רשום בהערה נסתרת.",
+      "אומת במקור: שתי רעידות, 18 במרץ ו-29 במאי 1068. המקור הראשוני לשתיהן הוא אבן אל-בנא, וכל השאר משניים (זהר ואחרים 2016, נספח A, ערכים 14–15, עמ׳ 7–8). זה פותר את ה-TODO על \"אחת או שתיים\": החוקרים מקבלים שתיים. הטענה מ-DEADSEAQUAKE.info על רעידה אחת בשני תאריכים נשארה בהערה נסתרת בלבד.",
+      "מגניטודה: value שונה מ-7.0 ל-null, ו-range מ-6.6–7.0 ל-6.6–7.8. הסיבה: טבלה 3 של זהר ואחרים (2016, עמ׳ 978) מרכזת הערכות מ-6.6 ועד Ms 7.8, וממוצע 7.3, ובנוסף Me 8.1 של גווידובוני וקומסטרי. ה-7.0 של קלינגר ואחרים (2000) הגיע רק דרך ויקיפדיה ולא נמצא בטבלאות שנקראו.",
+      "תוקן: הספר של אמברייזיס, מלוויל ואדמס יצא ב-1994 (כך אצל זהר ואחרים ואצל סלמון ואחרים). בגרסה הקודמת נכתב 2005, כנראה לפי הדפסה מאוחרת. מספרי העמודים 30–32, 101 הגיעו דרך ויקיפדיה האנגלית ונשארו בהערה נסתרת.",
+      "תוקן: \"האתר האסלאמי באיילה לא נבנה מחדש\" הוסר. ויטקומב (עמ׳ 128) מתאר שער שנחסם בהריסות, כנראה ב-1068, ונבנה מחדש כפתח צר, עם ממצאים פאטמיים מסוף המאה העשירית ומהמאה ה-11. הוסר גם הייחוס לאל-טראזי וקורג׳נקוב (2007) על \"שתי רעידות באיילה\": ויטקומב מפקפק דווקא באזכור שלהם לרעידה של 873.",
+      "חדש: צונאמי. סלמון ואחרים (2007) רושמים צונאמי אמין בחוף ארץ ישראל תחת 29 במאי 1068, אף שרוב הקטלוגים מתארכים אותו ל-18 במרץ (יבנה ואשדוד). זה פותר את ה-TODO על הצונאמי.",
+      "תוקן: הסעיף \"קשר לרעידת 1033\". הגרסה הקודמת ייחסה לאמברייזיס טענה על בלבול בין הצונאמי של 1033 לזה של 1068. בנספח של סלמון ואחרים (2007) ההצעה שהדיווח על 1033 הוא כפילות של 1068 מיוחסת לשלם (1956). אין שם טענה כזו של אמברייזיס.",
+      "חדש: רשימת התאריכים הכפולים (1067, 1070, 1168, 1169 ועוד) שגווידובוני וקומסטרי ואמברייזיס ועמיתיו מזהים כהעתקים של 1068 (סלמון ואחרים 2007, נספח 1). 1066 לא נמצא ברשימה הזו, ולכן ה-TODO על 1066 נשאר.",
+      "הוסר: המשפט על \"רמאללה\" בערך העברי ועל כתיב השמות בוויקיפדיה. אלה הערות על ויקיפדיה, לא על הרעידה. רמלה מאושרת כמקום הנזק אצל זהר ואחרים (2016, 2017).",
+      "deaths 20,000 נשאר, אבל deaths_note עודכן: המספר לא אומת במקורות שנקראו. להכרעת נדב אם להשאיר מספר בכרטיס.",
+      "להכרעת נדב: קואורדינטות. זהר ואחרים (2016, נספח A, ערך 14) מביאים את המוקד שגווידובוני וקומסטרי מציעים לרעידת מרץ: 29.55° צפון, 34.95° מזרח (ראש מפרץ אילת), בעוצמה IX. זה מקור מחקרי, אבל מיד שנייה. lat/lon נשארו null עד אישור.",
+      "להכרעת נדב: segment. זהר ואחרים משייכים את רעידת מרץ לאזור הדרומי (מפרץ אילת), ואת רעידת מאי לאזור המרכזי (רמלה). אם בוחרים מקטע אחד לדף, arava מתאים לרעידת מרץ. נשאר null.",
+      "להכרעת נדב: השעה. בטבלה 3 בנספח של סלמון ואחרים (2007) רעידת מרץ רשומה \"08 30\". הוזכר בגוף הדף, אבל time_local נשאר null כי לא ברור אם זו שעה מקומית ומאיזה מקור."
     ]
   },
   {
@@ -666,14 +1021,14 @@
       "year_range": null,
       "month": 10,
       "day": 30,
-      "time_local": null,
+      "time_local": "03:45",
       "hebrew_date": null,
       "certainty": "exact"
     },
     "location": {
       "lat": null,
       "lon": null,
-      "description": "עמק החולה (הרעידה הראשונה); בקאע בלבנון (השנייה)",
+      "description": "הרעידה הראשונה באזור צפת, קוניטרה וגשר בנות יעקב, כנראה על העתק רשאיה; השנייה בבקעת הלבנון, כנראה על העתק סרע׳איה (דארון ועמיתיו 2005). השיוך לשברים שנוי במחלוקת.",
       "segment": "galilee",
       "distant": false,
       "wikipedia_coords": [
@@ -684,70 +1039,117 @@
     "magnitude": {
       "value": null,
       "range": [
-        6.6,
+        6.5,
         7.4
       ],
-      "type": "Mw",
+      "type": "Ms",
       "basis": "historical-estimate",
-      "note": "שתי רעידות: כ-6.6 ב-30 באוקטובר, כ-7.4 ב-25 בנובמבר."
+      "note": "שתי רעידות. 30 באוקטובר: Ms כ-6.6 (אמברייזיס ובאראזאנגי 1989), 6.5 (בן-מנחם 1991). 25 בנובמבר: Ms כ-7.4 (אמברייזיס ובאראזאנגי 1989; אמברייזיס וג׳קסון 1998), 7.4 (מיגובסקי ועמיתיו 2004; בן-מנחם 1991), 7.0 עד 7.2 (גומז ועמיתיו 2003). כך מסכמים זוהר ועמיתיו 2016, טבלה 3. הערכות לפי תיאורי נזק ולפי ממצאי שדה, לא מדידה."
     },
     "impact": {
       "deaths": null,
-      "deaths_note": "כ-2,000 ברעידה הראשונה (יש טענה ל-30,000), כ-20,000 בשנייה.",
+      "deaths_note": "ברעידה הראשונה כ-2,000 הרוגים (דארון ועמיתיו 2005, לפי אמברייזיס ובאראזאנגי 1989). מספרים מאוחרים יותר, כמו 20,000 בשנייה (קיטו 1841) או 30,000 בראשונה (וולני), לא נבדקו במקור. אין ספירה.",
       "injured": null,
       "places": [
         "צפת",
+        "טבריה",
         "עכו",
-        "צור",
-        "צידון",
-        "בקאע",
-        "דמשק",
-        "טריפולי"
+        "נצרת",
+        "שכם",
+        "חיפה",
+        "קוניטרה",
+        "גשר בנות יעקב",
+        "בקעת הלבנון",
+        "בעלבכ",
+        "דמשק"
       ]
     },
     "evidence": {
       "texts": true,
-      "archaeology": null,
+      "archaeology": true,
       "instrumental": false
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידות האדמה בצפון ארץ ישראל ובלבנון (1759)",
+        "label": "M. Daëron, Y. Klinger, P. Tapponnier, A. Elias, E. Jacques, A. Sursock, \"Sources of the large A.D. 1202 and 1759 Near East earthquakes\", Geology 33(7) (2005), pp. 529–532",
+        "url": "https://doi.org/10.1130/G21352.1"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://doi.org/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), pp. 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
+      },
+      {
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "R. Amit, A. Agnon, A. Matmon (עורכים), The Dead Sea Rift as a natural laboratory for earthquake behavior: prehistorical, historical and recent seismicity, מדריך סיור, סדנת ים המלח של INQUA, פברואר 2009"
+      },
+      {
+        "label": "N. N. Ambraseys and M. Barazangi, \"The 1759 earthquake in the Bekaa Valley: implications for earthquake hazard assessment in the Eastern Mediterranean region\", Journal of Geophysical Research 94 (1989), pp. 4007–4013 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1029/JB094iB04p04007"
+      },
+      {
+        "label": "T. Nemer, M. Meghraoui, K. Khair, \"The Rachaya-Serghaya fault system (Lebanon): evidence of coseismic ruptures, and the AD 1759 earthquake sequence\", Journal of Geophysical Research 113 (2008), B05312 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1029/2007JB005090"
+      },
+      {
+        "label": "R. Ellenblum, S. Marco, R. Kool, U. Davidovitch, R. Porat, A. Agnon, \"Archaeological record of earthquake ruptures in Tell Ateret, the Dead Sea Fault\", Tectonics (2015) (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1002/2014TC003815"
+      },
+      {
+        "label": "Y. Schweppe ועמיתיו, \"Reconstructing the slip velocities of the 1202 and 1759 CE earthquakes based on faulted archaeological structures at Tell Ateret, Dead Sea Fault\", Journal of Seismology (2021) (TODO: לבדוק במקור)",
+        "url": "https://link.springer.com/article/10.1007/s10950-021-10009-0"
+      },
+      {
+        "label": "M. R. Sbeinati, R. Darawcheh, M. Mouty, \"The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.\", Annals of Geophysics 48(3) (2005) (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.4401/ag-3206"
+      },
+      {
+        "label": "N. N. Lewis, \"Baalbek before and after the earthquake of 1759: the drawings of James Bruce\", Levant 31 (1999), עמ׳ 241 ואילך (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1179/lev.1999.31.1.241"
+      },
+      {
+        "label": "John Kitto, Palestine: the Physical Geography and Natural History of the Holy Land, 1841, עמ׳ lxxxix–xc (TODO: לבדוק במקור)",
+        "url": "https://books.google.com/books?id=3MwsAAAAYAAJ&pg=PR89"
+      },
+      {
+        "label": "וולני, מסע למצרים ולסוריה, תרגם אהרן אמיר, יד בן צבי ומוסד ביאליק, תשנ\"ז-1996, עמ׳ 95–97 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "אברהם יערי, אגרות ארץ ישראל, עמ׳ 287, איגרת ר׳ יוסף סופר מצפת (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "אברהם יערי, \"רעש צפת בשנת תק\"ך\", סיני כ\"ח (תשי\"א) (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידות האדמה בצפון ארץ ישראל ובלבנון (1759)",
         "url": "https://he.wikipedia.org/wiki/רעידות_האדמה_בצפון_ארץ_ישראל_ובלבנון_(1759)"
       },
       {
-        "label": "N. N. Ambraseys and M. Barazangi, \"The 1759 Earthquake in the Bekaa Valley: Implications for Earthquake Hazard Assessment in the Eastern Mediterranean Region\", Journal of Geophysical Research 94 (1989), pp. 4007–4013 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/JB094iB04p04007"
-      },
-      {
-        "label": "M. Daeron, Y. Klinger, P. Tapponnier, A. Elias, E. Jacques, A. Sursock, \"Sources of the Large A.D. 1202 and 1759 Near East Earthquakes\", Geology 33 (2005), pp. 529–532 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "http://www.ipgp.jussieu.fr/~klinger/web_Yann/papiers/Daeron_geology05.pdf"
-      },
-      {
-        "label": "T. Nemer, M. Meghraoui, K. Khair, \"The Rachaya-Serghaya Fault System (Lebanon): Evidence of Coseismic Ruptures and the AD 1759 Sequence\", Journal of Geophysical Research 113 (2008) (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JB005090"
-      },
-      {
-        "label": "John Kitto, Palestine: the Physical Geography and Natural History of the Holy Land, 1841 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "http://books.google.pl/books?id=3MwsAAAAYAAJ&pg=PR89"
-      },
-      {
-        "label": "וולני, מסע למצרים ולסוריה, תרגם אהרן אמיר, יד בן צבי ומוסד ביאליק, תשנ\"ז-1996, עמ׳ 95–97 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "אברהם יערי, אגרות ארץ ישראל, עמ׳ 287, איגרת ר׳ יוסף סופר מצפת (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "אברהם יערי, \"רעש צפת בשנת תק\"ך\", סיני כ\"ח (תשי\"א) (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "משה גלעד, \"לעמוד מול נוף רמת הגולן ולא להאמין: לפני 800 שנה היו כאן זברות?\", הארץ, 21 בספטמבר 2023 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 1759 Near East earthquakes",
+        "url": "https://en.wikipedia.org/wiki/1759_Near_East_earthquakes"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "שתי רעידות באותו ערך. התאריך בשדות date הוא של הראשונה. segment=galilee לפי מוקד הראשונה (עמק החולה)."
+      "שתי רעידות באותו דף. התאריך בשדות date הוא של הראשונה. segment=galilee לפי אזור הנזק של הראשונה.",
+      "time_local נקבע ל-03:45 לפי זוהר ועמיתיו 2016 (טבלה 3, עמ׳ 978) ולפי הנספח של סלמון ועמיתיו 2007 (\"03:45 LT\"). שעת הרעידה השנייה: 19:23 (אותם מקורות).",
+      "תיקון: ערכי Ms 6.6 ו-7.4 יוחסו בגרסה הקודמת לסבינאתי ועמיתיו ולנמר ועמיתיו. דארון ועמיתיו (2005, עמ׳ 531) וזוהר ועמיתיו (2016, טבלה 3) מייחסים אותם לאמברייזיס ובאראזאנגי 1989. magnitude.range הורחב ל-6.5 עד 7.4 לפי טבלה 3 אצל זוהר ועמיתיו.",
+      "תיקון: בבקעת זבדאני, גומז ועמיתיו (2003) לא הכריעו בין רעידת 1705 לרעידות 1759. בגרסה הקודמת נכתב שלא הכריעו \"בין שתי רעידות 1759\". דארון ועמיתיו (2005, עמ׳ 530–531) טוענים שממצאיהם מכריעים לטובת 1759.",
+      "תל עתרת: יש מחלוקת. מרקו (מדריך INQUA 2009, עמ׳ 38) מייחס את 0.5 המטר לרעידת אוקטובר 1759 בהפניה לאלנבלום ועמיתיו 1998. דארון ועמיתיו (2005, עמ׳ 529) משאירים פתוח בין אוקטובר 1759 ל-1837. אצל מרקו כתוב \"25 October 1759\", כנראה טעות דפוס (הרעידה של אוקטובר אירעה ב-30 בו). אלנבלום ועמיתיו 2015 לא נקראו.",
+      "מבצר נמרוד: הוסרה הטענה על אבן הראשה בשער המערבי ועל מחלוקת בין 1202 ל-1759. מקורה היה כתבת טיול בעיתון הארץ, דרך ויקיפדיה, ולא מחקר. במקומה: אגנון ועמיתיו (מדריך INQUA 2009, עמ׳ 3) מתארים מבנים מוסלמיים במבצר שנפגעו קשה ברעידות 1759, ובהם קשתות וקמרונות שזזו.",
+      "הוסר הטווח 10,000 עד 40,000 הרוגים. מקורו בערך הכללי \"רעידת אדמה\" בוויקיפדיה, בלי הפניה.",
+      "places: נוספו טבריה, נצרת, שכם, חיפה, קוניטרה וגשר בנות יעקב לפי זוהר ועמיתיו 2016, טבלה 3. הוסרו צור, צידון, בקאע וטריפולי מהרשימה, כי מקורן היה רק ויקיפדיה. בקעת הלבנון נשארה לפי דארון ועמיתיו 2005. טריפולי מוזכרת בטקסט בהקשר הגל בים.",
+      "נוסף פרק על הגלים בים ובכנרת, לפי הנספח של סלמון ועמיתיו 2007 (טבלה 1 וטבלה 6) ודארון ועמיתיו 2005 (עמ׳ 530).",
+      "לא נכללה בדף הערכת הסיכון שבסוף מאמרם של דארון ועמיתיו (2005, עמ׳ 531–532), כי היא עוסקת בעתיד (כלל 5).",
+      "הוסרה הטענה (לפי לואיס, דרך ויקיפדיה האנגלית) שרעידות 1759 קטעו תקופה שקטה מהמאה ה-14 עד ה-17. אפשר להחזיר אחרי בדיקה במקור.",
+      "החלטה לנדב: האם לשמור בדף את מספרי ההרוגים של קיטו ושל וולני, שעדיין לא נבדקו במקור."
     ]
   },
   {
@@ -761,52 +1163,97 @@
       "year": 1834,
       "year_range": null,
       "month": 5,
-      "day": 23,
+      "day": 26,
       "time_local": null,
       "hebrew_date": null,
-      "certainty": "disputed"
+      "certainty": "exact"
     },
     "location": {
       "lat": null,
       "lon": null,
-      "description": null,
+      "description": "מרכז בקע ים המלח, בין ים המלח לירושלים. מוקד מדויק לא ידוע.",
       "segment": null,
       "distant": false,
       "wikipedia_coords": null
     },
     "magnitude": {
       "value": null,
-      "range": null,
-      "type": null,
-      "basis": null,
-      "note": null
+      "range": [
+        6.3,
+        6.4
+      ],
+      "type": "estimated-historical",
+      "basis": "historical-estimate",
+      "note": "ML 6.3 לפי בן-מנחם 1991, ו-6.4 לפי מיגובסקי ועמיתיו 2004 (זוהר ועמיתיו 2016, טבלה 3; סלמון ועמיתיו 2007, נספח, טבלה 3). זוהר ועמיתיו מסווגים אותה כרעידה \"חזקה\", בממוצע 6.3."
     },
     "impact": {
       "deaths": null,
-      "deaths_note": null,
+      "deaths_note": "זוהר ועמיתיו (2016, 2017) לא מצאו דיווח על הרוגים.",
       "injured": null,
       "places": [
         "ירושלים",
         "בית לחם",
-        "מנזר מר סבא"
+        "מנזר מר סבא",
+        "יפו",
+        "קיסריה",
+        "מידבא",
+        "אום א-רצאץ"
       ]
     },
     "evidence": {
       "texts": true,
-      "archaeology": null,
+      "archaeology": false,
       "instrumental": false
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת אדמה — רעידות אדמה בולטות בארץ ישראל",
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://doi.org/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), pp. 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
+      },
+      {
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "S. N. Spyridon (תרגום), \"Annals of Palestine, 1821–1841\", Journal of the Palestine Oriental Society 18 (1938), pp. 63–132 (כרוניקה של הנזיר ניאופיטוס. TODO: לבדוק במקור)"
+      },
+      {
+        "label": "N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009, עמ׳ 642–643 (TODO: לבדוק במקור)",
+        "url": "https://assets.cambridge.org/97805218/72928/index/9780521872928_index.pdf"
+      },
+      {
+        "label": "Ken-Tor ועמיתיו, \"High-resolution geological record of historic earthquakes in the Dead Sea basin\", Journal of Geophysical Research 106 (2001), pp. 2221–2234 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, \"Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments\", Earth and Planetary Science Letters 222 (2004), pp. 301–314 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "\"1834 CE Fellahin Revolt Quake\", deadseaquake.info (TODO: לבדוק במקור)",
+        "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת אדמה, הפסקה \"רעידות אדמה בולטות בארץ ישראל\"",
         "url": "https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 1834 Jerusalem earthquake",
+        "url": "https://en.wikipedia.org/wiki/1834_Jerusalem_earthquake"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "בוויקיפדיה אין ערך: זו הפניה לפסקה בערך הכללי 'רעידת אדמה'.",
-      "הערך על 1837 מזכיר שתי רעידות בצפת ב-24 במאי 1834. תאריך שונה ביום אחד, ולא ברור אם זה אותו אירוע."
+      "certainty שונה מ-disputed ל-exact: זוהר ועמיתיו 2016 (טבלה 3, עמ׳ 979) וסלמון ועמיתיו 2007 (נספח, טבלה 3) נותנים שניהם 26 במאי 1834. התאריכים האחרים (13 ו-23 במאי) הגיעו מוויקיפדיה בלי מקור, ולכן הוסרו מהטקסט הגלוי ונשמרו בהערה נסתרת.",
+      "time_local נשאר null: זוהר ועמיתיו 2016 נותנים 13:00, הנספח של סלמון ועמיתיו 2007 נותן 04:00 (כנראה לפי שעון אחר), ו-deadseaquake.info נותן שש בבוקר. המחלוקת מוצגת בגוף הדף.",
+      "magnitude: נוסף טווח 6.3 עד 6.4 לפי זוהר ועמיתיו 2016 (טבלה 3), ו-ML 6.3 של בן-מנחם לפי הנספח של סלמון ועמיתיו 2007.",
+      "places: נוספו יפו, קיסריה, מידבא ואום א-רצאץ לפי זוהר ועמיתיו 2016, טבלה 3. שם מופיע גם \"דרום-מערב ים המלח\".",
+      "evidence.archaeology שונה ל-false: אין ממצא ארכיאולוגי. יש עדות גיאולוגית במשקעי ים המלח (קן-טור ועמיתיו 2001; מיגובסקי ועמיתיו 2004, לפי זוהר ועמיתיו 2016), והיא מתוארת בפרק \"מה נמצא באדמה\".",
+      "location.description: לפי זוהר ועמיתיו 2017, הרעידה שייכת לקבוצת הרעידות של החלק המרכזי של העתק ים המלח. segment נשאר null. החלטה לנדב: האם לסמן segment=dead-sea.",
+      "הוסרה הטענה (דרך ויקיפדיה האנגלית, לפי תוצאות חיפוש) שצפת ניזוקה קשה במאי 1834, ושתי רעידות בצפת ב-24 במאי 1834 (ויקיפדיה העברית, ערך 1837, בלי מקור). הן לא מופיעות ברשימות של זוהר ועמיתיו. נשמרו בהערה נסתרת."
     ]
   },
   {
@@ -821,14 +1268,14 @@
       "year_range": null,
       "month": 1,
       "day": 1,
-      "time_local": null,
+      "time_local": "16:35",
       "hebrew_date": "כ״ד בטבת תקצ״ז",
       "certainty": "exact"
     },
     "location": {
       "lat": null,
       "lon": null,
-      "description": "עמק החולה ובקעת הלבנון",
+      "description": "דרום לבנון וצפון הגליל. מקור אפשרי, לא מוכרע, הוא העתק רום (אמברייזיס 1997; נמר ומגראוי 2006).",
       "segment": "galilee",
       "distant": false,
       "wikipedia_coords": [
@@ -838,23 +1285,33 @@
     },
     "magnitude": {
       "value": null,
-      "range": null,
+      "range": [
+        6.25,
+        7.4
+      ],
       "type": "estimated-historical",
       "basis": "historical-estimate",
-      "note": "הערך: Ms>7 לפי אמברייזיס. הערך הכללי 'רעידת אדמה': 5.75 עד 6.75."
+      "note": "הערכות שונות, בסולמות שונים: M גדול מ-7 (אמברייזיס 1997); Ms 7.0 (אמברייזיס 2006); Ms 7.1 (נמר ומגראוי 2006); Ms 7.4 (אמברייזיס וג׳קסון 1998); 7.4 (מיגובסקי ועמיתיו 2004); 6.7 (בן-מנחם 1991). כך אצל זוהר ועמיתיו 2016 ובנספח של סלמון ועמיתיו 2007. ML 6.25 עד 6.5 (ורד ושטרים 1977) לא נבדק במקור."
     },
     "impact": {
       "deaths": null,
-      "deaths_note": "הערכות: 5,000–7,000. לפי הפחה הטורקי: 1,700–1,800 בצפת וכ-600 בטבריה.",
+      "deaths_note": "אין ספירה מוסכמת. בדיווחים ובהערכות: 1,700 עד 1,800 בצפת וכ-600 בטבריה (דיווחי הפחה), 600 בטבריה (תומסון), 4,083 בסך הכול (דיווח רשמי). אף אחד מהמספרים לא נבדק במקור. זוהר ועמיתיו (2017) מסמנים \"הרוגים רבים\".",
       "injured": null,
       "places": [
         "צפת",
         "טבריה",
-        "שכם",
         "עכו",
+        "חיפה",
         "נצרת",
+        "שכם",
+        "ירושלים",
+        "יפו",
         "צור",
-        "צידון"
+        "נבטיה",
+        "חצביא",
+        "מטולה",
+        "ג׳ש",
+        "לוביה"
       ]
     },
     "evidence": {
@@ -864,38 +1321,107 @@
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת האדמה בצפת (1837)",
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://doi.org/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), pp. 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
+      },
+      {
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "A. Salamon, R. Omira, M. Zohar, M. A. Baptista, \"Modern outlook on the source of the 551 AD tsunamigenic earthquake that struck the Phoenician (Lebanon) coast\", Natural Hazards (2024)",
+        "url": "https://doi.org/10.1007/s11069-024-06559-4"
+      },
+      {
+        "label": "R. Amit, A. Agnon, A. Matmon (עורכים), The Dead Sea Rift as a natural laboratory for earthquake behavior: prehistorical, historical and recent seismicity, מדריך סיור, סדנת ים המלח של INQUA, פברואר 2009"
+      },
+      {
+        "label": "M. Daëron, Y. Klinger, P. Tapponnier, A. Elias, E. Jacques, A. Sursock, \"Sources of the large A.D. 1202 and 1759 Near East earthquakes\", Geology 33(7) (2005), pp. 529–532",
+        "url": "https://doi.org/10.1130/G21352.1"
+      },
+      {
+        "label": "N. N. Ambraseys, \"The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel\", Annali di Geofisica 40(4) (1997), pp. 923–935 (TODO: לבדוק במקור)",
+        "url": "https://www.annalsofgeophysics.eu/index.php/annals/article/view/3887"
+      },
+      {
+        "label": "T. Nemer and M. Meghraoui, \"Evidence of coseismic ruptures along the Roum fault (Lebanon): a possible source for the AD 1837 earthquake\", Journal of Structural Geology 28(8) (2006), pp. 1483–1495 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "W. M. Thomson, \"Journal of Mr. W. M. Thomson on a visit to Safet and Tiberias\", Missionary Herald 33 (1837), pp. 433–447 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "W. M. Thomson, The Land and the Book, 1861, עמ׳ 277–279 (TODO: לבדוק במקור)",
+        "url": "https://books.google.com/books?id=2DUHAAAAQAAJ"
+      },
+      {
+        "label": "S. E. Calman, Description of Part of the Scene of the Late Earthquake in Syria, London, 1837 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "U. Ben-Horin, \"An official report on the earthquake of 1837\", Israel Exploration Journal 2 (1952), pp. 63–65 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "E. Robinson and E. Smith, Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, 1841, כרך 3, עמ׳ 238 (TODO: לבדוק במקור)",
+        "url": "https://books.google.com/books?id=bSEPAAAAQAAJ"
+      },
+      {
+        "label": "M. Vered and H. L. Striem, \"A macroseismic study and the implications of structural damage of two recent major earthquakes in the Jordan Rift\", Bulletin of the Seismological Society of America 67(6) (1977), pp. 1607–1613 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "M. R. Sbeinati, R. Darawcheh, M. Mouty, \"The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.\", Annals of Geophysics 48(3) (2005), עמ׳ 382 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.4401/ag-3206"
+      },
+      {
+        "label": "D. Wachs and D. Levitte, Damage Caused By Landslides During the Earthquakes of 1837 and 1927 in the Galilee Region, Geological Survey of Israel, 1978 (TODO: לבדוק במקור)",
+        "url": "http://zadok.org/research/1927/landslides.html"
+      },
+      {
+        "label": "מרדכי אליאב, \"עדות ראייה על מוראות הרעש בצפת תקצ\"ז (1837)\", קתדרה 79 (מרץ 1996), עמ׳ 53–78 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "מיכאל איש-שלום, מסעי נוצרים לארץ ישראל, 1965 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "משה ריישר, שערי ירושלים, ורשה תרכ\"ט, עמ׳ 22 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "יצחק ריבקינד, \"הרוגי צפת ברעש תקצ\"ז\", ספר השנה של ארץ-ישראל ב–ג (תרפ\"ד–תרפ\"ה), עמ׳ 100–109 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "ויקטור גרן, תיאור גיאוגרפי, היסטורי וארכיאולוגי של ארץ-ישראל, כרך ד: השומרון (א), יד יצחק בן-צבי, 1983, עמ׳ 237 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "\"1837 CE Safed Quake\", deadseaquake.info (TODO: לבדוק במקור)",
+        "url": "https://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1837CESafedQuake.html"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת האדמה בצפת (1837)",
         "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_בצפת_(1837)"
       },
       {
-        "label": "ויקיפדיה: רעידת אדמה — רעידות אדמה בולטות בארץ ישראל",
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 1837 Galilee earthquake",
+        "url": "https://en.wikipedia.org/wiki/1837_Galilee_earthquake"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת אדמה, הפסקה \"רעידות אדמה בולטות בארץ ישראל\"",
         "url": "https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל"
-      },
-      {
-        "label": "N. N. Ambraseys, \"The Earthquake of 1 January 1837 in Southern Lebanon and Northern Israel\", Annali di Geofisica 40 (1997) (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://www.researchgate.net/publication/50300964_The_earthquake_of_1_January_1837_in_Southern_Lebanon_and_N_orthern_Israel"
-      },
-      {
-        "label": "מרדכי אליאב, \"עדות ראייה על מוראות הרעש בצפת תקצ\"ז (1837)\", קתדרה 79 (מרץ 1996), עמ׳ 53–78 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "מיכאל איש-שלום, מסעי נוצרים לארץ ישראל, 1965 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "משה ריישר, שערי ירושלים, ורשה תרכ\"ט, עמ׳ 22 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "יצחק ריבקינד, \"הרוגי צפת ברעש תקצ\"ז\", ספר השנה של ארץ-ישראל ב–ג (תרפ\"ד–תרפ\"ה), עמ׳ 100–109 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "ויקטור גרן, תיאור גיאוגרפי, היסטורי וארכיאולוגי של ארץ-ישראל, כרך ד: השומרון (א), יד יצחק בן-צבי, 1983, עמ׳ 237 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "סתירה במגניטודה בין שני ערכים בוויקיפדיה. להכריע לפי מקור ראשוני (אמברייזיס).",
-      "הקישור לתת-הקטגוריה 'נספים ברעידת האדמה בצפת (1837)' עוד לא הוכנס."
+      "time_local נקבע ל-16:35 לפי זוהר ועמיתיו 2016 (טבלה 3, עמ׳ 979). בנספח של סלמון ועמיתיו 2007 כתוב 14:34, כנראה בשעון גריניץ׳. אמברייזיס 1997 (דרך ויקיפדיה האנגלית): \"בסביבות ארבע\".",
+      "magnitude.range הורחב ל-6.25 עד 7.4. הקצה העליון מאמברייזיס וג׳קסון 1998 וממיגובסקי ועמיתיו 2004 (לפי זוהר ועמיתיו 2016, טבלה 3, ולפי סלמון ועמיתיו 2007). הקצה התחתון מוורד ושטרים 1977, שעדיין לא נבדק במקור. הוסר הטווח 5.75 עד 6.75 מהערך הכללי \"רעידת אדמה\" בוויקיפדיה, שאין לו מקור.",
+      "deaths_note: הוסרו ההערכות הכוללות 5,000 עד 7,000 ו-6,000 עד 7,000, שבוויקיפדיה אין להן מקור. נשמרו בהערה נסתרת.",
+      "מקור הרעידה: אמברייזיס 1997 הציע את העתק רום, \"בלי ראיה חותכת\" (לפי הנספח של סלמון ועמיתיו 2007). נמר ומגראוי 2006 מצאו בחפירות עדות לקריעה על העתק רום ותמכו בו (סלמון ועמיתיו 2024). אגנון ועמיתיו (מדריך INQUA 2009, עמ׳ 3) כותבים שרעידת 1837 קרעה את העתק רום.",
+      "places: נוספו חיפה, ירושלים, יפו, נבטיה, חצביא ומטולה לפי זוהר ועמיתיו 2016, טבלה 3. הוסרו צידון ורמיש מהרשימה (מקורן תומסון דרך ויקיפדיה). רמיש נשארה בטקסט.",
+      "הוסרה הטענה (ויקיפדיה העברית, בלי מקור) על ימי גשם כבד שקדמו לרעידה.",
+      "נוסף: גלישות הקרקע בצפת לפי עודד כץ (מדריך INQUA 2009, עמ׳ 25–26), והקשר האפשרי לתזוזה בתל עתרת (דארון ועמיתיו 2005, עמ׳ 529).",
+      "evidence.archaeology נשאר null. יש עדות גיאולוגית (מיגובסקי ועמיתיו 2004; נמר ומגראוי 2006), אבל לא ממצא ארכיאולוגי מתוארך. החלטה לנדב: האם לסמן true בגלל מבצר הונין ותל עתרת.",
+      "הקישור לתת-הקטגוריה 'נספים ברעידת האדמה בצפת (1837)' הוסר מהטקסט הגלוי, כי הוא הפניה לוויקיפדיה ולא מקור."
     ]
   },
   {
@@ -915,9 +1441,9 @@
       "certainty": "exact"
     },
     "location": {
-      "lat": null,
-      "lon": null,
-      "description": "כנראה מול החוף הצפוני של כרתים",
+      "lat": 36.6,
+      "lon": 25.8,
+      "description": "בים, מצפון לכרתים (פפאזאכוס ופפאזאכו 1997, לפי זוהר 2017)",
       "segment": "distant",
       "distant": true,
       "wikipedia_coords": [
@@ -933,14 +1459,17 @@
       ],
       "type": "Mw",
       "basis": "historical-estimate",
-      "note": null
+      "note": "7.7 עד 8.2 לפי פפאזאכוס ועמיתיו 2000 ופפאזאכוס ופפאזאכו 1997 (כך אצל זוהר 2017). לפי קלאס ועמיתיו 2018, 7.7 ו-8.1 עד 8.3 הם שני תרחישים של גודל השבר ועומקו (לא נבדק במקור). הסולם לא מצוין אצל זוהר."
     },
     "impact": {
       "deaths": null,
-      "deaths_note": "538 בכרתים לפי הערך. אין דיווח על נפגעים בארץ.",
+      "deaths_note": "יותר מ-600 בכל האזור, לפי סיכום שלא נבדק במקור: 538 בכרתים, כ-60 ברודוס, 20 בקסוס ובקרפתוס, לפחות 10 בקהיר ו-2 באלכסנדריה. אין דיווח על נפגעים בארץ.",
       "injured": null,
       "places": [
-        "חיפה"
+        "חיפה",
+        "עכו",
+        "צור",
+        "צידון"
       ]
     },
     "evidence": {
@@ -950,30 +1479,67 @@
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת האדמה בכרתים (1856)",
-        "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_בכרתים_(1856)"
+        "label": "M. Zohar, \"A newly discovered historical earthquake or merely a chronological mistake? Report of Mary Eliza Rogers from October 10, 1856\", Journal of Seismology 21(5) (2017), pp. 1285–1290",
+        "url": "https://doi.org/10.1007/s10950-017-9686-9"
       },
       {
-        "label": "M. Zohar, \"A newly discovered historical earthquake or merely a chronological mistake? Report of Mary Eliza Rogers from October 10, 1856\", Journal of Seismology 21 (2017), pp. 1285–1290 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "https://link.springer.com/article/10.1007/s10950-017-9686-9"
+        "label": "Mary Eliza Rogers, Domestic Life in Palestine, London, 1862, עמ׳ 360–361",
+        "url": "https://archive.org/details/domesticlifeinp01rogegoog"
       },
       {
-        "label": "G. A. Papadopoulos, E. Daskalaki, A. Fokaefs, N. Giraleas, \"Tsunami Hazard in the Eastern Mediterranean Sea: Strong Earthquakes and Tsunamis in the West Hellenic Arc and Trench System\" (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://doi.org/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009, עמ׳ 683–685 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "B. C. Papazachos, P. E. Comninakis, G. F. Karakaisis ועמיתיו, A catalogue of earthquakes in Greece and surrounding area for the period 550BC–1999, University of Thessaloniki, 2000 (TODO: לבדוק במקור)",
+        "url": "http://geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html"
+      },
+      {
+        "label": "B. C. Papazachos, \"Large seismic faults in the Hellenic arc\", Annali di Geofisica 39 (1996), pp. 891–903 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.4401/ag-4023"
+      },
+      {
+        "label": "C. Kkallas ועמיתיו, \"Explaining the large anomalous damage patterns of large (M7+) intermediate-depth earthquakes in the southern Aegean Sea\", 16th European Conference on Earthquake Engineering, Thessaloniki, 2018 (TODO: לבדוק במקור)",
+        "url": "https://www.daveboore.com/pubs_online/16eceE_KKALLAS_final2.pdf"
+      },
+      {
+        "label": "P. Galea, \"Seismic history of the Maltese islands and considerations on seismic risk\", Annals of Geophysics 50 (2007), pp. 725–740 (TODO: לבדוק במקור)",
+        "url": "https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/3053/3096"
+      },
+      {
+        "label": "N. N. Ambraseys, C. P. Melville, R. D. Adams, The Seismicity of Egypt, Arabia and the Red Sea: A Historical Review, Cambridge University Press, 1994, עמ׳ 69–70 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "G. A. Papadopoulos, E. Daskalaki, A. Fokaefs, N. Giraleas, \"Tsunami Hazard in the Eastern Mediterranean Sea: Strong Earthquakes and Tsunamis in the West Hellenic Arc and Trench System\", Journal of Earthquake and Tsunami (TODO: לבדוק במקור, כולל שנה וכרך)",
         "url": "http://www.seahellarc.gr/files/20091123154851Papadopoulos_et_al.JET.pdf"
       },
       {
-        "label": "Mary Eliza Rogers, Domestic Life in Palestine (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת האדמה בכרתים (1856)",
+        "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_בכרתים_(1856)"
       },
       {
-        "label": "Aristotle University of Thessaloniki, Seismicity Catalog (550 B.C. – 2010) (מצוטט בוויקיפדיה. TODO: לבדוק במקור)",
-        "url": "http://geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html"
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 1856 Heraklion earthquake",
+        "url": "https://en.wikipedia.org/wiki/1856_Heraklion_earthquake"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "רעידה רחוקה שהורגשה בארץ. בארץ: דיווח על גל צונאמי קטן לאורך חופי חיפה ולבנון.",
-      "שעה: 02:45 בפתיח, 'בין 02:38 ל-02:45' בגוף הערך."
+      "רעידה רחוקה שהורגשה בארץ. המאמר של זוהר 2017 נקרא במלואו, והדף נבנה סביבו.",
+      "location.lat/lon הוזנו: 36.6 צפון, 25.8 מזרח, לפי זוהר 2017, עמ׳ 1285–1286, שמביא את המוקד מפפאזאכוס ופפאזאכו 1997. זה מוקד בים מצפון לכרתים, צפונית לקואורדינטות שבוויקיפדיה (35.5, 26). נדרש אישור נדב (כלל 9).",
+      "תיקון שעה: בגרסה הקודמת נכתב \"02:45 או 02:38\". לפי זוהר 2017 (עמ׳ 1286), אמברייזיס 2009 נותן 02:33 ופפאזאכוס ועמיתיו 2000 נותנים 02:45, שניהם בשעון המקומי של כרתים, שהוא גם שעון חיפה. time_local נשאר 02:45.",
+      "places: נוספו עכו, צור וצידון, לפי רוג׳רס 1862, עמ׳ 361, כפי שמביא זוהר 2017. זוהר רואה בדיווח שלה חיזוק לדיווחים על נזק ביישובים האלה.",
+      "מחלוקת: בנספח C של זוהר ועמיתיו 2016 רעידת כרתים מופיעה ברשימת הרעידות שיוחס להן בטעות נזק בארץ. זוהר 2017, שנה אחר כך, רואה בעדות רוג׳רס חיזוק לדיווחים על נזק בחופי צפון הארץ ודרום לבנון. שתי העמדות מוצגות בדף.",
+      "הגל בחיפה: סלמון ועמיתיו 2007 מונים אותו בין הצונאמי המפוקפקים (נספח, טבלה 2). עמירן, אריה וטורקוטה 1994 רושמים אותו ב-10 באוקטובר 1856, התאריך של רוג׳רס. נמחקה הטענה מתיבת המידע האנגלית שצונאמי \"לא סביר\", כי אין לה מקור.",
+      "magnitude.range נשאר 7.7 עד 8.3. זוהר 2017 מביא 7.7 עד 8.2; 8.3 הוא הקצה העליון של קלאס ועמיתיו 2018, שלא נבדק במקור. type=Mw לא אומת: זוהר אינו מציין סולם. החלטה לנדב: לצמצם ל-7.7 עד 8.2.",
+      "deaths_note: המספרים מחוץ לארץ הגיעו מוויקיפדיה האנגלית (NGDC, Jusseret & Sintubin 2017, Badawy et al. 2017) ולא נבדקו."
     ]
   },
   {
@@ -988,14 +1554,14 @@
       "year_range": null,
       "month": 7,
       "day": 11,
-      "time_local": "15:03:55",
+      "time_local": "15:04",
       "hebrew_date": "י״א בתמוז תרפ״ז",
       "certainty": "exact"
     },
     "location": {
       "lat": null,
       "lon": null,
-      "description": "צפון ים המלח",
+      "description": "צפון ים המלח, לפי שפירא, אבני ונור 1993 וזוהר ומרקו 2012. המיקום עדיין שנוי במחלוקת.",
       "segment": "dead-sea",
       "distant": false,
       "wikipedia_coords": [
@@ -1004,26 +1570,31 @@
       ]
     },
     "magnitude": {
-      "value": 6.2,
+      "value": 6.25,
       "range": [
         6.2,
-        6.25
+        6.3
       ],
-      "type": "Mw",
+      "type": "ML",
       "basis": "instrumental",
-      "note": null
+      "note": "ML 6.25 לפי אבני 1999 (זוהר ועמיתיו 2014). ML 6.2 לפי שפירא, אבני ונור 1993 ובן-מנחם ועמיתיו 1976. 6.3 לפי מיגובסקי ועמיתיו 2004. זוהר ועמיתיו 2016 מחשבים ממוצע 6.25. קטלוג ISC-GEM נותן Mw 6.3 (לא נבדק בקטלוג)."
     },
     "impact": {
       "deaths": 285,
-      "deaths_note": null,
+      "deaths_note": "285 לפי דוח ממשלת המנדט, כפי שהביא אותו אבני 1999 (לא נבדק במקור). זוהר ועמיתיו 2016: \"כ-300 נפגעים\". מקורות משניים מאוחרים מביאים עד 400 ועד 500.",
       "injured": 940,
       "places": [
         "ירושלים",
         "יריחו",
+        "שכם",
         "רמלה",
         "לוד",
         "טבריה",
-        "שכם"
+        "חברון",
+        "בית לחם",
+        "א-סלט",
+        "עמאן",
+        "כרך"
       ]
     },
     "evidence": {
@@ -1033,23 +1604,70 @@
     },
     "sources": [
       {
-        "label": "ויקיפדיה: רעידת האדמה בארץ ישראל (1927)",
+        "label": "M. Zohar, R. Rubin, A. Salamon, \"Earthquake damage and repair: new evidence from Jerusalem on the 1927 Jericho earthquake\", Seismological Research Letters 85(4) (2014), pp. 912–922",
+        "url": "https://doi.org/10.1785/0220140009"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Reappraised list of historical earthquakes that affected Israel and its close surroundings\", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני",
+        "url": "https://doi.org/10.1007/s10950-016-9575-7"
+      },
+      {
+        "label": "M. Zohar, A. Salamon, R. Rubin, \"Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns\", Tectonophysics 696–697 (2017), pp. 1–13",
+        "url": "https://doi.org/10.1016/j.tecto.2016.12.015"
+      },
+      {
+        "label": "A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, \"Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling\", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני",
+        "url": "https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/"
+      },
+      {
+        "label": "רון אבני, רעידת האדמה של שנת 1927: מחקר מאקרוסייסמי על בסיס מקורות התקופה, עבודת דוקטור, אוניברסיטת בן-גוריון, 1999 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "A. Shapira, R. Avni, A. Nur, \"A new estimate for the epicenter of the Jericho earthquake of 11 July 1927\", Israel Journal of Earth Sciences 42 (1993), pp. 93–96 (TODO: לבדוק במקור)",
+        "url": "http://zadok.org/research/1927/new-epicenter.html"
+      },
+      {
+        "label": "R. Avni, D. Bowman, A. Shapira, A. Nur, \"Erroneous interpretation of historical documents related to the epicenter of the 1927 Jericho earthquake in the Holy Land\", Journal of Seismology 6(4) (2002), pp. 469–476 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1023/A:1021191824396"
+      },
+      {
+        "label": "M. Zohar and S. Marco, \"Re-estimating the epicenter of the 1927 Jericho earthquake using spatial distribution of intensity data\", Journal of Applied Geophysics 82 (2012), pp. 19–29 (TODO: לבדוק במקור)",
+        "url": "https://doi.org/10.1016/j.jappgeo.2012.03.004"
+      },
+      {
+        "label": "M. Vered and H. L. Striem, \"A macroseismic study and the implications of structural damage of two recent major earthquakes in the Jordan Rift\", Bulletin of the Seismological Society of America 67(6) (1977), pp. 1607–1613 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "B. Willis, \"Earthquakes in the Holy Land\", Bulletin of the Seismological Society of America 18 (1928), pp. 72–103 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "ISC, ISC-GEM Global Instrumental Earthquake Catalogue (1900–2009), גרסה 2.0, 2015, אירוע 909378 (TODO: לבדוק בקטלוג)",
+        "url": "http://www.isc.ac.uk/iscgem/index.php"
+      },
+      {
+        "label": "רון אבני, דן באומן, אבי שפירא ועמוס נור, \"מיקום רעידת האדמה של ה-11 יולי 1927 בארץ ישראל – אנטומיה של טעות\", אופקים בגאוגרפיה 53 (2001), עמ׳ 85–94 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "דואר היום, 12 ביולי 1927, \"רעש גדול בארץ ישראל\", עמ׳ 2 (TODO: לבדוק במקור)"
+      },
+      {
+        "label": "לקריאה נוספת: ויקיפדיה, רעידת האדמה בארץ ישראל (1927)",
         "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_בארץ_ישראל_(1927)"
       },
       {
-        "label": "רון אבני, רעידת האדמה של שנת 1927: מחקר מאקרוסייסמי על בסיס מקורות התקופה, אוניברסיטת בן-גוריון, 1999 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "רון אבני, דן באומן, אבי שפירא ועמוס נור, \"מיקום רעידת האדמה של ה-11 יולי 1927 בארץ ישראל – אנטומיה של טעות\", אופקים בגאוגרפיה 53 (2001), עמ׳ 85–94 (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
-      },
-      {
-        "label": "דואר היום, 12 ביולי 1927, \"רעש גדול בארץ ישראל\" (מצוטט בוויקיפדיה. TODO: לבדוק במקור)"
+        "label": "לקריאה נוספת: ויקיפדיה האנגלית, 1927 Jericho earthquake",
+        "url": "https://en.wikipedia.org/wiki/1927_Jericho_earthquake"
       }
     ],
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
-      "נקלטה ב-79 תחנות סייסמוגרפיות, לפי הערך."
+      "תיקון: בגרסה הקודמת נכתב שזוהר, רובין וסלמון (2014) מביאים יותר מ-130 הרוגים בירושלים, 60 בשכם ו-32 בא-סלט. המאמר נקרא במלואו ואין בו מספרים כאלה. לגבי ירושלים הוא כותב \"כמה הרוגים, פצועים רבים וכמה מאות חסרי בית\" (עמ׳ 912). זוהר ועמיתיו 2017 (עמ׳ 11), לפי אבני 1999: בשכם עשרות הרוגים, בירושלים הרוג אחד. המספר \"יותר מ-130 בירושלים\" (ויקיפדיה האנגלית, בלי מקור) הוסר.",
+      "magnitude: value שונה מ-6.3 (Mw, ISC-GEM, דרך ויקיפדיה האנגלית) ל-6.25 (ML), לפי אבני 1999 כפי שמביאים זוהר ועמיתיו 2014 (עמ׳ 912) וזוהר ועמיתיו 2016 (טבלה 3). ה-Mw 6.3 מוזכר בהערה. החלטה לנדב: איזה ערך להציג בכותרת.",
+      "time_local שונה מ-15:03:55 ל-15:04, לפי זוהר ועמיתיו 2014 (עמ׳ 912) וזוהר ועמיתיו 2016 (טבלה 3). בנספח של סלמון ועמיתיו 2007: 13:04, בשעון גריניץ׳. 15:03:55 לפי ה-ISS הגיע דרך ויקיפדיה העברית ולא נבדק.",
+      "location.lat/lon נשארו null: בטקסטים שנקראו אין קואורדינטות מפורשות של המוקד. זוהר ועמיתיו 2014 כותבים רק שירושלים נמצאת כ-30 ק\"מ ממערב למוקד. לבדוק ב-Shapira et al. 1993, ב-Zohar & Marco 2012 ובקטלוג ISC-GEM.",
+      "נוסף פרק על עוגני הברזל בירושלים (זוהר, רובין וסלמון 2014), על שכבות משקע בים המלח (זוהר ועמיתיו 2016, נספח) ועל הגל בים המלח (סלמון ועמיתיו 2007). evidence.archaeology נשאר false: עוגני הברזל הם עדות לתיקונים בבניינים, לא ממצא חפירה. החלטה לנדב.",
+      "places: נוספו חברון, בית לחם, עמאן וכרך לפי זוהר ועמיתיו 2016 (טבלה 3) ו-2017 (עמ׳ 11)."
     ]
   }
 ]

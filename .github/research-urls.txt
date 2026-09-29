@@ -1,0 +1,13 @@
+# slug url  (run 3: deadseaquake per-event pages and open PDFs)
+dsq-amos http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/AmosQuakes.html
+dsq-josephus-31bce http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/JosephusQuake.html
+dsq-eusebius-130 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html
+dsq-trajan-115 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/TrajanQuake.html
+dsq-sabbatical-749 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/SabbaticalYearQuakes.html
+dsq-11th-century http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/11thCenturyCEPalestineQuakes.html
+dsq-1068 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1068CEQuakes.html
+dsq-1759 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1759CEBaalbeAndSafedQuakes.html
+dsq-1834 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html
+dsq-1837 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1837CESafedQuake.html
+karcz2004-pdf https://www.annalsofgeophysics.eu/index.php/annals/article/view/3334/3380
+ambraseys1997-1837 https://www.annalsofgeophysics.eu/index.php/annals/article/view/3887

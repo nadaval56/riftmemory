@@ -68,6 +68,19 @@
     else if (bounds.length === 1) map.setView(bounds[0], 8);
   }
 
+  // מצב כהה/בהיר: מחליף בין שני המצבים, וזוכר את הבחירה בדפדפן בלבד.
+  var toggle = document.querySelector("[data-theme-toggle]");
+  if (toggle) {
+    toggle.addEventListener("click", function () {
+      var root = document.documentElement;
+      var dark = root.dataset.theme
+        ? root.dataset.theme === "dark"
+        : window.matchMedia("(prefers-color-scheme: dark)").matches;
+      root.dataset.theme = dark ? "light" : "dark";
+      try { localStorage.setItem("riftmemory.theme", root.dataset.theme); } catch (e) {}
+    });
+  }
+
   window.addEventListener("load", function () {
     if (!window.L) return;
     document.querySelectorAll(".map[data-map]").forEach(initMap);

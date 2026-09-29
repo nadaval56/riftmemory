@@ -1,0 +1,45 @@
+# משיכת מחקרים לבדיקת עובדות. מופעל ב-push של .github/research-urls.txt
+# ל-branch שאינו main. הפלט מוצפן (openssl cms) למפתח הציבורי ב-.github/research-cert.pem,
+# ונשמר ב-data/raw/research/ על אותו branch. רק מי שמחזיק במפתח הפרטי יכול לקרוא.
+name: research
+
+on:
+  push:
+    branches-ignore: [main]
+    paths: [.github/research-urls.txt]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: |
+          sudo apt-get install -y -qq poppler-utils >/dev/null
+          pip install -q requests
+      - run: python scripts/fetch_research.py research-out
+      - name: encrypt
+        run: |
+          mkdir -p data/raw/research
+          for f in research-out/*; do
+            openssl cms -encrypt -binary -aes256 -outform DER -in "$f" \
+              -out "data/raw/research/$(basename "$f").enc" .github/research-cert.pem
+          done
+          ls -la data/raw/research | head -50
+      - name: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/raw/research
+          if git diff --cached --quiet; then echo "no changes"; else
+            git commit -m "research: מקורות מוצפנים"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
