@@ -187,10 +187,12 @@ def write(path, html):
     path.write_text(html, encoding="utf-8")
 
 
-def map_data(events, live, segments, focus=False):
-    """focus: מפה של דף רעידה בודדת. המבט כולל את הרעידה גם כשהיא רחוקה."""
+def map_data(events, live, segments, focus=False, highlight=None):
+    """focus: מפה של דף רעידה בודדת. המבט כולל את הרעידה גם כשהיא רחוקה.
+    highlight: מזהה המקטע של הרעידה. המקטע מודגש והמבט מתמקד בו."""
     return {
         "focus": focus,
+        "highlight": highlight,
         "segments": [
             {"id": s["id"], "name": s["name_he"] + (" (טיוטה, טרם אושר)" if s.get("draft") else ""),
              "note": s.get("note_he"), "lines": s["lines"], "draft": bool(s.get("draft"))}
@@ -300,7 +302,8 @@ def build(drafts=False):
             page_path=path,
             e=e,
             by_id=by_id,
-            map_data=map_data([e], dict(live, events=e["live_nearby"]), segments, focus=True),
+            map_data=map_data([e], dict(live, events=e["live_nearby"]), segments, focus=True,
+                              highlight=e["location"].get("segment") if e["segment_name"] and e["location"].get("segment") != echo.DISTANT else None),
         ))
         if e["status"] == "published":
             pages.append(path)

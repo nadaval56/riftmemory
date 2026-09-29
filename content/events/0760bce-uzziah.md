@@ -40,9 +40,9 @@ evidence:
   archaeology: true
   instrumental: false
 sources:
-- label: 'ספר עמוס א, א; ספר זכריה יד, ה; ספר מלכים ב טו, לה; ספר דברי הימים ב כו, טז–כג וכז, ג; ישעיהו ו, ד (נוסח המקרא לפי Sefaria)'
+- label: 'ספר עמוס א, א; ספר זכריה יד, ה; ספר מלכים ב טו, לה; ספר דברי הימים ב כו, טז–כג וכז, ג; ישעיהו ו, ד'
   url: https://www.sefaria.org/Amos.1.1
-- label: 'אבות דרבי נתן, נוסח א, פרק ט; מדרש תנחומא, נח יג וצו יג; רש״י ואבן עזרא על עמוס א, א (לפי Sefaria)'
+- label: 'אבות דרבי נתן, נוסח א, פרק ט; מדרש תנחומא, נח יג וצו יג; רש״י ואבן עזרא על עמוס א, א'
   url: https://www.sefaria.org/Rashi_on_Amos.1.1
 - label: 'יוסף בן מתתיהו, קדמוניות היהודים ט, י, ד, בתרגום האנגלי של William Whiston (1737), Project Gutenberg'
   url: https://www.gutenberg.org/ebooks/2848
@@ -73,6 +73,7 @@ sources:
 status: draft
 reviewed_by: null
 review_notes:
+- 'לבקשת נדב (ספטמבר 2026): שם ה'' בציטוטים הוחלף בכינוי (ה׳). ההפניות לספריא הן קישור ישיר מהמקור, בלי ''לפי Sefaria''.'
 - 'מאוחד משני ערכים: ''הרעש בימי עוזיהו'' (בקירוב 760 לפנה"ס) ו''רעידת האדמה בארץ ישראל בשנת 750 לפנה"ס'', שקושר את הרעידה לעמוס. זוהר ואחרים (2016) מתייחסים לשניהם כאירוע אחד (c. 760–750 BCE), ולכן האיחוד נתמך במחקר. לאשר.'
 - 'lat/lon ו-segment נשארו null. זוהר ואחרים (2016, נספח A, רשומה 1) משייכים את הרעידה לאזור C (ישראל ודרום לבנון), וזו אינה הגדרת מקטע. Austin ואחרים (2000) מציעים את בקעת הלבנון, ובן-מנחם את אזור חצור. אין הכרעה.'
 - 'year_range (760–750) נתמך עכשיו במקור: זוהר ואחרים 2016 נותנים c. 760–750 BCE עם אי-ודאות של 10 שנים (נספח A, רשומה 1; טבלה 3).'
@@ -129,7 +130,7 @@ review_notes:
 
 זה סיפור, לא דיווח. זוהר וחבריו, בעקבות אמברייזיס (2009), מסווגים עדויות כאלה כמקורות משניים מאוחרים שאי אפשר לאמת.[^zoharA]
 
-**יותם.** על בנו של עוזיהו כתוב במלכים: "הוּא בָּנָה אֶת־שַׁעַר בֵּית־יְהֹוָה הָעֶלְיוֹן", ובדברי הימים נוסף: "וּבְחוֹמַת הָעֹפֶל בָּנָה לָרֹב".[^kings][^chron27] יש מי שרואה בכך עדות עקיפה לתיקון נזקי הרעש.[^shilo] הפסוקים עצמם אינם מזכירים רעידה, ולכן זו פרשנות בלבד. פרשנים קשרו לרעש גם פסוקים נוספים בישעיהו ובמיכה, והמסורת מופיעה גם אצל הירונימוס בפירושיו לעמוס ולזכריה.[^shilo]
+**יותם.** על בנו של עוזיהו כתוב במלכים: "הוּא בָּנָה אֶת־שַׁעַר בֵּית־ה׳ הָעֶלְיוֹן", ובדברי הימים נוסף: "וּבְחוֹמַת הָעֹפֶל בָּנָה לָרֹב".[^kings][^chron27] יש מי שרואה בכך עדות עקיפה לתיקון נזקי הרעש.[^shilo] הפסוקים עצמם אינם מזכירים רעידה, ולכן זו פרשנות בלבד. פרשנים קשרו לרעש גם פסוקים נוספים בישעיהו ובמיכה, והמסורת מופיעה גם אצל הירונימוס בפירושיו לעמוס ולזכריה.[^shilo]
 
 ## מה נמצא באדמה
 
@@ -157,8 +158,8 @@ review_notes:
 
 ## מקורות וקריאה נוספת
 
-- ספר עמוס, ספר זכריה, ספר מלכים ב, ספר דברי הימים ב, ספר ישעיהו (נוסח לפי [Sefaria](https://www.sefaria.org/Amos.1.1)).
-- אבות דרבי נתן; מדרש תנחומא; רש״י ואבן עזרא על עמוס (לפי Sefaria).
+- [ספר עמוס](https://www.sefaria.org/Amos.1.1), [ספר זכריה](https://www.sefaria.org/Zechariah.14.5), [ספר מלכים ב](https://www.sefaria.org/II_Kings.15.35), [ספר דברי הימים ב](https://www.sefaria.org/II_Chronicles.26.16-23), [ספר ישעיהו](https://www.sefaria.org/Isaiah.6.4).
+- [אבות דרבי נתן](https://www.sefaria.org/Avot_D'Rabbi_Natan.9); [מדרש תנחומא](https://www.sefaria.org/Midrash_Tanchuma,_Noach.13); [רש״י](https://www.sefaria.org/Rashi_on_Amos.1.1) ו[אבן עזרא](https://www.sefaria.org/Ibn_Ezra_on_Amos.1.1) על עמוס.
 - Flavius Josephus, *The Antiquities of the Jews*, translated by William Whiston (1737), [Project Gutenberg](https://www.gutenberg.org/ebooks/2848).
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985.
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns", *Tectonophysics* 696–697 (2017), pp. 1–13.
@@ -170,15 +171,15 @@ review_notes:
 - J. Uziel and O. Chalaf, *City of David Studies of Ancient Jerusalem* 16 (2021), pp. 51–69.
 - Johanna Regev ואחרים, "Radiocarbon chronology of Iron Age Jerusalem reveals calibration offsets and architectural developments", *PNAS* 121 (2024).
 
-[^amos]: ספר עמוס א, א, לפי [Sefaria](https://www.sefaria.org/Amos.1.1) (בלי טעמים). ראו גם Zohar, Salamon and Rubin 2016, נספח A, רשומה 1, עמ׳ 1.
-[^zech]: ספר זכריה יד, ה, לפי [Sefaria](https://www.sefaria.org/Zechariah.14.5) (בלי טעמים). על הקריאה "וְנִסְתַּם" ראו ההערה לתרגום JPS שם (ב-Sefaria), המייחסת אותה לתרגום הארמי, לתרגום השבעים ולכתב יד עברי עתיק.
-[^chron26]: ספר דברי הימים ב כו, טז–כא, לפי [Sefaria](https://www.sefaria.org/II_Chronicles.26.16-23).
-[^chron27]: ספר דברי הימים ב כז, ג, לפי [Sefaria](https://www.sefaria.org/II_Chronicles.27.3).
-[^kings]: ספר מלכים ב טו, לה, לפי [Sefaria](https://www.sefaria.org/II_Kings.15.35).
-[^tanchumanoach]: מדרש תנחומא, נח יג, לפי [Sefaria](https://www.sefaria.org/Midrash_Tanchuma,_Noach.13) (בלי ניקוד). משפט כמעט זהה ("באותה שעה נבקע היכל אילך ואילך שנים עשר מיל על שנים עשר מיל") מופיע באבות דרבי נתן, נוסח א, פרק ט, לפי [Sefaria](https://www.sefaria.org/Avot_D'Rabbi_Natan.9). בשני המקורות המילה "רעש" אינה מופיעה.
-[^tanchumatzav]: מדרש תנחומא, צו יג, לפי [Sefaria](https://www.sefaria.org/Midrash_Tanchuma,_Tzav.13) (בלי ניקוד). הפסוק "וינועו אמות הספים" הוא ישעיהו ו, ד.
-[^rashi]: רש״י על עמוס א, א, לפי [Sefaria](https://www.sefaria.org/Rashi_on_Amos.1.1) (בלי ניקוד). רש״י מביא לראיה את ישעיהו ו, ד ואת זכריה יד, ה.
-[^ibnezra]: אבן עזרא על עמוס א, א, לפי [Sefaria](https://www.sefaria.org/Ibn_Ezra_on_Amos.1.1).
+[^amos]: [ספר עמוס א, א](https://www.sefaria.org/Amos.1.1). ראו גם Zohar, Salamon and Rubin 2016, נספח A, רשומה 1, עמ׳ 1.
+[^zech]: [ספר זכריה יד, ה](https://www.sefaria.org/Zechariah.14.5). על הקריאה "וְנִסְתַּם" ראו ההערה לתרגום JPS שם, המייחסת אותה לתרגום הארמי, לתרגום השבעים ולכתב יד עברי עתיק.
+[^chron26]: [ספר דברי הימים ב כו, טז–כא](https://www.sefaria.org/II_Chronicles.26.16-23).
+[^chron27]: [ספר דברי הימים ב כז, ג](https://www.sefaria.org/II_Chronicles.27.3).
+[^kings]: [ספר מלכים ב טו, לה](https://www.sefaria.org/II_Kings.15.35).
+[^tanchumanoach]: [מדרש תנחומא, נח יג](https://www.sefaria.org/Midrash_Tanchuma,_Noach.13). משפט כמעט זהה ("באותה שעה נבקע היכל אילך ואילך שנים עשר מיל על שנים עשר מיל") מופיע ב[אבות דרבי נתן, נוסח א, פרק ט](https://www.sefaria.org/Avot_D'Rabbi_Natan.9). בשני המקורות המילה "רעש" אינה מופיעה.
+[^tanchumatzav]: [מדרש תנחומא, צו יג](https://www.sefaria.org/Midrash_Tanchuma,_Tzav.13). הפסוק "וינועו אמות הספים" הוא ישעיהו ו, ד.
+[^rashi]: [רש״י על עמוס א, א](https://www.sefaria.org/Rashi_on_Amos.1.1). רש״י מביא לראיה את ישעיהו ו, ד ואת זכריה יד, ה.
+[^ibnezra]: [אבן עזרא על עמוס א, א](https://www.sefaria.org/Ibn_Ezra_on_Amos.1.1).
 [^jos]: יוסף בן מתתיהו, קדמוניות היהודים ט, י, ד. תרגום שלנו מהתרגום האנגלי של Whiston (1737), [Project Gutenberg](https://www.gutenberg.org/ebooks/2848). "ארוגה" הוא התעתיק של Whiston (Eroge); "ארבעה ריס" מתרגם את four furlongs.
 [^zohar975]: Motti Zohar, Amos Salamon and Rehav Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985, עמ׳ 975.
 [^zohar978]: Zohar, Salamon and Rubin 2016, טבלה 3, עמ׳ 978: 7.8 עד 8.2 (Austin, Franz and Frost 2000), 8.2 (Ben-Menahem 1979), 7.3 (Ben-Menahem 1991).
