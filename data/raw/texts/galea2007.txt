@@ -1,0 +1,796 @@
+                          ANNALS OF GEOPHYSICS, VOL. 50, N. 6, December 2007
+
+
+
+
+       Seismic history of the Maltese islands
+        and considerations on seismic risk
+                                               Pauline Galea
+                             Physics Department, University of Malta, Msida, Malta
+
+
+
+
+Abstract
+A historical catalogue of felt earthquakes in the Maltese islands has been compiled dating back to 1530. Al-
+though no fatalities were officially recorded during this time as a direct consequence of earthquake effects, se-
+rious damage to buildings occurred several times. In the catalogue time period, the islands experienced EMS-98
+intensity VII-VIII once (11 January 1693) and intensity VII, or VI-VII five times. The northern segment of the
+Hyblean-Malta plateau is the source region which appears to pose the greatest threat, although large Greek
+events and lower magnitude Sicily Channel events also produced damage. Estimates of return periods for inten-
+sity ≥V are presented, and it is shown that expected peak ground accelerations justify the implementation of, at
+least, minimum anti-seismic provisions. The rapid and continual increase in the local building stock on the
+densely-populated islands warrants the implementation of an appropriate seismic building code to be enforced.
+
+
+
+
+Key words Maltese islands – historical earth-                   earthquake phenomena are mild and infrequent.
+quakes – earthquake catalogue – return periods –                This is probably due to the fact that no loss of
+seismic risk                                                    life has ever been documented as a direct result
+                                                                of earthquake activity, and the last occurrence
+                                                                of serious damage to buildings was almost a
+1. Introduction                                                 century ago. As a result, a comprehensive study
+                                                                on the effects of past earthquakes was not de-
+    The Maltese archipelago consists of three                   veloped and hence the compilation of a histori-
+main islands – Malta, Gozo and Comino, with a                   cal seismic catalogue, as a first step towards a
+total land area of 316 km2. The present popula-                 seismic hazard assessment, has never been sci-
+tion is around 400 000. The main Euro-African                   entifically undertaken.
+plate collision margin passes about 200 km to
+the north in Sicily and along the Hellenic Arc to
+the east, while the seismically active Hyblean-                 2. Seismotectonic framework
+Malta Escarpment is situated about 100 km to
+the east. Despite this scenario, a culture of seis-                 The Maltese islands lie in the Sicily Channel
+mic risk awareness has never really been devel-                 on a relatively stable plateau of the African fore-
+oped in the country, and the public perception is               land, the Pelagian Platform, about 200 km south
+that the islands are relatively safe, and that any              of the convergent segment of the Europe-Africa
+                                                                plate boundary that runs through Sicily. The
+                                                                Pelagian Platform forms a shallow shelf separat-
+                                                                ing the deep Ionian Basin from the Western
+    Mailing address: Dr. Pauline Galea, Physics Depart-
+                                                                Mediterranean. Its sea-bed topography is charac-
+ment, University of Malta, Msida, Malta; e-mail: pauli-         terised mainly by the NW trending Pantelleria
+ne.galea@um.edu.mt                                              Rift, or Sicily Channel Rift Zone (SCRZ) – a
+
+                                                          725
+                                                Pauline Galea
+
+
+
+
+Fig. 1. Bathymetry of the Sicily Channel and main tectonic features of the Sicily Channel Rift Zone-bounding
+normal faults and strike-slip lineaments (modified after Reuther and Eisbacher, 1985 and Reuther, 1990). Also
+shown are the Calabrian Arc subduction zone and epicentre of the 11/01/1693 earthquake (Boschi et al., 2000).
+Inset shows the Maltese islands.
+
+
+system that features three grabens of Miocene-              the Medina Wrench, a more than 800 km long
+Pliocene age (Pantelleria Graben, Malta Graben              dextral transform fault which extends from the
+and Linosa Graben) in which the water depth                 Sicily channel to the eastern end of the Medina
+reaches a maximum of around 1700 m (Reuther                 Ridge, 200 km southeast of Malta. The wrench
+and Eisbacher, 1985) (fig. 1). The grabens are              fault is interpreted as forming the southern
+governed by a fault system that extends through-            boundary of the Iblean microplate. The grabens
+out the Sicily Channel from Southern Sicily to              themselves are bounded by normal faults, trend-
+Tunisia and which has also been responsible for             ing mainly NW-SE, whereas a set of E-W trend-
+the major tectonic and geomorphological devel-              ing features represent reactivated faults that now
+opment of the Maltese islands (Illies, 1981). The           act as dextral transforms controlling the rift ex-
+SCRZ has been interpreted in different ways, as             tension (Reuther and Eisbacher, 1985). The Mal-
+a set of pull-apart grabens (Reuther and Eisbach-           ta Escarpment is a major geomorphological fea-
+er, 1985; Reuther, 1990) and as the result of a             ture separating the Hyblean-Malta plateau from
+simple N-S extension regime related to Tyrrhen-             the deep Ionian Basin. It exhibits normal fault-
+ian back-arc spreading (Argnani, 1990). Jongs-              ing, with a minor sinistral strike slip component
+ma et al. (1987) interpret the rift zone as part of         (Grasso et al., 1985; Reuther et al., 1993).
+
+                                                      726
+                      Seismic history of the Maltese islands and considerations on seismic risk
+
+
+
+   The islands themselves are made up of an                   ly through an older NE-SW trending fault set,
+Oligocene-Miocene shallow water sedimentary                   while a more recent steeply-dipping normal fault
+sequence of carbonates and clays. The layer se-               trending NW-SE along the southern coast of
+quence is intensely faulted and disrupted, main-              Malta is the most prominent onshore expression
+
+
+
+
+Fig. 2. Distribution of local magnitudes for earthquakes within 100 km of Maltese islands, 1995-present.
+
+
+
+
+Fig. 3. More reliably located seismicity, 1990-2003 (from Said, 1997; Zammit, 2003).
+
+                                                        727
+                                               Pauline Galea
+
+
+
+of the similarly trending normal faults bounding           historical information about the effects of the
+the grabens of the SCRZ (Illies, 1981; Reuther             1169 earthquake on Malta has been found.
+and Eisbacher, 1985).                                          The magnitude 5.4 event of 13 December
+    Knowledge of the seismicity on the Sicily              1990 (felt locally, I=IV) is also attributed to
+Channel Rift zone has always suffered from poor            this source region (Amato et al., 1995) but hav-
+epicentral location accuracy, especially in the            ing a strike-slip mechanism, either along a N-S
+case of earthquakes occurring to the south of the          fault of the escarpment, or along an E-W tran-
+Maltese islands. This is due to inadequate net-            scurrent fault offsetting the same escarpment.
+work coverage, especially before the 1980s, as             Recently, on the 24th November 2006, a well-
+well as the generally small magnitude of the               located magnitude 4.6 event occurred on a more
+events. Figure 2 shows the distribution of local           southerly segment of the Malta escarpment
+magnitudes as measured at station WDD (Malta)              (36.23N, 15.80E), (Bollettino Sismico Italiano,
+for events within a 100km radius, for the period           INGV) at a distance of 120 km from Valletta,
+1995-present. The magnitudes peak at around                and was widely felt on the Maltese islands. This
+3.0. Figure 3 shows the seismicity which has               event also had a left-lateral strike slip mecha-
+been more reliably located in recent years, either         nism along a N-S trending fault (TDMT Cata-
+by including individual event phase data from              logue, INGV).
+the Tunisian seismic network (Said, 1997; Zam-
+mit, 2003), or by considering events located by
+INGV that include WDD in their routine location            3. Site catalogue
+procedure.
+    In a deterministic sense, the seismic source               The first step in dealing with the problem of
+area that poses the greatest hazard to the Mal-            seismic hazard assessment is the compilation of
+tese islands is probably the northern end of the           a historical earthquake catalogue. There are a
+Malta escarpment, which appears to have the                number of difficulties that are inherent to estab-
+potential of generating the largest earthquakes            lishing an earthquake catalogue for a small is-
+in the region. This is the most probable source            land for the pre-instrumental period. Although a
+region of the 11 January 1693 event, that has              number of felt events can definitely be attrib-
+caused the maximum intensity on the Maltese                uted to major earthquakes in Sicily or Southern
+islands since 1500. Although there are several             Greece, many others are due to offshore earth-
+interpretations in the literature regarding the            quakes with epicentres in the Sicily Channel. In
+precise source of the earthquake (e.g., Sirovich           such cases there is usually very scant spatial in-
+and Pettenati, 2001, who argue for an inland               formation, making it impossible to estimate an
+source on the Scicli Fault), it is most common-            epicentral location, especially if the event is re-
+ly associated with normal faulting on the es-              ported to be felt only on the Maltese islands. In
+carpment just offshore Augusta-Siracusa, e.g.,             some cases, a consistent change in intensity
+Azzaro and Barbano (2000); Piatanesi and Tin-              throughout the islands can be readily inferred
+ti (1998). These conclusions are based on                  from the documentation, enabling a good guess
+macroseismic effects as well as modelling of               to be made about the direction of the source. In
+tsunami run-up data. Gutscher et al. (2006) give           other cases, this is also unreliable. Moreover,
+yet an alternative source on the subduction fault          empirical relations for estimating magnitude
+plane of the Calabrian Arc, which they interpret           from epicentral or maximum intensity clearly
+to be locked, and rupturing with a periodicity of          cannot be applied in such cases, making it im-
+500 years, relating it to coseismic slip and the           possible to estimate magnitudes. Nevertheless,
+subduction velocity beneath the Calabrian Arc.             for the purpose of seismic hazard estimation it
+Both Azzaro and Barbano (2000) and Gutscher                is still useful to have a list of intensities of felt
+et al. (2006) interpret the other equally large            ground shaking going back to pre-instrumental
+event of 1169 as having the same source as that            times, together with a general estimate as to the
+of 1693. The 1169 event had produced a maxi-               seismic source area (see e.g., Albarello and
+mum intensity of XI in SE Sicily. To date, no              Mucciarelli, 2002).
+
+                                                     728
+                      Seismic history of the Maltese islands and considerations on seismic risk
+
+
+
+    The documented history of the Maltese is-                     The problems of beginning to compile a
+lands in an organised form dates back roughly to              first-time historical earthquake catalogue in an
+the arrival of the Knights of the Order of St. John           island state are well described, for example, by
+in 1530. Before this date some scant documenta-               Musson (2001) in the case of the Faroe islands.
+tion survives from the Spanish rule of the Mal-               The case of the Maltese islands turned out to be
+tese islands since the 14th century. From person-             somewhat easier because of a considerable
+al discussions with local historians, it appears              amount of archival research having already
+unlikely that any reference to major earthquake               been carried out by local historians, and also
+effects exists in these documents. The collections            because the proximity to Sicily means that sig-
+of documents are preserved in the National Li-                nificant earthquakes in the region would be well
+brary, Valletta (Archives of the Order of Malta,              documented there. The amount of archived ma-
+Melitensia), old Santo Spirito hospital, Rabat                terial is vast, and one must necessarily rely on
+(documents dating from early British Rule, for-               secondary sources as well as personal discus-
+merly part of the Palace Archives, Valletta), Md-             sions with historians and archivists to be able to
+ina (Cathedral Archives, Inquisition Archives),               state with enough confidence that, at least, no
+and at the Gozo Public Library, together with                 major damaging earthquake has been missed.
+other collections scattered at various centres,                   An excellent starting point for the compila-
+among them the Melitensia and Archives sec-                   tion of the catalogue was provided in the form
+tions of the University Library and Religious Or-             of an unpublished history dissertation entitled
+ders. Unfortunately, a large number of docu-                  «Earthquakes in Malta» (Abela, 1969). The au-
+ments dated between 1800 and 1846, in the                     thor carried out a detailed research of the
+British Colonial period, were destroyed in the                archives of the Order of Malta, the Cathedral
+1870s. It is also recorded (de Soldanis, 1746)                Archives, the archives of the Archbishop’s Cu-
+that a quantity of archives and documents were                ria and Notarial Archives, Valletta, as well as re-
+destroyed or removed from Gozo by the invading                searching most of the early texts describing the
+Turks in the 16th century.                                    history of the islands. The thesis reproduces
+    A number of early texts by Maltese authors                many local accounts, often very vivid descrip-
+describing in detail the history and natural his-             tions, of tremors and other effects, associated
+tory of the islands are also available, among                 religious practices, transactions, financial ac-
+them an early 20th century local publication by               counts, etc. As far as possible, the referred doc-
+Faure (1913) which gives a rudimentary cata-                  uments were re-read first hand, but in certain
+logue of natural phenomena experienced on the                 cases the quoted text in the thesis was taken as
+Maltese islands, including a list of felt earth-              the primary source. The thesis does not attempt
+quakes up to 1911. A number of the events in                  to attribute the effects to earthquakes of known
+this list can be correlated with major earth-                 origin, except perhaps for the major ones, such
+quakes in the Mediterranean, with good accura-                as that of 1693. It is the first aim of the present
+cy in the reporting of the dates and times of day,            catalogue to identify as many as possible of the
+thus making this publication a reasonably reli-               macroseismic events in terms of known earth-
+able source. .From the second half of the 19th                quakes.
+century, the best source of information regard-                   For the possible identification of pre-instru-
+ing the macroseimic effects of earthquakes was                mental earthquakes, use was made of several ex-
+found to be local newspapers, which began to                  isting catalogues, in particular the CPTI04
+be published around this time, in Italian and                 (Parametric Catalogue of Italian Earthquakes,
+English. The newspapers are kept on micro-                    Gruppo di Lavoro CPT, 2004), the CFTI4MED
+fiche at the National Library, Valletta and were              (Catalogue of Strong Italian Earthquakes,
+read first hand. The main newspapers referred                 Boschi et al., 2000), the DBMI04 (Macroseis-
+to are The Malta Times, L’Ordine, Il Portafoglio              mic Database for Italy, Stucchi et al., 2007),
+Maltese, The Malta Mail, Il Mediterraneo, Mal-                Guidoboni et al. (2005) (a catalogue of Mediter-
+ta, The Daily Malta Chronicle, The Times of                   ranean earthquakes 11C to 15C), Papazachos
+Malta, The Bullettin, The Sunday Times.                       et al. (2000) (Greek catalogue) and several pub-
+
+                                                        729
+                                                Pauline Galea
+
+
+
+lications, such as Boughacha et al. (2004)                   and magnitude) or at least an approximate dis-
+(strong Algerian earthquakes since the 18C). For             tance and azimuth from Malta. For earthquakes
+the instrumental period, the bulletins of the NE-            before this date, several events have been identi-
+IC, ISC, EMSC and INGV were used to identi-                  fied as occurring in Sicily, Southern Greece or
+fy felt earthquakes and were also thoroughly                 the Ionian Sea. However, there are a number of
+searched for events in the Central Mediter-                  other events that produced considerable macro-
+ranean, Southern Sicily and North Africa that                seismic effects but could not be traced to any for-
+could have been felt in Malta, then searching lo-            eign catalogue. From the above discussion, it is
+cal newspapers for any felt reports. Publications            reasonably safe to conclude that these «unidenti-
+about North African seismicity, such as Benouar              fied» events most likely originated along the nu-
+(1994) for the Maghreb, Benouar and Laradi                   merous offshore fault systems in the Sicily
+(1996) and Suleiman and Doser (1995) for                     Channel, and including the southern segment of
+Libya were also searched. None of the large                  the Malta escarpment to the east. It should be
+earthquakes along the Maghreb coast and Libya                said that such events are now routinely recorded
+appear to have been felt on Malta, except for the            and located instrumentally, and occasionally also
+19 April 1935, M 7.1 earthquake in Libya, which              felt. Thus although no epicentral location can be
+was «slightly felt» by some people in Malta,                 assigned to these earthquakes, they have been la-
+with no effects (Malta, 20/04/1935). The Jijeli              belled as «Sicily Channel» events.
+earthquake of 21 August 1856, described by                       Intensities have been assigned according to
+Ambraseys (1982) as in many respects similar to              the European Macroseismic Scale, EMS-98
+the Ms 7.3 El-Asnam earthquake of 1980, was                  (Grunthal, 1998). The majority of buildings de-
+felt as far as Genoa and Spain, but no mention of            scribed in the historical accounts and consid-
+it being felt in Malta was found in the newspa-              ered for evaluating macroseismic effects, are
+pers. It is unlikely that any significant effects on         masonry structures using manufactured local
+Malta can be attributed to earthquakes onshore               stone blocks, and fall into vulnerability class B
+the North African coasts. This is in contrast with           or C. In some cases, the documents specifically
+large earthquakes along the Hellenic Arc, which              referred to dilapidated buildings being dam-
+have produced serious damage on Malta even                   aged, or collapsed, and these are considered to
+from distances greater than 1000 km (see later               be of vulnerability class A. In this work, only
+discussion).                                                 one intensity value is given for the whole is-
+    Felt events from 1929 onwards have almost                lands. However there are a few cases in which
+all been assigned source parameters (epicentre               there is a distinct attenuation of intensity from
+
+
+
+
+Fig. 4. Site seismic history for the Maltese islands since 1500, showing EMS-98 I≥ IV.
+
+                                                       730
+                      Seismic history of the Maltese islands and considerations on seismic risk
+
+
+
+Table I. Subset of felt earthquake catalogue, showing only events that produced EMS-98 I=V and over on the
+Maltese islands.
+
+Year Month Day       Hour       Lat      Long      Region Imax on Maltese Io            M             Parameter
+                                                               islands                                reference
+
+1542   12      10    15:15     37.20    14.90      E. Sicily       VII         XI    Mw 6.6       Gruppo di Lavoro
+                                                                                                    CPTI (2004)
+1562    3      8    Morning                     Sicily              V?
+                                               Channel?
+1636    9      1                                Sicily              V?
+                                              Channel(?)
+1693    1      11    13:30     37.18    15.02 E. Sicily          VII-VIII      XI    Mw 7.4       Boschi et al. (2000)
+1743    2      20    16:30     39.87    18.78 Ionian Sea           VII         IX    Mw 6.9        Gruppo di Lavoro
+                                                                                                     CPTI (2004)
+1789    1      19   Morning                     Sicily              V?
+                                              Channel(?)
+1793    2      26   Morning                     Sicily              V?
+                                              Channel?
+1848    1      11    12:00     37.20    15.20 E. Sicily             V       VIII-IX Mw 5.5    Gruppo di Lavoro
+                                                                                                 CPTI (2004)
+1856   10      12    00:45     35.60     26.00     Crete            VII              Mw 7.7 Papazachos et al. (2000)
+1861   2       8     23:45                         Sicily           V?
+                                                 Channel(?)
+1886    8      15    02:45                         Sicily           V
+                                                 Channel(?)
+1886    8      27    22:00     37.00     27.20   Aegean Sea       VI-VII       XI    Mw 7.3 Papazachos et al. (2000)
+1911    9      30    09:25     36.4?     13.5?     Sicily          VII
+                                                  Channel
+1923    9      18    07:30     35.5?     14.5?     Sicily           VI                                ISC (2001)
+                                                  Channel
+1926    6      26    19:46     36.50     27.50   Aegean Sea         V                Mw 7.6 Papazachos et al. (2000)
+1972    3      21    23:06     35.80     15.00     Sicily           V                Mb 4.5       ISC (2001)
+                                                  Channel
+
+
+
+
+one side of the islands to the other, for example              the state of constructions in certain localities
+in the 1911 event which was probably located                   (for example, the city of Mdina dated back to
+to the west of Gozo. In these cases, the intensi-              mediaeval times at the time of the 1693 earth-
+ty given here is the one estimated in the area of              quake), and the fact that some reports (e.g., in
+highest effect.                                                Faure, 1913) were very scant, and only men-
+    As usually occurs, many historical reports,                tioned «damage» with no further details, and
+especially in the Ecclesiastical archives, were                for which no other reference was found.
+found to emphasise mainly damage to churches                       The site catalogue contains close to 100
+and cathedrals. Although damage to residential                 events which have produced effects of intensity
+buildings is often mentioned, it is sometimes                  ≥ II in the Maltese islands since 1530. Howev-
+difficult to guess the proportion of houses that               er this includes events which form part of earth-
+suffered such damage. Other uncertainties in-                  quake sequences or swarms, sometimes lasting
+volved in assigning the intensity values were                  several weeks, that appear to be characteristic
+
+                                                        731
+                                                Pauline Galea
+
+
+
+of Sicily Channel seismicity. For example, a se-                 11 January 1693 – This earthquake caused
+quence of more than 6 shocks was felt in March               over 60000 deaths in Eastern Sicily, together
+1710 (Archivio Segreto Vaticano, vol. 61),                   with total destruction of several towns and vil-
+while 16 shocks were felt during August 1886                 lages in this region (Azzaro et al., 1999; Boschi
+alone (Malta, 16, 17, 18, 21/08/1886). The cat-              et al., 2000). Locally, this was the most damag-
+alogue, for intensities ≥ IV, is illustrated in fig.         ing earthquake that has affected the Maltese is-
+4. A subset of the catalogue containing events               lands since 1500. It is extensively documented in
+with site intensity V and over is presented in               the Archives, and is also described in a contem-
+table I. The islands have experienced intensity              porary book by Shower (1693). The most impor-
+VII-VIII damage once in this period, and inten-              tant selections, relating to the earthquake dam-
+sity VII at least on four occasions.                         age, from the Archives of the Knights of Malta
+                                                             (AOM), the Cathedral Archives, records of the
+                                                             Universita’ and other archives of religious orders,
+4. Earthquake damage descriptions                            are reproduced in Abela (1969) and Ellul (1993)
+                                                             and referenced in detail. Ellul (1993) includes
+    In this section, earthquakes that produced               parts of the reports by a specially instituted com-
+significant damage are discussed individually. It            mission, which was instructed by the Order to
+should be said that the collection of archives in            carry out a detailed inspection and assessment of
+Malta and Gozo is extensive, and has by no                   the earthquake damage in Valletta and the nearby
+means been exhaustively searched. There are                  harbour cities of Cospicua, Vittoriosa and Sen-
+several single references to «strong» earthquakes            glea. The commission was accompanied by the
+that «caused damage», especially in Faure                    chief engineer of the Order, Mederico Blondel
+(1913), for which no primary sources have yet                and two Capo Mastri. Blondel also carried out an
+been encountered, and no other information is                earthquake damage inspection of the island of
+known. For these events, it is not possible to es-           Gozo and the city of Mdina. The earthquake was
+timate the intensity, so they have been listed with          strongly felt throughout the whole of the islands.
+a tentative intensity of V?. It is recognized that           There was general panic among the whole popu-
+further archival work needs to be done, even in              lation and most inhabitants spent a number of
+foreign collections, however this publication is             nights outside their homes, in tents or under-
+intended to provide a preliminary assessment                 ground shelters. No direct fatalities are officially
+and will possibly be updated in the future.                  recorded. The earthquake was preceded by a
+    10 December 1542 – This earthquake is re-                magnitude 5.9 foreshock on the 9 January which
+ported in Boschi et al. (2000) to have been felt in          was felt in Malta but produced no damage.
+the Maltese islands with an EMS intensity of                     In Valletta it is reported that there was not
+VII. This value is derived from a quotation in the           one house that did not need some repair. The fa-
+contemporary Chronaca Siciliana del Secolo                   cades of some major buildings were detached
+XVI that states that the earthquake was felt very            from the main structure, and needed immediate
+strongly in Malta and a few one-floor dwellings              repair, as they were in imminent danger of col-
+(casupole) collapsed. So far, a search of the local          lapse. Some churches suffered collapse of, or
+documents related to that period has not revealed            major damage to their domes and severe cracks
+any mention of this event, although it must be               in walls. A number of Valletta houses also suf-
+said that this was soon after the arrival of the Or-         fered seriously cracked walls and some had to be
+der and documents are still sparse. Pending fur-             demolished because they were in danger of col-
+ther evidence, the intensity value VII given by              lapse. In Vittoriosa, Senglea and Cospicua,
+Boschi et al. (2000) will be adopted. Azzaro and             across the Grand Harbour, the damage was much
+Barbano (2000) attribute this event to the Scor-             less than in Valletta. The reports are mainly lim-
+dia-Lentini graben fault (37.21N, 14.94E) with               ited to severe damage in church domes and
+an equivalent surface wave magnitude of 6.4, a               walls, some of which had to be demolished.
+rupture length of 16km and a normal displace-                    Serious damage was done to the old mediae-
+ment. The maximum intensity is given as X.                   val city of Mdina, on the island of Malta. Here
+
+                                                       732
+                      Seismic history of the Maltese islands and considerations on seismic risk
+
+
+
+the Cathedral suffered partial collapse and many                  20 February 1743 – This earthquake coin-
+other buildings suffered serious damage. It                   cides with a M 6.3 event in the Lower Ionian
+should be noted that there are several remarks in             Sea, which also inflicted damage in the Italian
+the reports that show that many of the buildings              peninsula, with a maximum intensity of IX on
+in the city were very old and had been neglect-               the Adriatic coast (Stucchi et al., 2007), and
+ed for many years. In particular, the 13th centu-             was felt as far away as north western Italy.
+ry cathedral was already showing serious signs                    The local historian de Soldanis (1746) re-
+of disrepair before the earthquake, and plans had             ports that «... at 5:30 pm a strong earthquake
+in fact already been drafted for its rebuilding be-           shook the Maltese islands. It lasted 7 1 2 min. It
+fore 1693. One part of the cathedral that had al-             did great damage to both islands. In Gozo, St.
+ready been replaced, the choir, in fact escaped               George’s Church, St. James Church and the
+damage in the earthquake. Other buildings in                  chapel of Our Lady at Qala were badly dam-
+Mdina that were damaged were the Banca Giu-                   aged. In Malta, St. John’s at Valletta, Mdina
+ratale, many bastion walls and the bridge lead-               Cathedral and numerous other churches were
+ing into the city, whose arches were cracked.                 heavily damaged. At Wardija in Qala, Gozo, the
+The church of St. Paul in Rabat, also suffered                people reported that they saw the ground rise
+severe damage when its bell tower and the apse                and fall with such force that the soil was left
+of the choir collapsed and other parts were dam-              floating in the air, causing a mist like a fog for
+aged. Damage also occurred to the Dominican                   a long time. Many sections from hills in Gozo
+Friary.                                                       crumbled.»
+    In Gozo, Blondel notes that the damage to                     In the dedication of his book, de Soldanis
+the fortified Cittadella, was most probably due               also mentions this event when he thanks the
+to «long years of neglect», as was the damage                 Bishop of the time for his generosity in «donat-
+to coastal towers. The Cathedral in Rabat lost                ing objects made of silver and gold to pay for
+its bell-tower, and other churches sustained                  the repair needed because of the damage caused
+damage to their domes and spires, and parts of                by the 1743 earthquake».
+cliff faces are reported to have been detached                    A document in the Cathedral Archives, Md-
+and fell to the sea.                                          ina (ACM, Misc., MS62) describes how the
+    On the basis that some buildings suffered                 coppolino (small dome) of the cathedral col-
+damage of Grade 4 in the areas of highest ef-                 lapsed into the church, the rear side of the choir
+fects, but reflecting a degree of uncertainty in              was destroyed and the bell towers heavily dam-
+the vulnerability of the buildings, this earth-               aged, and all the sides of the Cathedral suffered
+quake has been assigned a local maximum in-                   serious cracks, such that «no one dared enter
+tensity of VII-VIII. This agrees with the inten-              the Cathedral, not even the bell ringer dared go
+sity assigned by Boschi et al. (2000).                        near the bells» for fear of collapse. In the Min-
+    This event, of maximum intensity X-XI in                  utes of the Cathedral Chapter (ACM, Min.Cap.
+Eastern Sicily, is assigned a moment magnitude                vol. 7), a report by a team of 6 architects com-
+and surface wave magnitude of 7.4 in CPTI04.                  missioned to inspect the damage caused to the
+Azzaro and Barbano (2000) attribute this earth-               Cathdral in Mdina details the damage done to
+quake to normal faulting on the northern seg-                 the church, in particular the dome and choir,
+ment of the Malta Escarpment, with a rupture                  and recommend methods of repairing the dam-
+length of 41 km. Barbano and Rigano (2001)                    age. In particular, Giacomo Bianco described
+revise the CPTI04 estimate to 7.1 using EMS                   four approximately 3 cm-wide cracks running
+rather than MCS intensities. The event pro-                   down the length of the dome, the dislodging of
+duced a tsunami along the eastern coast of Sici-              most stones of the dome, and serious damage to
+ly, which was also reported in Gozo (de Solda-                the walls of the choir.
+nis, 1746). The tsunami has been modelled by                      This event has been assigned an EMS-98 in-
+Piatanesi and Tinti (1998), confirming the nor-               tensity of VII.
+mal faulting nature of the source just offshore                   12 October 1856 – This earthquake corre-
+Augusta.                                                      sponds to the destructive earthquake that oc-
+
+                                                        733
+                                               Pauline Galea
+
+
+
+curred in Southern Greece, near the island of              some slight damage in Syracuse (Malta Mail,
+Crete. It was one of the largest to occur in               18/10/1856).
+Greece, causing destruction and much loss of                   The effects of this earthquake on people, ob-
+life in the epicentral area. Its magnitude is giv-         jects and buildings are documented well enough
+en as 8.2 in the NEIC catalogue, and 7.7 in Pa-            for a good intensity estimate to be made. Consid-
+pazachos et al. (2000). Woo (1995) discusses               ering that many buildings appeared to have suf-
+the effects of this earthquake on the Maltese is-          fered damage of Grade 3, the earthquake has
+lands in some detail in the context of anom-               been assigned an intensity of VII.
+alously high intensity observed at large epicen-               27 August 1886 – This event was felt
+tral distances. He notes that the distance to Mal-         throughout the Maltese islands, as well as
+ta is around 1000 km, which would be expect-               throughout Sicily and Southern Italy, as report-
+ed to yield intensities of IV or V, however the            ed in various telegrams sent to Malta from these
+damage done corresponds to a considerably                  localities and reproduced in local newspapers.
+higher intensity, which he attributes to the ef-           In Malta, newspapers report a general panic,
+fect of long-period shaking.                               with most of the population having been awak-
+    This was one of the strongest shocks felt on           ened, and rushing out into the streets.
+the islands and its effects are well documented                L’Ordine (01/09/1886) reports that in Vallet-
+in most of the local newspapers of the days fol-           ta the Court of Justice, some churches and many
+lowing the earthquake, mainly Il Portafoglio               houses suffered damage, as well some buildings
+Maltese, L’Ordine and The Malta Mail. It is                and the Cathedral in Mdina, but «come dicono,
+clearly reported that the earthquake woke up in-           non sono danni molto gravi» (damages are not
+habitants all over the islands, and caused them            very serious).
+to rush out of their houses during the night. In-              On the other hand, the Malta Times
+habitants inside houses lost their balance. The            (28/08/1886) reports that «the damage done to
+tremor was accompanied by a loud rumbling,                 many buildings in the city is in some cases very
+and overturned objects and moved furniture.                serious», The Superior Court has «been rendered
+The duration of the shaking was variably re-               unsafe by the splitting of the keystone and roof.
+ported to have lasted between 22 s and 60 s. Al-           The upper part of a coffee shop in Strada Reale
+most all houses in Valletta, and many houses in            also presents several apertures». A number of
+other villages and in Gozo suffered serious                houses in Valletta, and the choir of St. John’s
+cracks to their walls, and the damage was more             Cathedral, are also reported to have been dam-
+noticeable on the upper floors. Many churches              aged, although the nature of the damage is not
+on both islands suffered damage to their domes             specified. In Mdina, the Cathedral and some
+and walls, or detached crosses and other fix-              churches suffered damage. In particular, «the
+tures. The dome and sides of St. George’s                  Military Sanitarium at Citta Vecchia has suffered
+church in Victoria, Gozo were left «wide open»             most severely, one crack extending from end to
+with detached blocks of stone. Parts of the                end of the building, through a wall of about 25
+dome of the Cathedral in Mdina collapsed into              feet (?) in thickness» (Malta Times, 03/09/1886).
+the interior. The damage to this Cathedral was                 This event almost certainly corresponds to a
+estimated at over £ 1000. The steeple of the               magnitude 7.5 earthquake in the Aegean Sea on
+Carmelite Church in Mdina was so damaged                   that day at 21:32 GMT (Papazachos et al.,
+that it had to be rebuilt. The side of a chapel on         2000), although there is slight conflict with the
+a hill near Siggiewi collapsed. In Gozo, a signal          origin time. The Malta Times reports that «...
+tower collapsed, and even newly built houses               just as St. John’s Cathedral had boomed out the
+suffered damage. There are also references to              hour of 11, a rumour was heard, the source or
+the collapse of a chapel on Filfla Island (a mi-           cause of which one had hardly time to consider,
+nor island off the southern coast of Malta), and           when we were brought to a knowledge of our
+that of a coastal tower at Mellieha. The earth-            terrible position, by a fearful rumbling noise,
+quake was also felt in Southeastern Sicily and             accompanied by a slight vibration of the Earth
+caused damage to churches in Pozzallo, and                 which increased in intensity until the heavens
+
+                                                     734
+                       Seismic history of the Maltese islands and considerations on seismic risk
+
+
+
+seemed to rend the twain, and the ground to                    garding its source parameters. The event was
+sway from beneath our feet. 70 s of fearful sus-               recorded on the seismograph in Catania and
+pense, held almost every inhabitant of the Is-                 Riccò (1911) records an S-P time of 29 s. At
+land, in a state of utter bewilderment, which                  Catania, the tremor was only slightly perceived.
+was further intensified by a recurring shock, of               The S-P time places the epicentre at around 200
+force and duration if anything, exceeding that                 km from Catania, and since the tremor does not
+of its predecessor.» The onset times reported in               appear to have been felt in more northern parts
+the various telegrams from Greece and South-                   of Sicily, and was felt much more strongly in
+ern Italy also vary quite widely. The event has                Gozo than in Malta, it is likely that the epicentre
+been assigned an intensity VI-VII.                             was in the Sicily Channel to the north west of
+    30 September 1911 – This event produced                    Gozo, possibly on one of the faults bounding the
+distinctly different intensities in the two islands of         Malta Graben. The shock was also felt at sea in
+Malta and Gozo. The local newspapers report that               this area. The captain of the Danish ship Calyp-
+most damage from this event occurred on the is-                so reports that at latitude 36.2N and longitude
+land of Gozo. The Italian language newspaper                   14.1E (about 20 km north west of Gozo) at
+Malta (02/10/1911) gives a good account of dam-                09:23 local time, «a slight agitation of the sea
+age to this island. Serious cracks appeared in the             and a tremor» was felt, «enough to influence the
+domes and steeples of several churches, especial-              movement of the ship» (Malta, 02/10/1911).
+ly in Victoria, Nadur and Gharb, as well as in the                  18 September 1923 – This event is well de-
+walls of several public buildings in Victoria.                 scribed in the local newspapers (Malta, Daily
+Many houses in other villages also suffered «dan-              Malta Chronicle), and was also recorded on the
+ni non indifferenti» (significant damage) Several              Milne seismograph in Valletta. Unfortunately, the
+rural constructions (single-room stone buildings)              seismogram, which was inspected, did not yield
+were «completely destroyed» and some crosses                   useful information since the shock appears to
+and statues collapsed. The Daily Malta Chronicle               have thrown the mechanism out of alignment.
+(02/10/1911) reports that «at Fort Chambray                    The majority of the population took to the street
+(Gozo) there is a great long crack running across              in panic in both islands, although the shock ap-
+the square. All the walls of the barrack rooms are             pears to have been felt most strongly around the
+cracked, and numerous holes appear in the                      harbour area in Malta (Daily Malta Chronicle,
+ground, one of them three feet wide and of incon-              19/09/1923). Damage reported was mainly non-
+ceivable depth», and that «the hospital, which                 structural, such as collapses of stone crosses on
+was happily empty, the mortuary and linen house                churches, cracks in church domes, the most seri-
+are completely wrecked, and although the walls                 ous being that of St. Paul’s church in Rabat, and
+are standing their condition renders the occupa-               cracks in the walls of many residential and com-
+tion of the buildings unsafe» (Grade 3 damage).                mercial buildings. This damage may be consid-
+Some landsliding was also reported.                            ered as of Grade 2, and the local site intensity has
+    In Gozo, everybody abandoned their hous-                   been assigned as VI. The earthquake was report-
+es. Some furniture was overturned and some                     ed to be slightly felt in Syracuse, Sicily, but is not
+pendulum clocks stopped (Malta, 02/10/1911).                   listed in any of the catalogues. It can therefore be
+The tremors are reported to have been accom-                   assumed that this is a «Sicily Channel» event,
+panied by a «loud rumbling». In Malta, on the                  possibly on the Malta Escarpment, given that it
+other hand, the damage was apparently limited                  was more strongly felt to the east of Malta. The
+to some cracks (Grade 1 damage), although the                  Daily Malta Chronicle reports that «We are au-
+shaking was strongly felt and caused alarm.                    thoritatively informed that the disturbance must
+    The well-described damage corresponds to                   have occurred some 50 or 60 miles away from the
+EMS-98 intensity VII on the island of Gozo,                    Island.» The ISC bulletin lists it as 35.5N, 14.5E,
+whereas on Malta, the intensity has been as-                   about 35 km south of Malta, with no other infor-
+signed as V.                                                   mation, however, for this period, location of
+    Although no epicentral location exists for                 earthquakes deriving from instrumental data is
+this event, some conclusions may be reached re-                unreliable.
+
+                                                         735
+                                               Pauline Galea
+
+
+
+5. Catalogue completeness                                  produced a local intensity of VII or over since
+                                                           1500 has been missed in this research.
+    Considering the nature and reliability of lo-              Figure 5 shows graphs of the cumulative
+cal historical texts and other publications, it is         numbers of earthquakes of maximum local inten-
+extremely unlikely that any earthquake that                sity ≥ IV, V and VI respectively since 1500. These
+                                                           graphs show a break at around 1840, coinciding
+                                                           with the beginning of local newspaper publica-
+                                                           tion. This reflects both the improved reporting of
+                                                           local events of public interest as well as the in-
+                                                           creased facility of documentary research.
+                                                               The felt earthquake catalogue may thus be
+                                                           considered complete for the period after 1530
+                                                           for intensities ≥ VII and from 1848 for intensi-
+                                                           ties ≥ IV.
+
+
+                                                           6. Seismic hazard and earthquake risk
+                                                              assessment
+
+                                                               This paper is intended to make the case for
+                                                           a renewed effort at establishing the seismic risk
+                                                           level on a national scale, as this problem has
+                                                           never really been addressed in a holistic man-
+                                                           ner. Although the catalogue only goes back
+                                                           some 500 years, and damaging earthquakes are
+                                                           few, it is still possible to make some considera-
+                                                           tions about seismic hazard.
+                                                               Some previous attempts have been made at
+                                                           defining the level of seismic hazard although a
+                                                           locally compiled seismic history was not avail-
+                                                           able, and no strong ground motion data is avail-
+                                                           able. A seismic hazard study commissioned be-
+                                                           fore the construction of a new power station on
+                                                           Malta gives an expected PGA of 0.12 g for a
+                                                           475-year return period (Mouchel and Partners,
+                                                           1990). Camilleri (2003) estimates a return peri-
+                                                           od of 1800 years for I=VII in the Maltese is-
+                                                           lands, and 333 years for I=VI. The ESC-SESA-
+                                                           ME Unified Hazard Model for the European-
+                                                           Mediterranean Region (Giardini et al., 2003)
+                                                           classifies Malta in the top end of the ‘Low Haz-
+                                                           ard’ region, with a 475-year return period corre-
+                                                           sponding to PGA values of 0.04-0.08 g.
+                                                               From the intensity catalogue it is possible to
+                                                           make simple estimates of return periods. For this
+                                                           purpose, the methodology of Magri et al. (1994)
+                                                           has been used. In this method, which is suitable
+                                                           for sites characterized by poorly-defined macro-
+Fig. 5. Cumulative number of events having I≥ IV,          seismic data, and accommodates the use of
+V and VI since 1530.                                       ranged intensity values, each earthquake is asso-
+
+                                                     736
+                      Seismic history of the Maltese islands and considerations on seismic risk
+
+
+
+ciated with a discrete exceedance probability                 equally large 1169 event that caused destruction
+function P(I), I ∈ [1, 1], which is equal to the              in Eastern Sicily (Azzaro et al., 1999; Barbano
+probability of intensity I having been reached.               et al., 2001). Using the methodology of Magri
+Thus if the ith event in the catalogue has been as-           et al. (1994), Barbano et al. (2001) estimate re-
+signed intensity VII-VIII, the function could be              turn periods for several sites in SE Sicily. The
+                                                              site-specific return periods where the intensities
+    Pi(I) = {1, 1, 1, 1, 1, 1, 1, 0.5, 0, 0, 0}.              in a given range can be attributed uniquely to
+                                                              the 1693 source region vary between 432 and
+The estimated mean return period for intensity                683 years, with a mean of 547 years. In other
+I is then given by                                            words, if the occurrence of the maximum expe-
+                                                              rienced intensity (VII-VIII) is tied to the source
+                                 T                            region of the 1693 earthquake then we can ex-
+                 τ (I) =    n
+                           / P (I)   i
+                                                              pect this intensity to have a return period of
+                           i=1                                around 500 years. This is consistent with fig. 6.
+                                                                  It is clear that a certain level of hazard is al-
+where T is the duration of the seismic catalog                so presented by the lower magnitude Sicily
+and n is the number of events in the catalogue.               Channel seismicity. At least two events in this
+    The estimated return periods for intensity                region since 1900 have produced damage of in-
+≥V using this method are shown in fig. 6. The                 tensity ≥VI. Perhaps more important is the haz-
+return period for intensity V is 18 years, for in-            ard posed by long-period ground motion arising
+tensity VI 40 years , for intensity VII 92 years,             from large subduction zone earthquakes in the
+and for intensity VIII it turns out to be 1000                Hellenic Arc, capable of producing intensities
+years. The latter is based on a single observa-               up to VII even from distances greater than 1000
+tion of intensity VII-VIII for the 1693 earth-                km. This effect is probably due also to a differ-
+quake. It is worthwhile to discuss this further. It           ent kind of attenuation regime for propagation
+appears that this maximum intensity, at least for             through the Ionian Basin. In any case, it is evi-
+the time period under consideration, is unique-               dent that this phenomenon must be seriously
+ly attributable to the 1693 event. Indeed in Sici-            considered in any risk assessment, especially in
+ly, the only intensities ≥X are associated with               the case of high-rise buildings.
+this source region (e.g., Barbano et al., 2001).                  In computations of seismic hazard the value
+The same source most likely generated the                     of Peak Ground Acceleration (PGA) with a
+
+
+
+
+Fig. 6. Estimated return periods, following the methodology of Magri et al. (1994).
+
+                                                        737
+                                                  Pauline Galea
+
+
+
+475-year return period is usually quoted, corre-               belonging to the category of ground motions
+sponding approximately to a 10% probability                    which necessitate seismic design procedures as
+of exceedance in 50 years. In Malta this would                 detailed in EC8 seismic rules.
+correspond to intensity VII-VIII. There is no                      Although draft legislation is being formulat-
+available strong-motion instrumental data or lo-               ed, there is at present no building code in use on
+cal attenuation relationships for the Maltese is-              the Maltese islands. Moreover the rate of con-
+lands, and empirical relations between intensity               struction is extremely rapid. During the past
+values and ground motion parameters are usual-                 few decades, there has been a dramatic increase
+ly of limited reliability. It is well known that a             in building density, including many apartment
+large amount of scatter exists when correlating                blocks higher than 3 storeys, which have never
+ground motion parameters with site intensity                   experienced strong ground shaking, The fact
+values. For example, from global data, Am-                     that heavy earthquake damage has not been ex-
+braseys (1974) gives a mean PGA of (0.135±                     perienced for almost a century has led to com-
+±0.027) g for I=VII and (0.207±0.052) g for I=                 placency in the construction industry as well as
+=VIII. Relationships developed specifically for                a lack of knowledge about the behaviour of lo-
+the Italian territory (Margottini et al., 1992)                cal buildings during ground shaking. Other fac-
+predict PGA’s of 0.087 g and 0.13 g for intensi-               tors to be taken into account are the fact that the
+ties VII and VIII respectively. In Sicily during               building footprint is expanding rapidly onto ar-
+the 13 December 1990, M 5.4 earthquake,                        eas of diverse geological typologies and topog-
+measured PGA values at different sites ranged                  raphy, whose site response effect is still un-
+from 0.04 to 0.247 g for I=VI, and from 0.06 to                known, and the various states of deterioration
+0.1 g for I=VI-VII (Di Bona et al., 1995; Stuc-                of some of the old building stock still in use.
+chi et al., 2007). Theoretical spectral attenuation                While recent constructions of a certain strate-
+relationships (e.g., Berge-Thierry et al., 2003)               gic and structural importance are generally cited
+predict peak spectral ground accelerations of                  as having been seismically engineered, the same
+around 0.08 g at 5 Hz for the 1693 «design»                    probably cannot be said of many residential
+earthquake (Ms 7.4, distance 150 km from Mal-                  buildings that have mushroomed rapidly in recent
+ta), but it is highly tentative, in the absence of lo-         years. Such buildings are for the most part 3-5
+cal instrumental data, to predict such values.                 storey structures of unreinforced masonry, with
+                                                               heavy concrete flooring/roofing, and often incor-
+                                                               porating large open basements acting as garages.
+7. Conclusions and final considerations                        These structures are known to be highly vulnera-
+                                                               ble to ground shaking, and liable to collapse un-
+    Since 1530, the maximum intensity experi-                  der even moderate ground shaking.
+enced has been VII-VIII, and intensity VII has                     The present study has shown that current
+been experienced at least 4 times. The major seis-             building practices in the Maltese islands need to
+mic hazard to the islands arises from the northern             be modernised in order to include for a certain
+segment of the Malta Escarpment, but active fault              mandatory minimum level of protection against
+zones of the Sicily Channel Rift Zone as well as               seismic action.
+large Hellenic Arc earthquakes, also pose a po-
+tential hazard that cannot be neglected.
+    Using the available seismic history for the                              Acknowledgements
+Maltese islands, together with deterministic ef-
+fects of the most influential seismic sources, it                  The historical seismicity research was fund-
+is reasonable to arrive at intensity VII-VIII as               ed by a grant from Middle Sea Insurance. The
+the one with a 475-year return period. Although                author is grateful to Mr. Jesmond Agius for help
+no accelerometric data are available, it is also               with transcribing newspaper documents, Dr.
+possible, though tentative, to postulate that ex-              William Zammit for help with reading some
+pected peak ground accelerations for this return               manuscripts, and Dr. Frederick Ellul for his help-
+period fall within the 0.04-0.1 g band, therefore              ful comments.
+
+                                                         738
+                           Seismic history of the Maltese islands and considerations on seismic risk
+
+
+
+REFERENCES                                                                  Fr. Anthony Mercieca of original manuscript 1746),
+                                                                            (Media Centre Publications).
+ABELA, M. (1969) Earthquakes in Malta, History Thesis                  DI BONA, M., M. COCCO, A. ROVELLI, R. BERARDI and E.
+    (Malta), pp. 164.                                                       BOSCHI (1995): Analysis of strong-motion data of the
+ACM (Mdina Cathedral Archives), Miscellanea MS62, ff.                       1990 Eastern Sicily earthquake, Ann. Geofis., XXXVIII
+    42-56.                                                                  (2), 283-300.
+ACM, Minuti Capitulari, vol. 7, 1739-1746, ff. 184-189.                ELLUL, M. (1993): The Earthquake of 1693 – A historical
+ALBARELLO, D. and M. MUCCIARELLI (2002): Seismic haz-                       survey, in Mdina and the earthquake of 1693, edited by
+    ard estimates using ill-defined macroseismic data at                    C.J. AZZOPARDI (Heritage Books, Malta).
+    site, Pure Appl. Geophys., 159, 1289-1304.                         FAURE, G. (1913): L’Istorja ta’ Malta u Ghawdex (E. Lom-
+AMATO, A., R. AZZARO, A. BASILI, C. CHIARABBA, M. COCCO,                    bardi, Malta).
+    M. DI BONA and G. SELVAGGI (1995): Main shock and af-              GIARDINI, D., M.-J. JIMENEZ and G. GRUNTHAL (2003): The
+    tershocks of the December 13, 1990, Eastern Sicily earth-               ESC-SESAME unified seismic hazard model for the Eu-
+    quake, Ann. Geofis., XXXVIII (2), 255-266.                              ropean-Mediterranean region, European Seismological
+AMBRASEYS, N. (1974): Notes on engineering seismology,                      Commission/UNESCO-IUGS International Geological
+    in Engineering Seismology and Earthquake Engineer-                      Correlation Program, Project No. 382 SESAME.
+    ing, edited by J. SOLNES, Nato Advanced Study, 33-54.              GRASSO, M., H.M. PEDLEY and C.-D. REUTHER (1985): The
+AMBRASEYS, N. (1982): The seismicity of North Africa: the                   geology of the Pelagian Islands and their structural set-
+    earthquake of 1856 at Jijeli, Algeria, Boll. Geofis. Teor.              ting in relation to the Pantelleria rift (Central Mediter-
+    App., 93, 31-37.                                                        ranean Sea), CENTRO, 1 (2), 1-19.
+Archivio Segreto Vaticano, Segreteria di Stato, Malta, 61, f.          GRUNTHAL, G. (Editor) (1993): European Macroseismic
+    497, f. 504.                                                            Scale 1992 (updated MSK-scale), Cahiers du Centre
+ARGNANI, A.(1990): The Strait of Sicily rift zone: foreland                 Europeen de Geodynamique et de Seismologie, Conseil
+    deformation related to the evolution of a back-arc                      de l’Europe, vol. 7.
+    basin, J. Geodyn., 12, 311-331.                                    GRUPPO DI LAVORO CPTI (2004): Catalogo Parametrico dei
+AZZARO, R. and M.S. BARBANO (2000): Analysis of the seis-                   Terremoti Italiani, versione 2004 (CPTI04), (INGV,
+    micity of Eastern Sicily: a proposed tectonic interpre-                 Bologna).
+    tation, Ann. Geofis., 43 (1), 171-188.                             GUIDOBONI, G. and A. COMASTRI (Editors) (2005): Cata-
+AZZARO, R., M.S. BARBANO, A. MORONI, M. MUCCIARELLI                         logue of Earthquakes and Tsunamis in the Mediter-
+    and M. STUCCHI (1999): The seismic history of Cata-                     ranean Area from the 11th to the 15th Century (INGV-
+    nia, J. Seismol., 3, 235-252.                                           SGA, Bologna), pp. 1037.
+BARBANO, M.S. and R. RIGANO (2001): Earthquake sources                 GUTSCHER, M.-A., J. ROGER, M.-A. BAPTISTA, J.M. MIRAN-
+    and seismic hazard in southeastern Sicily, Ann. Geofis.,                DA and S. TINTI (2006): Source of the 1693 earthquake
+    44 (4), 723-738.                                                        and tsunami (Southern Italy): new evidence from
+BARBANO, M.S., R. RIGANO, M. COSENTINO and G. LOM-                          tsunami modeling of a locked subduction fault plane,
+    BARDO (2001): Seismic history and hazard in some lo-                    Geophys. Res. Lett., 33, L08309.
+    calities of south-eastern Sicily, Boll. Geofis. Teor. Ap-          ILLIES, J.H. (1981): Graben formation: the Maltese islands,
+    pl., 42, 107-121.                                                       a case history, Tectonophysics, 73, 151-168.
+BENOUAR, D. (1994): Materials for the investigation of the             ISC (2001): On-line Bulletin <http://www.isc.ac.uk> (In-
+    seismicity of Algeria and adjacent regions during the                   ternational Seisomological Center, Thatcham, U.K.).
+    twentieth century, Ann. Geofis., XXXVII (4), 459-853.              JONGSMA, D., J.M. WOODSIDE, G.C.P. KING and J.E. VAN
+BENOUAR, D. and N. LARADI (1996): A reappraisal of the                      HINTE (1987): The Medina Wrench: a key to the kine-
+    seismicity of the Maghreb countries – Algeria, Moroc-                   matics of the Central and Eastern Mediterranean over
+    co, Tunisia, Nat. Hazards, 13, 275-296.                                 the past 5 Ma, Earth Planet. Sci. Lett., 82, 87-106.
+BERGE-THIERRY, C., F. COTTON and O. SCOTTI (2003): New                 MAGRI, M., M. MUCCIARELLI and D. ALBARELLO (1994): Es-
+    empirical response spectral attenuation laws for mod-                   timates of site seismicity rates using ill-defined macro-
+    erate European earthquakes, J. Earthquake Engin., 7,                    seismic data, Pure Appl. Geophys., 143, 617-632.
+    193-222.                                                           MARGOTTINI, C., D. MOLIN and L. SERVA (1992): Intensity
+BOSCHI, E., E. GUIDOBONI, G. FERRARI, D. MARIOTTI, G.                       versus ground motion: a new approach using Italian da-
+    VALENSISE and P. GASPERINI (2000): Catalogue of                         ta, Eng. Geol., 33, 45-58.
+    Strong Italian Earthquakes from 461 B.C. to 1997, In-              MOUCHEL, L.G. and PARTNERS, BRITISH ELECTRICITY INTER-
+    troductory texts and CD-ROM, Version 3 of the Catal-                    NATIONAL LIMITED (1990): Delimara power station
+    ogo dei Forti Terremoti in Italia, Ann. Geofis., 43 (4),                Malta: seismic risk analysis, Rep. 26562, Enemalta
+    609-868.                                                                Corporation, Malta.
+BOUGHACHA, M.S., M. OUYED, A. AYADI and H. BENHALLOU                   MUSSON, R.M.W., T. MIKKELSEN and H. ZISKA (2001): His-
+    (2004): Seismicity and seismic hazard mapping of                        torical seismicity of the Faroe Islands, Ann. Geofis., 44
+    Northern Algeria: map of Maximum Calculated Inten-                      (5/6), 1031-1047.
+    sities (MCI), J. Seismol., 8, 1-10.                                PAPAZACHOS, B.C., P. E. COMNINAKIS, G.F. KARAKAISIS,
+CAMILLERI, D. (2003) Malta’s risk minimization to earth-                    B.G. KARAKOSTAS, CH.A. PAPAIOANNOU, C.B. PAPAZA-
+    quake, volcanic and tsunami damage, Disaster Preven-                    CHOS and E.M. SCORDILIS (2000): A catalogue of earth-
+    tion and Management, 12, 37-47.                                         quakes in Greece and surrounding area for the period
+DE SOLDANIS, G.P. (1999): Gozo – Ancient and Modern, Re-                    550 BC-1999, Pub. Geophys. Lab. University of Thes-
+    ligious and Profane (translation into English by Rev.                   saloniki, 1, pp. 333.
+
+
+                                                                 739
+                                                          Pauline Galea
+
+
+
+PIATANESI, A. and S. TINTI (1998): A revision of the 1693                 of the seventeenth century in southeast Sicily, Bull.
+    Sicily earthquake and tsunami, J. Geophys. Res., 103                  Seismol. Soc. Am., 91, 792-811.
+    (B2), 2749-2758.                                                   STUCCHI, M. et al. (2007): DBMI04, il database delle osser-
+REUTHER, C.D. (1990): Strike-slip generated rifting and re-               vazioni macrosismiche dei terremoti italiani utilizzate
+    cent tectonic stresses on the African foreland (Central               per la compilazione del catalogo parametrico CPTI04
+    Mediterranean Region), Ann. Tectonicae, 4, 120-130.                   (available on line at: http://emidius.mi.ingv.it/DB-
+REUTHER, C.-D. and G.H. EISBACHER (1985): Pantelleria                     MI04/), Quad. Geofis., 49, pp. 38.
+    Rift-crustal extension in a convergent intraplate setting,         SULEIMAN, A. and D.I. DOSER (1995): The seismicity, seis-
+    Int. J. Earth Sci., 74 (3), doi: 10.1007/BF01821214,                  motectonics and earthquake hazards of Libya, with de-
+    585-597.                                                              tailed analysis of the 1935 April 19, M=7.1 earthquake
+RICCÒ, A. (1911): Fenomeni geodinamici consecutivi alla                   sequence, Geophys. J. Int., 120, 312-322.
+    eru-zione Etnea del Settembre 1911, Boll. Soc. Sism.               WOO, G. (1995): Long-period damage in historical Euro-
+    Ital., 16.                                                            pean earthquakes, Terra Nova, 7, 476-469.
+SAID, J. (1997): Relocation of earthquake epicentres in the            ZAMMIT, S. (2003): A study of seismicity and earthquake
+    Central Mediterranean, B.Sc. Dissertation (University                 swarms in the Central Mediterranean, M.Sc. Thesis
+    of Malta).                                                            (University of Malta).
+SHOWER, J. (1693): Practical reflections on the late earth-
+    quakes in Jamaica, England, Sicily, Malta, etc., London.
+SIROVICH, L. and F. PETTENATI (2001): Test of source param-                            (received August 1, 2007;
+    eter inversion of the intensities of a 54 000-death shock                         accepted February 22, 2008)
+
+
+
+
+                                                                 740
+
