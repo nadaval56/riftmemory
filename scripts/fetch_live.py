@@ -89,6 +89,16 @@ GSI_REGIONS_HE = {
     "Turkey": "טורקיה",
     "Egypt": "מצרים",
     "E.Mediter.-Sea": "מזרח הים התיכון",
+    "Dead-Sea-Basin": "אגן ים המלח",
+    "E.Shomron": "מזרח השומרון",
+    "Elat-Deep": "מפרץ אילת",
+    "Aragonese-Deep": "מפרץ אילת",
+    "Northern-Jordan": "צפון ירדן",
+    "Palmira": "תדמור (סוריה)",
+    "Syria2": "סוריה",
+    "Yamune": "ימונה (לבנון)",
+    "W.-Sirhan": "ואדי סירחאן",
+    "Suez": "מפרץ סואץ",
 }
 
 

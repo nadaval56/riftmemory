@@ -174,3 +174,10 @@ main { max-width: 1120px; margin: 0 auto; padding: 0 16px 3rem; }
 .dot.no-mag.k-archaeology { stroke: var(--archaeology); }
 .dot.no-mag.k-instrumental { stroke: var(--instrumental); }
 .tl-event:hover .dot { stroke: var(--ink); }
+.notes { font-size: .88rem; color: var(--ink-2); }
+.notes hr { border: 0; border-top: 1px solid var(--line); }
+.notes ol { padding-inline-start: 1.4rem; }
+.footnote-ref { font-size: .75em; }
+.footnote-backref { text-decoration: none; }
+.event-cards + h2, section + section { margin-top: 2rem; }
+.notes a { overflow-wrap: anywhere; }

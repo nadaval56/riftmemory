@@ -49,17 +49,27 @@ WIKI_LICENSE = {
 HTML_COMMENT = re.compile(r"<!--.*?-->", re.S)
 
 
+FOOTNOTES = re.compile(r'<div class="footnote">.*</div>\s*$', re.S)
+
+
 def split_sections(body):
-    """גוף ה-Markdown -> רשימת (כותרת, html). חלק שכולו הערות נשאר עם html ריק."""
+    """גוף ה-Markdown -> (רשימת {title, html}, html של הערות השוליים).
+
+    ה-Markdown מומר כולו בבת אחת, כדי שהערות השוליים ([^x]) יעבדו בין חלקים.
+    חלק שכולו הערות HTML נשאר עם html ריק.
+    """
+    text = HTML_COMMENT.sub("", body)
+    html = markdown.markdown(text, extensions=["extra"], extension_configs={
+        "footnotes": {"BACKLINK_TITLE": "חזרה לטקסט"}})
+    notes = ""
+    m = FOOTNOTES.search(html)
+    if m:
+        notes, html = m.group(0), html[:m.start()]
     sections = []
-    for chunk in re.split(r"^## ", body, flags=re.M):
-        if not chunk.strip():
-            continue
-        title, _, text = chunk.partition("\n")
-        text = HTML_COMMENT.sub("", text).strip()
-        html = markdown.markdown(text, extensions=["extra"]) if text else ""
-        sections.append({"title": title.strip(), "html": html})
-    return sections
+    parts = re.split(r"<h2[^>]*>(.*?)</h2>", html)
+    for title, content in zip(parts[1::2], parts[2::2]):
+        sections.append({"title": title.strip(), "html": content.strip()})
+    return sections, notes
 
 
 def evidence_kind(e):
@@ -220,7 +230,7 @@ def build(drafts=False):
 
     by_id = {e["id"]: e for e in events}
     for e in events:
-        e["sections"] = split_sections(e["body"])
+        e["sections"], e["footnotes"] = split_sections(e["body"])
         e["kind"] = evidence_kind(e)
         seg = e["location"].get("segment")
         e["segment_name"] = segment_names.get(seg) if seg else None
