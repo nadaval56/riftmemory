@@ -1,0 +1,3 @@
+SOURCE: https://archive.org/metadata/jewsinegyptinpal02mannuoft
+
+{"created":1790722678,"d1":"ia601907.us.archive.org","d2":"ia801907.us.archive.org","dir":"/2/items/jewsinegyptinpal02mannuoft","is_dark":true,"server":"ia601907.us.archive.org","uniq":878520814,"workable_servers":["ia601907.us.archive.org","ia801907.us.archive.org"]}
