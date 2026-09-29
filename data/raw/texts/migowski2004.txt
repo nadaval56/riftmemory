@@ -1,0 +1,99 @@
+SOURCE: https://gfzpublic.gfz.de/rest/items/item_247420_1/component/file_247419/content
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: 1834; 1927; 749; 1033; 363; 31 BC; Recurrence)
+
+61: tion and stress perturbations induced by co‐ and post‐                   earthquakes have been observed in the last century,
+62: seismic stress transfer [1, 2]. Models incorporating co‐                 seismic records of the same period from the central part
+63: seismically induced static stress changes and tectonic                   of the Dead Sea Fault System (DSFS) between 30.5°N
+64: loading have been successfully applied to explain earth‐                 and 34.5°N exhibit only two earthquakes with          6.0:
+65: quake sequences, e.g. along the East Anatolian Fault                     The 1927 earthquake (          6.2) at the north‐western
+66: system [3], in western Turkey [4], along the North Ana‐                  rim of the Dead Sea and the 1956 earthquake (         6.0)
+67: tolian Fault system [5–7] and in Southern California [8–                 southwest of Beirut (Fig. 1). The last strong earthquake
+68:                                                                          took place in 1837 (       7.4) in the Hula basin north of
+69:                                                                          the Sea of Galilee. The long recurrence intervals for
+70: * Corresponding author. Tel.: +49 721 6084609; fax: +49 721 71173.       strong earthquakes in the order of 10 –10 years [14–
+71: E‐mail address: oliver.heidbach@gpi.uni‐karlsruhe.de (O. Heidbach)
+72: 
+73:                          O. Heidbach, Z. Ben‐Avraham / Earth and Planetary Science Letters 257 (2007) 299‐312
+[...]
+181:                                                                      Year        Lat.        Lon.                        a          b
+182: 
+183:                                                                      (AD)        (deg N)     (deg E)                   (km)       (m)
+184: 2.2. Historical earthquakes                                          551         33.9        35.5           7.5         115       3.8
+185:                                                                      749         32.0        35.5           7.3          79       2.8
+186:                                                                      991         33.3        36.2           6.7          25       1.1
+187:     Besides the instrumentally recorded earthquakes of               1033        32.4        35.5           6.7          25       1.1
+188: the years 1927 and 1956 we compiled historical earth‐                1202        33.7        36.0           7.5         115       3.8
+189:                                                                      1293        31.0        35.6           6.8          31       1.3
+190: quakes using various catalogues from year 551 onwards                1458        31.0        35.5           6.8          31       1.3
+191: [14, 15, 18, 24–27, 29]. In total we identified 14 histori‐          1546        32.0        35.5           7.0          45       1.7
+192:                                                                      1759a       33.1        35.6           6.8          31       1.3
+193: cal earthquakes with         6.0 (Fig. 2 and Table 1). We            1759b       33.7        35.9           7.4          95       3.2
+194: are aware that these compilations have limited accuracy              1834        31.3        35.6           6.3          12       0.6
+195:                                                                      1837        33.2        35.6           7.1          54       2.0
+196: with respect to the given epicentre location and the                 1927        31.6        35.4           6.2          11       0.5
+197: estimated magnitude from the observed intensities.                   1956        33.35       35.32          6.0           7       0.4
+198: Furthermore, the publications on historical earthquakes                a Length of the ruptured fault segment assuming that      ≈     in
+199:                                                                      case only    was given in the sources.
+200: are not consistent since they account for different his‐               b Displacement along the fault segment assuming a locking depth
+[...]
+351:    Fig. 5a shows the results for the Arava Fault and the           probably unloaded this Arava Fault segment.
+352: eastern part of the Dead Sea Fault. The curves display                Fig. 5b displays the stress evolution for the western
+353: the unloading effect caused by the 1293, 1458 and 1837             part of the Dead Sea Fault, the Jordan Fault and the
+354: earthquake. For the last time step in 2005 the northern            Serghaya Fault. The curves show the unloading effect of
+355: part of this segment along the eastern side of the Dead            the 749 earthquake on the western part of the Dead Sea
+356: 
+357: 
+358:                                                              306
+359: 
+[...]
+385:                                                                                  The contemporary stress state in 2005 for all seg‐
+386: Year     Triggereda   Maximum ΔCFSb      Triggereda   Mean ΔCFSc             ments is summarized in Fig. 6. The areas, which are
+387:                       (MPa)                           (MPa)                  probably affected by large earthquakes outside our
+388: 551                                                                          model boundary, were removed from this figure. The
+389: 749           +              0.02             +          0.01
+390: 991           +              0.35             +          0.09                map shows that a ∼90‐km‐long segment of the Jordan
+391: 1033          +              2.72             −         −0.72                Fault and a ∼30‐km‐long section of the eastern segment
+392: 1202          +              3.12             +          0.01
+393: 1293          +              0.03             +          0.01                of the Dead Sea Fault have high potential for a future
+394: 1458          −             −0.03             −         −3.14                strong earthquake. Fig. 6 emphasizes the close proximi‐
+395: 1546          −             −2.54             −         −3.46
+396:                                                                              ty of several large cities to the segments with high ΔCFS
+397: 1759a         −             −0.93             −         −4.92
+398: 1759b         +              0.36             −         −0.33                values.
+399: 1834          +              0.49             +          0.32
+400: 1837          −             −1.52             −         −3.59
+401: 1927          +              4.75             +          0.06
+402: 1956          −             −7.58             −        −10.51                5. Discussion
+403:   a ‘+’: probable triggering due to the preceding earthquakes assum‐
+404: ing a threshold value of ΔCFS > 0.01 MPa; ‘−’: ΔCFS < −0.01 MPa.
+405:   b Maximum ΔCFS value along the rupture plane due to all preced‐               The static stress‐triggering hypothesis refers to the
+[...]
+521:                                                                               stress triggering, Geophys. J. Int. 128 (1997) 594–604.
+522: Haifa, Tel Aviv, Amman, and Jerusalem), are in close                     [6] F. Roth, Modelling of stress patterns along the western
+523: proximity at distances between 30 and 150 km from the                         part of the Anatolian Fault Zone, Tectonophysics 152
+524: Jordan segment, the seismic risk is probably under‐                           (1988) 215–226.
+525: estimated. Given that the recurrence rates of devastat‐                  [7] G. King, A. Hubert, S.S. Nalbant, B. Meyer, R. Armijo, D.
+526: ing earthquakes as well as the magnitudes and locations                       Bowman, Coulomb interactions and the 17 August 1999
+527: of historical earthquakes are most important for the                          Izmit, Turkey earthquake, Earth Planet. Sci. Lett. 333
+528: seismic hazard assessment in the DSFS, it is crucial to                       (2001) 557–569.
+529:                                                                          [8] J. Deng, L.R. Sykes, Evolution of the stress field in south‐
+[...]
+566:                                                                          [17] Z.B. Begin, D.M. Steinberg, G.A. Ichinose, S. Marco, A
+567:                                                                               40,000 year unchanging seismic regime in the Dead Sea
+568: References                                                                    Rift, Geol. Soc. Am. 334 (2005), doi:10.1130/ G21115.1.
+569: [1]   R.A. Harris, Introduction to special section: stress trig‐         [18] C. Migowski, A. Agnon, R. Bookman, J.F.W. Negendank, M.
+570:       gers, stress shadows, and implications for seismic haz‐                 Stein, Recurrence pattern of Holocene earthquakes along
+571:       ard, J. Geophys. Res. 103 (1998) 24347–24358.                           the Dead Sea Transform revealed by varve‐counting and
+572: [2]   S. Steacy, J. Gomberg, M. Cocco, Introduction to special                radiocarbon dating of lacustrine sediments, Earth Planet.
+573:       section: stress transfer, earthquake triggering, and time‐              Sci. Lett. 222 (2004) 301–314.
+574:       dependent seismic hazard, J. Geophys. Res. 110 (2005),             [19] S. Marco, T.K. Rockwell, A. Agnon, A. Heimann, U. Fries‐
+[...]
+625:      the Bekaa Valley: implications for earthquake hazard as‐                  Carmel structure and its extension into the eastern Medi‐
+626:      sessment in the Eastern Mediterranean Region, J. Ge‐                      terranean, J. Geophys. Res. 82 (1977) 793–802.
+627:      ophys. Res. 94 (1989) 4007–4013.                                     [46] N.N. Ambraseys, J.A. Jackson, Faulting associated with
+628: [30] S. Marco, M. Hartal, N. Hazan, L. Lev, M. Stein, Archaeolo‐               historical and recent earthquakes in the Eastern Medi‐
+629:      gy, history, and geology of the A.D. 749 earthquake, Dead                 terranean region, Geophys. J. Int. 133 (1998) 390–406.
+630:      Sea Transform, Geology 8 (2003) 665–668.                             [47] T. van Eck, A. Hofstetter, Fault geometry and spatial
+631: [31] R. Ellenblum, S. Marco, A. Agnon, T.K. Rockwell, A. Boas,                 clustering of microearthquakes along the Dead Sea–
+632:      Crusader castle torn apart by earthquake at dawn, 20                      Jordan Rift fault zone, Tectonophysics 180 (1990) 15–27.
+633:      May 1202, Geology 26 (1998) 303–306.                                 [48] A. Shapira, A. Hofstetter, Source parameters and scaling
