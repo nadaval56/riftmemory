@@ -1,5 +1,4 @@
-# טקסטים בנחלת הכלל בלבד. slug url   (סבב 2)
-kitto-1841 https://archive.org/download/palestinephysica00kitt/palestinephysica00kitt_djvu.txt
-volney-1798-vol1 https://archive.org/download/bim_eighteenth-century_voyage-en-syrie-et-en-e_volney-c-f_1798_1/bim_eighteenth-century_voyage-en-syrie-et-en-e_volney-c-f_1798_1_djvu.txt
-volney-travels https://archive.org/download/travels-in-syria-and-egypt/travels-in-syria-and-egypt_djvu.txt
-missionary-herald-1837 https://archive.org/download/missionaryherald0033unse_b3g0/missionaryherald0033unse_b3g0_djvu.txt
+# טקסטים פתוחים בלבד. slug url   (סבב 3: שכבת ההעתקים)
+nhess-sharon2020 https://nhess.copernicus.org/articles/20/125/2020/nhess-20-125-2020.html
+nhess-sharon2020-assets https://nhess.copernicus.org/articles/20/125/2020/nhess-20-125-2020-assets.html
+gsi-faults-page https://eq.gsi.gov.il/heb/hazards/faults.php

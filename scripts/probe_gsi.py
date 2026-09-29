@@ -39,7 +39,8 @@ def main():
     for src in re.findall(r'src="([^"]+\.js)"', html):
         js = requests.get(BASE + src, headers=UA, timeout=60).text
         print("bundle", src, len(js))
-        for needle in ("startDate", "api/earthquakes", "Magnitude", "magnitude", "csv"):
+        for needle in ("startDate", "api/earthquakes", "Magnitude", "magnitude", "csv",
+                       "fault", "Fault", "geojson", "arcgis", "MapServer", "kml", "/api/"):
             (OUT / f"bundle-ctx-{needle.replace('/', '_')}.txt").write_text(contexts(js, needle), encoding="utf-8")
 
     end = dt.datetime.now(dt.timezone.utc)
