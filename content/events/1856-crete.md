@@ -59,13 +59,9 @@ sources:
   url: http://geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html
 - label: 'B. C. Papazachos, "Large seismic faults in the Hellenic arc", Annali di Geofisica 39 (1996), pp. 891–903 (TODO: לבדוק במקור)'
   url: https://doi.org/10.4401/ag-4023
-- label: 'C. Kkallas ועמיתיו, "Explaining the large anomalous damage patterns of large (M7+) intermediate-depth earthquakes in the southern Aegean Sea", 16th European Conference on Earthquake Engineering, Thessaloniki, 2018 (TODO: לבדוק במקור)'
-  url: https://www.daveboore.com/pubs_online/16eceE_KKALLAS_final2.pdf
 - label: 'P. Galea, "Seismic history of the Maltese islands and considerations on seismic risk", Annals of Geophysics 50 (2007), pp. 725–740 (TODO: לבדוק במקור)'
   url: https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/3053/3096
 - label: 'N. N. Ambraseys, C. P. Melville, R. D. Adams, The Seismicity of Egypt, Arabia and the Red Sea: A Historical Review, Cambridge University Press, 1994, עמ׳ 69–70 (TODO: לבדוק במקור)'
-- label: 'G. A. Papadopoulos, E. Daskalaki, A. Fokaefs, N. Giraleas, "Tsunami Hazard in the Eastern Mediterranean Sea: Strong Earthquakes and Tsunamis in the West Hellenic Arc and Trench System", Journal of Earthquake and Tsunami (TODO: לבדוק במקור, כולל שנה וכרך)'
-  url: http://www.seahellarc.gr/files/20091123154851Papadopoulos_et_al.JET.pdf
 - label: 'לקריאה נוספת: ויקיפדיה, רעידת האדמה בכרתים (1856)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_בכרתים_(1856)
 - label: 'לקריאה נוספת: ויקיפדיה האנגלית, 1856 Heraklion earthquake'
@@ -73,6 +69,7 @@ sources:
 status: draft
 reviewed_by: null
 review_notes:
+- 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Kkallas, Papadopoulos, E. Daskalaki.'
 - 'החלטת נדב (ספטמבר 2026): הטווח צומצם ל-7.7 עד 8.2, לפי זוהר 2017. התרחישים של קלאס ועמיתיו 2018 הוסרו מגוף הדף כי לא נבדקו במקור.'
 - 'רעידה רחוקה שהורגשה בארץ. המאמר של זוהר 2017 נקרא במלואו, והדף נבנה סביבו.'
 - 'location.lat/lon הוזנו: 36.6 צפון, 25.8 מזרח, לפי זוהר 2017, עמ׳ 1285–1286, שמביא את המוקד מפפאזאכוס ופפאזאכו 1997. זה מוקד בים מצפון לכרתים, צפונית לקואורדינטות שבוויקיפדיה (35.5, 26). נדב אישר להציג במפה כמיקום משוער, עם שם החוקר (כלל 9).'

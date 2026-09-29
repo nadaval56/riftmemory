@@ -79,8 +79,6 @@ sources:
 - label: 'John Kitto, Palestine: the Physical Geography and Natural History of the Holy Land, London, 1841, עמ׳ lxxvii (ציטוט מקלמן)'
   url: https://archive.org/details/palestinephysica00kitt
 - label: 'M. Vered and H. L. Striem, "A macroseismic study and the implications of structural damage of two recent major earthquakes in the Jordan Rift", Bulletin of the Seismological Society of America 67(6) (1977), pp. 1607–1613 (TODO: לבדוק במקור)'
-- label: 'M. R. Sbeinati, R. Darawcheh, M. Mouty, "The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.", Annals of Geophysics 48(3) (2005), עמ׳ 382 (TODO: לבדוק במקור)'
-  url: https://doi.org/10.4401/ag-3206
 - label: 'D. Wachs and D. Levitte, Damage Caused By Landslides During the Earthquakes of 1837 and 1927 in the Galilee Region, Geological Survey of Israel, 1978 (TODO: לבדוק במקור)'
   url: http://zadok.org/research/1927/landslides.html
 - label: 'מרדכי אליאב, "עדות ראייה על מוראות הרעש בצפת תקצ"ז (1837)", קתדרה 79 (מרץ 1996), עמ׳ 53–78 (TODO: לבדוק במקור)'
@@ -99,6 +97,7 @@ sources:
 status: draft
 reviewed_by: null
 review_notes:
+- 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati.'
 - 'time_local נקבע ל-16:35 לפי זוהר ועמיתיו 2016 (טבלה 3, עמ׳ 979). בנספח של סלמון ועמיתיו 2007 כתוב 14:34, כנראה בשעון גריניץ׳. אמברייזיס 1997 (דרך ויקיפדיה האנגלית): "בסביבות ארבע".'
 - 'magnitude.range הורחב ל-6.25 עד 7.4. הקצה העליון מאמברייזיס וג׳קסון 1998 וממיגובסקי ועמיתיו 2004 (לפי זוהר ועמיתיו 2016, טבלה 3, ולפי סלמון ועמיתיו 2007). הקצה התחתון מוורד ושטרים 1977, שעדיין לא נבדק במקור. הוסר הטווח 5.75 עד 6.75 מהערך הכללי "רעידת אדמה" בוויקיפדיה, שאין לו מקור.'
 - 'deaths_note: הוסרו ההערכות הכוללות 5,000 עד 7,000 ו-6,000 עד 7,000, שבוויקיפדיה אין להן מקור. נשמרו בהערה נסתרת.'

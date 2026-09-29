@@ -64,8 +64,6 @@ sources:
   url: https://doi.org/10.1046/j.1365-246x.2000.00166.x
 - label: 'A. K. Abdel Fattah ואחרים, "Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications", Annali di Geofisica 40 (1997) (TODO: לבדוק במקור)'
   url: http://www.annalsofgeophysics.eu/index.php/annals/article/view/3831
-- label: 'DEADSEAQUAKE.info, 1068 CE Quake(s) (TODO: לבדוק במקור)'
-  url: https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1068CEQuakes.html
 - label: 'לקריאה נוספת: ויקיפדיה, רעידת האדמה במזרח הקרוב (1068)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_במזרח_הקרוב_(1068)
 - label: 'לקריאה נוספת: ויקיפדיה האנגלית, 1068 Near East earthquakes'
@@ -75,6 +73,7 @@ sources:
 status: draft
 reviewed_by: null
 review_notes:
+- 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: DEADSEAQUAKE.info, 1068.'
 - 'החלטות נדב (ספטמבר 2026): segment=arava לפי רעידת מרץ. 20,000 ההרוגים נשארים עם התווית ''לא מאומת''. השעה 08:30 נשארת בהערה בלבד.'
 - 'סבב מחקר (ספטמבר 2026): הדף נכתב מחדש על סמך קריאה ישירה של זהר, סלמון ורובין (2016, כולל הנספח; 2017), של הנספח האלקטרוני של סלמון ואחרים (2007) ושל ויטקומב על איילה (SHAJ 10). הייחוסים לוויקיפדיה הוסרו מגוף הדף. מה שהגיע רק דרך ויקיפדיה סומן TODO, והמקור שלו רשום בהערה נסתרת.'
 - 'אומת במקור: שתי רעידות, 18 במרץ ו-29 במאי 1068. המקור הראשוני לשתיהן הוא אבן אל-בנא, וכל השאר משניים (זהר ואחרים 2016, נספח A, ערכים 14–15, עמ׳ 7–8). זה פותר את ה-TODO על "אחת או שתיים": החוקרים מקבלים שתיים. הטענה מ-DEADSEAQUAKE.info על רעידה אחת בשני תאריכים נשארה בהערה נסתרת בלבד.'

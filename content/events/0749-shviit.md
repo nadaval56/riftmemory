@@ -80,8 +80,6 @@ sources:
 - label: 'משה גיל, "בענייני ארץ-ישראל בתקופה המוסלמית הראשונה", קתדרה 70 (תשנ"ד), עמ׳ 30–33 (TODO: לבדוק במקור)'
 - label: 'שולמית אליצור, פיוטי ר׳ פינחס הכהן, ירושלים תשס"ד (TODO: לבדוק במקור)'
 - label: 'G. Avni, The Byzantine-Islamic Transition in Palestine: An Archaeological Approach, Oxford 2014 (TODO: לבדוק במקור)'
-- label: 'M. R. Sbeinati, R. Darawcheh, M. Mouty, "The historical earthquakes of Syria", Annals of Geophysics 48/3 (2005) (TODO: לבדוק במקור)'
-  url: https://www.earth-prints.org/bitstream/2122/908/1/01Sbeinati.pdf
 - label: 'L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace", Seismological Research Letters 84/6 (2013), עמ׳ 997–1003 (TODO: לבדוק במקור)'
   url: https://doi.org/10.1785/0220130060
 - label: 'לקריאה נוספת: ויקיפדיה, רעש שביעית'
@@ -93,6 +91,7 @@ sources:
 status: draft
 reviewed_by: null
 review_notes:
+- 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati.'
 - 'לבקשת נדב (ספטמבר 2026): ההפניה לספריא היא קישור ישיר מהמקור.'
 - 'סבב מחקר (ספטמבר 2026): הדף נכתב מחדש על סמך קריאה ישירה של זהר, סלמון ורובין (2016, כולל הנספח; 2017), של הנספח האלקטרוני של סלמון ואחרים (2007), של אנטונופולוס (1980), של ויטקומב על איילה, של מדריך הסיור של INQUA (2009) ושל תקציר המאמר של קרץ (2004). כל הייחוסים לוויקיפדיה הוסרו מגוף הדף. מה שהגיע רק דרך ויקיפדיה סומן TODO, והמקור שלו רשום בהערה נסתרת.'
 - 'year_range הורחב מ-746–749 ל-746–750. הסיבה: זהר ואחרים (2016, טבלה 3) מתארכים "749 או תחילת 750", ואמברייזיס (2005, לפי סלמון ואחרים 2007) כותב על רעידה שנייה "ב-749 או בתחילת 750".'
