@@ -311,9 +311,6 @@
         "label": "N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (TODO: לבדוק במקור)"
       },
       {
-        "label": "Emanuela Guidoboni, Alberto Comastri and Giusto Traina, Catalogue of Ancient Earthquakes in the Mediterranean Area up to the 10th Century, ING-SGA, Bologna, 1994 (TODO: לבדוק במקור)"
-      },
-      {
         "label": "Kenneth W. Russell, \"The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D.\", BASOR 260 (1985), pp. 37–59 (TODO: לבדוק במקור)",
         "url": "https://www.journals.uchicago.edu/doi/10.2307/1356863"
       },
@@ -326,20 +323,12 @@
         "url": "https://books.google.co.il/books?id=pckUkJIHjiQC&pg=PA23"
       },
       {
-        "label": "Moshe Sharon, Corpus Inscriptionum Arabicarum Palaestinae, vol. 1, p. 79 (TODO: לבדוק במקור)",
-        "url": "https://books.google.co.il/books?id=j1rSzWgHMjoC&pg=PA79"
-      },
-      {
         "label": "Jerome, Chronicle, באוסף Caesarea Maritima Testimonia, מס׳ 277 (TODO: לבדוק במקור)",
         "url": "https://caesarea-maritima.org/testimonia/277"
       },
       {
         "label": "Jefferson B. Williams, \"Eusebius Mystery Quake\", deadseaquake.info (TODO: לבדוק במקור)",
         "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html"
-      },
-      {
-        "label": "\"אדריינוס\", אנציקלופדיה יהודית, אתר דעת (TODO: לבדוק במקור)",
-        "url": "http://www.daat.ac.il/encyclopedia/value.asp?id1=2055"
       },
       {
         "label": "לקריאה נוספת: ויקיפדיה העברית, רעידת האדמה ביהודה (130)",
@@ -350,6 +339,7 @@
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
+      "ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Guidoboni, Alberto Comastri and Giusto Traina, Corpus Inscriptionum Arabicarum, אדריינוס.",
       "הממצא המרכזי מהקריאה (ספטמבר 2026): זוהר, סלמון ורובין (2016) מסווגים את האירוע ברשימה של רעידות אמינות שיוחסו בטעות לארץ ישראל (נספח C, רשומה 7). לדבריהם, הרעידה כנראה אירעה באסיה הקטנה, והבלבול נוצר כשניאוקיסריה וניקופוליס שבאסיה הקטנה הוחלפו בפרשנות הדיווח של אוסביוס בקיסריה ובניקופוליס (אמאוס) שבארץ (לפי אמברייזיס 2009 וקרץ 1987). הם נותנים 127–130, באי-ודאות של 3 שנים. זה מאשר את ההצעה של אמברייזיס שהופיעה עד עכשיו רק דרך deadseaquake.info.",
       "החלטה לנדב: לאור הסיווג של זוהר ואחרים, האם להשאיר את הדף כרעידה בארץ ישראל, לסמן distant=true, או לנסח את הדף כולו כ\"רעידה שיוחסה לארץ ישראל\". כרגע הדף מציג את המסורת ואת הערעור עליה, ו-distant נשאר false.",
       "places: הוסרה לוד. היא הגיעה רק מהערך בוויקיפדיה (דרך Caesarea Maritima: A Retrospective, עמ׳ 23), ולא מהכרוניקון. אמאוס וקיסריה נשארו כי אלה הערים שהמסורת מזכירה, אבל זיהוין שנוי במחלוקת. לשקול להעביר ל-null.",
@@ -468,13 +458,6 @@
         "url": "https://www.jstor.org/discover/10.2307/1356586"
       },
       {
-        "label": "Mohamed Reda Sbeinati, Ryad Darawcheh and Mikhail Mouty, \"The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.\", Annals of Geophysics 48 (3) (2005), pp. 347–435 (TODO: לבדוק במקור)",
-        "url": "https://www.earth-prints.org/bitstream/2122/908/1/01Sbeinati.pdf"
-      },
-      {
-        "label": "Zeev Safrai, The Missing Century: Palestine in the Fifth Century: Growth and Decline, Peeters, 1998, pp. 86–87 (TODO: לבדוק במקור)"
-      },
-      {
         "label": "Jefferson B. Williams, \"363 CE Cyril Quakes\", deadseaquake.info",
         "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/CyrilQuakes.html"
       },
@@ -490,6 +473,7 @@
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
+      "ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati, Safrai.",
       "החלטת נדב (ספטמבר 2026): segment=null. אין מוקד מוסכם, והדף מסביר זאת.",
       "עריכה לפי הקו החדש (ספטמבר 2026): כל הייחוסים לוויקיפדיה הוסרו מהטקסט הגלוי. נקראו ישירות: Levenson 2013 (המאמר המלא, עמ׳ 60–79), זוהר ואחרים 2016 (טבלה 3, נספח A רשומה 4), זוהר ואחרים 2017 (עמ׳ 6–7), נספח סלמון ואחרים 2007, והדף של ויליאמס ב-deadseaquake.info (שמצטט דוחות חפירה).",
       "תוקן: הטענה שהאיגרת מביאה \"מספרי מתים בכל עיר\" (מהערך העברי) שגויה. לפי התרגום של Brock כפי שמצוטט אצל Levenson (עמ׳ 66), האיגרת מציינת לכל עיר איזה חלק ממנה נהרס. נפתר ה-TODO.",
@@ -635,10 +619,6 @@
         "label": "G. Avni, The Byzantine-Islamic Transition in Palestine: An Archaeological Approach, Oxford 2014 (TODO: לבדוק במקור)"
       },
       {
-        "label": "M. R. Sbeinati, R. Darawcheh, M. Mouty, \"The historical earthquakes of Syria\", Annals of Geophysics 48/3 (2005) (TODO: לבדוק במקור)",
-        "url": "https://www.earth-prints.org/bitstream/2122/908/1/01Sbeinati.pdf"
-      },
-      {
         "label": "L. Alfonsi, F. R. Cinti, G. Ventura, \"The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace\", Seismological Research Letters 84/6 (2013), עמ׳ 997–1003 (TODO: לבדוק במקור)",
         "url": "https://doi.org/10.1785/0220130060"
       },
@@ -658,6 +638,7 @@
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
+      "ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati.",
       "לבקשת נדב (ספטמבר 2026): ההפניה לספריא היא קישור ישיר מהמקור.",
       "סבב מחקר (ספטמבר 2026): הדף נכתב מחדש על סמך קריאה ישירה של זהר, סלמון ורובין (2016, כולל הנספח; 2017), של הנספח האלקטרוני של סלמון ואחרים (2007), של אנטונופולוס (1980), של ויטקומב על איילה, של מדריך הסיור של INQUA (2009) ושל תקציר המאמר של קרץ (2004). כל הייחוסים לוויקיפדיה הוסרו מגוף הדף. מה שהגיע רק דרך ויקיפדיה סומן TODO, והמקור שלו רשום בהערה נסתרת.",
       "year_range הורחב מ-746–749 ל-746–750. הסיבה: זהר ואחרים (2016, טבלה 3) מתארכים \"749 או תחילת 750\", ואמברייזיס (2005, לפי סלמון ואחרים 2007) כותב על רעידה שנייה \"ב-749 או בתחילת 750\".",
@@ -1004,10 +985,6 @@
         "url": "http://www.annalsofgeophysics.eu/index.php/annals/article/view/3831"
       },
       {
-        "label": "DEADSEAQUAKE.info, 1068 CE Quake(s) (TODO: לבדוק במקור)",
-        "url": "https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1068CEQuakes.html"
-      },
-      {
         "label": "לקריאה נוספת: ויקיפדיה, רעידת האדמה במזרח הקרוב (1068)",
         "url": "https://he.wikipedia.org/wiki/רעידת_האדמה_במזרח_הקרוב_(1068)"
       },
@@ -1023,6 +1000,7 @@
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
+      "ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: DEADSEAQUAKE.info, 1068.",
       "החלטות נדב (ספטמבר 2026): segment=arava לפי רעידת מרץ. 20,000 ההרוגים נשארים עם התווית 'לא מאומת'. השעה 08:30 נשארת בהערה בלבד.",
       "סבב מחקר (ספטמבר 2026): הדף נכתב מחדש על סמך קריאה ישירה של זהר, סלמון ורובין (2016, כולל הנספח; 2017), של הנספח האלקטרוני של סלמון ואחרים (2007) ושל ויטקומב על איילה (SHAJ 10). הייחוסים לוויקיפדיה הוסרו מגוף הדף. מה שהגיע רק דרך ויקיפדיה סומן TODO, והמקור שלו רשום בהערה נסתרת.",
       "אומת במקור: שתי רעידות, 18 במרץ ו-29 במאי 1068. המקור הראשוני לשתיהן הוא אבן אל-בנא, וכל השאר משניים (זהר ואחרים 2016, נספח A, ערכים 14–15, עמ׳ 7–8). זה פותר את ה-TODO על \"אחת או שתיים\": החוקרים מקבלים שתיים. הטענה מ-DEADSEAQUAKE.info על רעידה אחת בשני תאריכים נשארה בהערה נסתרת בלבד.",
@@ -1137,10 +1115,6 @@
         "url": "https://link.springer.com/article/10.1007/s10950-021-10009-0"
       },
       {
-        "label": "M. R. Sbeinati, R. Darawcheh, M. Mouty, \"The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.\", Annals of Geophysics 48(3) (2005) (TODO: לבדוק במקור)",
-        "url": "https://doi.org/10.4401/ag-3206"
-      },
-      {
         "label": "N. N. Lewis, \"Baalbek before and after the earthquake of 1759: the drawings of James Bruce\", Levant 31 (1999), עמ׳ 241 ואילך (TODO: לבדוק במקור)",
         "url": "https://doi.org/10.1179/lev.1999.31.1.241"
       },
@@ -1170,6 +1144,7 @@
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
+      "ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati.",
       "החלטת נדב (ספטמבר 2026): מספר ההרוגים של קיטו הוסר מהדף עד שיימצא העמוד. נשאר וולני, שאומת.",
       "שתי רעידות באותו דף. התאריך בשדות date הוא של הראשונה. segment=galilee לפי אזור הנזק של הראשונה.",
       "time_local נקבע ל-03:45 לפי זוהר ועמיתיו 2016 (טבלה 3, עמ׳ 978) ולפי הנספח של סלמון ועמיתיו 2007 (\"03:45 LT\"). שעת הרעידה השנייה: 19:23 (אותם מקורות).",
@@ -1415,10 +1390,6 @@
         "label": "M. Vered and H. L. Striem, \"A macroseismic study and the implications of structural damage of two recent major earthquakes in the Jordan Rift\", Bulletin of the Seismological Society of America 67(6) (1977), pp. 1607–1613 (TODO: לבדוק במקור)"
       },
       {
-        "label": "M. R. Sbeinati, R. Darawcheh, M. Mouty, \"The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.\", Annals of Geophysics 48(3) (2005), עמ׳ 382 (TODO: לבדוק במקור)",
-        "url": "https://doi.org/10.4401/ag-3206"
-      },
-      {
         "label": "D. Wachs and D. Levitte, Damage Caused By Landslides During the Earthquakes of 1837 and 1927 in the Galilee Region, Geological Survey of Israel, 1978 (TODO: לבדוק במקור)",
         "url": "http://zadok.org/research/1927/landslides.html"
       },
@@ -1457,6 +1428,7 @@
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
+      "ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati.",
       "time_local נקבע ל-16:35 לפי זוהר ועמיתיו 2016 (טבלה 3, עמ׳ 979). בנספח של סלמון ועמיתיו 2007 כתוב 14:34, כנראה בשעון גריניץ׳. אמברייזיס 1997 (דרך ויקיפדיה האנגלית): \"בסביבות ארבע\".",
       "magnitude.range הורחב ל-6.25 עד 7.4. הקצה העליון מאמברייזיס וג׳קסון 1998 וממיגובסקי ועמיתיו 2004 (לפי זוהר ועמיתיו 2016, טבלה 3, ולפי סלמון ועמיתיו 2007). הקצה התחתון מוורד ושטרים 1977, שעדיין לא נבדק במקור. הוסר הטווח 5.75 עד 6.75 מהערך הכללי \"רעידת אדמה\" בוויקיפדיה, שאין לו מקור.",
       "deaths_note: הוסרו ההערכות הכוללות 5,000 עד 7,000 ו-6,000 עד 7,000, שבוויקיפדיה אין להן מקור. נשמרו בהערה נסתרת.",
@@ -1556,19 +1528,11 @@
         "url": "https://doi.org/10.4401/ag-4023"
       },
       {
-        "label": "C. Kkallas ועמיתיו, \"Explaining the large anomalous damage patterns of large (M7+) intermediate-depth earthquakes in the southern Aegean Sea\", 16th European Conference on Earthquake Engineering, Thessaloniki, 2018 (TODO: לבדוק במקור)",
-        "url": "https://www.daveboore.com/pubs_online/16eceE_KKALLAS_final2.pdf"
-      },
-      {
         "label": "P. Galea, \"Seismic history of the Maltese islands and considerations on seismic risk\", Annals of Geophysics 50 (2007), pp. 725–740 (TODO: לבדוק במקור)",
         "url": "https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/3053/3096"
       },
       {
         "label": "N. N. Ambraseys, C. P. Melville, R. D. Adams, The Seismicity of Egypt, Arabia and the Red Sea: A Historical Review, Cambridge University Press, 1994, עמ׳ 69–70 (TODO: לבדוק במקור)"
-      },
-      {
-        "label": "G. A. Papadopoulos, E. Daskalaki, A. Fokaefs, N. Giraleas, \"Tsunami Hazard in the Eastern Mediterranean Sea: Strong Earthquakes and Tsunamis in the West Hellenic Arc and Trench System\", Journal of Earthquake and Tsunami (TODO: לבדוק במקור, כולל שנה וכרך)",
-        "url": "http://www.seahellarc.gr/files/20091123154851Papadopoulos_et_al.JET.pdf"
       },
       {
         "label": "לקריאה נוספת: ויקיפדיה, רעידת האדמה בכרתים (1856)",
@@ -1582,6 +1546,7 @@
     "status": "draft",
     "reviewed_by": null,
     "review_notes": [
+      "ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Kkallas, Papadopoulos, E. Daskalaki.",
       "החלטת נדב (ספטמבר 2026): הטווח צומצם ל-7.7 עד 8.2, לפי זוהר 2017. התרחישים של קלאס ועמיתיו 2018 הוסרו מגוף הדף כי לא נבדקו במקור.",
       "רעידה רחוקה שהורגשה בארץ. המאמר של זוהר 2017 נקרא במלואו, והדף נבנה סביבו.",
       "location.lat/lon הוזנו: 36.6 צפון, 25.8 מזרח, לפי זוהר 2017, עמ׳ 1285–1286, שמביא את המוקד מפפאזאכוס ופפאזאכו 1997. זה מוקד בים מצפון לכרתים, צפונית לקואורדינטות שבוויקיפדיה (35.5, 26). נדב אישר להציג במפה כמיקום משוער, עם שם החוקר (כלל 9).",

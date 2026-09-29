@@ -76,9 +76,6 @@ sources:
   url: https://www.sciencedaily.com/releases/2014/10/141023100430.htm
 - label: 'Eric M. Meyers, James F. Strange and Carol L. Meyers, "Second Preliminary Report on the 1981 Excavations at en-Nabratein, Israel", BASOR 246 (1982), pp. 35–54 (TODO: לבדוק במקור)'
   url: https://www.jstor.org/discover/10.2307/1356586
-- label: 'Mohamed Reda Sbeinati, Ryad Darawcheh and Mikhail Mouty, "The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.", Annals of Geophysics 48 (3) (2005), pp. 347–435 (TODO: לבדוק במקור)'
-  url: https://www.earth-prints.org/bitstream/2122/908/1/01Sbeinati.pdf
-- label: 'Zeev Safrai, The Missing Century: Palestine in the Fifth Century: Growth and Decline, Peeters, 1998, pp. 86–87 (TODO: לבדוק במקור)'
 - label: 'Jefferson B. Williams, "363 CE Cyril Quakes", deadseaquake.info'
   url: https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/CyrilQuakes.html
 - label: 'לקריאה נוספת: ויקיפדיה העברית, רעידות האדמה בגליל (363)'
@@ -88,6 +85,7 @@ sources:
 status: draft
 reviewed_by: null
 review_notes:
+- 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati, Safrai.'
 - 'החלטת נדב (ספטמבר 2026): segment=null. אין מוקד מוסכם, והדף מסביר זאת.'
 - 'עריכה לפי הקו החדש (ספטמבר 2026): כל הייחוסים לוויקיפדיה הוסרו מהטקסט הגלוי. נקראו ישירות: Levenson 2013 (המאמר המלא, עמ׳ 60–79), זוהר ואחרים 2016 (טבלה 3, נספח A רשומה 4), זוהר ואחרים 2017 (עמ׳ 6–7), נספח סלמון ואחרים 2007, והדף של ויליאמס ב-deadseaquake.info (שמצטט דוחות חפירה).'
 - 'תוקן: הטענה שהאיגרת מביאה "מספרי מתים בכל עיר" (מהערך העברי) שגויה. לפי התרגום של Brock כפי שמצוטט אצל Levenson (עמ׳ 66), האיגרת מציינת לכל עיר איזה חלק ממנה נהרס. נפתר ה-TODO.'
@@ -171,7 +169,6 @@ Levenson גם פותר סתירה ותיקה. במהדורה המקובלת של
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985.
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Earthquake damage history in Israel and its close surrounding", *Tectonophysics* 696–697 (2017), pp. 1–13.
 - E. Y. Meimaris and K. I. Kritikakou, *Inscriptions from Palaestina Tertia*, vol. Ia: *The Greek Inscriptions from Ghor es-Safi (Byzantine Zoora)*, Athens, 2005.
-- Mohamed Reda Sbeinati, Ryad Darawcheh and Mikhail Mouty, "The historical earthquakes of Syria", *Annals of Geophysics* 48 (2005), pp. 347–435.
 - Jefferson B. Williams, "363 CE Cyril Quakes", [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/CyrilQuakes.html).
 
 [^cyril]: האיגרת המיוחסת לקירילוס, סעיף 12, בתרגום Brock 1977, עמ׳ 276, כפי שמצוטט אצל Levenson 2013, עמ׳ 66.

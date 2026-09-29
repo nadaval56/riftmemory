@@ -68,8 +68,6 @@ sources:
   url: https://doi.org/10.1002/2014TC003815
 - label: 'Y. Schweppe ועמיתיו, "Reconstructing the slip velocities of the 1202 and 1759 CE earthquakes based on faulted archaeological structures at Tell Ateret, Dead Sea Fault", Journal of Seismology (2021) (TODO: לבדוק במקור)'
   url: https://link.springer.com/article/10.1007/s10950-021-10009-0
-- label: 'M. R. Sbeinati, R. Darawcheh, M. Mouty, "The historical earthquakes of Syria: an analysis of large and moderate earthquakes from 1365 B.C. to 1900 A.D.", Annals of Geophysics 48(3) (2005) (TODO: לבדוק במקור)'
-  url: https://doi.org/10.4401/ag-3206
 - label: 'N. N. Lewis, "Baalbek before and after the earthquake of 1759: the drawings of James Bruce", Levant 31 (1999), עמ׳ 241 ואילך (TODO: לבדוק במקור)'
   url: https://doi.org/10.1179/lev.1999.31.1.241
 - label: 'John Kitto, Palestine: the Physical Geography and Natural History of the Holy Land, London, 1841, עמ׳ cvii (אומת). תיאור ראסל בעמ׳ lxxxix–xci חסר בסריקה (TODO: לבדוק במקור)'
@@ -85,6 +83,7 @@ sources:
 status: draft
 reviewed_by: null
 review_notes:
+- 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Sbeinati.'
 - 'החלטת נדב (ספטמבר 2026): מספר ההרוגים של קיטו הוסר מהדף עד שיימצא העמוד. נשאר וולני, שאומת.'
 - שתי רעידות באותו דף. התאריך בשדות date הוא של הראשונה. segment=galilee לפי אזור הנזק של הראשונה.
 - 'time_local נקבע ל-03:45 לפי זוהר ועמיתיו 2016 (טבלה 3, עמ׳ 978) ולפי הנספח של סלמון ועמיתיו 2007 ("03:45 LT"). שעת הרעידה השנייה: 19:23 (אותם מקורות).'

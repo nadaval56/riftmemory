@@ -47,27 +47,23 @@ sources:
 - label: 'Amos Salamon et al., "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (TODO: לבדוק במקור)'
-- label: 'Emanuela Guidoboni, Alberto Comastri and Giusto Traina, Catalogue of Ancient Earthquakes in the Mediterranean Area up to the 10th Century, ING-SGA, Bologna, 1994 (TODO: לבדוק במקור)'
 - label: 'Kenneth W. Russell, "The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D.", BASOR 260 (1985), pp. 37–59 (TODO: לבדוק במקור)'
   url: https://www.journals.uchicago.edu/doi/10.2307/1356863
 - label: 'N. Wechsler et al., "A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.", Bulletin of the Seismological Society of America 104 (3) (2014) (TODO: לבדוק במקור)'
   url: https://doi.org/10.1785/0120130304
 - label: 'Caesarea Maritima: A Retrospective after Two Millennia, p. 23 (TODO: לבדוק במקור)'
   url: https://books.google.co.il/books?id=pckUkJIHjiQC&pg=PA23
-- label: 'Moshe Sharon, Corpus Inscriptionum Arabicarum Palaestinae, vol. 1, p. 79 (TODO: לבדוק במקור)'
-  url: https://books.google.co.il/books?id=j1rSzWgHMjoC&pg=PA79
 - label: 'Jerome, Chronicle, באוסף Caesarea Maritima Testimonia, מס׳ 277 (TODO: לבדוק במקור)'
   url: https://caesarea-maritima.org/testimonia/277
 - label: 'Jefferson B. Williams, "Eusebius Mystery Quake", deadseaquake.info (TODO: לבדוק במקור)'
   url: https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html
-- label: '"אדריינוס", אנציקלופדיה יהודית, אתר דעת (TODO: לבדוק במקור)'
-  url: http://www.daat.ac.il/encyclopedia/value.asp?id1=2055
 - label: 'לקריאה נוספת: ויקיפדיה העברית, רעידת האדמה ביהודה (130)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(130)
 verdict: misattributed
 status: draft
 reviewed_by: null
 review_notes:
+- 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Guidoboni, Alberto Comastri and Giusto Traina, Corpus Inscriptionum Arabicarum, אדריינוס.'
 - 'הממצא המרכזי מהקריאה (ספטמבר 2026): זוהר, סלמון ורובין (2016) מסווגים את האירוע ברשימה של רעידות אמינות שיוחסו בטעות לארץ ישראל (נספח C, רשומה 7). לדבריהם, הרעידה כנראה אירעה באסיה הקטנה, והבלבול נוצר כשניאוקיסריה וניקופוליס שבאסיה הקטנה הוחלפו בפרשנות הדיווח של אוסביוס בקיסריה ובניקופוליס (אמאוס) שבארץ (לפי אמברייזיס 2009 וקרץ 1987). הם נותנים 127–130, באי-ודאות של 3 שנים. זה מאשר את ההצעה של אמברייזיס שהופיעה עד עכשיו רק דרך deadseaquake.info.'
 - 'החלטה לנדב: לאור הסיווג של זוהר ואחרים, האם להשאיר את הדף כרעידה בארץ ישראל, לסמן distant=true, או לנסח את הדף כולו כ"רעידה שיוחסה לארץ ישראל". כרגע הדף מציג את המסורת ואת הערעור עליה, ו-distant נשאר false.'
 - 'places: הוסרה לוד. היא הגיעה רק מהערך בוויקיפדיה (דרך Caesarea Maritima: A Retrospective, עמ׳ 23), ולא מהכרוניקון. אמאוס וקיסריה נשארו כי אלה הערים שהמסורת מזכירה, אבל זיהוין שנוי במחלוקת. לשקול להעביר ל-null.'
@@ -134,7 +130,6 @@ review_notes:
 - Jerome, *Chronicle*, בתרגום אנגלי באתר [tertullian.org](http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm) (עיבוד לכרוניקון של אוסביוס).
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985, והנספח האלקטרוני.
 - N. N. Ambraseys, *Earthquakes in the Mediterranean and Middle East*, Cambridge University Press, 2009.
-- Emanuela Guidoboni, Alberto Comastri and Giusto Traina, *Catalogue of Ancient Earthquakes in the Mediterranean Area up to the 10th Century*, Bologna, 1994.
 - Kenneth W. Russell, "The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D.", *BASOR* 260 (1985), pp. 37–59.
 - N. Wechsler ואחרים, "A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.", *BSSA* 104 (2014).
 
