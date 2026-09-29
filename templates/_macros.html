@@ -1,0 +1,35 @@
+{% macro live_line(q, segment_names) %}
+<span class="live-place">{{ q.label }}</span>
+<span class="live-mag"><span class="sr">מגניטודה</span> <bdi dir="ltr">M{{ q.magnitude }}</bdi></span>
+<time class="live-ago" datetime="{{ q.time_utc }}" data-relative>{{ q.ago }}</time>
+{% endmacro %}
+
+{% macro echo_line(q, by_id, base) %}
+{% if q.echo %}
+<p class="echo">
+  {{ q.echo.text }}
+  {% for id in q.echo.event_ids if id in by_id %}
+  <a href="{{ base }}/events/{{ id }}/">{{ by_id[id].short_title }}</a>{% if not loop.last %} · {% endif %}
+  {% endfor %}
+</p>
+{% endif %}
+{% endmacro %}
+
+{% macro event_card(e, base) %}
+<a class="event-card k-{{ e.kind }}" href="{{ base }}/events/{{ e.id }}/">
+  <span class="event-card-year">{{ e | year_label }}</span>
+  <span class="event-card-title">{{ e.title }}</span>
+  {% if e.segment_name %}<span class="event-card-seg">{{ e.segment_name }}</span>{% endif %}
+</a>
+{% endmacro %}
+
+{% macro map(data, id='map', height='420px') %}
+<div class="map" id="{{ id }}" style="height: {{ height }}" data-map='{{ data | tojson | forceescape }}'
+     role="region" aria-label="מפה: מקטעי השבר ורעידות"></div>
+<ul class="map-legend">
+  <li><span class="lg lg-live"></span> רעידות מהחודש האחרון</li>
+  <li><span class="lg lg-hist"></span> רעידות היסטוריות עם מיקום ממקור</li>
+  <li><span class="lg lg-seg"></span> מקטעי השבר</li>
+</ul>
+{% if not data.segments %}<p class="note">מקטעי השבר יוצגו אחרי שגבולותיהם יאושרו.</p>{% endif %}
+{% endmacro %}

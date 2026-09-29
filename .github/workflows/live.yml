@@ -1,12 +1,73 @@
-# שלד. הלוגיקה (fetch_live + echo + build + deploy, כל שעה) נכתבת בשלב 6.
-# עד אז אין schedule, כדי שלא ירוץ סתם.
+# כל שעה: משיכת רעידות אחרונות, הד היסטורי, בנייה ופרסום (פרק 9, שלב 6).
+# data/live/latest.json נשמר בריפו, כדי שאם כל המקורות נכשלו יישאר הקובץ הקודם.
 name: live
 
 on:
+  schedule:
+    - cron: "17 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
-  placeholder:
+  build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - run: echo "live.yml ימומש בשלב 6"
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: fetch live
+        run: |
+          cd scripts
+          python fetch_live.py
+          python echo.py
+
+      - name: commit latest.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/live/latest.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "live: עדכון רעידות אחרונות"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
+
+      - id: pages
+        uses: actions/configure-pages@v5
+      - name: build site
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: |
+          python scripts/build_events.py
+          python scripts/build_site.py
+      - name: checks (docs/guide.pdf, פרק 10)
+        run: cd scripts && python check_site.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,135 @@
+{% extends "base.html" %}
+{% from "_macros.html" import live_line, map, event_card %}
+{% set title = e.title %}
+{% set og_type = "article" %}
+{% set description = "רעידת אדמה, " ~ (e | year_label) ~ (". " ~ e.location.description if e.location.description else "") %}
+{% block head %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+{% endblock %}
+{% block main %}
+<article class="event">
+  <header class="event-header">
+    {% if e.status != "published" %}<p class="status-tag">{{ {"draft": "טיוטה", "reviewed": "נבדק, טרם פורסם"}[e.status] or e.status }}</p>{% endif %}
+    <p class="kicker">{{ e | year_label }}{% if e.segment_name %} · {{ e.segment_name }}{% endif %}</p>
+    <h1>{{ e.title }}</h1>
+    {% if e.location.distant %}<p class="distant-note">רעידה רחוקה שהורגשה בארץ.</p>{% endif %}
+  </header>
+
+  <div class="event-layout">
+    <aside class="facts" aria-label="כרטיס עובדות">
+      <dl>
+        <dt>תאריך</dt>
+        <dd>
+          {{ e.date | event_date }}
+          {% if e.date.hebrew_date %}<span class="sub">{{ e.date.hebrew_date }}</span>{% endif %}
+          {% if e.date.time_local %}<span class="sub">שעה <bdi dir="ltr">{{ e.date.time_local }}</bdi></span>{% endif %}
+          {% if e.date.certainty == "disputed" %}<span class="certainty">התיארוך שנוי במחלוקת</span>
+          {% elif e.date.certainty == "approximate" %}<span class="certainty">תאריך משוער</span>{% endif %}
+        </dd>
+        {% if e.location.description or e.segment_name %}
+        <dt>מיקום</dt>
+        <dd>
+          {{ e.location.description or "" }}
+          {% if e.segment_name %}<span class="sub">מקטע: {{ e.segment_name }}</span>{% endif %}
+        </dd>
+        {% endif %}
+        {% if e.magnitude | magnitude %}
+        <dt>מגניטודה</dt>
+        <dd>
+          <bdi>{{ e.magnitude | magnitude }}</bdi>
+          {% if e.magnitude.type %}<span class="sub">{{ e.magnitude.type | mag_type }}</span>{% endif %}
+          {% if e.magnitude.basis %}<span class="sub">{{ e.magnitude.basis | mag_basis }}</span>{% endif %}
+        </dd>
+        {% elif e.magnitude.note %}
+        <dt>מגניטודה</dt>
+        <dd>{{ e.magnitude.note }}</dd>
+        {% endif %}
+        {% if e.impact.deaths is not none or e.impact.deaths_note %}
+        <dt>הרוגים</dt>
+        <dd>
+          {% if e.impact.deaths is not none %}{{ e.impact.deaths | number }}{% endif %}
+          {% if e.impact.deaths_note %}<span class="sub">{{ e.impact.deaths_note }}</span>{% endif %}
+        </dd>
+        {% endif %}
+        {% if e.impact.injured is not none %}
+        <dt>פצועים</dt>
+        <dd>{{ e.impact.injured | number }}</dd>
+        {% endif %}
+        {% if e.impact.places %}
+        <dt>מקומות שנפגעו</dt>
+        <dd>{{ e.impact.places | join(", ") }}</dd>
+        {% endif %}
+        {% set ev = e.evidence %}
+        {% if ev.texts or ev.archaeology or ev.instrumental %}
+        <dt>סוגי ראיות</dt>
+        <dd class="evidence">
+          {% if ev.texts %}<span class="chip k-texts">מקור כתוב</span>{% endif %}
+          {% if ev.archaeology %}<span class="chip k-archaeology">ממצא ארכיאולוגי</span>{% endif %}
+          {% if ev.instrumental %}<span class="chip k-instrumental">מדידה מכשירית</span>{% endif %}
+        </dd>
+        {% endif %}
+      </dl>
+    </aside>
+
+    <div class="prose">
+      {% for s in e.sections %}
+        {% if s.html %}
+        <section>
+          <h2>{{ s.title }}</h2>
+          {{ s.html | safe }}
+        </section>
+        {% elif drafts %}
+        <section class="empty">
+          <h2>{{ s.title }}</h2>
+          <p class="todo">טרם נכתב.</p>
+        </section>
+        {% endif %}
+      {% endfor %}
+
+      {% if e.same_segment %}
+      <section>
+        <h2>רעידות באותו מקטע</h2>
+        <div class="event-cards">
+          {% for o in e.same_segment %}{{ event_card(o, base) }}{% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
+      {% if e.location.segment and e.location.segment != "distant" %}
+      <section>
+        <h2>רעידות חיות באזור</h2>
+        {% if e.live_nearby %}
+        <ul class="live-list">
+          {% for q in e.live_nearby %}<li>{{ live_line(q, segment_names) }}</li>{% endfor %}
+        </ul>
+        {% else %}
+        <p class="muted">אין ברשימה העדכנית רעידות מהמקטע הזה.</p>
+        {% endif %}
+      </section>
+      {% endif %}
+
+      {% if map_data.events or map_data.live %}
+      <section>
+        <h2>על המפה</h2>
+        {{ map(map_data, height='340px') }}
+      </section>
+      {% endif %}
+
+      <section class="sources">
+        <h2>מקורות</h2>
+        <ul>
+          {% for s in e.sources %}
+          <li>{% if s.url %}<a href="{{ s.url }}" rel="noopener">{{ s.label }}</a>{% else %}{{ s.label }}{% endif %}</li>
+          {% endfor %}
+        </ul>
+        <p class="license">הטקסט באתר מקורי. ערכי ויקיפדיה שימשו חומר גלם, ומקושרים כאן. תוכן ויקיפדיה מוגן ברישיון <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.he" rel="license noopener">CC BY-SA 4.0</a>.</p>
+      </section>
+    </div>
+  </div>
+</article>
+{% endblock %}
+{% block scripts %}
+{% if map_data.events or map_data.live %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
+{% endif %}
+{% endblock %}

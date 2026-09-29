@@ -17,6 +17,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -24,8 +25,17 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python scripts/build_site.py
-      - uses: actions/configure-pages@v5
+      - id: pages
+        uses: actions/configure-pages@v5
+      - name: build site
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: |
+          python scripts/build_events.py
+          python scripts/build_site.py
+      - name: checks (docs/guide.pdf, פרק 10)
+        run: cd scripts && python check_site.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

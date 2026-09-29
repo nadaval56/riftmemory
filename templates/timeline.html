@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% set title = "ציר הזמן" %}
+{% set description = "רעידות האדמה בארץ ישראל על ציר זמן, מהמאה ה-8 לפנה״ס ועד היום." %}
+{% block main %}
+<section class="page-intro">
+  <h1>ציר הזמן</h1>
+  <p class="lede">מהמאה ה-8 לפנה״ס ועד היום. הציר מקוטע לפי תקופות, כי בציר רגיל כמעט 3,000 שנה ייראו ריקות. כל תקופה מקבלת רוחב דומה, ובתוכה הזמן לינארי.</p>
+</section>
+{% if events %}
+<figure class="timeline-wrap">
+  {{ svg_h | safe }}
+  {{ svg_v | safe }}
+</figure>
+<ul class="timeline-legend">
+  <li><span class="lg k-texts"></span> מקור כתוב</li>
+  <li><span class="lg k-archaeology"></span> ממצא ארכיאולוגי</li>
+  <li><span class="lg k-instrumental"></span> מדידה מכשירית</li>
+  <li><span class="lg lg-nomag"></span> אין הערכת מגניטודה</li>
+  <li><span class="lg lg-range"></span> טווח תאריכים</li>
+</ul>
+<p class="muted">גודל הנקודה לפי המגניטודה המשוערת. הצבע לפי הראיה החזקה ביותר שיש לרעידה.</p>
+{% else %}
+<p class="muted">הדפים על הרעידות ההיסטוריות עדיין בכתיבה. הציר יתמלא כשיתפרסמו.</p>
+{% endif %}
+{% endblock %}
