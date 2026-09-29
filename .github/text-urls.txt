@@ -1,9 +1,4 @@
-# טקסטים פתוחים בלבד. slug url   (סבב 8: נחלת הכלל ומטא-נתונים)
-crossref-willis1928 https://api.crossref.org/works/10.1785/BSSA0180020073
-russell1759-rs https://royalsocietypublishing.org/doi/pdf/10.1098/rstl.1759.0054
-russell1759-ia-meta https://archive.org/metadata/paper-doi-10_1098_rstl_1759_0054
-jta-1927-400-bodies https://www.jta.org/archive/four-hundred-bodies-recovered-in-ruins-of-palestine-earthquake
-nyt-1927-zadok http://zadok.org/research/1927/nyt3.html
-robinson-dli-meta https://archive.org/metadata/in.ernet.dli.2015.181236
-robinson-princeton-meta https://archive.org/metadata/biblicalresearch03robi
-spyridon-ia-meta https://archive.org/metadata/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834
+# טקסטים פתוחים בלבד. slug url   (סבב 9: נחלת הכלל, archive.org)
+russell1759-ia https://archive.org/download/paper-doi-10_1098_rstl_1759_0054/paper-doi-10_1098_rstl_1759_0054_djvu.txt
+robinson1841-v3-dli https://archive.org/download/in.ernet.dli.2015.181236/2015.181236.Biblical-Researches-In-Palestine--Vol-3_djvu.txt
+robinson1841-v3-princeton https://archive.org/download/biblicalresearch03robi/biblicalresearch03robi_djvu.txt
