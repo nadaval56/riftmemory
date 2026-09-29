@@ -112,7 +112,7 @@ def echo_for(segment, events, limit=3):
         text = TEXT_NONE
     elif len(matches) == 1:
         e = matches[0]
-        text = f"באזור הזה נקרע השבר גם {_when(e)}. {e['short_title']}"
+        text = f"באזור הזה נקרע השבר גם {_when(e)}:"
     else:
         parts = [_when(e) for e in matches]
         text = f"זה האזור שנקרע {', '.join(parts[:-1])} {_and(parts[-1])}."

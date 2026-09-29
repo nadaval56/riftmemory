@@ -34,3 +34,14 @@
 </ul>
 <p class="note">מה רואים: השבר הסורי-אפריקני הוא לא קו אחד אלא כמה קווי שבר (העתקים) שעוברים לאורך הערבה, ים המלח, בקעת הירדן והכינרת. כל קו על המפה הוא העתק פעיל, כפי שמופה במאגר GEM Global Active Faults, לפי מודל EMME (רישיון CC BY-SA 4.0). את הקווים חילקנו לחמישה מקטעים, ושם המקטע כתוב על המפה.{% if data.segments | selectattr("draft") | list %} קו מקווקו: שיוך המקטע טרם אושר.{% endif %}</p>
 {% endmacro %}
+
+{# חלון המקור הצף: לחיצה על מספר הערה פותחת את המקור בתחתית המסך #}
+{% macro source_sheet() %}
+<div class="source-sheet" id="source-sheet" role="dialog" aria-modal="false" aria-live="polite" hidden>
+  <div class="source-sheet-inner">
+    <p class="source-sheet-label"></p>
+    <div class="source-sheet-body"></div>
+    <p class="source-sheet-hint">נגיעה בכל מקום סוגרת</p>
+  </div>
+</div>
+{% endmacro %}

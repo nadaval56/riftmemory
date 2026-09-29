@@ -115,7 +115,10 @@
     data.live.forEach(function (q) {
       L.circleMarker([q.lat, q.lon], {
         radius: Math.max(3, q.mag * 1.6), color: colors.live, weight: 1, fillOpacity: 0.6
-      }).bindPopup('<div class="map-popup"><strong>' + esc(q.label) + "</strong><br>M" + q.mag + " · " + (ago(q.time_utc) || "") + "</div>")
+      }).bindPopup('<div class="map-popup"><strong>' + esc(q.label) + '</strong><br><bdi dir="ltr">M' + q.mag + "</bdi>" +
+        (q.depth != null ? " · עומק " + q.depth + " ק״מ" : "") +
+        '<div class="src">' + esc(q.local || ago(q.time_utc) || "") + "</div>" +
+        (q.url ? '<div class="src"><a href="' + q.url + '">לכל הפרטים ←</a></div>' : "") + "</div>")
         .addTo(map);
       bounds.push([q.lat, q.lon]);
     });

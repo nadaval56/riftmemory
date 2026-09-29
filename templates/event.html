@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "_macros.html" import live_line, map, event_card %}
+{% from "_macros.html" import live_line, map, event_card, source_sheet %}
 {% set title = e.title %}
 {% set og_type = "article" %}
 {% set noindex = e.status != "published" %}
@@ -141,13 +141,7 @@
     </div>
   </div>
 </article>
-<div class="source-sheet" id="source-sheet" role="dialog" aria-modal="false" aria-live="polite" hidden>
-  <div class="source-sheet-inner">
-    <p class="source-sheet-label"></p>
-    <div class="source-sheet-body"></div>
-    <p class="source-sheet-hint">נגיעה בכל מקום סוגרת</p>
-  </div>
-</div>
+{{ source_sheet() }}
 {% endblock %}
 {% block scripts %}
 {% if map_data.events or map_data.live or map_data.highlight %}

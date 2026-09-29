@@ -18,6 +18,7 @@
       <p class="live-main">{{ live_line(latest, segment_names) }}</p>
       {% endif %}
       {{ echo_line(latest, by_id, base) }}
+      <p class="live-more"><a href="{{ base }}/recent/{% if latest.anchor %}#{{ latest.anchor }}{% endif %}">כל הרעידות מ־30 הימים האחרונים ←</a></p>
       <p class="live-source">
         מקור: {% if live.source == "gsi" %}המכון הגיאולוגי{% elif live.source == "usgs" %}USGS{% elif live.source == "emsc" %}EMSC{% endif %}
         · עודכן <time datetime="{{ live.fetched_at }}" data-relative>{{ live.fetched_at }}</time>

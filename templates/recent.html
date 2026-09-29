@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% from "_macros.html" import map, source_sheet %}
+{% set title = "30 הימים האחרונים" %}
+{% set description = "כל רעידות האדמה שהמכון הגיאולוגי רשם באזור בחודש האחרון: מתי, איפה, כמה חזקה, באיזה עומק, וכמה רחוק מקו השבר." %}
+{% block head %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+{% endblock %}
+{% block main %}
+<article class="recent">
+  <h1>30 הימים האחרונים</h1>
+  <p class="lede">כל הרעידות שהמכון הגיאולוגי רשם באזור בחודש האחרון, מגניטודה 2 ומעלה.<sup><a class="footnote-ref" href="#r-gsi">1</a></sup>
+  {% if quakes %}בסך הכול <strong>{{ quakes | length }}</strong> רעידות.
+  {% if strongest %}החזקה שבהן: <a href="#{{ strongest.anchor }}"><bdi dir="ltr">M{{ strongest.magnitude }}</bdi>, {{ strongest.label }}</a>.{% endif %}
+  {% if felt %}{{ felt | length }} מהן דווחו כמורגשות.{% endif %}{% endif %}</p>
+  <p class="muted">עודכן <time datetime="{{ live.fetched_at }}" data-relative>{{ live.fetched_at }}</time>.</p>
+
+  {% if quakes %}
+  <section aria-labelledby="days-h">
+    <h2 id="days-h">כמה רעידות בכל יום</h2>
+    <div class="chart-wrap">{{ chart_days | safe }}</div>
+    <p class="chart-note muted">מימין: לפני 30 ימים. משמאל: היום.</p>
+    <ul class="mag-bands">
+      {% for label, n in by_mag %}<li><strong>{{ n }}</strong> <span>במגניטודה <bdi dir="ltr">{{ label }}</bdi></span></li>{% endfor %}
+    </ul>
+  </section>
+
+  <section aria-labelledby="map-h">
+    <h2 id="map-h">על המפה</h2>
+    {{ map(map_data, id='map', height='440px') }}
+  </section>
+
+  <section aria-labelledby="list-h">
+    <h2 id="list-h">כל הרעידות</h2>
+    <ol class="quake-list">
+      {% for q in quakes %}
+      <li class="quake" id="{{ q.anchor }}">
+        <div class="quake-head">
+          <span class="quake-mag"><bdi dir="ltr">M{{ q.magnitude }}</bdi></span>
+          <span class="quake-place">{{ q.label }}</span>
+          <time class="quake-time" datetime="{{ q.time_utc }}">{{ q.local }}</time>
+        </div>
+        <dl class="quake-facts">
+          {% if q.depth_km is not none %}<div><dt>עומק</dt><dd>{{ q.depth_km }} ק״מ</dd></div>{% endif %}
+          {% if q.fault_km is not none %}<div><dt>מקו השבר הקרוב</dt><dd>
+            {% if q.fault_km < 1 %}פחות מק״מ{% else %}כ־{{ q.fault_km }} ק״מ{% endif %}{% if q.fault_km <= 50 and q.fault_seg %} (מקטע {{ q.fault_seg }}){% endif %}</dd></div>{% endif %}
+          {% if q.felt %}<div><dt>הורגשה</dt><dd>כן, לפי המכון</dd></div>{% endif %}
+        </dl>
+        {% if q.echo and q.echo.text %}
+        <p class="echo">{{ q.echo.text }}
+          {% for id in q.echo.event_ids if id in by_id %}<a href="{{ base }}/events/{{ id }}/">{{ by_id[id].short_title }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% else %}
+  <p class="muted">אין נתונים מהחודש האחרון.</p>
+  {% endif %}
+
+  <section class="prose" aria-labelledby="how-h">
+    <h2 id="how-h">איך לקרוא את הנתונים</h2>
+    <p><strong>מגניטודה (M)</strong> היא מספר שמבטא את גודל הרעידה במוקד, והיא מחושבת מהרישום של הגלים במכשירים. הסולם לוגריתמי: עלייה של יחידה אחת פירושה גלים גדולים פי 10 ברישום, ואנרגיה גדולה פי 32 בערך.<sup><a class="footnote-ref" href="#r-usgs-mag">2</a></sup> לכן רעידה של 4 משחררת אנרגיה גדולה פי אלף בערך מרעידה של 2.</p>
+    <p><strong>עומק</strong> הוא המרחק מפני הקרקע אל המוקד, הנקודה שבה התחיל הקרע.<sup><a class="footnote-ref" href="#r-usgs-gloss">3</a></sup></p>
+    <p><strong>המרחק מקו השבר</strong> נמדד מהמוקד שהמכון מפרסם אל הקרוב שבקווי ההעתקים שעל המפה (GEM, מודל EMME). זה חישוב של האתר, לא של המכון. המוקד עצמו הוא הערכה, והמכון מפרסם לכל רעידה גם את אי־הוודאות שלו.<sup><a class="footnote-ref" href="#r-gsi">1</a></sup></p>
+    <p><strong>ההד ההיסטורי</strong> מציין רק עובדה גיאוגרפית: באיזה מקטע תועדו רעידות גדולות בעבר. רעידה קטנה היום לא מלמדת דבר על השאלה אם ומתי תהיה רעידה גדולה.</p>
+  </section>
+
+  <section class="sources" id="bibliography">
+    <h2>מקורות</h2>
+    <div class="footnote"><ol>
+      <li id="r-gsi">המכון הגיאולוגי לישראל, <a href="https://eq.gsi.gov.il/heb/earthquake/lastEarthquakes.php" rel="noopener">רעידות אדמה אחרונות</a>. הנתונים נמשכים מה־API של האתר פעם בשעה, באזור 27–36 צפון ו־32–38 מזרח.</li>
+      <li id="r-usgs-mag">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity" rel="noopener">Earthquake Magnitude, Energy Release, and Shaking Intensity</a>. TODO: לבדוק במקור</li>
+      <li id="r-usgs-gloss">USGS, <a href="https://earthquake.usgs.gov/learn/glossary/" rel="noopener">Earthquake Glossary</a>, ערך hypocenter. TODO: לבדוק במקור</li>
+    </ol></div>
+  </section>
+</article>
+{{ source_sheet() }}
+{% endblock %}
+{% block scripts %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
+{% endblock %}

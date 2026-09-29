@@ -26,6 +26,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import echo
 import fmt
+import charts
 import timeline
 from build_events import load_events
 
@@ -125,6 +126,47 @@ def live_label(q, segment_names):
     if seg and seg != echo.DISTANT and seg in segment_names:
         return segment_names[seg]
     return q.get("place") or segment_names.get(seg, "")
+
+
+
+WEEKDAYS_HE = ["שני", "שלישי", "רביעי", "חמישי", "שישי", "שבת", "ראשון"]
+
+
+def local_time(t):
+    """ "יום שלישי 23.9 · 00:59" בשעון ישראל."""
+    lt = t.astimezone(TZ)
+    return f"יום {WEEKDAYS_HE[lt.weekday()]} {lt.day}.{lt.month} · {lt:%H:%M}"
+
+
+def quake_id(q):
+    return "q-" + (q.get("source_id") or q["time_utc"].replace(":", "").replace("-", ""))
+
+
+def describe_quakes(quakes, segments, segment_names):
+    """פרטים לכל רעידה חיה: שעה מקומית, המרחק מקו השבר הקרוב והמקטע שלו."""
+    for q in quakes:
+        seg, dist = echo.nearest_segment(q["lat"], q["lon"], segments)
+        q["anchor"] = quake_id(q)
+        q["local"] = local_time(q["time"])
+        q["fault_km"] = round(dist) if seg is not None else None
+        q["fault_seg"] = segment_names.get(seg["id"]) if seg is not None else None
+    return quakes
+
+
+def recent_summary(quakes, today, days=30):
+    """מספר רעידות לכל יום (מהישן מימין), ולפי טווחי מגניטודה."""
+    counts = {}
+    for q in quakes:
+        d = q["time"].astimezone(TZ).date()
+        counts[d] = counts.get(d, 0) + 1
+    items = []
+    for i in range(days - 1, -1, -1):
+        d = today - dt.timedelta(days=i)
+        n = counts.get(d, 0)
+        items.append((f"{d.day}.{d.month}", n, f"{d.day}.{d.month}: {n} רעידות"))
+    bands = [("2–2.9", 2, 3), ("3–3.9", 3, 4), ("4 ומעלה", 4, 99)]
+    by_mag = [(label, sum(1 for q in quakes if lo <= q["magnitude"] < hi)) for label, lo, hi in bands]
+    return items, by_mag
 
 
 # --- היום בהיסטוריה -----------------------------------------------------
@@ -243,6 +285,9 @@ def map_data(events, live, segments, focus=False, highlight=None):
                 "mag": q["magnitude"],
                 "time_utc": q["time_utc"],
                 "label": q["label"],
+                "depth": q.get("depth_km"),
+                "local": q.get("local"),
+                "url": f"{BASE_PATH}/recent/#{q['anchor']}" if q.get("anchor") else None,
             }
             for q in live["events"]
         ],
@@ -272,6 +317,7 @@ def build(drafts=False):
     for q in live["events"]:
         q["ago"] = relative_hours(q["time"], now)
         q["label"] = live_label(q, segment_names)
+    describe_quakes(live["events"], segments, segment_names)
 
     by_id = {e["id"]: e for e in events}
     for e in events:
@@ -330,6 +376,22 @@ def build(drafts=False):
         ))
         if e["status"] == "published":
             pages.append(path)
+
+    # 30 הימים האחרונים
+    days, by_mag = recent_summary(live_month["events"], today)
+    write(SITE / "recent" / "index.html", env.get_template("recent.html").render(
+        **common,
+        page_path="/recent/",
+        live=live,
+        quakes=live_month["events"],
+        by_id=by_id,
+        by_mag=by_mag,
+        strongest=max(live_month["events"], key=lambda q: q["magnitude"], default=None),
+        felt=[q for q in live_month["events"] if q.get("felt")],
+        chart_days=charts.bars(days, width=420, height=150, label_every=7, title="מספר הרעידות בכל יום, 30 הימים האחרונים"),
+        map_data=map_data([], live_month, segments),
+    ))
+    pages.append("/recent/")
 
     # ציר הזמן
     write(SITE / "timeline" / "index.html", env.get_template("timeline.html").render(
