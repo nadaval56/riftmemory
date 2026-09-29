@@ -796,7 +796,8 @@
      "status": "reported+found",
      "evidence": "דווח שנפגעה; עוגני ברזל לתיקון קירות סדוקים",
      "footnotes": [
-      "zohar14-920"
+      "zohar14-920",
+      "dhy"
      ]
     }
    ]
@@ -852,6 +853,24 @@
      "evidence": "גל הציף את הרציפים, בלי נזק נראה",
      "footnotes": [
       "salamon07-t1"
+     ]
+    }
+   ]
+  },
+  {
+   "geonameid": "293220",
+   "name_gn": "Yavne’el",
+   "lat": 32.706,
+   "lon": 35.5041,
+   "place_he": "יבנאל",
+   "entries": [
+    {
+     "event": "1927-dead-sea",
+     "place_he": "יבנאל",
+     "status": "reported",
+     "evidence": "שני בתים נהרסו, לפי דואר היום",
+     "footnotes": [
+      "dhy"
      ]
     }
    ]
@@ -1115,6 +1134,15 @@
       "zohar16",
       "zohar17",
       "ferry"
+     ]
+    },
+    {
+     "event": "1927-dead-sea",
+     "place_he": "יריחו",
+     "status": "reported",
+     "evidence": "רוב מלון נהרס ותיירים נהרגו, לפי דואר היום",
+     "footnotes": [
+      "dhy"
      ]
     }
    ]
@@ -1888,7 +1916,8 @@
      "status": "reported",
      "evidence": "בין היישובים שנפגעו",
      "footnotes": [
-      "zohar16"
+      "zohar16",
+      "dhy"
      ]
     }
    ]
@@ -1926,6 +1955,24 @@
      "footnotes": [
       "daeron-530",
       "ab89"
+     ]
+    }
+   ]
+  },
+  {
+   "geonameid": "295174",
+   "name_gn": "Ar Rayna",
+   "lat": 32.7222,
+   "lon": 35.3156,
+   "place_he": "ריינה",
+   "entries": [
+    {
+     "event": "1927-dead-sea",
+     "place_he": "ריינה",
+     "status": "reported",
+     "evidence": "תשעה הרוגים, רוב בתי הכפר נהרסו, לפי דואר היום",
+     "footnotes": [
+      "dhy"
      ]
     }
    ]
@@ -2055,7 +2102,8 @@
      "evidence": "נפגעה קשה ונהרגו עשרות",
      "footnotes": [
       "zohar16",
-      "zohar17-11"
+      "zohar17-11",
+      "dhy"
      ]
     }
    ]
