@@ -1,1 +1,1083 @@
-
+SOURCE: https://www.annalsofgeophysics.eu/index.php/annals/article/download/3887/3952 (OCR)
+
+
+=== p-01 ===
+ANNALI DI GEOFISICA, VOL. XL, N. 4, August 1997
+
+The earthquake of 1 January 1837 in
+Southern Lebanon and Northern Israel
+
+Nicholas N. Ambraseys
+Department of Civil Engineering, Imperial College of Science, Technology and Medicine, London, U.K.
+
+Abstract
+
+All of our 20th-century information for the Levant Fracture and Dead Sea transform fault systems is for a qui-
+escent period in the seismicity. This is apparent when we consider earlier events which show that infrequent
+earthquakes have occurred in the past along this system, an important consideration for the assessment of haz-
+ard and tectonics of the Middle East. One of these events was the earthquake of 1837 which caused heavy
+damage in Northern Israel and Southern Lebanon. This earthquake was a much larger event than earthquake
+catalogues indicate. We reckon it was a shallow, probably multiple event of magnitude greater than 7.0.
+
+Key words seismicity — Middle East — historical
+earthquake — magnitude
+
+1. Introduction
+
+In previous papers we have shown that rela-
+tively large but infrequent earthquakes have
+occurred in the past along the Dead Sea trans-
+form fault system or Levant Fracture, and con-
+sequently that all our 20th-century information
+for this tectonic system are for a quiescent
+period in the seismicity (Ambraseys and
+Barazangi, 1989; Ambraseys and Melville,
+1988, 1995).
+
+One of the events of the pre-instrumental
+period that must be added to the large events
+belonging to the Dead Sea fault system is the
+earthquake of 1 January 1837. This event is
+listed in a number of catalogues (Colla, 1837;
+Perrey, 1850; Mallet, 1854; Lemmens, 1898;
+Arvanitakis, 1903; Willis, 1928; Sieberg,
+1932a,b; Kallner-Amiran, 1951). Modern writ-
+
+Mailing address: Prof. Nicholas N. Ambraseys, Depart-
+ment of Civil Engineering, Imperial College of Science,
+Technology and Medicine, London SW7 3LT, U.K.;
+e-mail: n.ambraseys@ic.ac.uk
+
+923
+
+ers locate the event just north of Safed in Israel
+and assign to it a magnitude of 6.4 (Vered
+and Striem, 1976, 1977; Ben-Menahem, 1979;
+Amiran et al., 1994),
+
+However, a re-appraisal of the available in-
+formation suggests that this was a larger earth-
+quake with an epicentral area that extended to
+the north, well beyond Safed into Lebanon,
+and that it was associated not only with the
+pull-apart basins of the Galilee Sea and Hule
+depressions but probably also with a part of the
+braided Roum fault which further to the north-
+west traverses the less frequented districts
+of Bshara, Marjuyum and al-Tuffa (Touffa),
+figs. 1 and 2.
+
+The information for this earthquake comes
+from contemporary sources such as unpub-
+lished consular correspondence, official docu-
+ments and damage returns (M1 to M6), as well
+as from press reports (P1 to P6) and from the
+observations of travellers who passed through
+the epicentral region after the earthquake.
+Some of these observations are summarised by
+Kitto (1844).
+
+At the time of the earthquake Palestine and
+Syria, parts of the Ottoman empire, were occu-
+pied by the Egyptians (1831-1840) and the re-
+gion was in turmoil. This, to some extent, ac-
+
+
+=== p-02 ===
+Nicholas N. Ambraseys
+
+counts for the dearth of information from the
+hinterland and from Turkish archives in Istan-
+bul, although for the latter search has been
+rudimentary. Also no documents could be
+found in Melkite repositories relating to the ef-
+fect of this event on monasteries in the Shouff
+region in Lebanon except for the personal
+communication from Archimandrite Euthymius
+Skaf, that he was not aware of any documents
+relating to damage to Melkite property caused
+by the 1837 earthquake.
+
+Appendix gives in some detail the macro-
+seismic information for this event, much of
+which is not readily available to readers. Fig-
+ure | shows the area over which the shock was
+felt and fig. 2 the location of the sites affected
+in the epicentral region.
+
+2. The earthquake of 1 January 1837
+
+The earthquake occurred on 1 January 1837
+at about four in the afternoon and lasted about
+20 s. It was probably a multiple event, the sec-
+ond shock occurring about five minutes after
+the main shock.
+
+Destruction or heavy damage was done
+along a relatively narrow zone which extended
+from the coastal area of Saida (Sidon) through
+the inland iklimi (regions) of al-Touffa, Mar-
+juyum, Bshara to Lake Tiberias, for a lotal
+length of about 120 km, fig. 3. Damage in the
+epicentral region was widespread and varied
+from place to place over short distances. Much
+of it can be attributed to the high vulnerablity
+of the local type of houses and also to the sit-
+ing of villages, particularly those in the central
+and north part of the affected area. A general
+observation about a typical rural house in Syria
+and Palestine in the early 1800s is that its in-
+herent strength was very low and extremely
+variable, and its vulnerability to earthquakes
+high. Local houses were chiefly one-storey
+high, of rubble masonry construction covered
+with heavy flat roofs, already in a ruinous
+state. The degree of damage or destruction
+caused by an earthquake was usually propor-
+tional to the size of the housing conglomerate
+or village; the larger the conglomerate, the
+heavier the apparent damage. The high vulner-
+
+924
+
+ability of local houses becomes apparent when
+we consider the relatively small damage sus-
+tained by the few properly built public struc-
+tures in the epicentral region, such as convents,
+churches, walls and bridges, as compared to
+ordinary dwellings.
+
+Another factor that contributed to the erratic
+distribution of damage in this and other earth-
+quakes before and after 1837 in this region, is
+site effects. Many villages, for defense reasons,
+were built on hilltops or on steep slopes, over-
+looking their fields. Many of these sites have
+had already suffered from slides and regional
+instability of the ground, particularly those
+built on marls, chalk and weathered limestone.
+The destruction of Safed, for instance, and of
+the nearby villages of Ein Zeitim, Reina and
+Jish in the earthquake of 1837 can be attributed
+to the instability of their sites rather than to the
+exceptional severity of the shock (Wachs and
+Levitte, 1981). Regarding the loss of life, the
+earthquake happened in the evening, during a
+wet period in winter when most people were
+indoors having dinner, which contributed to the
+relatively large number of casualties.
+
+These factors make the assessment of inten-
+sity difficult and for many sites in the epicen-
+tral region its maximum value appears to be ef-
+fectively the same, that is, it saturates at about
+intensity VII-VIII MSK, and all local houses
+are destroyed and any village would thus ap-
+pear equally, but no more devastated at higher
+intensities. For lower intensities, which in our
+case come chiefly from urban areas, there is al-
+ways an element of exaggeration which has to
+be taken into consideration (Striem, 1983).
+
+Figures 1 and 3 summarize the far- and
+near-field effects of the earthquake. With the
+exception of the epicentral region shown in
+these figures, to the west of it the Mediter-
+ranean Sea and to the east a sparcely populated
+tribal area provided no macroseismic informa-
+tion. This is a typical feature of earthquakes in
+the region that results in biasing isoseismals of
+earthquakes of all magnitudes greater than
+about 5.5 to be drawn elongated in a north-
+south direction.
+
+Figure 1 shows that the shock was felt
+within a radius of about 500 km and that at
+large distances it caused long-period effects,
+
+
+=== p-03 ===
+The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel
+
+38.00
+N
+i Aintab 3
+%. Kilis
+Iskenderun
+: Antioch
+3° Aleppo
+4
+Latakiva
+Larnaca ‘2%
+Tripoli
+5 ripoli
+a :
+© Baalbek ~*~ * 34.00
+7
+Damascus :
+|
+: i
+|
+|
+| |
+| * 30.00 |
+i |
+|
+| _ 38.00E
+
+Fig. 1. Geographical map of the region in which the 1837 earthquake was felt. Locations shown are those in
+which the shock was felt. Numbers are intensity ratings, in the Medvedev-Sponheuer-Karnik scale, due to the
+main shock. Blank inset A is the location of the epicentral region shown in fig. 2.
+
+925
+
+
+
+=== p-04 ===
+Nicholas N. Ambraseys
+
+0 10 20 30 nN
+wee N
+Kilometers
+ASHAYYA
+B+ | a? ae.
+SUR
+HUNIN : :
+' TiBNIy Ye :
+LHULE
+ATERET, ~~~ 7 33.00
+| (8) arin
+BASHAN
+ele Lee eee Pewee peter eee 32.50
+@) ADJLUN
+a : JERASH®)
+| : @ | | |
+! 35.00 35.50 36.00 E
+
+926
+
+
+=== p-05 ===
+The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel
+
+such as slow and sustained oscillations of the
+ground and nausea, common far-field charac-
+teristics of large earthquakes.
+
+In the near-field the assessment of intensity
+is complicated owing not only to the high vul-
+nerability of local dwellings and site effects
+mentioned earlier but also due to the possibil-
+ity that the reported macroseismic effects and
+damage are due to two successive, relatively
+large magnitude, events. A double shock, with
+separate epicentres, would have affected signif-
+icantly the observed distribution of damage in
+the epicentral area but it would have little ef-
+fect on the distribution of intensity at large dis-
+tances. The available macroseismic data do
+suggest sub-events but it is not possible to say
+which parts of the zone were associated with
+them.
+
+3. Assessment of magnitude
+There are no earthquakes of size compara-
+
+ble to that of the 1837 earthquake in the Dead
+Sea zone in the instrumental period — after
+
+1898 — that can be used to calibrate the magni-
+tude of this event using macroseismic data.
+
+We may use the relationship derived to pre-
+dict surface wave magnitudes from macroseis-
+mic data of Turkish and North Syrian earth-
+quakes, i.e
+
+M, = - 1.74 + 0.66 (J, + 0.0015 (7; +
++ 2.26 log(r;) +0.25 p (3.1)
+
+where r; = (R°+7.47)°> and R; is the average
+radius of isoseismals of intensity I;. The last
+term p in equation is zero for mean values and
++1 for plus one standard deviation (Ambraseys
+and Finkel, 1986,1987)
+
+Equation (3.1) has been derived from 523
+isoseismals belonging to 158 shallow earth-
+quakes in Turkey up to 1995, with M, magni-
+tudes in the range 4.0 to 7.8 and isoseismal
+radii from 5 to 800 km. The smallest intensity
+used is III and the maximum VIII (MSK).
+Equation (3.1) is an unpublished improved ver-
+sion of a very similar relationship derived for
+the same area for events up to 1986.
+
+Fig. 2. Location map of the epicentral region of the 1837 earthquake (inset A in fig. 1) showing trend of
+main faults (shaded). Numbers refer to locations affected given below in alphabetical order: 1: Abagha (?);
+2: Ablayin; 3: Abra; 4: Acre; 5: al-Afrish (2); 6: Ain Ibli; 7: Ain Zeitun; 8: Ajja; 9: Ajlun; 10: ’Akib, Kafr;
+11: Algar (Mugar ?); 12: A(i)labun; 13: Alma; 14: Amba (2); 15: Arraba; 16: al-Asban (2); 17: Atbar (?);
+18: Athlith; 19: A(y)t(a)run; 20: Attil; 21: A(wlam; 22: Banyas; 23: Bashmahr (?); 24: Bilad Harithiya;
+25: Bilad Shaqif (n. Qalat Shuqf); 26: Bint Jubayl; 27: Bira (= Kafr Birim); 28: al-Birwa; 29: Beka’a;
+
+30: Berga; 31: Betset; 32: Caffar (= al-Kufur); 33: Cudittha (= Qaddita); 34: Djibshit; 35: D(a)mun;
+36: Danna; 37: Dar al-Hatta: 38: Deir Qufa: 39: Dibbin; 40: D@a)llata; 41: Deir Mimas; 41b: Deir al-
+MukKhalles; 41c: Deir Qamar; 42: Djish (= Jish); 43: Dibil; 44 E(i)rbil (Ibel), Kherbet Shaga; 45: al-Fara;
+46: Ghabsiyya; 47: al-Ghaziye; 48: Giahun (Beit Yahun); 49: Hadatha; 50: Haifa; 51: (H)Deishun; 52: al-
+H(Kh)iyam; 53: Hashbaya; 54: Hunnin; 55: al-Hurba; 56: Jaba; 57: Jaba (near Haifa ?); 58 Jatt; 59: Jerash;
+60: Jun; 61: Irbid; 62: Kafr Bir’im; 63: Kafr Kenna; 64: Kafr Sabt; 65: Kafr Yasif; 66: K(Q)ana; 67: Kherbet
+Beka’a; 68: K(Q)adas; 70: Kaweikat; 71: Lubiya; 72: Ma’lun; 73: Marun; 74: Maghar; 75: Marun al-Ras;
+76: Mashariq (?); 77: Ma’soub(kh); 78: Mitulla; 79: Mijdal; 80: Majael (?); 81: Meirun; 82: al-Mays; 83: Me-
+likiyeh; 84: Msabla (2); 85: Nablus; 86: Najarieh (?); 87: Nazareth; 88: Nisable (2); 89: Ontilias river
+(Wad’Iliyas); 90: Qala’t al-Shubeibeh (near Banyas); 91: Qala’t al-Shugf; 92: Qaqun; 93: Qaryat Jit;
+94: Rama; 95: Ramaysh; 96: Rashaya; 97: Ras al-Ahmar: 98: Rumin: 99: R(u)eina; 101: Safed; 102: Saffuriya;
+103: Salihiyah; 104: al-Salha (Yiron 2); 105: Shezor; 106: Shadjara; 107: Sidon region; 108: Sirin; 109: She-
+far’am; 110: Sumei; 111: Sutli (?): 11la: Tarshiha; 111b: Tel Bisha (near Jit/Nablus); 112: Tiberias;
+113: Tiberias East; 114: Tibnin; 116: Tamra; 117: al-Tahta Nabatiiya; 118: Tubas; 119: Sur (Sidon);
+120: Ya’tar; 121: Zeqqieh; 122: Zeita. Because of lack of space not all sites are shown in fig. 2. The location
+of sites not shown can be deduced from the text. Sites not mentioned above but not shown in fig. 2, are sites of
+unknown location which are mentioned passim in the sources of information without details. Alternative
+spelling is given in brackets and a question mark indicates that the location has not been identified.
+
+927
+
+
+
+=== p-06 ===
+Nicholas N. Ambraseys
+
+aaa 34.00
+0 oN
+“S HOURF
+_ a Lone .
+/ ' DEIR QAMAR :
+Qo
+‘
+:
+. RASHAYYA
+oe cI :
+~~ + 133.50
+~ ~/33.00
+BASHAN :
+i nn) oh iis 32.50
+ADJLUN
+JERASH Ti
+NABLUS a ;
+35.00 35.50 36.00E
+
+Fig. 3. Intensity distribution of the earthquake of 1837. Full, dotted and open squares show intensities as-
+sessed in this study of VIII, VII and VI MSK respectively. Star shows the preliminary location of the earth-
+quakes of 26 March 1997 at 04 h 22 min and 13 h 20 min (UTC) of M, = 5.1 and 4.9 respectively that oc-
+
+curred when this paper was in press.
+
+928
+
+
+
+=== p-07 ===
+The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel
+
+On a comparative basis, the earthquakes of
+1202 (Ambraseys and Melville, 1988) and
+1756 (Ambraseys and Barazangi, 1989) were
+larger than the 1837 earthquake. The former
+was associated with the Yammouneh fault and
+with its junction with the Dead Sea fault and
+had a magnitude perhaps larger than 7.6. The
+shock of 1756 was also associated with the
+Yammouneh fault and from eq. (3.1) its magni-
+tude should be about 7.5.
+
+Figure 3 shows our estimate of the near-
+field distribution of intensity. Solid squares
+show sites at which intensities approached or
+exceeded VIII (MSK). Squares within a square
+indicate intensities of about VII (MSK), and
+open squares are for intensities of about VI
+(MSK). Figure 1 shows our assessment of in-
+tensities in the far-field.
+
+In the absense of data for intensities smaller
+than VI to the east and west of the epicentral
+area, we used the values of the radii r(i) that
+obtain from data in the north-south direction
+which are: r; = 530 km, ry = 300 km, rs = 200
+km, r6 = 130 km, rz = 70 km, rg = 35 km.
+From these figures eq. (3.1) gives a magnitude
+of M, = 7.1. If we assume that lower (< VI),
+far-field isoseismals, have shapes of the same
+aspect ratio as those for (> VI), the magnitude
+from eq. (3.1) is M, = 7.0.
+
+4. Faulting
+
+There remains to discuss the question of
+whether this earthquake was associated with
+surface faulting.
+
+The three large aftershocks of this earth-
+quake, on 16 January to the south end of the
+epicentral area, on 22 January near the middle
+of this area, and on 20 May in the north, in the
+region of Hasbeya (No. 53 in fig. 2, between
+the Yammouneh and Rashayya faults) define a
+source length of about 70 km, which is almost
+the same as the length of the long axis of the
+epicentral area shown in fig. 3 (full squares).
+
+This alignment could easily be associated
+with rupture of the Roum fault and of its ex-
+tension to Lake Tiberias in the south (Walley,
+1988) or, alternatively, if the shock was dou-
+ble, it may well be associated with rupture of
+
+929
+
+both the Roum and the Yammouneh faults.
+However, if it be assumed that the lack of evi-
+dence for destruction east of the Dead Sea and
+of the Rashayya faults shown in fig. 3 is gen-
+uine and not due to lack of data, the fact that
+destruction follows the Roum fault through al-
+Touffa to Saida (fig. 3) suggests the the Roum
+fault is a more likely candidate as the source of
+this earthquake than the Yammouneh fault.
+However, with no evidence for surface faulting
+in the literary sources there is no way of
+choosing between these two alternatives.
+
+The only information regarding ground de-
+formation associated with this earthquake is
+vague and inconclusive. Reports that near
+Safed the ground was «rent» and so did up toa
+point east of Jish and beyond as far as one.
+could see, and also that large fractures in the
+ground opened up near Mitulla and likewise in
+the vicinity of Baniyas, may refer to features of
+a tectonic origin (M1; M2; Waghorn, 1837;
+Robinson, 1856); Anonymous (1843).
+
+The reported cases of deep cracks opening
+up between Tiberias and Safed, emitting dust,
+seem to be due to landslides (M3; Robinson,
+1856).
+
+Also it was said that as a result of the earth-
+quake the (west ?) coast of Lake Tiberias sank
+and that the lake water rose and swept away
+many people (M1; Macgregor, 1904). This ob-
+servation on its own does not imply that this
+change of level of the coast was necessarily of
+tectonic origin. It may well have been a rather
+exaggerated observation relating to the rapid
+fluctuation of the level of the Lake noticed by
+Lynch (1852).
+
+Another report by seamen that the westerly
+side of the shoreline at Sur had risen above the
+rocks and that this was clear proof of the subsi-
+dence of the ground caused by the earthquake
+cannot be substantiated (Bertou, 1843).
+
+Equally inconclusive is the evidence for
+surface faulting at Ateret (Qasr al-A’thara), a
+Crusader fort on the western bank of the Jor-
+dan river just south of Jisr Banat Jaqub, fig. 2,
+where archaeological finds show that east-west
+walls of the fort have been clearly displaced in
+a left-lateral sense by 2.1 m by a north-south
+trending fault while more recent, Muslim,
+structures have been displaced by about 0.2 m
+
+
+=== p-08 ===
+Nicholas N. Ambraseys
+
+(Marco et al., 1996). However it is not known
+when these displacements took place and there
+is no good reason to associate them with this
+earthquake.
+
+If we assume that the earthquake was asso-
+ciated with faulting we may estimate its rup-
+ture length L from
+
+M, = 5.13 + 1.14 log (L) (4.1)
+
+where L is in kilometres. This equation has
+been derived from a straight forward orthogo-
+nal regression of M, and log(L) from 62 shal-
+low earthquakes in the Eastern Mediterranean
+and the Middle East associated with surface
+faulting, with 55% of the data coming from
+strike-slip, 30% from normal and 25% from
+thrust faults (Ambraseys, 1996).
+
+The same data set and regression method
+show that the associated fault displacement u
+in centimetres can be obtained from
+
+log(u) = —2.99 + 0.73 M,. (4.2)
+
+With an estimated magnitude of 7.1, eq. (4.1)
+gives a rupture length of 54 km, which is
+compatible with the length of the Roum fault,
+with an associated displacement, from (4.2), of
+150 cm, estimates close to those that can be
+obtained from the global relations of Wells and
+Coppersmith (1994).
+
+5. Conclusions
+
+From the foregoing it appears that the 1837
+earthquake was an event of magnitude greater
+than thought until now, and perhaps a multiple
+event, not dissimilar to earlier large earth-
+quakes, consisting of two shocks, the macro-
+seismic effects of which cannot be separated.
+
+Maximum damage was experienced along
+the Roum fault and its small branches which
+occupy the regions of Marjuyum anf Bshara to
+the southwest (Freund et al., 1970).
+
+There is no conclusive field evidence that
+this earthquake was associated with surface
+faulting.
+
+930
+
+Acknowledgements
+
+I would like to thank I. Karcez, C. Melville,
+J. Vogt, and D. White for their help in prepar-
+ing this paper, and also Dr. S. Marco for mak-
+ing available a pre-print of his paper. This
+work is part of the BEECD project supported
+by the European Community Environment-1
+programme, CEC/DGXII/2, Bruxelles.
+
+REFERENCES
+
+Unpublished sources
+
+M1 PRO: Public Record Office, Kew. FO.78.316 (Beirut:
+Moore to Palmerstone) 2.1.1837; 9.1.1837; 2.3.1837
+(enclosures 2 and 5 to Palmerston); (Aleppo: Werry to
+Palmerstone) 17.1.1837; (Aleppo: Werry to Bidwell)
+17.1.1837; (Aleppo: Werry to Ponsonby) 1.2.1837.
+
+M2 FO.78.315 (Damascus: Farrer to Palmerstone)
+25.1.1837, 20.3.1837, 24.5.1837 and enclosures not
+dated.
+
+M3 Archives Dipl. Nantes (Turg.) Corr. Cons. (Damas)
+15.1.1837, 22.2.1837; (Beyrouth) 28.1.1837.
+
+M4 Archives Dép. des Bouches du Rhdne (Marseille)
+200.33.
+
+M5 Archives Société de Géographie, Paris, Corr. 1649
+(Beyrouth: Joselle to H. Joselle) 15.1.1837; (Beyrouth:
+Guys to H. Joselle) 17.1.1837.
+
+M6 Archives: Abdin Palace, Cairo, Corr. 1252, vol. 254,
+# 403 (Ibrahim Pasa to Sami Beg) 10.3.1837
+(2.12.1252) also in Rustum 1942.
+
+Press report
+
+Pl Athena, No. 418, 420, 1837, Athens.
+
+P2 Correspondenzblatt, vol. 12.305.1837; vol. 13.150.1838,
+Stutt.
+
+P3 Lecho du monde savant: 15.2.1837; 20.5.1837, Paris.
+
+P4 Journal de Smyrne, 21, 25, 27.1, 3.2 1837, Smyrna.
+
+P5 Das Morgenland, No. 11, pp. 322-341, 1843.
+
+P6 Natur und Heilkunde, vol. 2, No. 9, pp. 134-135, 1837,
+Weimar.
+
+Published works
+
+AMBRASEYS, N. (1996): Faulting associated with historical
+and recent earthquakes in the Eastern Mediterranean
+region, Eng. Seism. Earthg. Eng. (ESEE), Report 1/97,
+Imperial College.
+
+AMBRASEYS, N. and M. BARAZANGI (1989): The 1759
+earthquake in the Bekaa Valley, J. Geophys. Res., 94,
+4007-4013.
+
+AMBRASEYS, N. and C. FINKEL (1986): Regional seismic-
+ity studies; seismicity of the Eastern Mediterranean re-
+gion, ESEE Research Report, No. 86.8a.8b, Dept. Civil
+Eng., Imperial College of Science, London.
+
+AMBRASEYS, N. and C. FINKEL (1987): Seismicity of
+Turkey and neighbouring regions, 1899-1915, Ann.
+Geophys., 5B, 701-726.
+
+
+=== p-09 ===
+The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel
+
+AMBRASEYS, N. and C. MELVILLE (1988): An analysis of
+the Eastern Mediterranean earthquake of 20 May 1202,
+in Historical Seismograms and Earthquakes of the
+World, edited by W. LEE (Academy Press), 181-200.
+
+AMBRASEYS, N. and C. MELVILLE (1995): Historical evi-
+dence of faulting in Eastern Anatolia and Northern
+Syria, Ann. Geofis., 38, 337-343.
+
+AMIRAN, D., E. ARIEH and T. TURCOTTE (1994): Earth-
+quakes in Israel and adjacent area; macroseismic obser-
+vations since 100 B.C., Isr. Explor. J., 44, 260-305.
+
+ANONYMOUS (1843): Das Erdbeben in Galiléa, Das Mor-
+genland, No. 11, 320-343.
+
+ARVANITAKIS, G.L. (1903): Contribution for the study of
+earthquakes in Syria and Palaestine, in Himerologion
+Hierosolymon, 158-191, Jerusalem (in Greek), sum-
+mary in Bull. Inst. Egypte, ser. 4, 4, 178-183, Cairo.
+
+BELDaM, J. (1851): Recollections of scenes in Italy and the
+East, ii.173-185, London.
+
+BEN-MENAHEM, A. (1979): Earthquake catalogue for the
+Middle East. 92 B.C. to 1980, Boll. Geofis. Teor. Appl.,
+21, p. 260.
+
+BERTOU, J. DE (1843): Essai sur la Topographie de Tyr,
+p. 8, Paris.
+
+BLONDEL, E. (1843): Deux Ans en Syrie et en Palestine
+1838-1839, pp. 108, 200-202, Paris.
+
+CALMAN, S.E. (1837): Description of Part of the Scene of
+the Late Great Earthquake in Syria, London.
+
+CoLia, A. (1837): Terremoti sentiti in diversi punti del
+globo, Bibi. Ital., 92, p. 268.
+
+ENLART, C. (1925): Les Monuments des Croises dans le
+Royaume de Jerusalem, p. 94, Paris.
+
+FRANKL, L.A. (1858): Nach Jerusalem, ii.362, Leipzig.
+
+FREUND, R., Z. GARFUNKEL and I. ZAK (1970): The shear
+along the Dead Sea Rift, Philos. Trans. R. Soc. London,
+Ser. A, 267, 107-130.
+
+Furst, P.M. (1847): Die Riickkehr, ii.162-165, Berlin.
+
+GUERIN, V. (1880): Description de la Palestine, Galilee,
+2 vols., Paris.
+
+ITALIANDER, R. (1970): H. Barth, Er schloss uns einem
+Weltteil auf, Hamburg.
+
+JENNER, TH. (1873): Goodly Mountain and Lebanon,
+p. 198, London.
+
+Jouns, C.N. (1932): Medieval’ Ajlun, Quart. Dept. Antiq-
+uit. Palest., 1, p. 33.
+
+KALLNER-AMIRAN, D. (1951): Revised earthquake cata-
+logue of Palestine, Isr. Explor. J., 1, 231.
+
+KERHARDENE, G. DE (1859): Voyage en orient, France Lit-
+ter. and Artist., 3, 667-690.
+
+Kirto, J. (1844): History of Palestine, vol. 2, 91-94, Lon-
+don.
+
+LAYARD, H. (1887): Early Adventures in Persia, Susiana
+and Babylonia, i.150-201, London.
+
+LEMMENS, H.J. (1898): Al-zalazal fi Suriyah, al-Mashrigq,
+vol.1, 303-304, 337-342, Beirut.
+
+LIEBETRUT, F. (1854): Reise nach dem Morgenlande,
+vol. 1, 188-189, Berlin.
+
+Lindsay, Lorb (1839): Letters on Egypt, Edom and the
+Holy Land, ii.104-107, 259, London.
+
+Lyncu, W.F. (1852): Official report of the U.S. expedition
+to explore the Dead Sea and River Jordan, Baltimore.
+
+MacGrecor, J. (1904): The Rob Roy on the Jordan,
+pp. 361-374, London.
+
+931
+
+MALLET, R. (1854): On the facts of earthquake phaenom-
+ena, Br. Assoc. Adv. Sci. Rep., p. 263.
+
+Marco, S., A. AGNON, R. ELLENBLUM, A. EIDELMAN,
+U. Basson and A. Boas (1996): 817-year-old walls
+offset sinistrally 2.1 m by the Dead Sea transform,
+Israel, J. Geodyn. (in press).
+
+Meryon, C.L. (1845): Memoirs of the Lady Hester Stan-
+hope, i.260-303, London.
+
+MitForD, E.L. (1884): A Land March from England to
+Ceylon Forty Years Ago, vol. i.209, 224.
+
+MonTeFiorI, J. (1844): Notes from a Private Journal,
+228-257, London.
+
+Moore, M. (1837): (no title) J. R. Geogr. Soc., 7, 100-102,
+and Proc. Geol. Soc. London, 2, p. 540.
+
+NEMAN, A. (1971): in Letters from Eretz-Israel (1837),
+edited by A. YarRI, 363-367.
+
+OLIm, S. (1843): Travels in Egypt, Arabia Petrea and the
+Holy Land.
+
+Paxton, J.D. (1839): Letters from Palestine, 205-206,
+London.
+
+PERREY, A. (1850): Memoire sur les tremblements de terre
+ressentis dans la peninsule turco-hellenique et en Syrie,
+Mem. Acad. R. Sci. Belgique, 23 (part 1), 3-73.
+
+PFEIFFER, I. (1856): Reise einen wienerin im heilige Land,
+12-16, Vienna.
+
+Prutz, H. (1876): Aus Phoenizien, p. 133, Leipzig.
+
+Rosinson, E. (1856): Biblical Researches in Palestine,
+11.229, 334, 346, 350, 370, 380, 422-424, 445, 465,
+479, 466, 529-531, iii.370, London.
+
+RUSSEGGRR, J. (1847): Reisen in Europa, Asien und Afrika,
+iii.127, Stuttgart.
+
+Rustum, A.J. (1923): Syria under Mehmet Ali, Doct. Dis-
+ert., Univ. Chicago.
+
+Rustum, A.J. (1942): A Calendar of State Papers from the
+Royal Archives of Egypt Relating to the Affairs of
+Syria, vol. 3 (1251-1254 aH.; 1835-1839 A.D.);
+208-211, Beirut.
+
+SAULCY, F. DE (1854): Narrative of a Journey Round the
+Dead Sea and in the Bible Lands in 1850 and 1851,
+vol. 1.38, vol. 2.449, 453, 487.
+
+SAuLCcY, L.F. DE (1955): Carnets de Voyage en Orient,
+p. 117, Paris.
+
+SCHUBERT, G.H. VON (1840): Reise nach dem Morgen-
+lande, vol. 3, p. 168, 222, Erlangen.
+
+SHKELOV (1837): In Letters Jrom Eretz-Israel, edited by
+A. YARI, 357-363, 1971.
+
+SIEBERG, A. (1932a): Die Erdbeben, in Handbuch der
+Geophysik, edited by B. GUTENBERG, vol. 4, 798, 803,
+Berlin.
+
+SIEBERG, A. (1932b): Untersuchungen ueber Erdbeben und
+Bruchschollenbau im  éstlichen Mittelmeergebiet,
+Denkschr. Medizin.-Natrwiss. Gesell. Jena, 8, 191-193.
+
+Striem, H.L. (1983): Correction factors for evaluation of
+macroseismic intensities in urban areas in Israel, Isr.
+A.E.C., Rep., LDI-83-50.
+
+THOMSON, W. (1837): A journal on a visit to Safet and
+Tiberias, The Mission. Herald, vol. 33, 433-443.
+
+THOMSON, W. (1959): The Land and the Book, i.420-436,
+ii.70,76, London.
+
+TOBLER, T. (1868): Nazareth in Paldstina, 12-13, 204-207,
+Berlin.
+
+TRISTRAM, H. (1874): The Land of Moab, p. 135, Lon-
+don.
+
+
+=== p-10 ===
+Nicholas N. Ambraseys
+
+VERED, M. and H. STRIEM (1976): The Safed earthquake northern continuation of the Dead Sea fault and its im-
+of 1.1.1837 and its implications on risk evaluation in plications for Levantine tectonics, Tectonophysics, 145,
+Israel, Isr. ALE.C, No. IA-LD-1-105. 63-72.
+
+VERED, M. and H. Striem (1977): A macroseismic study WELLS, D. and K. COPPERSMITH (1994): New empirical re-
+and the implications of structural damage of two recent lationships among magnitude, rupture length, rupture
+major earthquakes in the Jordan Rift, Bull. Seism. Soc. area and surface displacement, Bull. Seism. Soc. Am.,
+Am., 67, 1607-1613. 84, 974-1002.
+
+VissINo, J.N. (1840): Meine Wanderung nach Palédstina, Wits, B. (1928): Earthquakes in the Holy Land, Bull.
+p. 249, Passau. Seism. Soc. Am., 18, 73-103.
+
+Wacus, D. and D. LevitTe (1981): Earthquake-induced
+landslides in the Galilee, Isr. J. Earth-Sci., 30, 39-43.
+
+Wacuorn, M. (1837): Syria, Asiatic. J., 24, p. 175. (received January 3, 1997;
+WALLEY, C. (1988): A braided strike-slip model for the accepted April 28, 1997)
+Appendix
+
+The main shock occurred on 1 January 1837 or on 24 Ramadan 1252 Hijri, at 10 min before sunset. The
+earthquake was reported from Beirut and other places at different local times between 16 h 35 min and 16h
+45 min. The main shock lasted between 10 and 30 s and eyewitness reports imply that the earthquake con-
+sisted of two distinct shocks about 5 min apart (M1; M5; M6; Moore, 1837).
+
+Epicentral area
+
+Referring to fig. 2, and starting from the north, in Beirut the earthquake caused panic but no serious dam-
+age in the city itself. About eight houses, built outside its walls on alluvium by the sea, collapsed killing two
+people (M1; Paxton, 1839; Rustum, 1942). No damage was reported from Kesrawan, a district north Beirut,
+and reports from the district of Shouff, south of the town, are lacking. The monastery of Deir Qamar was
+badly shaken and those of Deir al-Mukhalles and Jun were damaged but details are lacking.
+
+Saida (Sidon) was almost totally ruined. Of its 1800 houses, 580 were demolished and 630 ruined with the
+loss of 7 lives. Qala’t Mezzeh (Chateau de Saint Louis of the Crusaders), standing on the promontory which
+divides the two harbours, collapsed. The French khan (merchants’ stores) fell and the walls of the town were
+breached. Because of its importance the town and its land-walls were rebuilt by Soleyman Pasha immediately
+after the earthquake (P1; P6; M1; M3; Thomson, 1837; Rustum, 1942; Kerhardene, 1859).
+
+At al-Ghaziye 14 houses collapsed killing 7 people (M1). Further inland Abra and nearby Deir Mar Elias
+were seriously damaged (Lindsay, 1839; Meryon, 1845). Salihiyah, Dar al-Hatta and Rumin were totally de-
+stroyed (M1).
+
+On the east side of the Bekaa Valley, at Rashaya, the shock was very violent but it is not known whether it
+caused any damage (Thomson, 1837). However, in the upper reaches of the Bekaa valley several villages were
+more than half destroyed and a khan, the name of which is not given, was thrown down killing 60 people
+(M1).
+
+The shock was violent at Hashbaya where it is not known whether it caused any damage (Thomson, 1837).
+Caffar (al-Kufur) collapsed with the loss of 72 lives and so did Dibbin, Nabatiya al-Tahta and Djibshit
+(M1).
+
+The large villages of Erbil and of nearby Kherbet Shaqa were completely destroyed and 100 people were
+killed. Also Khirbah and al-Hiyam fell; 5 people lost their lives in the former and 150 in the latter. In the re-
+gion of Bilad al-Shuqf 600 goats were killed, presumably by rockfalls (M1).
+
+Qala’t al-Shugqf (the Chateau de Beaufort of the Crusaders), standing on a cliff where the Litani river turns
+towards the sea, was shattered and a part of the interior structure of the citadel collapsed killing 5 people (M1).
+Deir Mimas, where 5 people lost their lives, was totally destroyed and rebuilt immediately after the earth-
+quake. About one third of the houses in Zeqqieh were destroyed and 8 people were killed (M1). Deir Qufa was
+totally ruined and in Mitulla nothing was left standing and 78 people lost their lives (M1).
+
+932
+
+
+=== p-11 ===
+The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel
+
+Much of Banyas was ruined and some parts of the Qal’at al Shubeibe, which stands on the summit of a hill
+to the east of the village, collapsed. Also the roof of the nearby Grotto of Pan fell and not far from its vicinity
+a large rent was made in the ground (M2; Saulcy, 1854, 1955).
+
+On the coast, Sur (Tyrus) suffered considerable damage; 40 houses, presumably old, on the islet at the en-
+trance of the harbour, collapsed killing 16 and injuring 36 people. There is some evidence that as result of this
+earthquake the east coast of the north harbour slumped (M6; Thomson, 1837; Waghorn, 1837; Bertou, 1843;
+Prutz, 1876). Further inland the old castle of Hunin (the Chastel Neuf of the Crusaders) was shattered and
+much of its interior, including the mosque, collapsed, no structure remaining habitable (Guerin, 1880). There
+are no damage details for the districts of Hunin and Tibnin where it is said that 614 people were killed in 49
+settlements. Half of some of them and likewise 5 water mills were totally destroyed together with a third of
+the inhabitants (P1; M6).
+
+In this region, the villages of Abagha, al-Afrish, Amba, el-Asban, Atbar, Mugar and Sutli, are reported to
+have been ruined but I could not identify their location, either because their names have changed or they are
+misspelled in the various reports.
+
+Marun was also totally estroyed and Kana was damaged (Thomson, 1837). One of the two parts into which
+al-Mays is divided collapsed killing 3 people (M1). Also Giahun (Beit Yahun) was totally ruined (M1). At
+Ya’tar 12 people were killed and Kadas was completely destroyed with the loss of 53 lives: also Melkiyeh was
+destroyed as well as near-by Atrun where 33 people were killed (M1; Calman, 1837).
+
+Bint Jubayl was ruined with the loss of 8 lives, and at Ain Ibli houses collapsed causing the loss of 12 lives
+(M1). Another 17 people were killed at Marun al-Ras which was also ruined, while 30 people were killed and
+10 injured at Ramaysh, and 12 lost their lives at al-Salha (M1; Calman, 1837; Thomson, 1837).
+
+Dibil was almost totally destroyed and 12 people lost their lives (Calman, 1837). Three quarters of Heishun
+collapsed and 13 people were killed, and Alma was totally destroyed. In al-Fara 12 people perished (M1). Kafr
+Bir’im was badly damaged; the church and a row of columns and other standing remains of an early syna-
+gogue were thrown to the ground (M1; Thomson, 1837, 1859; Calman, 1837; Waghorn, 1837; Guerin,
+1880).
+
+At Ras al-Ahmar [96b] 40 people were killed and 12 injured (Calman, 1837). Djish was completely de-
+stroyed and not a house was left standing; the church fell killing 130 persons and the old walls of the town
+collapsed; in all 235 people were killed and in places the ground was fissured (Thomson, 1837; Waghorn,
+1837; Robinson, 1856). Sabelan was totally ruined without casualties (M1). Also Tarshiha was likewise dam-
+aged without loss of life (M6).
+
+Dallata, Caditta (Qaddita), and Ain Zeitun were almost totally destroyed (M1; Thomson, 1837). In contrast
+near-by Meirun suffered relatively little damage and the walls of the tombs of Rabbi Eleazer and Rabbi She-
+maun were dislodged but did not collapse (Neman, 1971).
+
+In Safed, the largest of the places affected, the north, Jewish section of the town was almost entirely de-
+stroyed while the south, Moslem, section suffered far less damage. The number of deaths reached 2158 of
+which 1507 were Ottoman subjects, Muslim or Jewish and 651 foreigners (P2; P6; M1; M2; M6; Thomson,
+1837; Waghorn, 1837; Liebetrut, 1854: Guerin, 1880; Mitford, 1884). Nearby Rama was totally destroyed and
+180 people were killed (M1; P7; Calman, 1837). Also in Shezor and in Jabal (the location of which has not
+been identified) 245 houses were destroyed, 563 damaged and 141 people killed (M1; M6).
+
+Kafr Sumei was totally ruined. However, just west of these villages, Jatt was probably not seriously dam-
+aged (M1; Thomson, 1837), but much of Ailabun collapsed killing 25 people while Maghar was ruined
+(M1).
+
+To the west at Acre only about 40 houses fell, 4 people were killed and several injured and the fortifica-
+tions, already in ruins, were damaged. In the district of Acre the earthquake killed in all 141 people (M1; M6;
+P4; Waghorn, 1837).
+
+There is no evidence that the villages of Tamra, Damun, al-Birwa, Kafr Yasif, Kaweikat, Ghabsiyya, Betset
+and Jatt were damaged (Thomson, 1837). Ablayin suffered relatively little and its minaret was left standing but
+in nearby Shefar’am 86 houses were ruined, 139 heavily damaged, 7 people were killed and 4 injured (M6;
+Thomson, 1837).
+
+Mijdal, on the west coast of Lake Tiberias was destroyed and Irbid was totally ruined. The same happened
+to Kafr’ Akib on the north-east coast of the Lake (M1; Thomson, 1837; Guerin, 1880). About two thirds of the
+houses in Tiberias, most of them built of stone masonry, together with a large part of the walls, the bazaar,
+minarets, the mosque and the church of St. Peter collapsed killing 822 people, of which 500 were Jews, 300
+Moslems and 22 Christians, injuring 65. These figures may include casualties from 17 settlements in the envi-
+rons which allegedly were destroyed but which are not named in the returns. The castle of Tiberias was ruined,
+
+933
+
+
+
+=== p-12 ===
+Nicholas N. Ambraseys
+
+and its towers were caused to lean over. The baths, built in 1833, were not damaged but the yield of the hot
+spring and fountains increased temporarily. The town was not restored until after 1846 (M1; M6; Thomson,
+1837, 1859; Shkelov, 1837; Olim, 1843; Montefiori, 1844; Furst, 1847; Beldam, 1851; Robinson, 1856, Pfeif-
+fer, 1856; Frankl, 1858; Kerhardene, 1859; Jenner, 1873; Layard, 1887; Italiander, 1970).
+
+Lubiya was totally destroyed and 143 people were killed (Thomson, 1837; Beldam, 1851). To the south,
+Kafr Sabt was ruined by the shock without loss of life (Guerin, 1880). Shadjara was also ruined and 50 people
+lost their life (Calman, 1837; Thomson, 1837). In constrast, Kafr Kenna suffered negligibly small damage and
+no loss of life; also Saffuriya and its church of Santa Ana escaped entirely with only little damage done to its
+ruined castle, while next to it, Reina was obliterated with the loss of about 200 lives (Calman, 1837; Thomson,
+1837; Robinson, 1856).
+
+Contrary to early reports damage in Nazareth was not excessive. Only one house collapsed and about one
+quarter of the dwellings in the town suffered different degrees of damage; a part of the hostel of the convent
+collapsed and an external cornice of the church of the Annunciation fell, killing 4 people. In all 7 people were
+killed. The reported destruction in the north-eastern part of Nazareth seems to be based on the cumulative
+losses reported from settlements in the whole of its district, already accounted for in the returns, that amounted
+to 373 houses destroyed, 425 ruined, 162 people killed and 13 injured (P1; P5; M1; M6; Thomson, 1837;
+Waghorn, 1837; Vissino, 1840; Schubert, 1840; Blondel, 1843; Russegger, 1847; Beldam, 1851; Robinson,
+1856; Tobler, 1868).
+
+South and southwest of Lake Tiberias the settlement of Simakh was also destroyed and 5 people were
+killed and the villages of Hadatha, Alam, Sirin, Kherbet Baka’a and Danna were partly ruined without loss of
+life (Waghorn, 1837; Guerin, 1880). Many villages in the region east of the Lake were likewise laid in ruins
+but details are lacking. In the district of Bashan, allegedly, fire was seen comimg out of the ground (Calman,
+1837; Thomson, 1837; Robinson, 1856).
+
+To the west of the Lake, half of the houses of Ma’lun were ruined and 5 people were killed (Waghorn,
+1837). At Haifa only three houses were ruined without casualties and at Athlith a few dwellings and one side
+of the walls were damage. The remains of the church built by the Crusaders collapsed and the rubble was
+transported to Acre for the construction of the fortifications of the town (M6; Waghorn, 1837; Enlart,
+1925).
+
+Further to the south damage was less serious. In Bilad Harithiya 15 villages, which are not named in the
+sources, were ruined and 18 people were killed. In Arraba and Ajja damage was slight, and in Attil only two
+houses collapsed, while at Qaqun there was little damage and only a portion of the of the citadel collapsed, but
+in Jaba and in its environs 99 houses collapsed, 151 were damaged and 23 people were killed (M6).
+
+Berga and other nearby villages also suffered some little damaged without casualties. Tubas was severely
+damaged and east of the Jordan river at Ajlun and Jerash there was also some small damage. During the earth-
+quake free-standing columns in the ancient cite of Jerash were seen chattering on their bases but they did not
+collapse (M6; Lindsay, 1839; Johns, 1932).
+
+In Nablus one quarter of the houses and a number of shops were ruined and one quarter were damaged
+causing the loss of 48 lives; the rest of the town suffered only light damage. In the district of Nablus 150 peo-
+ple lost their lives (P3; M1; M6; Thomson, 1837; Neman, 1971; Shkelov, 1837).
+
+Damage decreased rapidly to the south; Qaryat Jit suffered very little and at Zeita only one house was
+thrown down killing 2 people (P1; M6).
+
+Further away to the north, the shock was felt all along the coast, and at Tripoli it caused considerable con-
+cern but no damage, fig. 1. At Latakia it was less strong in the town but rather violent in outlying districts. In
+Antioch ground movements were slow and lasted intermittently for a long time. In Aleppo the shock was gen-
+erally felt and caused no damage anywhere in the region, while at Kilis it was slight and at Aintab almost im-
+perceptible (M1; M2; M6; P4).
+
+However, in the alluvial plain of Adana the earthquake was strong and caused some panic; many shops in
+the suq Adanat al-kubra collapsed. Also in the ports of Ayas (or Payas) and Iskenderun there was some alarm
+among European ship crews on land who became nauseous. The shock was also reported from Tarsus where it
+was slight but widely felt (M6).
+
+In the east, in Damascus about 2000 houses were slightly damaged, four minarets and several houses were
+destroyed and about 10 people were killed or injured. The bazaars of the city were damaged and part of the
+city gates as well as the tops of several minarets, which are not named, were thrown down (M1; M2).
+
+In the south, at the port of Jaffa the shock threw merchandise from stacks and in Ramla it was slow; it was
+said that people could not stand erect. However, there is no evidence that it caused any damage (M1; M6). In
+Jerusalem the earthquake was not very strong but it did some small damage. It is alleged that the minarets of
+
+934
+
+
+=== p-13 ===
+The earthquake of | January 1837 in Southern Lebanon and Northern Israel
+
+the mosque at Kafr al-Tur, east of the city, were shaken down by the shock (M1; M2; M6; P4, Calman, 1837;
+Neman, 1971). In the Moab the shock caused sporadic damage, particularly to old sites such as at Dihban
+where a number of free-standing columns and arches were overthrown (Tristram, 1874). Some slight damage
+was reported from Hebron, but details are lacking (Neman, 1971). In Gaza the shock was rather slight and ex-
+cept for the customs house which was badly cracked there was no other damage (M6). The earthquake was re-
+ported felt from as far south as Mt Sinai (St. Catherines’ ?) (Thomson, 1837).
+
+In the south-west the earthquake was felt in the Nile Delta, at Damietta causing water to slosh out of a con-
+tainer and in Misr (Egypt or Cairo?), but it was not reported from Alexandria (Thomson, 1837). In the west the
+earthquake was rather strong in the ports of Famagusta and Larnaca and was generally felt in other parts of
+Cyprus (M1).
+
+There is no evidence of a seismic sea-wave on the Mediterranean coast. Also no waves have been reported
+in the Dead Sea. Allegedly, after the earthquake large masses of bitumen were seen floating in the Dead Sea
+(Robinson, 1856). It is said that waves flooded the coast of Lake Tiberias but it is not clear whether this hap-
+pened before, during or after the earthquake (Shkelov, 1837; Kerhardene, 1859).
+
+Aftershocks
+
+Aftershocks continued to be felt for almost four months, three of which are particularly important
+(M2).
+
+shock should not be extended as far south as Nablus. However, there is no way of telling whether this is so
+since all of our detailed damage returns are dated February and March 1837 (P2).
+
+The aftershocks of 22 and 25 January which were reported from the north part of the epicentral region
+caused panic in Damascus but is not known whether they did any damage (M2).
+
+The third aftershock of 20 May was reported from the northern part of the affected area and caused consid-
+erable additional damage at Hashbeya, details of which are not known. The shock was strongly felt in the re-
+gion of Lake Hule but it was not reported felt at Damascus perhaps because of a severe thunderstorm at the
+time (M2).
+
+Losses
+
+The loss of life caused by this earthquake and its aftershocks is difficult to estimate. The reported figure is
+6-7000 killed but this is an early official estimate given by (M2) that probably does not include losses in the
+districts of Marjuyum, al-Touffa and Banyas where many places within a radius of 50 miles (80 km) of Banyas
+were seriously affected, and about which we have no information (M2).
+
+A plague epidemic shortly after the earthquake added to the loss of life and isolated the coastal area from
+the hinterland, a situation aggravated by the Bedouins who for some time after the earthquake kept on hover-
+ing about ruined villages and towns. Safet, Tiberias and villages in the region of Bshara were plundered re-
+peatedly by roving Druses and Mtwalis (M1; M4; Montefiori, 1844).
+
+The combined effects of the earthquake, plague and unrest had considerable social implications: because of
+a rise in the price of labour, before long merchants began to find it difficult to transact their business (Rustum,
+1923) and commerce was paralysed for a number of years.
+
+935
+

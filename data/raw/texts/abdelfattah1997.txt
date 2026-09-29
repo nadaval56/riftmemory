@@ -1,1 +1,772 @@
-
+SOURCE: https://www.annalsofgeophysics.eu/index.php/annals/article/download/3831/3895 (OCR)
+
+
+=== p-01 ===
+ANNALI DI GEOFISICA, VOL. XL, N. 6, December 1997
+
+Fault plane solutions of the 1993
+and 1995 Gulf of Aqaba earthquakes
+and their tectonic implications
+
+Ali K. Abdel Fattah('), Hesham M. Hussein ('), Ezzeldien M. Ibrahim(') and Ahmad S. Abu EI Atta 9)
+(') National Research Institute of Astronomy and Geophysics, Helwan, Cairo, Egypt
+) Faculty of Science, Geophysics Department, Cairo, Egypt
+
+Abstract
+
+The stereographic projection of P-wave first motions for the 3 August 1993 Gulf of Aqaba earthquake, its
+largest aftershock (16 h 33 min), and for the 22 November 1995 earthquake were constructed using the polar-
+ity readings of regional and teleseismic stations. The focal mechanism solutions of the 3 August 1993 main-
+shock and its largest aftershock represent a normal faulting mechanism with some left lateral strike slip com-
+ponent. The nodal planes selected as the fault imply high similarity in strike and dip. They are related to a lo-
+cal fault striking NW-SE and dipping to the SW. The selected fault planes are in good agreement with the
+aftershock distribution. For the main shock of the 22 November 1995, the fault plane solution displays the same
+mechanism (normal faulting with left lateral strike slip component) with a plane striking N-S and dipping to
+the west. The fault plane is greatly conformable with the direction of the regional tectonics and also with the
+aftershock distribution. The main trend of the extension stress pattern is in a NE-SW direction, corresponding
+to the rifting direction of the Gulf of Suez and may be related to the paleostress along the Gulf of Suez and
+Aqaba during the Middle to Late Miocene.
+
+Key words seismicity — focal mechanism ~ 22 November 1995, another earthquake sequence
+tectonics — Gulf of Aqaba — aftershocks suddenly took place to the south of the last se-
+quence and inside the gulf. The main shock of
+this sequence was of magnitude M, = 6.7. This
+
+1. Introduction event is considered to be the largest shock that
+has taken place in this area during this century.
+On 3 August 1993, an earthquake sequence A review of seismicity and seismic history
+started close to the west coast of the Gulf of of the Gulf of Aqaba indicates that the seismic
+Aqaba. The main shock of this sequence oc- activity often occurs as isolated sequences.
+curred with magnitude M, = 5.8 and was fol- In this study, we will combine the tectonic
+lowed by its largest aftershock of magnitude setting, seismicity and focal mechanisms of the
+M, = 5.4 four hours after the origin time of the recent large earthquakes as an attempt to un-
+main shock. The location of this event with derstand the neotectonic features in the Gulf of
+
+respect to the main shock indicates that the Aqaba.
+rupture propagated to the SE direction. On
+
+2. Tectonic setting
+Mailing address: Dr. Ali K. Abdel Fattah, National :
+Research Institute of Astronomy and Geophysics, Seis- The Gulf of Aqaba is about 180 km long
+
+mology Department, 11421 Helwan, Cairo, Egypt; e-mail: and 15-25 km wide, occupying the southern
+astro2@frcu.eun.eg part of a major sinistral transform boundary
+
+1555
+
+
+
+=== p-02 ===
+Ali K. Abdel Fattah, Hesham M. Hussein, Ezzeldien M. Ibrahim and Ahmad S. Abu El Atta
+
+known as the «Dead Sea Transform Fault».
+This boundary is considered to be a boundary
+connecting seafloor spreading in the Red Sea
+with the Zagros-Taurus zone of continental
+collision. ;
+
+A review of the seismicity and seismic his-
+tory of Egypt led Hussein (1989) and El-Sayed
+and Wahlstron (1996) to observe that the cur-
+rent seismic activity is related to Oligocene-
+Miocene faults. This supports the idea of a re-
+cent reactivation of the Oligocene-Miocene
+stess cycle. The basaltic igneous activity that
+occurred in the Late Oligocene or Early
+Miocene is generally interpreted as related to
+initial faulting in the Gulf of Suez rift (Siedner,
+1973; Meneisy and Kreuzer, 1974; Lyberis,
+1988). The oldest movements along the Aqaba-
+Dead Sea fault zone are younger than those in
+the Suez basin (Eyal et al., 1981). During the
+Late Miocene, the kinematics of the Red Sea
+varied from the rifting extension in the Red
+Sea-Gulf of Suez to sinistral shear movement
+along the NNE trending Aqaba-Levant trans-
+form with opening component of the Red Sea
+due to oblique drift of the Arabian plate. This
+aspect led to stagnation of the extension and
+subsidence in the Gulf of Suez and created a
+new plate boundary called the Aqaba Levant
+structure.
+
+The Gulf of Aqaba-Dead Sea fault is one of
+the most spectacular examples of transform
+plate boundary type. In the Gulf of Aqaba re-
+gion, the tectonic movement is mainly sinistral
+shear motion with an extensional component.
+Most of the faults along the gulf region show
+left lateral strike slip mechanism with a minor
+normal component. Tectonically, the occur-
+rence of these mechanisms is attributed to the
+extensional motion in the Read Sea and the an-
+ticlockwise rotation of Arabian with respect to
+Sinai along the Dead Sea shear zone.
+
+An earlier structural interpretation of the
+Gulf of Aqaba suggests that it is built of en
+echelon rhomb basins such as the Dead Sea
+(Quennell, 1959). This pull apart basin if often
+developed from the changes in major strike
+slip trends (e.g., Wilcox et al., 1973; Growell,
+1974). Figure 1 shows the generalized tectonic
+model of the structure of the Gulf of Aqaba.
+
+29.4; / F
+
+29.
+
+nN
+
+29.0;
+
+28.84
+
+LATITUDE
+
+28.6}
+28.4
+
+28.24
+
+28.0
+
+LONGITUDE
+
+Fig. 1. Generalized model for structure of the Gulf
+og Aqaba (after Ben-Avraham et al., 1979).
+
+3. Seismicity of the Gulf of Aqaba
+
+In the Aqaba region, a review of the seis-
+micity and seismic history shows that seismic
+activity has occurred as isolated sequences.
+The occurrence of these isolated sequences in-
+dicates that the seismicity of the Gulf of Aqaba
+is characterized by foreshock-mainshock-after-
+shock, mainshock-aftershock and swarm type
+activity. Seismological studies of the Red Sea
+and Jordan-Dead Sea transform (Fairhead and
+
+1556
+
+
+=== p-03 ===
+Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications
+
+Girdler, 1970, 1972); Ben Menahem et al.,
+1976; Ben Menahem and Aboodi, 1981) indi-
+cate a relatively lower seismic activity in the
+Gulf of Aqaba and Wadi Araba than in the Red
+Sea and Dead Sea transform fault.
+
+3.1. Historical earthquakes
+
+Several felt historical earthquakes have been
+reported in Egypt. A total of 58 events were re-
+ported to be felt with intensities of V-IX dur-
+ing the period 2200 B.C.-1900 A.D. Some of
+these earthquakes are reported with poor infor-
+mation regarding the epicentral area; some
+have locations outside the Egyptian borders.
+The recent publications of historical earth-
+quakes (Ambrayses, 1994 and Maamoun et al.,
+1984) reported that some historical earthquakes
+occurred in the Aqaba region including the
+shocks of 1068, 1212, 1293, 1458 and 1588
+(fig. 2a). On 18 March 1068, a major historical
+earthquake was felt in the Hejaz and Northern
+Arabia during the morning and it was reported
+to have killed about 20 000 people. On 7 April
+1588, a strong historical earthquake was felt in
+Northern Hijaz at sunrise. This was followed
+by numerous continuous shocks and possibly
+connected with a continuous activity in the
+Northern Red Sea (Gulf of Suez) region.
+
+3.2. Instrumental seismicity
+
+Earthquake data for the period 1903-1995
+were collected from different catalogues and
+bulletins, including the International Seismo-
+logical Center (ISC), National Earthquake In-
+formation Center (NEIS), Preliminary Determi-
+nation of Epicenters (PDE) and bulletins of Is-
+rael. The seismicity of the Gulf of Aqaba and
+the Gulf of Suez during the period from March
+1903 to December 1993 is shown in fig. 2b.
+
+Recently, the seismic activity in the Gulf of
+Aqaba region can be summarized in three se-
+quences: an earthquake swarm in 1983 located
+at the northern part of the Gulf (El-Isa et al.,
+1984), an earthquake sequence in 1993 which
+occurred at the center of the Gulf very close to
+the western coast (this sequence is character-
+
+Fig. 2a. Earthquakes of the pre-instrumental period
+in the Gulf of Aqaba region.
+
+LATITUDE
+
+32.5 33,0 33.5 34.0 34.5 35.0 35.5
+LONGITUDE
+
+Fig. 2b. Epicentral distribution of the Gulf of
+Aqaba and the Gulf of Suez earthquakes for the pe-
+riod March 1903-December 1993.
+
+1557
+
+
+=== p-04 ===
+Ali K. Abdel Fattah, Hesham M. Hussein, Ezzeldien M. Ibrahim and Ahmad S. Abu El Atta
+
+ized by foreshoch-mainshock-aftershock distri-
+bution (fig. 3) and includes two large events)
+and an earthquake sequence in 1995 which is
+located to the south of the last sequence (this
+sequence is characterized by mainshock-after-
+shock distribution; Marzouk et al., 1996).
+
+For the earthquake sequence of 1993, the
+arrival times of P and S waves were identified
+from several Egyptian seismic stations. In ad-
+dition to these arrivals, the authors collected
+the available arrival times of P and S waves
+from different bulletins, (e.g., the Israel and
+Jordan bulletins) and some arrivals of the
+Saudi Arabia seismic network. All of these ar-
+rival times were compiled to determine the lo-
+cation of hypocenters by using the HOPO71PC
+program (Lee, 1990). However, for the earth-
+
+quake sequence of 1995, the locations of
+hypocenters were taken from the bulletin of the
+Hurghada local seismic network (Marzouk
+et al., 1995).
+
+Figure 4a-c shows the epicentral distribution
+of the 1993 and 1995 sequences. Figure 4c
+shows that the aftershock distribution of both
+1993 and 1995 sequences tends to concentrate
+as a cluster around the area between 28.5°-
+28.7°N and 34.5°-34.7°E. Figures 4a and 4b
+show the epicentral distribution for each se-
+quence separately. It is evident from these fig-
+ures that the events do not follow clear linear
+trends. However, the detailed study of the af-
+tershock distribution for the 22 November
+1995 earthquake (Marzouk et al., 1996)
+showed a clear NNE-SSW trend.
+
+160 —-
+
+120 —
+
+80 —-
+
+Number of Earthqukes
+
+40
+
+I Matta
+
+50 100 150
+Time in Day
+
+Fig. 3. Foreshock-aftershock pattern for the Gulf of Aqaba earthquake of August 1993.
+
+1558
+
+
+=== p-05 ===
+Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications
+
+a 29.44
+
+a 29.24
+
+28.84
+
+Latitude
+Latitude
+
+5 28.64
+
+L 28.44
+
+28.24
+
+28,.0-
+
+@) Longitude ()
+
+Longitude
+
+29.44
+
+23.24
+
+29.04
+
+Latitude
+
+28.44
+
+28.24
+
+(ec) Longitude
+
+Fig. 4a-c. Epicentral distribution of the Gulf of Aqaba earthquake sequences. a) Earthquake sequence of
+1993; b) earthquake sequence of 1995; c) earthquake sequences of 1993 and 1995.
+
+1559
+
+
+
+=== p-06 ===
+Ali K. Abdel Fattah, Hesham M. Hussein, Ezzeldien M. Ibrahim and Ahmad S. Abu El Atta
+
+Table I. Earthquake data for focal solutions used
+in this study.
+
+No. Date O.T. Lat. Long. M,
+y md hmin N° E°
+
+1 19930803 1243 28.78 34.57 5.8
+
+2 19930803 1633 28.79 3459 5.4
+
+3 19951122 0415 28.54 34.75 6.7
+
+4. Focal mechanisms
+
+In this study, The focal mechanisms of the
+larger earthquakes with occurred recently in he
+Gulf of Aqaba were derived from the stereo-
+graphic projection of their P-wave first mo-
+tions. Table I explains the data used for focal
+solutions in this study. These fault plane solu-
+tions are shown in fig. 5. The clearest seismo-
+grams were read directly by the authors. The
+polarity data for these events are listed in
+tables II, IIT and IV. The focal parameters of
+the fault plane solutions are listed in table V.
+
+Event of August 3, 1993 (12 h 43 min) -
+The fault plane solution of this event shows a
+normal faulting mechanism with some left lat-
+eral strike slip component. It has two nodal
+planes trending to NW-SE and E-W and dip-
+ping 55°SW and 53°N, respectively.
+
+Event of August 3, 1993 (16 h 33 min) —
+This event is located closely southeast of the
+first event of 12 h 43 min. It represents a nor-
+mal faulting mechanism with minor left lateral
+strike slip component. It shows high similarity
+in strike and dip with respect to the first event.
+It shows two nodal planes trending to NW-SE
+and E-W and dipping 56°SW and 52°N, re-
+spectively.
+
+Event of November 22, 1995 (4 h 15 min) —
+This event is located to the south of the previ-
+ously mentioned events. Also, it displays ap-
+proximately the same mechanism with two
+
+planes trending N-S and WNW-ESE and dip- .
+
+ping 58°W and 68°NNE.
+
+Fig. 5. Focal mechanism solutions of the Gulf of
+Aqaba events.
+
+1993 08 03 12h43min
+
+N i oup
+(] Down
+
+1995 11 22 4h15min
+
+N |_| UP
+L] pown
+
+1560
+
+
+
+=== p-07 ===
+Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications
+
+Table II. Polarity data of August 3, 1993 (12 h Table III. Polarity data of August 3, 1993 (16 h
+
+43 min) event (1). 33 min) event (2).
+Station Polarity Ig AZ’ Station Polarity Ip A?
+KOT D 44.41 295.93 JDRJ U 46.09 027.61
+HLW- D 44,58 291.47 Magy u toes Oleg
+ASW U 44.57 198.22 SALI U 44.64 016.16
+KIV U 44.57 021.07 MKRJ U 44.40 017.93
+Css U 44.57 350.50 LISJ U 44.33 017.34
+CIN U 44.57 329.99 Aw > tier sor as
+BRNL D 32.13 332.22 ASW U 44.37 198 39
+TNS D 31.87 324.48 AKUR U 44.57 198.92
+CLZ D 31.84 328.64 AKSR U 44.57 195.75
+MEM D 31.35 323.29 ree u ee ae
+ANTO D 30.68 024.96 SIM D 44.37 958,79
+PAB D 30.24 298.93 SRN D 44.57 316.39
+AAK D 29.91 055.84 ANTO U 44.57 352.83
+LVZ D 29.06 000.05 wae U wer an
+Z D . .
+KONO D 29.84 338.18 ATD D 40.23 154.13
+TRO D 28.42 351.87 BNG U 39.30 215.15
+NVS D 28.08 039.11 AQU D 38.94 313.91
+ELT D 27.81 042.03 SSB D 38.92 312.92
+OBN D 33.47 002.59
+LSA D 26.84 074.37 MEB D 33.00 293.86
+MBO D 26.64 264.58 TNS D 31.21 324.45
+NRIL D 26.25 021.51 BSN D 30.84 324.66
+LZH D 24.28 063.52 DOU D 30.53 321.46
+PUL D 30.53. 355.81
+BOSA D 24.30 189.52 TAE D 3005 590,36
+KMI D 23.61 076.04 ARU D 30.05 024.95
+SUR D 23.01 193.16 PAB D 29.60 298.91
+ALE D 22.91 351.55 LVZ D 28:46 000.04
+TRO D 27.85 351.86
+GYA D 22.78 073.23 NVS D 27.51 039.11
+ENH U 22.47 068.30 ELT D 27.25 042.03
+HIA D 21.94 045.71 LSA D 26.31 074.38
+QIZ D 21.15 079.53 NRIL D 25.73 021.51
+CHT D 25.52 083.28
+BI D 21.84 056.19 BOSA D 23.82 189.54
+MDJ D 19.78 047.85 KMI D 3.15 076.05
+HRV D 17.60 314.14 HIA D 21.52 045.72
+MAJO D 17.28 052.01 BJI D 21.43 056.20
+MDJ D 19.41 047.86
+ERM D 17.22 045.29 MAJO D 16.96 052.02
+COL D 16.50 001.01 ERM D 16.90 045.30
+BDFB D 15.80 252.85 COL D 16.20 001.01
+Iy = take-off angle; Az = station azimuth. Iy take-off angle; Az° station azimuth.
+
+1561
+
+
+
+=== p-08 ===
+Ali K. Abdel Fattah, Hesham M. Hussein, Ezzeldien M. Ibrahim and Ahmad S. Abu El Atta
+
+Table IV. Polarity data of November 22, 1995 (4h
+15 min) event (3).
+
+Station Polarity Ih A?
+
+ABSH U 47.55 215.83
+KOT U 44.20 301.18
+HLW U 44.66 296.25
+MML U 44.57 010.69
+ZNT U 44.54 006.40
+JVI U 44.58 011.42
+KIV U 44.57 020.81
+BGIO U 44.67 008.30
+MOX D 31.56 328.18
+BFO D 31.49 321.54
+KRL D 31.38 322.75
+TNS D 31.14 324.78
+CLZ D 31.10 328.92
+WLF D 30.84 322.14
+BUG D 30.68 325.82
+GSH D 30.67 324.05
+HGN D 30.58 323.76
+ARU U 29.95 024.81
+PAB D 29.58 299.27
+ESK U 28.68 325.41
+DSB U 28.52 321.08
+KEV U 27.93 356.05
+LSZ D 27.42 188.85
+LSA D 26.28 074.14
+KBS U 25.56 354.54
+CHTO D 23.42 084.13
+TATO D 18.82 069.07
+HRV D 17.23 314.15
+KCH D 17.21 157.43
+INK D 16.99 © 355.56
+INU D 16.97 053.50
+NMR D 16.68 043.07
+KUR D 16.64 040.66
+COL D 16.13 000.99
+SSPA D 16.10 315.22
+DAV D 15.97 083.32
+FFC D 15.66 336.47
+CEH D 15.51 311.92
+SJG D 15.51 290.83
+BDFB D 15.50 252.84
+
+Ip = take-off angle; Az’ = station azimuth.
+
+5. Discussion and conclusions
+
+The combination of seismicity, geological
+investigations and focal mechanisms displays
+and interesting detailed picture of the present
+tectonic movements in the Gulf of Aqaba.
+
+The geological investigations in the sur-
+rounding west coast of the gulf after the oc-
+currence of November 22, 1995 earthquake
+demonstrated that the faults parallel to the gulf
+are recognized in sinistral strike slip move-
+ments which may be anticipated to Quaternary.
+In addition to these faults, some NNW-SSE
+oriented cracks exist. These cracks are older
+than the NNE-SSW oriented cracks.
+
+The epicentral distribution of earthquakes
+during 1903-1993 delineates the Gulf of Aqaba
+trend. The recent seismic activity in the Gulf
+can be summarized in three sequences. These
+sequences took place in 1893, 1993 and 1995
+and show progression from north to south of
+the gulf, respectively. The aftershock epicen-
+tral distribution for the 1993 and 1995 earth-
+quake sequences demonstrates that their after-
+shocks concentrated as a cluster around a high
+stress accumulation area between 28.5°-28.7°N
+and 34.5°-34.7°E. This high stress accumula-
+tion area may be interpreted in terms of asper-
+ity or barrier. The distribution of aftershocks
+for each sequence does not show any well de-
+fined trend. By analysis of hypocenters for the
+1995 sequence (Marzouk et al., 1996), the epi-
+centers showed a clear NNE-SSW trend ap-
+proximately parallel to the Gulf of Aqaba.
+
+The Gulf of Aqaba transform fault is domi-
+nated by a strike slip mechanism with a minor
+normal component. The study of active faults
+in the Dead Sea rift (Garfunkel et al., 1981)
+showed that the currently active faults are of
+two types, strike slip and normal. The first type
+is more prominent. Also, focal mechanism
+studies of the largest instrumentally recorded
+earthquakes in the region indicate dominant
+sinistral strike slip motion (Ben Menahem
+et al., 1976).
+
+The fault plane solutions of the Gulf of
+Aqaba events represent normal faulting mecha-
+nisms with minor left lateral strike slip compo-
+nents. For the two events of 1993, the selected
+nodal planes and the fault trend imply high
+
+1562
+
+
+=== p-09 ===
+Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications
+
+Table V. Fault parameters for the studied events, where (6) is dip, (@) strike and (A) rake.
+
+P-axis T-axis
+
+No.
+
+Fault plane Auxiliary plane
+
+6
+
+6 A 6 A
+
+@
+
+52
+56
+40
+
+112
+118
+151
+
+01
+01
+06
+
+203
+210
+56
+
+145
+149
+181
+
+57
+55
+61
+
+~43
+~47
+=27
+
+261
+271
+285
+
+55
+53
+67
+
+~139
+— 134
+~148
+
+29.04
+
+28.8
+
+LATITUDE
+
+28.6;
+
+28.4
+
+28.24
+
+28.0°
+
+34.6 34.8 35.0
+
+LONGITUDE
+
+Fig. 6. Stress pattern for the three Gulf of Aqaba
+earthquakes (12 h 43 min, 16 h 33 min and 4 h
+15 min).
+
+1563
+
+similarities in strike and dip. They are related
+to a local fault trend striking NW-SE and dip-
+ping to the SW. The selected fault planes are in
+good agreement with the aftershock distribu-
+tion. For the main shock of November 22,
+1995, the plane striking N-S and dipping to the
+west is the fault plane. This is in agreement
+with the direction of the regional tectonics and
+also with the aftershock distribution obtained
+by (Marzouk ef al., 1996). The main trend of
+extensional stress pattern (T-axis) for the Gulf
+of Aqaba earthquakes discussed in this study
+is in NE-SW direction, corresponding to the
+rifting direction of the Gulf of Suez and the rift-
+ing oblique trend N30°E along the Red Sea
+(fig. 6). This stress pattern is similar to the
+paleostress along the Gulf of Suez and Aqaba
+during the Middle to Late Miocene. This sup-
+ports the idea of a recent reactivation of
+Oligocene-Miocene stress cycle.
+
+REFERENCES
+
+AMBRASYES, N.N., C.P. MELVILLE and R.D. ADMs (1994):
+The Seismicity of Egypt, Arabia and the Red Sea,
+a Historical Review (University Press, Cambridge),
+pp. 181.
+
+BEN-AvRAHAM, Z., G. ALMAGOR and Z. GARFUNKEL
+(1979): Sediments and structure of the Gulf of Aqaba
+Northern Red Sea, Sediment Geol., 23, 239-267.
+
+BEN-MENAHEM, A. and B. ABoopr (1981): Micro-and
+macroseismicity of the Dead Sea rift and off-coast
+Eastern Mediterranean, in The Dead Sea Rift, edited by
+R. FREUND and Z. GARFUNKEL (Elsevier, Amsterdam),
+199-234.
+
+BEN-MENAHEM, A., A. Nur and M. VERED (1976): Tec-
+tonics, seismicity and structure of the Afro-Eurasian
+junction — the breaking of an incoherent plate, Phys.
+Earth Planet. Int., 12, 1-50.
+
+
+=== p-10 ===
+Ali K. Abdel Fattah, Hesham M. Hussein, Ezzeldien M. Ibrahim and Ahmad S. Abu El Atta
+
+Ex-Isa, Z.H., H.M. MERGHELANI and M.A. BAZZARI
+(1984): The Gulf of Aqaba earthquake swarm of 1983
+January-April, Geophys. J. R. Astron. Soc., 78, 711-722.
+
+EL-SAYED, A. and R. WAHLSTROM (1996): Distribution of
+the energy release, b-values and seismic hazard in
+Egypt, Natural Hazards, 4, 1-18.
+
+EYAL, M., Y. EYAL, Y. BARTOV and G. STEINITZ (1981):
+The tectonic development of the western margin of the
+Gulf of Elat (Aqaba) rift, Tectonophysics, 80, 39-66.
+
+FAIRHEAD, J.D. and R.W. GiRDLER (1970): The Seismicity
+of the Red Sea Rift, edited by R. FREUND and Z. Gar-
+FUNKEL (Elsevier, Amsterdam), 39-66.
+
+FaAIRHEAD, J.D. and R.W. GIRDLER (1972): The seismicity
+of the East African Rift System, Tectonophysics, 15,
+115-122.
+
+GARFUNKEL, Z., I. ZAK and R. FREUND (1981): Active
+faulting the Dead Sea rift, in The Dead Sea Rift, edited
+by R. FREUND and Z. GARFUNKEL (Elsevier, Amster-
+dam), 1-26.
+
+GROWELL, J.C. (1974): Origin of Late Cenozoic basins in
+Southern California, in Tectonics and Sedimentation,
+edited by W.R. DicKINSON, Soc. Econ. Palaeontol.
+Mineral., 19, 292-303.
+
+HUSSEIN, H.M. (1989): Earthquake activities in Egypt and
+adjacent regions and its relation to geotectonic features
+in Egypt, M. Sci. Thesis, Faculty of Science, Mansoura
+University.
+
+Leg, W.H.K. (1990): HYPO71PC program, IASPI Softwar
+Library, vol. 1.
+
+LYBERIS, N. (1988): Tectonic evolution of the Gulf of
+Suez and the Gulf of Aqaba, Tectonophysics, 153,
+209-220.
+
+1564
+
+Maamoun, M., A. MEGAHED and A. ALLAM (1984):
+Seismicity of Egypt, Bull. HIAG, vol. IV, ser. B,
+109-160.
+
+MaARZOUK, I., A. MEGAHED, E. IBRAHIM, H. Hussein, H.
+MurRAKAMI, H. INOUE, N. SETO, K. NISHIGAMI, A.
+SHAABAN, H. MOHAMMED and R. ABDEL FATAH
+(1995): Seismological Bulletin of Hurgada Seismo-
+graph Network (HSN), NRIAG, No. 1.
+
+Marzouk, I., A. MEGAHED, H. MURAKAMI, H. INOUE,
+E. IBRAHIM, H. HUSSEIN, A. SHAABAN, H. Mo-
+HAMMED and R. ABDEL FATAH (1996): Preliminary
+study on 22nd November 1995 earthquake and its main
+aftershocks, in 10th International Seminar on Earth-
+quake Prognostics, Cairo University, extended abstract,
+128.
+
+MENEISY, M.Y. and H. KREUZER (1974): Potassium-argon
+ages of Egyptian basaltic rocks, Geol. Jahrb. Reihe D,
+
+1
+
+QUENNELL, A.M. (1959): Tectonics of the Dead Sea rift,
+Int. Geol. Cong., 20, 384-405.
+
+SIEDNER, G. (1973): K-Ar chronology of Cenozoic vol-
+canics from Northern Israel and Sinai, Fortschr. Min-
+eral., 50, 120-130.
+
+WILCOX, R.E., T.F. HARDING and D.R. SEELY (1973): Ba-
+sic wrench tectonics, Bull. Am. Assoc. Pet. Geol., 57,
+74-96.
+
+(received April 22, 1997;
+accepted December 10, 1997)
