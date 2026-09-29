@@ -1,0 +1,12 @@
+# שלד. הלוגיקה (fetch_live + echo + build + deploy, כל שעה) נכתבת בשלב 6.
+# עד אז אין schedule, כדי שלא ירוץ סתם.
+name: live
+
+on:
+  workflow_dispatch:
+
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "live.yml ימומש בשלב 6"
