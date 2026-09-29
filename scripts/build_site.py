@@ -245,6 +245,7 @@ def build(drafts=False):
     for e in events:
         e["sections"], e["footnotes"] = split_sections(e["body"])
         e["kind"] = evidence_kind(e)
+        e["has_wikipedia"] = any("wikipedia.org" in (s.get("url") or "") for s in e.get("sources") or [])
         seg = e["location"].get("segment")
         e["segment_name"] = segment_names.get(seg) if seg else None
         e["same_segment"] = [
