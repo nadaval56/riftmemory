@@ -1,4 +1,2 @@
-# טקסטים פתוחים בלבד. slug url   (סבב 9: נחלת הכלל, archive.org)
-russell1759-ia https://archive.org/download/paper-doi-10_1098_rstl_1759_0054/paper-doi-10_1098_rstl_1759_0054_djvu.txt
-robinson1841-v3-dli https://archive.org/download/in.ernet.dli.2015.181236/2015.181236.Biblical-Researches-In-Palestine--Vol-3_djvu.txt
-robinson1841-v3-princeton https://archive.org/download/biblicalresearch03robi/biblicalresearch03robi_djvu.txt
+# טקסטים לאימות. slug url   (סבב 11: ספירידון 1938, באישור נדב)
+spyridon1938 https://archive.org/download/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834/AnnalsOfPalestine1821to1841_Spyridon_RecountsTheEarthquake%20of%201834_djvu.txt

@@ -280,10 +280,10 @@
      "event": "1834-jerusalem",
      "place_he": "בית לחם",
      "status": "reported",
-     "evidence": "מנזרים נפגעו ונהרגו רבים",
+     "evidence": "המנזרים הלטיני, הארמני והיווני ניזוקו קשה (ניאופיטוס); לפי עמירן נהרגו רבים",
      "footnotes": [
+      "spyridon-92",
       "zohar16",
-      "dsq",
       "kentor-2231"
      ]
     }
@@ -1039,8 +1039,9 @@
      "event": "1834-jerusalem",
      "place_he": "ירושלים",
      "status": "reported",
-     "evidence": "בתים רבים נהרסו; כנסיות, צריחים וחומת העיר נפגעו",
+     "evidence": "בתים רבים נסדקו ונפלו, קטע מהחומה, צריחים וכיפת קפלת העלייה נפלו (ניאופיטוס)",
      "footnotes": [
+      "spyridon-92",
       "zohar16",
       "dsq",
       "kentor-2231"
@@ -1050,9 +1051,9 @@
      "event": "1834-jerusalem",
      "place_he": "כנסיית הקבר",
      "status": "reported",
-     "evidence": "כיפת הקתוליקון נסדקה בשבעה מקומות",
+     "evidence": "כיפת הקתוליקון נסדקה בשבעה מקומות (ניאופיטוס)",
      "footnotes": [
-      "dsq"
+      "spyridon-92"
      ]
     },
     {
@@ -1353,8 +1354,9 @@
      "event": "1834-jerusalem",
      "place_he": "מנזר מר סבא",
      "status": "reported",
-     "evidence": "נזק נרשם",
+     "evidence": "מגדל יוחנן מדמשק נסדק כולו (ניאופיטוס)",
      "footnotes": [
+      "spyridon-92",
       "zohar16"
      ]
     }
