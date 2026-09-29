@@ -60,6 +60,11 @@ jobs:
         if: contains(steps.task.outputs.tasks, 'catalog')
         run: python scripts/fetch_catalog.py
 
+      # שמות מקומות וקואורדינטות (GeoNames, CC BY 4.0), לשכבת "מקומות שנפגעו"
+      - name: geonames
+        if: contains(steps.task.outputs.tasks, 'geonames')
+        run: python scripts/fetch_geonames.py
+
       - name: commit
         run: |
           git config user.name "github-actions[bot]"
