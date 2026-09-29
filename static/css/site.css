@@ -36,6 +36,7 @@
   --archaeology: #9a7b2f;
   --instrumental: #4f7391;
   --live: #c96442;
+  --quake: #4f7391; /* רעידות חיות על המפה: כחול, כדי לא להתבלבל עם קווי השבר */
   --warn-bg: #fbf3dc;
   --warn-ink: #7a5a10;
   --radius: 16px;
@@ -51,7 +52,7 @@
     --ink: #f5f3ee; --ink-2: #a8a59d; --muted: #6e6b64;
     --line: #34322d; --line-soft: #2a2825;
     --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
-    --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b;
+    --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4;
     --warn-bg: #33291a; --warn-ink: #e3c47a;
     color-scheme: dark;
   }
@@ -61,7 +62,7 @@
   --ink: #f5f3ee; --ink-2: #a8a59d; --muted: #6e6b64;
   --line: #34322d; --line-soft: #2a2825;
   --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
-  --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b;
+  --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4;
   --warn-bg: #33291a; --warn-ink: #e3c47a;
   color-scheme: dark;
 }
@@ -234,13 +235,17 @@ section + section { margin-top: 2rem; }
 
 /* ===== מפה ===== */
 .map { border-radius: var(--radius); border: 1px solid var(--line-soft); background: var(--surface-2); z-index: 0; }
+/* Leaflet מחשב מיקום של תוויות וחלונות לפי כיוון שמאל-לימין. הטקסט שבתוכם חוזר ל-RTL. */
+.map.leaflet-container { direction: ltr; }
+.map .leaflet-tooltip, .map .leaflet-popup-content, .map .leaflet-control-attribution { direction: rtl; }
 .map-legend, .timeline-legend {
   list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .35rem 1.1rem;
   font-size: .8rem; color: var(--ink-2);
 }
 .lg { display: inline-block; width: 11px; height: 11px; border-radius: 50%; vertical-align: middle; margin-inline-end: .3rem; }
-.lg-live { background: var(--live); width: 8px; height: 8px; opacity: .8; }
-.lg-hist { background: var(--texts); box-shadow: 0 0 0 2px var(--surface), 0 0 0 3px var(--texts); }
+.lg-live { background: var(--quake); width: 8px; height: 8px; opacity: .8; }
+.lg-hist { width: 18px; height: 18px; background: color-mix(in srgb, var(--accent) 18%, transparent); border: 1.5px dashed var(--accent); position: relative; }
+.lg-hist::after { content: ""; position: absolute; inset: 5px; border-radius: 50%; background: var(--accent); }
 .lg-seg { border-radius: 3px; background: color-mix(in srgb, var(--accent) 18%, transparent); border: 1px dashed var(--accent); }
 .lg.k-texts { background: var(--texts); }
 .lg.k-archaeology { background: var(--archaeology); }
@@ -329,3 +334,17 @@ section + section { margin-top: 2rem; }
   display: inline-block; font-size: .7rem; font-weight: 600; color: var(--warn-ink);
   background: var(--warn-bg); border-radius: 999px; padding: 0 .5rem; vertical-align: middle;
 }
+
+/* תוויות על המפה: שמות המקטעים והכיתוב "מיקום משוער" */
+.leaflet-tooltip.seg-label {
+  background: color-mix(in srgb, var(--surface) 85%, transparent); border: 0; box-shadow: none;
+  color: var(--accent); font: 600 .78rem/1.2 Heebo, sans-serif; padding: 1px 5px; white-space: nowrap;
+}
+.leaflet-tooltip.seg-label::before, .leaflet-tooltip.approx-label::before { display: none; }
+.leaflet-tooltip.approx-label {
+  background: var(--surface); border: 1px solid var(--accent); color: var(--ink);
+  font: .75rem/1.2 Heebo, sans-serif; padding: 1px 6px; box-shadow: none;
+}
+.map-popup { direction: rtl; text-align: right; font-family: Heebo, sans-serif; line-height: 1.45; }
+.map-popup .src { color: var(--ink-2); font-size: .85em; margin-top: .3rem; }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--ink); }

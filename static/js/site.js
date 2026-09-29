@@ -42,43 +42,85 @@
       texts: css.getPropertyValue("--texts").trim(),
       archaeology: css.getPropertyValue("--archaeology").trim(),
       instrumental: css.getPropertyValue("--instrumental").trim(),
-      live: css.getPropertyValue("--live").trim(),
+      live: css.getPropertyValue("--quake").trim(),
       rust: css.getPropertyValue("--accent").trim()
     };
     var bounds = [];
     var faultBounds = [];
 
-    // קווי ההעתקים (GEM / EMME), מקובצים לפי מקטע
+    function esc(t) {
+      return String(t == null ? "" : t).replace(/[&<>"]/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+      });
+    }
+
+    // קווי ההעתקים (GEM / EMME), מקובצים לפי מקטע.
+    // לחיצה על קו מסבירה מה הוא. שם המקטע כתוב פעם אחת, על הקו, באמצע הטווח הצפון-דרומי של המקטע.
     data.segments.forEach(function (s) {
+      var lines = [], lo = 90, hi = -90;
       s.lines.forEach(function (line) {
         var latlngs = line.map(function (c) { return [c[1], c[0]]; });
-        L.polyline(latlngs, { color: colors.rust, weight: 3, opacity: 0.85, dashArray: s.draft ? "6 5" : null })
-          .bindTooltip(s.name, { sticky: true }).addTo(map);
+        L.polyline(latlngs, { color: colors.rust, weight: 3, opacity: 0.9, dashArray: s.draft ? "6 5" : null })
+          .bindPopup('<div class="map-popup"><strong>קו שבר פעיל (העתק)</strong><br>מקטע: ' + esc(s.name) +
+            (s.note ? '<div class="src">' + esc(s.note) + "</div>" : "") +
+            '<div class="src">מקור הקו: GEM Global Active Faults, מודל EMME</div></div>')
+          .addTo(map);
         latlngs.forEach(function (p) { faultBounds.push(p); });
+        lines.push(latlngs);
+        latlngs.forEach(function (p) { lo = Math.min(lo, p[0]); hi = Math.max(hi, p[0]); });
       });
+      var target = (lo + hi) / 2, mid = null;
+      lines.forEach(function (ll) {
+        for (var i = 1; i < ll.length && !mid; i++) {
+          var a = ll[i - 1], b = ll[i];
+          if ((a[0] - target) * (b[0] - target) <= 0 && a[0] !== b[0]) {
+            var t = (target - a[0]) / (b[0] - a[0]);
+            mid = [target, a[1] + t * (b[1] - a[1])];
+          }
+        }
+      });
+      if (mid) {
+        L.tooltip({ permanent: true, direction: "left", offset: [-8, 0], className: "seg-label" })
+          .setLatLng(mid).setContent(esc(s.name)).addTo(map);
+      }
     });
 
     data.live.forEach(function (q) {
       L.circleMarker([q.lat, q.lon], {
         radius: Math.max(3, q.mag * 1.6), color: colors.live, weight: 1, fillOpacity: 0.6
-      }).bindPopup("<strong>" + (q.label || "") + "</strong><br>M" + q.mag + " · " + (ago(q.time_utc) || ""))
+      }).bindPopup('<div class="map-popup"><strong>' + esc(q.label) + "</strong><br>M" + q.mag + " · " + (ago(q.time_utc) || "") + "</div>")
         .addTo(map);
       bounds.push([q.lat, q.lon]);
     });
 
+    // רעידות היסטוריות: המיקום משוער בלבד. עיגול גדול ושקוף מראה שאין כאן נקודה מדויקת,
+    // והחלון שנפתח בלחיצה אומר לפי איזה חוקר נקבע המיקום ומפנה לביבליוגרפיה בדף הרעידה.
+    var hist = [];
     data.events.forEach(function (e) {
+      var popup = '<div class="map-popup"><a href="' + e.url + '"><strong>' + esc(e.title) + "</strong></a><br>" + esc(e.year) +
+        "<br><strong>מיקום משוער</strong>" +
+        (e.source ? '<div class="src">לפי: ' + (e.source_url
+          ? '<a href="' + esc(e.source_url) + '" rel="noopener">' + esc(e.source) + "</a>"
+          : esc(e.source)) + "</div>" : "") +
+        '<div class="src"><a href="' + e.url + '#bibliography">לביבליוגרפיה המלאה</a></div></div>';
+      var area = L.circle([e.lat, e.lon], {
+        radius: 30000, color: colors.rust, weight: 1.5, dashArray: "4 4",
+        fillColor: colors.rust, fillOpacity: 0.15
+      }).bindPopup(popup).addTo(map);
       L.circleMarker([e.lat, e.lon], {
-        radius: 9, color: "#fff", weight: 2, fillColor: colors[e.kind] || colors.texts, fillOpacity: 1
-      }).bindPopup('<a href="' + e.url + '"><strong>' + e.title + "</strong></a><br>" + e.year)
-        .addTo(map);
-      bounds.push([e.lat, e.lon]);
+        radius: 4, stroke: false, fillColor: colors.rust, fillOpacity: 1
+      }).bindPopup(popup).addTo(map);
+      area.bindTooltip("מיקום משוער · " + esc(e.year), { permanent: true, direction: "right", offset: [12, 0], className: "approx-label" });
+      hist.push([e.lat, e.lon]);
     });
 
-    // תמיד רואים את כל קו השבר בארץ, ובנוסף את הרעידות שעל המפה
-    // רעידות רחוקות (קפריסין, סוריה) נשארות על המפה אבל לא מרחיקות את המבט מהארץ
-    var near = bounds.filter(function (p) { return p[0] > 29 && p[0] < 33.6 && p[1] > 34 && p[1] < 36.6; });
-    var all = faultBounds.filter(function (p) { return p[0] < 33.4; }).concat(near);
-    if (all.length > 1) map.fitBounds(all, { padding: [16, 16], maxZoom: 9 });
+    // תמיד רואים את כל קו השבר בארץ, ובנוסף את הרעידות הקרובות שעל המפה.
+    // רעידות רחוקות (כרתים, סוריה) נשארות על המפה אבל לא מרחיקות את המבט מהארץ,
+    // חוץ מבדף של הרעידה עצמה (focus).
+    var inRegion = function (p) { return p[0] > 29 && p[0] < 33.6 && p[1] > 34 && p[1] < 36.6; };
+    var near = bounds.concat(data.focus ? [] : hist).filter(inRegion);
+    var all = faultBounds.filter(function (p) { return p[0] < 33.4; }).concat(near, data.focus ? hist : []);
+    if (all.length > 1) map.fitBounds(all, { padding: [24, 24], maxZoom: 9 });
     else if (all.length === 1) map.setView(all[0], 8);
   }
 
