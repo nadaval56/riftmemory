@@ -105,11 +105,15 @@ review_notes:
 
 בנמל עכו נסוג הים, והמעגן נשאר יבש. ואז, לפי אחד הדיווחים, הגיע גל והרס חצי ממנו. כך מתארים כמה קטלוגים את מה שקרה בחוף בעקבות רעידת האדמה של 5 בדצמבר 1033.[^sal07t]
 
-הרעידה פגעה במרכז ארץ ישראל. זהר, סלמון ורובין, שבדקו מחדש את כל הדיווחים על רעידות היסטוריות באזור, מדרגים אותה בין האמינות ביותר ברשימה שלהם.[^zohar16s] אפילו השעה לא ברורה: לפי רשימה אחת היא אירעה בלילה[^zohar16], ולפי אחרת לפני השקיעה.[^sal07]
+הרעידה פגעה במרכז ארץ ישראל. זהר, סלמון ורובין, שבדקו מחדש את כל הדיווחים על רעידות היסטוריות באזור, מדרגים אותה בין האמינות ביותר ברשימה שלהם.[^zohar16s] בקטלוגים השעה לא אחידה: לפי רשימה אחת היא אירעה בלילה[^zohar16], ולפי אחרת לפני השקיעה.[^sal07] המכתב שנכתב ברמלה, כפי שיתברר, תומך בגרסה השנייה.
 
 העדות העיקרית היא מכתב של אדם בן התקופה, שלמה בן צמח, שנשמר ופורסם באוסף "אגרות ארץ ישראל" של אברהם יערי. לפי הסיכום של החוקרים, המכתב מספר על רעידה גדולה שפגעה קשות ברמלה ובערים נוספות במרכז הארץ.[^zohar16s]
 
-<!-- המכתב (יערי 1943, עמ' 70–73) לא נקרא, ולכן אין ממנו ציטוט. -->
+את המכתב עצמו אפשר לקרוא בתרגום האנגלי של יעקב מאן, שפרסם אותו ב-1920. הכותב מתאר אנשים שיצאו מבתיהם לרחובות כשראו את הקירות מתעקמים ואת הקורות נפרדות מהקירות וחוזרות למקומן. בניינים חזקים קרסו, ורבים מתו תחת ההריסות. לפי המכתב זה קרה ביום חמישי בטבת, "suddenly before sunset", ברמלה ובכל הארץ: מהים ועד מבצר דן (בניאס), בנגב, בהר ועד ירושלים, בשכם ובכפריה, בטבריה ובכפריה ובהרי הגליל. הכותב מוסיף שאילו קרה הדבר בלילה, כשכולם ישנים, רק מעטים היו ניצלים. באותו לילה, ביום שישי ובלילה שאחריו חזרו הרעידות.[^mann-156]
+
+מי כתב את המכתב? חתימתו לא נשתמרה. מאן זיהה בו את כתב ידו של הגאון שלמה בן יהודה, שישב אז ברמלה, והעריך שנשלח לאחד מידידיו בפוסטאט שבמצרים.[^mann-156] זהר ועמיתיו, בהפניה ליערי, מייחסים אותו לשלמה בן צמח.[^zohar16s]
+
+<!-- המכתב במקור העברי (יערי 1943, עמ' 70–73) לא נקרא; הציטוט מהתרגום של מאן. -->
 
 הנזק התפרש על שטח גדול: יריחו, רמלה, בניאס, אשקלון, ירושלים, עכו, עזה, שכם, חברון והכפר אל-באד'אן. בין המקום הצפוני ביותר שנפגע לדרומי ביותר יש כ-190 קילומטרים.[^zohar16][^zohar17] כמה נהרגו? החוקרים יכולים לומר רק שהיו "רבים".[^zohar16]
 
@@ -183,3 +187,4 @@ review_notes:
 [^cfti]: E. Guidoboni et al., "CFTI5Med, the new release of the catalogue of strong earthquakes in Italy and in the Mediterranean area", [Scientific Data 6 (2019)](https://doi.org/10.1038/s41597-019-0091-9), 80. המאמר מתאר את הקטלוג ואת ה"מגניטודה השקולה" (Me) שהוא מחשב מנתוני עוצמה, אבל לא את רעידת 1033. הערך 7.3: TODO: לבדוק בקטלוג עצמו.
 [^grig]: I. Grigoratos, V. Poggi, L. Danciu, G. Rojo, ["An updated parametric catalog of historical earthquakes around the Dead Sea Transform Fault Zone"](https://link.springer.com/article/10.1007/s10950-020-09904-9), Journal of Seismology 24 (2020), עמ׳ 803–832. TODO: לבדוק במקור.
 [^ngdc]: NCEI/WDS (לשעבר NGDC), [Global Significant Earthquake Database](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/8156), NOAA, רשומה 8156, נקראה בספטמבר 2026. זה מאגר שמצטט סיכומים מקטלוגים שונים, לא מקור היסטורי. בשדה ההרוגים: 70,000. בהערות: "There were 70,000 victims" באחד הסיכומים, ובאחר: "The victims reached a considerable number, which is not given". שם גם: "In Nablus 1/2 of the buildings collapsed, killing about 300 people"; "A landslide overwhelmed a neighbouring village of al-Badan, with all its people and its livestock"; "The mosque and its minarets at El-Gaalan at Gaza were destroyed and the upper part of the lighthouse of Gaza was badly damaged"; "The walls of Jerusalem collapsed".
+[^mann-156]: J. Mann, *The Jews in Egypt and in Palestine under the Fāṭimid Caliphs*, כרך 1, Oxford University Press, 1920, עמ׳ 156–158 ([סריקה ב-Internet Archive](https://archive.org/details/jewsinegyptinpal01mannuoft), נחלת הכלל). מאן מתאריך את הרעש ליום חמישי, י"ב בטבת ד'תשצ"ד, 5 בדצמבר 1033, ומביא גם את אבן אל-אתיר ואת א-סיוטי (שליש מרמלה נהרס). מהתרגום: "they went out from their houses into the streets because they saw the walls bending and yet intact, and the beams become separated from the walls and then revert to their former position"; "Were it not for God's mercy that it happened before the day was gone, when people could see and warn each other, and had it been in the night when everybody was asleep, only a few would have been saved." על הכותב: "the handwriting is that of Solomon b. Yehuda".
