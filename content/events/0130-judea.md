@@ -96,7 +96,7 @@ review_notes:
 - Moshe Sharon, *Corpus Inscriptionum Arabicarum Palaestinae*, כרך 1, עמ׳ 79.
 
 [^w]: ויקיפדיה: [רעידת האדמה ביהודה (130)](https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(130)).
-[^eq]: ויקיפדיה: רעידת אדמה, הפרק "רעידות אדמה בולטות בארץ ישראל". TODO: מקור. להוסיף קישור מדויק לערך.
+[^eq]: ויקיפדיה: [רעידת אדמה, הפרק "רעידות אדמה בולטות בארץ ישראל"](https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל).
 [^jerome]: הירונימוס, כרוניקון, האולימפיאדה ה-226, שנה 12, לפי ההפניה בוויקיפדיה. TODO: לבדוק במקור.
 [^caesarea]: Caesarea Maritima: A Retrospective after Two Millennia, עמ׳ 23, לפי ההפניה בוויקיפדיה. TODO: לבדוק במקור.
 [^sharon]: Moshe Sharon, CIAP, כרך 1, עמ׳ 79, לפי ההפניה בוויקיפדיה. TODO: לבדוק במקור.

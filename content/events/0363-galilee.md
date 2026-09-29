@@ -113,7 +113,7 @@ Kenneth Russell חקר את הרעידה והראה, לפי הערך הכללי,
 - Eric M. Meyers, James F. Strange and Carol L. Meyers, "Second Preliminary Report on the 1981 Excavations at en-Nabratein, Israel", *BASOR* 246 (1982).
 
 [^w]: ויקיפדיה: [רעידות האדמה בגליל (363)](https://he.wikipedia.org/wiki/רעידות_האדמה_בגליל_(363)).
-[^eq]: ויקיפדיה: רעידת אדמה, הפרק "רעידות אדמה בולטות בארץ ישראל". TODO: מקור. להוסיף קישור מדויק לערך.
+[^eq]: ויקיפדיה: [רעידת אדמה, הפרק "רעידות אדמה בולטות בארץ ישראל"](https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל).
 [^safrai]: Safrai 1998, עמ׳ 86–87, לפי ההפניה בוויקיפדיה. TODO: לבדוק במקור.
 [^sbeinati]: Sbeinati, Darawcheh and Mouty 2005, עמ׳ 407, לפי ההפניה בוויקיפדיה. TODO: לבדוק במקור.
 [^meyers]: Meyers, Strange and Meyers 1982, עמ׳ 35–54, לפי ההפניה בוויקיפדיה. TODO: לבדוק במקור.
