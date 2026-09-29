@@ -1,4 +1,3 @@
-# טקסטים פתוחים בלבד. slug url   (סבב 6: 1927, תמונות American Colony בספריית הקונגרס – נחלת הכלל)
-loc-matpc-03034 https://www.loc.gov/item/2019711015/?fo=json
-loc-search-winter-palace https://www.loc.gov/pictures/search/?q=winter%20palace%20jericho%201927&co=matpc&fo=json
-commons-1927-earthquake https://commons.wikimedia.org/wiki/Category:1927_earthquake_in_Palestine
+# טקסטים פתוחים בלבד. slug url   (סבב 6ב: ספריית הקונגרס, נחלת הכלל)
+loc-matpc-03034 https://www.loc.gov/resource/matpc.03034/?fo=json
+loc-matpc-03034-item https://www.loc.gov/pictures/item/2019703339/?fo=json
