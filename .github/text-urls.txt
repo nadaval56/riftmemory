@@ -1,0 +1,4 @@
+# טקסטים פתוחים בלבד. slug url   (סבב 3: שכבת ההעתקים)
+nhess-sharon2020 https://nhess.copernicus.org/articles/20/125/2020/nhess-20-125-2020.html
+nhess-sharon2020-assets https://nhess.copernicus.org/articles/20/125/2020/nhess-20-125-2020-assets.html
+gsi-faults-page https://eq.gsi.gov.il/heb/hazards/faults.php

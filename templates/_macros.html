@@ -29,7 +29,7 @@
 <ul class="map-legend">
   <li><span class="lg lg-live"></span> רעידות מהחודש האחרון</li>
   <li><span class="lg lg-hist"></span> רעידות היסטוריות עם מיקום ממקור</li>
-  <li><span class="lg lg-seg"></span> מקטעי השבר</li>
+  <li><span class="lg lg-fault"></span> העתקים פעילים (GEM)</li>
 </ul>
-{% if not data.segments %}<p class="note">מקטעי השבר יוצגו אחרי שגבולותיהם יאושרו.</p>{% endif %}
+<p class="note">קווי ההעתקים: GEM Global Active Faults Database, לפי מודל EMME (רישיון CC BY-SA 4.0).{% if data.segments | selectattr("draft") | list %} קו מקווקו: שיוך המקטע טרם אושר.{% endif %}</p>
 {% endmacro %}

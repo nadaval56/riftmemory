@@ -37,15 +37,17 @@
       archaeology: css.getPropertyValue("--archaeology").trim(),
       instrumental: css.getPropertyValue("--instrumental").trim(),
       live: css.getPropertyValue("--live").trim(),
-      rust: css.getPropertyValue("--rust").trim()
+      rust: css.getPropertyValue("--accent").trim()
     };
     var bounds = [];
 
+    // קווי ההעתקים (GEM / EMME), מקובצים לפי מקטע
     data.segments.forEach(function (s) {
-      var b = [[s.bbox[0], s.bbox[1]], [s.bbox[2], s.bbox[3]]];
-      L.rectangle(b, { color: colors.rust, weight: 1, fillOpacity: 0.12, dashArray: s.draft ? "5 4" : null })
-        .bindTooltip(s.name).addTo(map);
-      bounds.push(b[0], b[1]);
+      s.lines.forEach(function (line) {
+        var latlngs = line.map(function (c) { return [c[1], c[0]]; });
+        L.polyline(latlngs, { color: colors.rust, weight: 3, opacity: 0.85, dashArray: s.draft ? "6 5" : null })
+          .bindTooltip(s.name, { sticky: true }).addTo(map);
+      });
     });
 
     data.live.forEach(function (q) {
@@ -79,6 +81,29 @@
       root.dataset.theme = dark ? "light" : "dark";
       try { localStorage.setItem("riftmemory.theme", root.dataset.theme); } catch (e) {}
     });
+  }
+
+  // הערות שוליים: לחיצה על מספר ההערה פותחת את המקור בחלון צף בתחתית המסך.
+  // לחיצה או נגיעה בכל מקום אחר (או Esc) סוגרת אותו.
+  var sheet = document.getElementById("source-sheet");
+  if (sheet) {
+    var body = sheet.querySelector(".source-sheet-body");
+    var label = sheet.querySelector(".source-sheet-label");
+    var close = function () { sheet.hidden = true; };
+    document.addEventListener("click", function (ev) {
+      var ref = ev.target.closest && ev.target.closest("a.footnote-ref");
+      if (ref) {
+        var note = document.getElementById(decodeURIComponent(ref.getAttribute("href").slice(1)));
+        if (!note) return;
+        ev.preventDefault();
+        body.innerHTML = note.innerHTML;
+        label.textContent = "מקור " + ref.textContent;
+        sheet.hidden = false;
+        return;
+      }
+      if (!sheet.hidden && !(ev.target.closest && ev.target.closest(".source-sheet-body a"))) close();
+    });
+    document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") close(); });
   }
 
   window.addEventListener("load", function () {

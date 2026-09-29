@@ -68,6 +68,9 @@ def split_sections(body):
     m = FOOTNOTES.search(html)
     if m:
         notes, html = m.group(0), html[:m.start()]
+        # בלי חיצי "חזרה לטקסט": ההערה נפתחת בחלון צף, והרשימה בתחתית היא ביבליוגרפיה
+        notes = re.sub(r'(&#160;)?<a class="footnote-backref"[^>]*>.*?</a>', "", notes)
+        notes = notes.replace("<hr />", "")
     sections = []
     parts = re.split(r"<h2[^>]*>(.*?)</h2>", html)
     for title, content in zip(parts[1::2], parts[2::2]):
@@ -188,7 +191,7 @@ def map_data(events, live, segments):
     return {
         "segments": [
             {"id": s["id"], "name": s["name_he"] + (" (טיוטה, טרם אושר)" if s.get("draft") else ""),
-             "bbox": s["bbox"], "draft": bool(s.get("draft"))}
+             "lines": s["lines"], "draft": bool(s.get("draft"))}
             for s in segments if s.get("approved")
         ],
         "events": [
