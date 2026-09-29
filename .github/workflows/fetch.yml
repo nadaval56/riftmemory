@@ -45,36 +45,7 @@ jobs:
 
       - name: gsi-probe
         if: contains(steps.task.outputs.tasks, 'gsi-probe')
-        run: |
-          mkdir -p data/raw/gsi
-          cd data/raw/gsi
-          UA="riftmemory/0.1 (https://github.com/nadaval56/riftmemory)"
-          curl -sSL --max-time 60 -A "$UA" -D page.headers -o ageEarthquakes.html \
-            https://eq.gsi.gov.il/heb/earthquake/ageEarthquakes.php || echo "gsi failed"
-          curl -sSL --max-time 60 -A "$UA" -o usgs-sample.json \
-            "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minlatitude=27&maxlatitude=36&minlongitude=32&maxlongitude=38&minmagnitude=2&orderby=time&limit=30" || echo "usgs failed"
-          curl -sSL --max-time 60 -A "$UA" -o emsc-sample.json \
-            "https://www.seismicportal.eu/fdsnws/event/1/query?format=json&minlat=27&maxlat=36&minlon=32&maxlon=38&minmag=2&limit=30" || echo "emsc failed"
-          # הדף הוא אפליקציית JS: מושכים את ה-bundle ומחלצים ממנו כתובות ומחרוזות רלוונטיות
-          for js in $(grep -oE 'src="[^"]+\.js"' ageEarthquakes.html | cut -d'"' -f2); do
-            curl -sSL --max-time 60 -A "$UA" -o bundle.js "https://eq.gsi.gov.il$js" || true
-          done
-          if [ -f bundle.js ]; then
-            wc -c bundle.js
-            grep -oE '"(https?:)?/[^"]{3,200}"|`[^`]{0,200}(api|csv|json|query|earthquake)[^`]{0,200}`' bundle.js | sort -u > bundle-strings.txt || true
-            grep -oiE '[a-z0-9_./:-]*(api|csv|json|php|query|quakes?|events?)[a-z0-9_./?=&-]*' bundle.js | sort -u > bundle-words.txt || true
-            grep -oE '.{0,400}startDate.{0,400}' bundle.js | head -20 > bundle-startdate-context.txt || true
-            grep -oE '.{0,300}api/earthquakes.{0,400}' bundle.js > bundle-api-context.txt || true
-            grep -oE '.{0,200}(\.csv|text/csv|download).{0,200}' bundle.js | head -40 > bundle-csv-context.txt || true
-            rm bundle.js
-          fi
-          START=$(date -u -d '30 days ago' +%Y-%m-%dT%H:%M:%SZ)
-          END=$(date -u +%Y-%m-%dT%H:%M:%SZ)
-          for q in "?startDate=$START&endDate=$END" "gsi_tele_2026sxxe" "latest-check?lastId=0"; do
-            name=$(echo "api-earthquakes-$q" | tr -c 'a-zA-Z0-9-' '_')
-            curl -sSL --max-time 60 -A "$UA" -w "\n%{http_code} %{content_type}\n" "https://eq.gsi.gov.il/api/earthquakes/$q" | head -c 20000 > "$name.txt" || true
-          done
-          ls -la
+        run: python scripts/probe_gsi.py
 
       - name: commit
         run: |
