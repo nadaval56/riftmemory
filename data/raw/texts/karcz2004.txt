@@ -1,263 +1,1845 @@
-SOURCE: https://www.annalsofgeophysics.eu/index.php/annals/article/view/3334
+                          ANNALS OF GEOPHYSICS, VOL. 47, N. 2/3, April/June 2004
 
 
 
-		Implications of some early Jewish sources for estimates of earthquake hazardin the Holy Land
-							| Annals of Geophysics
 
-Main Navigation
+ Implications of some early Jewish sources
+   for estimates of earthquake hazard
+             in the Holy Land
+                                                 Iaakov Karcz
+                                        14 Shay Agnon, Jerusalem, Israel
 
-Main Content
 
-Sidebar
 
-					Login
-
-					Register
-
-					Search
-
-						Toggle navigation
-
-					About
-
-										AIM and SCOPE
-
-										Editor and Editorial Board
-
-										Manuscript types
-
-										Subject Areas
-
-										Organization
-
-					Editorial Policies
-
-										Peer Review Process
-
-										Responsibility of the Corresponding Author
-
-										Violations and Plagiarism
-
-										AI Guidelines
-
-										Open Access Policy
-
-										Archiving
-
-										Annals of Geophysics Data Policy
-
-					For Authors
-
-										Submission guidelines and Template
-
-										Copyright Notice
-
-										Privacy Statement
-
-										Contact the Journal
-
-										Submit the manuscript
-
-					For Reviewer and Associate Editor
-
-										Reviewer Instructions
-
-										Review Criteria
-
-										Submit the review
-
-										Associate Editor Instructions
-
-					Early view and Archives
-
-  Search
-
-				Home
-
-				Archives
-
-					Volume 47 · Number 2-3 · 2004
-
-							OLD
-
-			Implications of some early Jewish sources for estimates of earthquake hazardin the Holy Land
-
-Article Sidebar
-
-	PDF
-
-												Published:
-						2004-12-25
-
-												DOI:
-
-							https://doi.org/10.4401/ag-3334
-
-												Keywords:
-
-																	Array, 																	Array, 																	Array
-
-Main Article Content
-
-								I. Karcz
-
-																					14 Shay Agnon, Jerusalem, Israel
 
 Abstract
-
-							For the past two millennia the Holy Land was under the yoke of successive invaders and oppressors, not a fertile ground for growth of historiographic traditions. Consequently, earthquake cataloguers had to rely largely on chronicles and texts written at distant administrative and cultural centers of the day, where earthquake destruction suffered by a culturally and economically depressed province may have been overshadowed by damage in more important parts of the empire. On this assumption, and aided by an implicit notion that the lands bounded
-
-by the Dead Sea Rift and Anatolian Fault systems are seismically contiguous, early cataloguers often extended the impact of earthquakes documented in nearby East Mediterranean countries to the Holy Land. Once published, such reports of supposed destructive intensities in Israel were used by Judaic scholars and archaeologists
-
-to date poorly defined, often metaphoric, literary seismic echoes, and to justify assigning seismic origin to equivocal
-
-signs of damage, asymmetry, or abandonment at archaeological sites of corresponding age. The spread of damage and intensity portraits are therefore enhanced and distorted, and so is their application in palaeoseismic analysis. Four test cases are presented, illustrating the use and misuse of local Judaic sources in identifying destructive intensities supposedly generated in the Holy Land by earthquakes of 92 B.C., 64 B.C. and 31 B.C., and
-
+For the past two millennia the Holy Land was under the yoke of successive invaders and oppressors, not a fer-
+tile ground for growth of historiographic traditions. Consequently, earthquake cataloguers had to rely largely on
+chronicles and texts written at distant administrative and cultural centers of the day, where earthquake destruc-
+tion suffered by a culturally and economically depressed province may have been overshadowed by damage in
+more important parts of the empire. On this assumption, and aided by an implicit notion that the lands bounded
+by the Dead Sea Rift and Anatolian Fault systems are seismically contiguous, early cataloguers often extended
+the impact of earthquakes documented in nearby East Mediterranean countries to the Holy Land. Once pub-
+lished, such reports of supposed destructive intensities in Israel were used by Judaic scholars and archaeologists
+to date poorly defined, often metaphoric, literary seismic echoes, and to justify assigning seismic origin to equiv-
+ocal signs of damage, asymmetry, or abandonment at archaeological sites of corresponding age. The spread of
+damage and intensity portraits are therefore enhanced and distorted, and so is their application in palaeoseismic
+analysis. Four test cases are presented, illustrating the use and misuse of local Judaic sources in identifying de-
+structive intensities supposedly generated in the Holy Land by earthquakes of 92 B.C., 64 B.C. and 31 B.C., and
 in postulating a regional seismic catastrophe in 749 A.D..
 
-Article Details
 
-								Issue
 
-								Volume 47 · Number 2-3 · 2004
 
-								Section
-
-							OLD
-
-Open-Access License
-
-No Permission Required
-
-Istituto Nazionale di Geofisica e Vulcanologia applies the Creative Commons Attribution License (CCAL) to all works we publish.
-
-Under the CCAL, authors retain ownership of the copyright for their article, but authors allow anyone to download, reuse, reprint, modify, distribute, so long as the original authors and source are cited. No permission is required from the authors or the publishers.
-
-In most cases, appropriate attribution can be provided by simply citing the original article.
-
-If the item you plan to reuse is not part of a published article (e.g., a featured issue image), then please indicate the originator of the work, and the volume, issue, and date of the journal in which the item appeared. For any reuse or redistribution of a work, you must also make clear the license terms under which the work was published.
-
-This broad license was developed to facilitate open access to, and free use of, original works of all types. Applying this standard license to your own work will ensure your right to make your work freely and openly available. For queries about the license, please contact ann.geophys@ingv.it.
-
-                How to Cite
-
-(1)
-Karcz, I. Implications of Some Early Jewish Sources for Estimates of Earthquake Hazardin the Holy Land. Ann. Geophys. 2004, 47 (2-3). https://doi.org/10.4401/ag-3334.
-
-                    More Citation Formats
-
-                                ABNT
-
-                                ACM
-
-                                ACS
-
-                                AMA
-
-                                APA
-
-                                Chicago
-
-                                Harvard
-
-                                IEEE
-
-                                MLA
-
-                                Turabian
-
-                                Vancouver
-
-                        Download Citation
-
-                                Endnote/Zotero/Mendeley (RIS)
-
-                                BibTeX
-
-References
-
-FEATURED NEWS
-
-FEATURED NEWS
-
-Impact Factor 2026: 1.65 (+37.5% vs 2025).
-A significant milestone highlighting the journal growing international visibility and scientific impact.
-Read the full news →
-
-Announcements
-
-							SPECIAL ISSUE DEADLINE EXTENSION - Call for papers on Multi-Scale Geochemical Monitoring of Active Volcanism: Integrating Satellite, Remote, and In Situ Methodologies for Volcanic and Environmental Assessment
-
-						March 23, 2026
-
-We are pleased to inform authors that the submission...
-
-						Show all announcements ...
-
-issn
-
-ISSN
-
-1593-5213 (Print) / 2037-416X (Online)
-
-diamond
-
-DIAMOND OPEN ACCESS
-
-Impact Factor
-
-IMPACT FACTOR
-
-1.6
-
-facebook
-
-SOCIAL
-
-Facebook
-
- Twitter
-
- Linkedin
-
-qrcode
-
-QR CODE
-
-editorial
-
-forauthors
-
-FOR AUTHORS
-
-    Submission guidelines
-
-    Contact the Journal
-
-    Submit manuscript
-
-forreviewer
-
-FOR REVIEWERS AND ASSOCIATE EDITOR
-
-   Reviewer guidelines
-
-   Login as Reviewer
-
-login_register
-
-MANAGEMENT
-
-Login
-
-Register
-
-		Make a Submission
-
-			Make a Submission
-
-PRIVACY POLICY    CONTACT
-
- (C) 2026 INGV - All rights reserved. Via di Vigna Murata, 605 - 00143 Roma, Italy
-
+Key words historical seismology – paleoseismolo-              two millennia the country was under the yoke
+gy – Israel – Dead Sea Rift                                   of different regional powers, cataloguers tended
+                                                              to rely on chronicles and documents written in
+                                                              distant administrative and cultural centers of
+1. Introduction                                               the day, and extrapolated earthquakes reported
+                                                              to have occurred there to Palestine and Jordan.
+    Catalogues of historical earthquakes in the               Such decisions to extend the spread of damage
+Holy Land include numerous events with in-                    to the Holy Land, often relied on a tenuous cor-
+flated implied damaging intensities, which re-                relation to some supposed seismic literary mo-
+flect decisions of the cataloguers rather than ac-            tive in one of the texts written locally, or on a
+tual felt reports. Locally written historiographic            more sweeping assumption that the original
+materials are scarce and earthquake echoes in                 chroniclers simply did not bother to record
+religious, homiletic and literary texts are diffi-            damage sustained by a distant and strategically
+cult to identify and elucidate. Since in the past             and economically depressed province. More-
+                                                              over, some early cataloguers (a detailed list is
+                                                              given in table I) seem to have viewed the Dead
+                                                              Sea Rift (DSR) and the Anatolian Fault Zone as
+    Mailing address: Dr. Iaakov Karcz, 14 Shay Agnon,         an interconnected seismogenic system that af-
+Jerusalem 93589, Israel; e-mail: karcz@zahav.net.il           fects the whole Near East simultaneously.
+
+                                                        759
+                                                    Iaakov Karcz
+
+
+
+Table I. Catalogues and lists of historical earthquakes in the Holy Land.
+
+             Author                    Type          Location             Sources                 Comments
+Perrey (1850)                           Cat            Lev               Prim-Sec               4th-19th cent.
+Tholozan (1879)                          L               S                  Ns                   Fragmentary
+
+Diener (1886)                            L              Le                  Ns                   Fragmentary
+Arvanitakis (1904)                      Cat             Isr              Sec-Prim
+Blankenhorn (1905)                       L              Isr                 Ns
+Willis (1928, 1933)                     Cat             Isr                 Catl
+Sieberg (1932)                          Cat            Isr, S               Nss
+Shalem (1949, 1951)                                     Isr           Prim-Sec-Catl              Fragmentary
+Amiran (1950-1951)                      Cat             Isr           Catl-Sec-Prim
+Grumel (1958)                            L               B               Prim-Sec               4th-15th cent.
+Plassard and Kogoj (1962)               Cat            Le, S                Cat
+Ben Menahem (1979)                      Cat         Isr, Le, S,     Catl-Sec-Prim-Arch
+Taher (1979)                            Cat             A                Prim-Sec               6th-18th cent.
+Poirier and Taher (1980)                 L               S                  Ns
+Al Hakeem (1987)                         L               S                  Ns
+Alsinawi (1988)                          L              A                   Ns
+Degg and Doorenkamp (1989)              Cat             Isr                 Catl
+Ghawanmeh (1992)                         L             Lev               Catl-Sec               8th-18th cent.
+al Tarazi (1992)                         L              J                  Ns
+
+Cat – catalog; L – list; Loc – area of prime interest to the author; Isr – Israel, J – Jordan; S – Syria; Le – Lebanon;
+Lev – Levant (Is, Jor, Le, Sy); A – Arabia; B – Byzantine; Catl – catalog data; Sec – secondary sources; Prim –
+primary sources; Arch – archeological data; Nss – no specific sources; Ns – no sources.
+
+
+
+
+    This paper focuses on the possible implica-                 B.C. Israel catalog entries; the earthquake of 64
+tions of some of the locally written ancient lo-                B.C. illustrates the circuitous way in which a
+cal Jewish sources in study of the Holy Land                    distant earthquake not only was extended to
+earthquakes. The contents are presented in a se-                Jerusalem, but also how on strength of palaeo-
+ries of test cases, which examine the use and                   seismic correlations its epicenter was moved
+misuse of such documents. In each case a very                   from North Syria-Anatolia to the Dead Sea; 31
+brief explanation of the character, advantages                  B.C. earthquake presents the problem of geo-
+and shortcomings of each document or group of                   graphic perception of spread of damage, and
+documents is given. The issue of 92 B.C. earth-                 draws attention to the self enhancement of cat-
+quake shows how perception of seismic, his-                     astrophic image through adhesion of supposed
+toric and geographic elements in ancient texts                  literary earthquake motives; and 747-749 A.D.
+affects the implied damaging intensity esti-                    earthquakes illustrate the pitfalls of fusion of
+mates for the 198/154/ca.140/130 and the 92                     felt reports dated in different time-counting
+
+                                                         760
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+frames into a single earthquake, which then                   mic activity was documented also along DSR’s
+grows through adhesion of reports of supposed                 NW aligned subsidiary fault zones, particularly
+archaeoseismic damage.                                        the Carmel-Tirza zone, and some low magni-
+                                                              tude events were identified also farther away
+                                                              along the Syrian Arc, suggesting that some re-
+2. Seismotectonic framework                                   activation of tectonic elements may have taken
+                                                              place in the past.
+     Israel lies near the junction of the Eurasian,               The early attempts to quantify the regional
+African and Arabian Plates (fig. 1). Its tectonic             seismic regime relied on scanty instrumental
+pattern is dominated on the south by the Arabo-               data, on some 20th century macroseismic ob-
+Nubian craton, on the west by the Syrian Arc - a              servations, on historic earthquake catalogues
+sigmoidal belt of Late Cretaceous-Neogene                     and on the general distribution of the main tec-
+folds and faults that extends from the Sinai                  tonic elements. Arie (1967) attributed most of
+Peninsula up to Palmyra in Syria – and on the
+east by the Dead Sea Rift (DSR) – a more than
+1400 km long complex transform fault along
+which the Arabian Plate slips northwards rela-
+tive to the Sinai-Israel part of the African Plate
+at a mean long term rate of 5 to 10 mm/yr (for
+references: e.g., Garfunkel, 2001; Garfunkel et
+al., 1981; Salamon et al., 2003; Westway, 2003).
+Rather than a sensibly straight continuous dislo-
+cation, the DSR consists of colinear and offset
+segments, and shows local restraining and re-
+leasing bends and stepovers with associated
+transpressive blocks and transtensional pull-
+apart basins. Most studies assume a post Eocene
+interplate displacement of 105 km, that occurred
+in two stages: first a continuous northerly move-
+ment of 75 km, and then, due to a change in pole
+of plate motions 4 myr ago, a diagonal extension
+with normal faulting and ultimate development
+of rift morphology. Obviously, ongoing motion
+along DSR and the convergence of Eurasia and
+Africa would require rotations, displacements,
+and space readjustments also across the Syrian
+Arc structures. Geological evidence of such dif-
+ferential vertical and tilting movements was
+found but the inferred rates and sense of motion
+differ widely. While distribution of recent seis-
+micity (fig. 2) confirms that DSR is the major
+seismogenic element in the region, activity
+along individual segments is uneven with a
+strong clustering along the Gulf of Elat and
+Dead Sea segments, and conspicuous quies-
+cence along the intervening Arava and Jordan
+Valley segments. It appears that the segmenta-
+tion would lead mainly to moderate magnitude
+earthquakes say ML = 5.5-6.5, with intensities                Fig. 1. Tectonic sketch map (after Picard, 1943;
+determined by depth and site conditions. Seis-                Bartov, 1990).
+
+                                                        761
+                                                Iaakov Karcz
+
+
+
+                                                            the significant regional activity to DSR main
+                                                            fault, discounting the NE-SW trends and the
+                                                            NW-SE trends suggested respectively by the
+                                                            isoseismal maps of Sieberg (1932) and Shalem
+                                                            (1951), and suggested magnitude-frequency
+                                                            and magnitude-intensity relationships logN =
+                                                            = 4.9 − 0.8 M and M = 0.5 Imax + 1.8, with a re-
+                                                            currence interval of about 40 year for M = 6 and
+                                                            220 year for M = 7. Ben-Menahem et al.
+                                                            (1976), and Ben-Menahem (1979, 1991) used
+                                                            the historic catalogue data base far more exten-
+                                                            sively, estimating magnitudes and locations
+                                                            along the main seismotectonic zones of the East
+                                                            Mediterranean region. A uniform b = 0.86, and
+                                                            a values of 3.35 for the Mediterranean offshore
+                                                            zone, (with Mmax = 7.2 every 2600 year), 3.1 for
+                                                            the Israel inland segment of DSR (with Mmax =
+                                                            = 7.3 every 1500 year), and 3.75 for the Syrian
+                                                            segment (Mmax = 8 every 1400 year) have been
+                                                            calculated. With small modifications these val-
+                                                            ues were accepted also for Jordan (Abou Kara-
+                                                            ki, 1987; Kovach, 1989; Kovach et al., 1990).
+                                                            Following two decades of countrywide seismo-
+                                                            logical monitoring and a more detailed structur-
+                                                            al analysis with emphasis on prospective post-
+                                                            Pliocene faults, Shapira and Shamir (1994),
+                                                            Shamir et al. (2001), and Shapira and Hofstetter
+                                                            (2002) proposed more detailed frequency-mag-
+                                                            nitude relationships. They identified 17 seismo-
+                                                            tectonic zones in Israel and 7 around it, for
+                                                            which they obtained a uniform b = 0.96, except
+                                                            for 1.07 for Suez, and 0.98 for Cyprus, and Mmax
+                                                            values of 7.5-7.75 for DSR, 6.5 for the Carmel-
+                                                            Tirza fault and for the offshore zone and 5.5-6
+                                                            for a greater part of the Syrian Arc structures.
+                                                            The catalogue is taken to be complete for
+                                                            M = 6.5 at least since 100 A.D., and for M = 6
+                                                            since 1000 A.D.. The estimated recurrence in-
+                                                            tervals for the part of the DSR across the dense-
+                                                            ly populated part of Israel and Jordan, between
+                                                            south Lebanon to the Dead Sea, are 75 and 960
+                                                            years respectively for M = 6 and M = 7. Already
+                                                            North (1974, 1977) and Ben-Menahem et al.
+                                                            (1976) drew attention to the apparent difference
+                                                            between the total slip of 5-10 mm/yr along the
+                                                            DSR, which was inferred from long term geo-
+                                                            logical evidence, and the seismic slip of 1-3
+Fig. 2. Seismicity of Israel from 1984 to 2002 (Is-         mm/yr computed from the short term instru-
+rael Geophysical Institute, Seismological Division,         mental and historical data. The deficit was at-
+2003).                                                      tributed to some form of aseismic creep, but so
+
+                                                      762
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+far a decade of geodetic monitoring of the                    triplets in the newer ones, while at the same
+Galilee-Golan segment of the DSR indicated                    time different events were fused merely on the
+that no consistent motion in excess of 1mm/y                  strength of assumed proximity in time or loca-
+could have taken place. An obvious alternate ex-              tion. Transmission of evidence through the cat-
+planation was that the available historic record              alogues is uneven, and changes in dates, loca-
+is too short to include large magnitude earth-                tion and extent of damage or even elimination
+quakes (or clusters of earthquakes) with long re-             of events are left unexplained. Such disregard
+currence interval. Whatever the mechanism, the                of historical methodology and inadequate re-
+very idea of slip deficit seems to have led to in-            trieval and analysis of primary sources, resem-
+tuitive overestimates of earthquake magnitude,                ble the historical seismology of Europe half a
+and to a tendency to assign seismic origin to                 century ago. In our case, however, shortcom-
+signs of abandonment, damage, and construc-                   ings of the data base are treated as an unavoid-
+tion asymmetry at archaeological sites, as well               able evil, since the century-long earthquake cat-
+as to features of soft sediment deformation and               aloguing is assumed to have exhausted all pos-
+mass movement. It appears however, that some                  sible sources of information. Consequently, too
+of the updated plate tectonics models suggest                 often this residual uncertainty provides a li-
+that the slip deficit is much smaller, with a total           cense to tailor historic magnitudes and epicen-
+slip of only 4 mm/yr. Even more extreme in this               ter locations (including import of distant earth-
+context are the conclusions of Sneh (1996) that               quakes), to the chosen tectonic concept, with
+the distribution of Neogene formations younger                the result that vague statements on the «overall
+than 16 myr across the DSR is continuous and                  historic seismicity» are invoked in support of
+shows no lateral offset, and of Horowitz (2001)               contradictory claims, such as a threefold deficit
+who discounts the concept of the 105 km inter-                of seismic slip on one hand, and a close fit be-
+plate displacement altogether.                                tween the total and the seismic slip on the oth-
+    In the past twenty years studies of tectonics             er. Catalogue data are used also in paleoseismic
+and seismicity of the Eastern Mediterranean and               correlations to confirm the earthquake origin of
+the DSR, too numerous to list here, attempted to              alleged sedimentary «seismites» (e.g., Ken-Tor
+incorporate past earthquakes in analysis of plate             et al., 2000; Migowski et al., 2004), yet the
+kinematics and in identification and characteri-              choice of «seismite» producing events from the
+zation of active structures. Unfortunately, unlike            catalogues appears to be guided by frequency
+the rapid progress in collection and processing               and sequence of the seismites to be confirmed.
+of instrumental data, in modeling of plate mo-
+tions, and in field studies of individual faults,
+historic input changed very little and still relies           3. Local historical sources
+on the collective wisdom of largely unverified
+and incestuous earthquake catalogues (table I).                   Most of the catalogued information about
+In the 20th century, more than two dozens of                  historical earthquakes in the Holy Land comes
+earthquake catalogues and lists were published,               from chronicles and texts written outside. This is
+creating an impression of a complete and reli-                not surprising, since for two millennia (except
+able data base, which was repeatedly re-                      perhaps for the Crusader Kingdom), this area
+searched and verified. Rather than retrieve and               was not autonomous and was governed from dis-
+cross verify the primary historical, literary and             tant capitals be they Roman, Byzantine, Um-
+sacred sources, however, each cataloguer relied               mayad, Abbaside, Mamluk or Ottoman (table
+largely on his predecessors and on assorted sec-              II). Shifting political fortunes, invasions and
+ondary sources. Thus, fragile or erroneous evi-               conquests, and internal clashes driven by differ-
+dence propagated from one catalogue to anoth-                 ences in religion, traditions, and political alle-
+er, gaining stature and credibility. In some cas-             giance, arrested the economic and cultural de-
+es indiscriminate copying of slightly different               velopment for extensive periods. In the major
+descriptions of the same event from different                 centers of the day, where chronicles were written
+older catalogues led to doublets and even                     and archives were kept, the attitude to the Holy
+
+                                                        763
+                                                     Iaakov Karcz
+
+
+
+    Table II. Dominant regimes in the Holy Land.                 set it should be clear that these materials differ
+                                                                 in character from the Roman, Byzantine and
+    Hellenistic period                                           Moslem chronicles. The unhappy political his-
+    Early hellenistic            332 B.C.-167 B.C.               tory of the Jewish people after the destruction of
+                                                                 the Second Temple in 70 A.D. by the Romans
+    Late hellenistic              167 B.C.-37 B.C.               and the end of independent statehood, discour-
+    Roman and Byzantine periods                                  aged the writing of historical chronicles. Except
+                                                                 for a few works, such as those of Josephus
+    Early Roman                   37 B.C.-132 A.D.               Flavius (the 1st century A.D. Jewish-Roman
+    Late Roman                   132 A.D.-324 A.D.               historian), the Books of Maccabees (a part of the
+                                                                 Roman Catholic canon), and Megillat Taanit (a
+    Byzantine                    324 A.D.-638 A.D.
+                                                                 pre-Talmudic, 1st century A.D. or earlier, text
+    Early Arab to Ottoman periods                                with a later interpretative scholion), the Jewish
+    Umayyad                           638-750                    writers stressed the universal theological, legal
+                                                                 and moral aspects of contemporary happenings,
+    Abbasside                         750-1099                   with little attention to factual details. Only
+    Crusader / Ayyubid               1099-1291                   sketchy chronological data are available about
+                                                                 even the leading figures, whose writings and
+    Late Arab                        1291-1516                   oral rulings were embedded in the Talmud and
+    Ottoman                          1516-1917                   in post-Talmudic literature and molded the fu-
+                                                                 ture spiritual life of the nation. Similarly
+                                                                 shrouded in uncertainty is history of the early
+                                                                 Jewish poetry and chronology of the leadings
+    Land and Jerusalem was marked by a separation                poets. Because of emphasis on argumentative,
+    between the heavenly and the earthly and mun-                legal and philosophical approach, and the con-
+    dane. Places sacred whether to Jews, Christians              volute language full of biblical allusions and
+    or Moslems, were revered and extolled in mys-                metaphors, it is often hard to perceive whether
+    tic religious terms, but except for drastic politi-          the text refers to a real event. The Scriptures as
+    cal changes and acts of persecution, daily events,           well as the later homiletic and poetic works fre-
+    were given little weight. The chroniclers may                quently use earthquake motives as a descriptive
+y   have been lax in verifying possibly distorted or             tool in depiction of divine wrath and retribution,
+    exaggerated news from afar, but also may have                in extolling heavenly and worldly might, in
+    not bothered to report a destructive earthquake              theophanies and in apocalyptic visions. Eluci-
+    in this depressed area, either because it was                dating the true intention of the writers is com-
+    overshadowed by damage across the more im-                   plicated further by the lack of punctuation and
+    portant parts of the empire, or because it was of            phonological signs, which introduce further am-
+    little interest to the writers and readers alike. On         biguities in perception of texts written in the 22
+    the latter assumption the modern cataloguers ex-             letter vowel-less alphabet. Usually, the later in-
+    trapolated to Israel and Jordan the impact of                terpreters preferred to assume that the text re-
+    earthquakes that hit the Levant as well as Turkey,           flects a true earthquake since this provided a
+    Armenia and Greece. Since the implied damag-                 possible chronological indicator of the time of
+    ing and destructive intensities not only inflate             the author. First, the broad time frame of the text
+    the local macroseismic record, but also increase             was inferred from characteristics of language
+    the radius of damage (and thus also the inferred             and style and then the suspect earthquake echo
+    magnitudes) to vast proportions, verification                was attributed to the most prominent or closest
+    based on materials written locally or focused                shock reported in that time range by one of the
+    specifically on the Holy Land is called for.                 local or regional catalogues. Once made, such
+         One little explored group of such sources,              tenuous correlations often bounced back into
+    which includes the Jewish and Samaritan texts                seismological literature as a confirmed fact, in-
+    forms the main topic of this paper. From the out-            dicative of local earthquake intensity.
+
+                                                           764
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+    Caution is needed when attempting to iden-                Contracts synonymous with Seleucid Era
+tify an earthquake by checking whether a date                 (Babylonian count starting Spring 311 and
+given or implied in an ancient Jewish text falls              Macedonian count starting Autumn 312 B.C.)
+on the day and month date of an earthquake in-                and a continuous sabbatical count, which marks
+dicated in one of the occidental or oriental texts            a fallow year every seventh year. Though osten-
+which use one of a myriad of calendars and eras               sibly the starting points are well defined, the
+followed by other communities of the region                   texts indicate some deviations, whether as a re-
+(e.g., Grumel, 1958; Bickerman, 1968; Samuel,                 sult of confusion between the Eras of Adam and
+1972; Meimaris, 1992). The Jewish lunisolar                   Creation or because of different perception of
+calendar (months according to the moon and the                the month on which reckoning starts, Nissan in
+years according to the sun, thus ensuring that                the Spring, or Tishri in the Autumn (so that
+festivals celebrated on fixed dates fall also in              even the Hebrew date for Destruction was as-
+fixed seasons) is based on a 19 years cycle, with             signed alternately to 3828, 3829 and 3830 of
+12 years of 12 months and 7 leap years of 13                  Creation Era). In Palestine, the Era of Contracts
+months (for bibliography: e.g., Mahler, 1916;                 starts in Autumn 312 B.C., AM 3449 (for refer-
+Akavia, 1953, 1976; Frank, 1956; Finegan,                     ences: e.g., Meimaris, 1992; Di Segni, 1997),
+1998; Stern, 2003). In early times all calendar               however some texts (including 1 Maccabees)
+decisions (start of a new month, festivals, inter-            follow the Babylonian system and start the
+calation of the 13th month to compensate for the              count in Spring 311 B.C., while Frank (1956)
+difference between the lunar and solar years)                 reports also evidence for start in Autumn 313
+were in the hands of the religious leadership                 B.C.. Even the count of sabbatical years, may
+(the Sanhedrin) and were based not only on ob-                have not been followed uniformly (for refer-
+servation of the moon and the sun and on a se-                ences: e.g., Wacholder, 1973; Stern, 2003) in
+cret system of calculations, but mainly on the                spite of its far reaching economic and social im-
+ripeness of the crops. When growth was arrest-                plications. Thus detailed calibration of a first
+ed by unfavorable conditions it was common to                 millennium Hebrew year date, becomes mean-
+intercalate another month, to delay the spring                ingful only when three such independent
+and the celebration of Passover. The order of in-             chronological indications are given.
+tercalations therefore was not fixed as it is now                  Examples of analysis and use of the early He-
+(years 3, 6, 8, 11, 14, 19 in each 19 years cycle)            brew sources outlined below include the pre-1st
+and indeed according to one of the traditions,                century A.D. quasihistorical Scroll of Fasts and
+once Rabbi Akiva (1st century A.D.) had to in-                its later scholia and their implications in analysis
+tercalate three years in succession. While the                of the 198/∼ 140/92 B.C. earthquake reports; the
+general calendar rules were published by Rabbi                1st century A.D. historical works of Josephus
+Hillel II in mid-4th century, order of intercala-             Flavius and pre-6th Talmudic tractates for the 64
+tion was not unified until the final sealing of the           and 31 B.C. earthquakes and a liturgical poem, a
+calendar practices in the times of Rabbi Saadia               10th century prayer book and two Samaritan
+Hagaon about 920-930 A.D. Thus, attempts to                   chronicles for the 747-749 A.D. earthquakes. A
+harmonize pre-10th century felt reports on                    voluminous literature developed around each
+strength of coincidence of the day and month                  such text or group of texts. To keep the bibliog-
+dates given in Jewish and Christian sources may               raphy within reasonable limits only a few works
+be misleading, if based on current conversion                 are cited in each case, usually those with the most
+tables, such as those of Akavia (1976).                       extensive list of references on the topic.
+    Further chronological indicators used in
+Jewish texts include the Era of Adam, which
+starts in AM 3760 with creation of Adam, Cre-                 4. 92 B.C.
+ation Era which starts a year before the Era of
+Adam in AM 3761, Destruction Era that starts                     This event illustrates the role of locally
+from the destruction of the Second Temple by                  composed Jewish texts in analysis of several
+the Romans in Summer 70 A.D., the Era of                      2nd century B.C. earthquakes that were import-
+
+                                                        765
+                                               Iaakov Karcz
+
+
+
+ed into the Israeli catalogues from elsewhere in           were observed only for a few centuries, the text
+Eastern Mediterranean.                                     was transmitted and preserved in the Jewish
+    Catalogues used in assessment of seismic               canon. Scroll of Fasts includes the Scroll
+hazards in Israel (e.g., Ben-Menahem, 1979,                (Megilla), which is very brief (since at the time
+1991; Degg and Doorenkamp,1989; Amiran et                  of writing the commemorated events were still
+al., 1994), list a major earthquake (ML = 7.1)             fresh in memory) and three versions of later ad-
+and a tsunami, that caused extensive damage in             denda (Gemara = scholion), named after the
+Syria, Israel, Cyprus and Egypt in 92 B.C..                three main surviving manuscripts, which ex-
+They rely on entries in the older catalogues of            plain the reasons for rejoicing on the listed
+Willis (1928, 1933) and of Plassard and Kogoj              dates. This elucidatory process, continued
+(1962). The former copies Mallet (1853), who               through the Talmudic period (2nd-6th century)
+in turn copies von Hoff’s (1840) undocumented              until the late Middle Ages, but the source, ve-
+«Erdbeben in Syrien und auf der Insel Cypern»              racity and sense of many of the addenda, which
+and the latter follow Sieberg’s (1932) undocu-             were appended at different times and by differ-
+mented «In Syrien ein schweres erdbeben das                ent persons, are not always clear. While many
+bis Agypten gefult wurde». The third source is             of the explanations are historically correct and
+an entry in the pre-70 A.D. Megillat Taanit                reflect information transmitted orally or gath-
+(Scroll of Fasts) retrieved by Shalem (1956).              ered from unspecified textual sources, others
+Classical sources that report an earthquake that           raise doubts as to the competence of the com-
+hit Apamea in Phrygia about that time, do not              mentator. Scribal errors are common, particu-
+mention any effects in Egypt, Israel, Levant nor           larly in copying of geographic and personal
+Cyprus (e.g., Guidoboni, et al., 1994; Am-                 names. The problem is particularly vexing
+braseys and White, 1996, 1997). Admittedly, at             since the text survived only in few late copies
+first Ambraseys et al. (1994) inferred from a              which differ conspicuously from each other.
+Greek inscription at Magdolum that an earth-               The three principal versions known are the Par-
+quake hit Egypt between 97 and 94 B.C., how-               ma manuscript (copied in the 14th century), the
+ever it turned out that «seismos» in the inscrip-          Oxford manuscript (copied in 15th century)
+tion probably refers to «extortion» (Mazza,                and the Common («Vulgata») version, which is
+1998) or «disturbance» (Ambraseys and White,               the latest. The Parma and Oxford manuscripts
+1996). Therefore, the Scroll of Fasts remains              differ in all bar four interpreted events and must
+the only primary record of damaging intensities            have evolved separately, the former from the
+and tsunami in this region and thus merits fur-            Babylonian and the latter from the Jerusalem
+ther attention.                                            Talmud. The Common version, which appears
+                                                           to combine the former two, adds some further
+                                                           details of unknown provenance. Evidently, this
+4.1. Evidence of Megillat Taanit (Scroll of Fasts)         blending of information was not accomplished
+                                                           in one go but represents a process recently
+    This text, written before the destruction of           shown to have started before the 11th century
+the Second Temple in 70 A.D., is a summary of              and to have ended in 1519 A.D. when first
+earlier oral traditions which lists 35 day and             printed version was published in Mantova
+month dates of joyous events in early Jewish               (Noam, 2003). The scholia represent therefore
+history, mainly during the Hasmonean period                an aggregate of additions appended at different
+(167 B.C.-37 B.C.), on which mourning and                  times by different editors and must be treated
+fasts were prohibited (for references: Noam,               with caution.
+2003; for non-Hebrew text: e.g., Grossberg,                    The relevant parts of the entry for the 17th of
+1905; Zeitlin, 1922; Lichtenstein, 1931). Em-              the month Adar (the 33rd entry), in the Scroll
+phasis is on round the year observance and not             and in the three versions of the scholion are pre-
+on historiography, so that events are listed not           sented in table III in literal unedited translation
+in a chronological order but by month and day              (even if the English text is unwieldy) indicating
+on which they happened. Though these rulings               where a word may have two meanings. The
+
+                                                     766
+             Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+Table III. Comparison between the original text of the «Scroll of Fast» and the three versions of the scholion
+to the 33rd entry.
+
+      Scroll of Fast           «Parma» scholion            «Oxford» scholion               «Common» scholion
+«... on the 17th the na-    «... and there was a re-     «... and there was sal-      «... and when Janaeus came
+tives attacked the rem-     lease since the natives      vation when king             down to kill the scribes they
+nant of scribes in the      wanted to kill the           Janaeus saw killed           escaped from him and went to
+country of Belikos and      scribes of Israel and        Bukinos and Bukius           Syria and stayed in country of
+Beit Zabdai and a sal-      they went to Beit            his brother and es-          Koselikos and the gentiles
+vation came to the          Zabadi and sat there ...     caped from him and           there rose to kill them and they
+House of Israel».           and the day they es-         went to Syria and in         «heziu» them a great «zia»
+                            caped was made into a        the country of Blikus        [shocked them a great shock,
+                            holiday».                    all natives gathered to      scared them great scare] and
+                                                         kill them and He [the        they struck them a great blow
+                                                         Almighty] sent onto          and left some survivors and
+                                                         them a great «raash»         they went to Bet Zabadi ...
+                                                         [earthquake, clamor]         Rabbi Hidka says the day the
+                                                         and there was a great        natives wanted to kill the
+                                                         blow amongst them».          scribes of Israel the sea up-
+                                                                                      welled and destroyed a third in
+                                                                                      the settled land».
+
+
+
+
+Scroll and the Parma version do not mention                    non-Judaic chronicles and texts. Thus details of
+earthquake nor inundation, Oxford version may                  location and time of the 17th Adar events are
+refer to an earthquake and the Common version                  identified first and then are compared with the
+to an earthquake and a tsunami or inundation.                  available earthquake records.
+    Though the word «raash» may stand also                         The consensus is that the misspelled location
+for «clamor» or «noise», the Oxford version                    names Belikos, Belikot (Scroll), Chalbos (Par-
+seems to indicate that 17th Adar commemorates                  ma), Cholbos, Chalikus (Oxford) Coselicos and
+the rescue of scribes (sages) by a God sent dis-               Calicos (Common) as well as Beit Zabdin
+aster. The Common version, derived from the                    (Scroll), Beit Zabdai (Parma), Beit Zabadi (Ox-
+Parma and Oxford texts, is more equivocal. The                 ford and Common), stand respectively for Chal-
+word «zia» («earthquake», «shock» but also                     cis and Zabadea in Lebanon-Syria (for refer-
+«scare» or «tumult») is used to describe the                   ences, e.g., Hampel, 1976; Noam, 2003) (fig. 3).
+blow dealt to the scribes and the fortuitous es-                   Of the many localities in antiquity named
+cape of survivors from tumult of attack without                Chalcis two were in Syria. Chalcis sub
+invoking any cataclysmic divine intervention.                  Libanum (thereafter Chalcis sL), present Anjar,
+On the other hand, this version adds a report by               Ayn al Jarr, was in the Beqaa in Lebanon, about
+Rabbi Hidka (one of the 2nd century A.D.                       10 km SE of present Baalbek, near Zabadea, a
+sages) of a destructive inundation at the time                 narrow plain with present Zabadani, 25 km
+«when the natives rose to kill the sages», im-                 NNW of Damascus and ancient Kaprazabadion
+plying that it interfered with the attack.                     - present Qafr Zabad, 25 km SW of Chalcis sL
+    The Oxford and the Common texts either                     (Dussaud, 1927; Millar, 1987). It seems less
+reflect an otherwise unknown earthquake and                    probable, that the texts refer to Chalcis ad
+tsunami reported in now extinct local traditions,              Belum (thereafter Chalcis aB), present Hadir
+or present echoes of events already recorded in                and Kinnisrin in north Syria, less than 100 km
+
+                                                         767
+                                               Iaakov Karcz
+
+
+
+
+Fig. 3. Orientation map for the 198-92 B.C. earthquakes.
+
+
+
+SE of Antioch (e.g., Pauly and Wissowa, 1899,              day interpreter to blame him also for the mis-
+iii, c. 2078; Grainger, 1990, 1997; Barrington             fortunes of the «remnant of scribes». According
+Atlas, 2000). None of localities with names                to this interpretation, the term refers to sur-
+akin to Zabadea (Zebed, Zebadi on the Orontes              vivors from oppression and slaughter that fol-
+and Zabboude) near Chalkis aB appears to have              lowed one of the political upheavals in the 2nd
+a source in antiquity (Doussaud, 1927). Admit-             century B.C. Levant, when segments of the
+tedly, Chalkis sL, Chalkis aB and Zabadea are              multicultural population were paying heavy
+away from the Levant coasts, but Rabbi Hidka’s             price for shifts in political fortunes and short-
+report may imply only that the news of a cata-             lived alliances. Indeed, in the Oxford version
+strophic inundation along the littoral diverted            the reference to Janaeus seems to be garbled
+the attackers.                                             and inserted out of context and «Bukius and
+     Judaic scholars suggested two possible time           Bukinos» are regarded as a colloquialism rather
+frames for the events of 17th Adar in the Oxford           than real persons (Efron, 1987). Instead, the
+and the Common versions. One follows the ref-              17th Adar salvation of the scribes is thought to
+erences to King Alexander Janaeus (103-76                  have taken place during the victorious cam-
+B.C.), whose persecution of Pharisee opponents             paign of Jonathan Maccabaeus (160-142 B.C.)
+led to their flight to Syria (Josephus, Wars               against Demetrius Nicator and then against the
+1.4.6: Thackeray, 1976). The second, denies                Zabadeans: «Jonathan pursued them, but he did
+that the reference to Janaeus has any historical           not overtake them, for they had crossed the
+significance and assumes that the widely de-               Eleutherus river, so Jonathan turned aside
+tested cruelty of the king (Josephus, Antiquities          against the Arabs who are called Zabadeans and
+13.13.5; 13.14.2: Marcus, 1976; Josephus,                  he crushed them and plundered them». (1 Mac-
+Wars, 1.4.3-6: Thackeray, 1976), led the later             cabees, 12,30-31).
+
+                                                    768
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+4.2. Evidence of classical sources                            moderate strength». Since the shock, amongst
+                                                              other violent occurrences, was described to-
+     Classical sources report earthquakes during              gether with the famed emergence of the island
+the reign of both kings. Janaeus’s persecution                of Hiera in 198 B.C., the two were assumed to
+of his religious opponents and their flight to                be concurrent. Strabo’s text, however, is a dis-
+Syria agree roughly with the ca. 90 B.C. date                 course on unusual natural phenomena, rather
+estimated by Guidoboni et al. (1994), and Am-                 than a report of interrelated contemporaneous
+braseys and White, (1996, 1997) for earth-                    events (cf. Kidd, 1988, 1999; Ambraseys and
+quakes that destroyed Apamea in Phrygia                       White, 1996). Indeed, both 1st century A.D.
+(Apamea Kibotos, present Kelenai on the Me-                   Seneca (Nat.Quest. 6.24.6: Corcoran, 1972)
+ander River in Turkey). According to                          and 1st century B.C. Lucretius (De Rerum
+Athenaeus’s extract from 1st century Nicolaus                 Natura, 6,535-607: Bailey, 1947 and Rouse,
+of Damascus (Deipnosophists, 8.332: Gulick,                   1966) refer to the earthquake in Sidon, without
+1957), the earthquake was accompanied by                      mentioning Hiera and other marvels of nature.
+flooding, change of river courses, appearance                     Yet another account of an earthquake in
+and disappearance of lakes and ingression of                  Jonathan’s timeframe appears in 6th century
+sea waters, while Strabo (Geog., 12.8.18: Jones,              John Malalas (Chronicle 8.25: Jeffreys et al.,
+1917), tells of earthquake destruction of                     1986) who reports that in the days of Antiochus
+Apamea and the gift of Mithidrates Eupator to                 grandson of Grypos who ruled for nine years:
+rebuild it. Since Apamea Kibotos is a 100 km of               «Antiochia the Great suffered from ‘wrath of
+hilly country away from the coast, catastrophic               God’ in the 8th year of his reign in the time of
+river floods along Meander and Marsyas and                    Macedonians 152 years after the original build-
+changes in nearby lake levels are more likely                 ing of the wall by Seleucus Nicator at the 10th
+than a marine ingression. Floods were common                  hour on 21st of Peritios February. It was com-
+in this region and Schurer (1979) comments on                 pletely rebuilt as Dominos the chronicler has
+the Noah’s elements in the local lore and points              written. It was 122 years after the completion of
+out that the term Kibotos, was usually em-                    the walls and the whole city it suffered it was re-
+ployed for Noah’s arc.                                        built better». As Downey (1938, 1961, 1963)
+     During Jonathan’s reign, between Tyre and                pointed out, the dates are inconsistent. 152 years
+Ptolemais in Phoenicia a «wave from the ocean                 from the foundation of the city by Seleucius
+lifted itself to extraordinary height and dashed              Nicator in 300 B.C., indicates the year 148 B.C.,
+upon the shore engulfing all men and drowning                 but the only Antiochus who ruled for 9 years
+them...», event extracted from the now extinct                was Antiochus VII Sidetes (138 B.C. to 129
+works of Poseidonius by Athenaeus (Deip-                      B.C.) so that his 8th regnal year would have fall-
+nosophists, 8.332: Gulick, 1957) and by Strabo                en in 130 B.C. Having failed to reconcile the
+(Geog., 16,2.26: Jones, 1917). Since the event                dates and having found the reference to 122
+followed the battle between Diodotus Trypho                   years not indicative (different quarters of the
+(Grainger, 1997; Baldus, 1970) and the Seleucid               city were built and walled at different times,
+army, the date is constrained by the start of                 none on which corresponds to either of the two
+Trypho’s mutiny in 145/144 B.C. and his suicide               indicated dates), he attributed the confusion to
+in 138/137 B.C. Jonathan’s campaign against the               Malalas’s mistaken chronology of the Seleucid
+Zabadeans took place when he was still allied                 monarchs and suggested that the entry lumps to-
+with Trypho, probably in 143/142 B.C.                         gether at least two different earthquakes, one in
+     This same event may be responsible for 1st               148 B.C. and the other in 130 B.C. While
+century B.C. Poseidonius’s report of a disaster               Malalas often errs in reporting events much be-
+along the Levant littoral, transmitted by Strabo              fore his time (e.g., Jeffreys et al., 1986; Jeffreys,
+(Geog. I, 215: Jones, 1917): «city above Sidon                1990; Croke, 1990) and nothing is known about
+collapsed into the sea and nearly two thirds of               his source «Domninos the chronicler», an alter-
+Sidon itself was engulfed...and the shock ex-                 nate explanation downrated by Downey (1938)
+tended over whole of Syria though with only                   may be more reasonable. Up to the death of
+
+                                                        769
+                                               Iaakov Karcz
+
+
+
+Demetrius I Soter in 150 B.C. Malalas’s                    would be observed as a joyous day on which
+chronology of Seleucid rulers is parallel to that          fasting and mourning are prohibited. In fact one
+indicated by other sources. For the next 12                would expect just the opposite, i.e. a fast to
+years, however, the accounts differ and converge           memorize the shock and its woes. Thus the scho-
+again at the ascent of Antiochus VII Sidetes               lion should not be used to document any damag-
+(138-129 B.C.). Misinformed on rulers and on               ing earthquake intensities and tsunami damage
+events of this turbulent decade, Malalas assumes           in Israel, whether in ca. 90 B.C. or ca. 140 B.C.
+that the power was in the hands of one «Anti-              Festive commemoration, however, would make
+ochus, descendant of Grypus and son of Laodice             sense, if the earthquake affected a more distant
+and Aristhrates». It is not clear whom he had in           region in Syria, without harming the dilapidated
+mind, but since Antiochus Sidetes was the only             and oppressed Jewish communities there. Com-
+descendant of Grypus who ruled for nine years,             parison of the literary and historic characteristics
+Downey assumed that Malalas referred to him                of the Oxford and Common versions with de-
+and dated the earthquake to the 8th year of his            scriptions of earthquakes and possible tsunamis
+reign i.e. 130 B.C.. However, irrespective of              in chronicles and texts, tips the scales slightly in
+who ruled and for how long, the 8th year from              favor of King Jonathan’s period. So far no evi-
+the year of demise of Demetrius I Soter in 150             dence was found of impact of the ca. 90 B.C.
+B.C., a date on which all chroniclers agree, falls         Apamea Kibotos earthquake on the Egyptian-Is-
+in 141/142 B.C., in close agreement with the es-           raeli-Levant coastal cities, 750 km away. On the
+timated date of Jonathan’s campaign and events             other hand, the reported tidal wave between Tyre
+of 17th Adar in Megillat Taanith and the tidal             and Ptolemais, 75 km from Chalcis sL-Zabadea,
+wave at Ptolemais. The month and day dates,                the earthquake and submergence at nearby
+this of 21 Peritos in Malalas and that of 17th             Sidon and the earthquake at Antioch 250 km
+Adar in Megillat Taanit fall in the same season,           away all occurred during Jonathan’s reign, about
+very close to each other and whatever the inter-           mid 2nd century B.C.
+calation practices were, would have differed by                Though the time frame is the same and all
+five weeks at outmost. For example, had the cur-           affected localities lie along a narrow strip be-
+rent system been followed in the 150-140 B.C.              tween the littoral and the seismically active
+decade (which it definitely was not) the two               northern segment of DSR, attributing all reports
+dates would have coincided in 140 B.C. and                 to one single earthquake and, more important,
+would have differed only by 3 days in 146 B.C.             to one seismogenic element would run ahead of
+Though reduced from 18 years to 6, the incon-              the available evidence. Nevertheless, it is note-
+sistency between dates given by Malalas still              worthy that the recent paleoseismic study of the
+casts a shadow over this attempt to tie the Anti-          nearby Serghaya fault, along the northern re-
+och earthquake with the events at Chalkis-Zebe-            straining bend of DSR revealed indication of
+dani, Ptolemais and Sidon.                                 only one event in the age range of 170 B.C.-20
+                                                           A.D. (Gomez et al., 2003).
+
+4.3. Summary
+                                                           5. 64 B.C.
+    The uneven quality of textual evidence and
+obtuse presentation may of course reflect the                  This event presents a further example of
+confusion of the compilers of Megillat Tanit               earthquakes imported into the Israeli catalogues
+scholion as to the true nature of the 17th Adar            on flimsy evidence. In this case the damage to
+events and the possibility that their explanations         the Temple compound and city walls of
+are more inventive than informed, can not be ig-           Jerusalem, supposedly reported in the Talmud
+nored. Whatever the case however and whatever              projected an image of intensities high enough to
+the time frame chosen, the overall tenor of                locate the epicenter in the Dead Sea area.
+Megillat Taanit makes it most unlikely that a day              Ben-Menahem (1979, 1991) and Amiran et
+on which a severe earthquake hit the Holy Land             al. (1994) report serious earthquake damage in
+
+                                                     770
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+Jerusalem in 64 B.C., on the authority of previ-              White (1996, 1997), to 69 B.C. Yardley and
+ous cataloguers (Arvanitakis, 1904; Willis,                   Heckel (1997) warned however that Justinus of-
+1928; Sieberg, 1932; Amiran, 1950-1951 and                    ten misunderstood, confused and misdated
+Plassard and Kogoj, 1962), as well as of the Tal-             events and characters in the original text of
+mud. All these catalogues related the damage to               Pompeius Trogos. Damaged locations are not
+a devastating earthquake of ML = 7.7 in North                 specified, but 5th century A.D. Orosius (Hist.
+Syria and Antioch (fig. 4). Since this earthquake             6.5.1: Deferrari, 1964) writing more than four
+was reviewed in detail by Guidoboni et al.                    centuries later, mentions an earthquake that
+(1994) and by Traina (1995) and was examined                  took place while Mithridates was attending a
+also by Ambraseys and White (1996, 1997), on-                 festival of Ceres in the Bosphorus (presumably
+ly a brief summary is presented here. Their                   the Cimmerian Bosphorus at Sea of Azov and
+analysis builds on the statement of Justinus, 2nd             Crimea), but does not say whether the king ex-
+century A.D., (Epit. Phill. Hist. 40.2.1: Seel,               perienced the earthquake or just heard about it
+1985) that a devastating earthquake hit Syria to-             (Guidoboni et al., 1994). The southward extent
+wards the end of the rule of Tigranes the Great,              of damage is equally uncertain. Though Malalas
+causing widespread destruction and leaving 170                (Chronicle 8.30: Jeffreys et al., 1986), reports
+thousand dead. Apparent disagreement over the                 that Pompey rebuilt the bouleuterion in Antioch,
+duration of Tigranes’s reign in Syria led Traina              established by Antiochus Epiphanes, «that has
+(1995) and Guidoboni et al. (1994) to date the                fallen», this does not necessarily indicate that
+earthquake to 65 B.C. and Ambraseys and                       the whole city was destroyed, as later cata-
+
+
+
+
+Fig. 4. Orientation map for the 64 B.C. earthquake.
+
+                                                        771
+                                              Iaakov Karcz
+
+
+
+loguers assumed. Thus the extensive damage to             better edited (by «savoraim» – the «thinkers»)
+the city walls and the Temple compound in                 and is more comprehensive and innovative,
+Jerusalem, 550 km to the south, allegedly re-             but some elements may have been glossed
+ported in the Talmud, would be very significant,          over by the editors.
+since it would indicate an earthquake of truly                Accounts of the supposed damage in
+catastrophic proportions.                                 Jerusalem emanate from the Babylonian Tal-
+                                                          mud, (tractates Sota, 59 B: Cohen, 1936;
+                                                          Menahoth 64 b: Cashdan, 1935; Baba Kama,
+5.1. Evidence from the Talmud                             82 B: Kirzner, 1935) which tells of fight for
+                                                          power between the sons of Queen Salome
+    Talmud (from «study», «teaching») is a                Alexandra (d.67 B.C.), Hyrcanus and Aristob-
+vast body of texts accumulated over seven                 ulus, the last kings of the Hasmonean dynasty.
+centuries, that deal with religious and legal             Hyrcanus and his Nabatean allies laid siege to
+norms to be followed by Jews. Though the                  Jerusalem, but at Passover time agreement was
+laws that govern Jewish personal and commu-               reached on supply of sacrificial animals to the
+nity life were laid down in the Pentateuch (To-           Temple. A big basket with golden coins was
+ra), their practical application under ever               lowered over the city walls, to be filled by the
+changing realities required interpretation of             attackers and be hauled up. The attackers
+the spirit of the written law. The new decrees            broke the agreement, took the gold but sent a
+were transmitted orally and the expanding le-             pig instead and «when it reached halfway up
+gal code was known as the Oral Law (Oral To-              the wall it stuck its claws into the wall and the
+ra). In wake of political misfortunes, when re-           Land of Israel was shocked over a distance of
+ligious and legal structures were disrupted,              400 parasangs by 400 parasangs» (a parasang,
+Rabbi Yehuda the Prince (2nd century B.C.)                Persian mile is about 4000 yard long). Jose-
+compiled the Mishna, a compendium of rules                phus (Antiquities, 14.2.2: Marcus, 1976) pres-
+of conduct developed and transmitted by sev-              ents a more detailed account of the events but
+eral generations of sages («tanaim»: the «re-             does not mention an earthquake nor a hog. In-
+peaters»). Since Mishna is very concise and               stead, the vehicle of divine punishment for
+occasionally cryptic, it led to an interpretative         preventing and mocking the Passover services
+corpus, Gemara, of elucidative commentaries,              is, «a strong and vehement storm of wind, that
+explanations and legal discussions by the lat-            destroyed the fruits of the whole country, till a
+er generations of sages (called Amoraim:                  modius of wheat was then bought for eleven
+«speakers»). One version developed in Pales-              drachmae». Likewise, classical texts record
+tine during the 3rd-early 5th centuries and the           the war between the last Hasmoneans (e.g.,
+other developed in the Babylonian diaspora                Dio’s Roman History 37.15.3-16.3: Cary,
+during the 3rd-6th centuries. While free of               1969), without mentioning the earthquake.
+historiographic orientation and interests, this           Thus it is possible that the Talmudic text refers
+enormous body of texts, which spans 7 cen-                not to a real earthquake but to the general
+turies of intense intellectual activity, includes         shock over the ungodly breech of agreement,
+numerous references to specific events. Usu-              which disrupted the services in the Temple and
+ally, chronological details must be deduced               indeed this seems to be the approach in the
+from the context. Nevertheless, in absence of             Jerusalem Talmud. The earthquake motive ap-
+chronicles and histories, such material is very           pears to have been raised by Graetz (1888)
+important, but its veracity and accuracy differ           who commented that the Talmudic text may
+from one case to another and require a great              contain an echo of the heavy earthquake that
+deal of caution. The Jerusalem Talmud is of-              «according to Dio hit Asia about that time».
+ten fragmentary and difficult to follow, but              This remark (which is glossed over in the lat-
+deals with some questions inapplicable to di-             er English and Hebrew editions of Graetz’s
+aspora and is regarded by many to be more re-             memoir), was included in another context by
+liable for Palestine. The Babylonian Talmud is            Neubauer (1868) in his book on Geography of
+
+                                                    772
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+the Talmud, from which it was extracted by                    eject out of the country some fugitives, with a
+Arvanitakis (1904) and included in his cata-                  greater number of Nabateans» (Josephus, An-
+log. Since the Temple and the city walls were                 tiq.14.2.3: Marcus, 1976). Robustness of
+mentioned in the text, Arvanitakis assumed                    Jerusalem fortifications at that time (i.e. after
+that they were damaged. Other cataloguers                     the damage was supposed to have taken place)
+followed suit and in some cases increased the                 was mentioned also by Strabo (Geography,
+severity of the damage.                                       16.2.40: Jones, 1917) and Josephus (Antiqui-
+                                                              ties, 14.4.1-3: Marcus, 1976) in their account of
+                                                              difficulties that faced Pompey when he laid
+5.2. Assessment in light of other sources                     siege to the city shortly thereafter. Thus, even if
+                                                              the 64 B.C. shock was felt in Jerusalem, it is un-
+    The timeframe of the events described in                  likely that local intensity was much in excess of
+the Talmud is indeed compatible with the                      human perception.
+record of the 64 B.C. earthquake in classical                     Recently however, Ken-Tor et al. (2000)
+sources. The siege took place after the death of              correlated 8 soft sediment deformation hori-
+Queen Salome Alexandra in 67 B.C. and be-                     zons («mixed layers») in the Holocene sedi-
+fore the fall of Jerusalem to Pompey in 63                    ments of Nahal Zeelim in the Dead Sea region,
+B.C., shortly after Mithridates’s death. At the               with a succession of 8 earthquake events listed
+time of the conflict in Judaea, Pompey was en-                in the catalogues and concluded that the defor-
+gaged in war with Tigranes, which ended in                    mation was seismic in origin. The earliest such
+late 66 B.C. and then, according to 1st century               «mixed layer», with a calibrated radiometric
+B.C. Livy (Summ. 101, 102: Schlesinger,                       age in the range of 200-40 B.C., was attributed
+1967); and 2nd A.D. Appian (Mithr. Wars,                      to the 64 B.C. earthquake. Since this deforma-
+15,16: White, 1962), turned to Pontus. One of                 tion unit was found in sediments differing in fa-
+his commanders, Aemilius Scaurus, was sent                    cies and at locations about 30 km apart, the au-
+to Damascus, from where he hurried on to                      thors assumed that such pervasive soft sediment
+Judea to take advantage of the civil war there.               deformation suggests that the epicenter was in
+Offered comparable bribes by both sides, he                   the Dead Sea area and that the earthquake dam-
+ruled in favor of Aristobulus and the siege was               aged the walls and the Temple in Jerusalem and
+lifted (Josephus, Antiquities, 14.2.3: Marcus,                that in Syria it was felt «as far as Antioch».
+1976; Wars, 1.6.3: Thackeray, 1976) The Tal-
+mudic report corresponds to Passover of 65/64
+B.C. Both Passover and the festival of Ceres                  5.3. Summary
+mentioned by Orosius are celebrated at the
+same time in the Spring.                                          The implied damaging intensities assigned
+    Even if the fanciful Talmudic report is ac-               to the 64 B.C. event in Israel seem to be mis-
+cepted, the image of extensive damage should                  leading and to rely on a fallacious hermeneuti-
+not be. In fact, nothing was said about actual                cal chain, which proceeds as follows: a devas-
+damage to city walls nor to the Temple, event                 tating earthquake in north Syria and Turkey is
+that would have made a profound impression                    invoked in support of a questionable Talmudic
+across the country. Instead, it is the cessation of           story taking place in Jerusalem; inflated ele-
+services that is stressed. Josephus’s fairly de-              ments of the story enter a catalogue as evidence
+tailed account of the siege does not mention any              of earthquake damage in Jerusalem; the entry,
+disruption of the city defenses due to a sudden               repeatedly copied by the later cataloguers is
+breech or collapse of the walls. Resistance con-              correlated to a «mixed layer» of comparable
+tinued unabated until the siege was lifted as a               time range in the Dead Sea area; and finally, the
+result of intervention by Aemilius Scaurus, who               occurrence of «mixed layer» in sediments of
+was swayed to the side of the defenders since                 different facies, 30 km apart confirms the seis-
+«it was not the same thing to take a city that was            mic origin of the «mixed layer» and places the
+exceeding strong and powerful, as it was to                   epicenter in the Dead Sea area.
+
+                                                        773
+                                                  Iaakov Karcz
+
+
+
+6. 31 B.C.                                                    ous that the high magnitudes were assigned on
+                                                              the strength of the «catastrophic» language of
+    On the authority of Josephus Flavius, the 1st             description. The contents, however, are not en-
+century A.D. Jewish-Roman historian, all earth-               tirely consistent. Josephus reports tenor thirty
+quake catalogues list a very strong earthquake                thousands of dead in the built areas and immense
+that hit the Holy Land in 31 B.C. and assign a                losses in «cattle» (rather «herds», Prof. Steve
+magnitude ML ranging from 7 to 8 (e.g., Ben-                  Mason, pers.comm.), stressing that the army that
+Menahem, 1979, 1991; Kuran, 1980). This                       camped in the open was spared. At that time,
+earthquake attracted the attention of Judaic                  however, also the herds were kept in the open or
+scholars and of archaeologists, who claimed to                in primitive pens, so that the army may have es-
+have found its manifestations in ancient literary             caped harm not because it was in the field but
+texts as well as in features of damage at archae-             rather because it was far away from the earth-
+ological sites. Such findings, in turn, were used             quake epicentre. Similarly, the account of the
+to document the extensive spread of damage                    Arab invasion from the east implies that the Arab
+and the high earthquake intensities. A closer                 forces were not hit by the earthquake and that
+look at the original report suggests however that             they were too far from the disaster area to have
+the earthquake magnitude is overestimated and                 had a first hand knowledge of the extent of dam-
+that at least some of the interdisciplinary corre-            age in Judea (fig. 5). Josephus does not say
+lations are incestuous.                                       where exactly the two armies were at the time of
+                                                              the earthquake, but their approximate disposi-
+                                                              tion may be inferred from his description of mil-
+6.1. Earthquake evidence of Josephus                          itary engagements immediately prior to the
+                                                              earthquake (Joseph., Antiquities 15.5.1: Marcus,
+     Josephus Flavius reports: «At this time it was           1976). These included Herod’s victory at Dion
+that the fight happened at Actium between Oc-                 and his subsequent defeat at Kanatha, after
+tavius Caesar and Anthony in the seventh year of              which the Jewish forces retreated into the moun-
+the reign of Herod and then it was also that there            tains (Galilee or Samaria) from where they
+was an earthquake in Judea such a one as had not              waged a highly successful guerilla warfare
+happened at any other time and which earth-                   against the Arab armies. Consensus is that
+quake brought a great destruction upon the cat-               Kanatha and Dion lie east of the DSR: Kanatha
+tle in that country. About ten thousand men also              is about 100 km east of Tiberias, but for Dion
+perished by the fall of houses, but the army                  two alternate locations were offered: one less
+which lodged in the field received no harm.                   than halfway from Tiberias to Kanatha (e.g.,
+When the Arabians were informed of this and                   Schurer, 1973; TAVO, 1980) and the other in
+when those that hated the Jews and pleased                    Jordan, about 25 km northeast of Pella
+themselves with aggravating the reports, told                 (Ptolomey, in Schurer, 1979). Josephus’s de-
+them of it, they raised their spirits as if their en-         scription suggests therefore a modest spread of
+emy’s country was quite overthrown and the                    damage, so that Judea in his account must have
+men were utterly destroyed and thought there                  been the historic Kingdom of Judah, rather than
+now remained nothing that could oppose them.                  the much larger Judea of the Hasmoneans and
+Accordingly they took the Jewish ambassadors                  Romans, which according to Josephus (Wars
+who came to them after all this happened to                   3:35-38, 13.3.4-5: Thackeray, 1976) and Pliny
+make peace with them and slew them and came                   (Nat.Hist.5.70, 5.73: Rackham, 1958) included
+with great alacrity against their army...» (Jose-             amongst others the Galilee, Samaria, Perea,
+phus, Antiquities 15,5.2: Marcus, 1976). A sim-               Idumea and Golan. Geographic descriptions of
+ilar description is found in Josephus (Wars                   Josephus however are not always consistent (for
+1.19,3: Thackeray, 1976) but the number of ca-                references e.g., Schalit, 1968, Boettger, 1879,
+sualties is 30 000.                                           Shahar, 1996) and in this case he uses Judea both
+     Since Josephus does not mention any locali-              in the narrow and the wide sense. Extent of the
+ties that were destroyed or damaged, it is obvi-              damage to the south is uncertain since in barren
+
+                                                        774
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+
+Fig. 5. Orientation map for the 31 B.C. earthquake.
+
+
+
+areas of the Negev and Arava even a severe im-                Antiquities 15.6.7: Marcus, 1976) are out of line
+pact might have escaped notice. All that may be               with the reported earthquake devastation of the
+said is that Josephus and other chroniclers who               country, even if Herod was desperate to win fa-
+record the triumphant advance of Augustus                     vor with Ceasar.
+across Syria and Palestine to Egypt after the bat-
+tle of Actium, do not mention any signs of a sup-
+posedly devastating earthquake that took place                6.2. Earthquake evidence from Malalas
+only about a year earlier. Moreover, the lavish
+reception and excessive supplies Herod provided                   Of the Roman and Byzantine chroniclers,
+to the Roman Army on their way to Egypt and                   only John Malalas (Chronicle, 10.3: Jeffreys et
+back (Josephus, Wars, 1,20.3: Thackeray, 1976;                al., 1986) mentions earthquake damage in
+
+                                                        775
+                                             Iaakov Karcz
+
+
+
+Palestine during the second half of 1st century          it in another report of Malalas, which he did not
+B.C.: «during the reign of Augustus city in              relate to the Palestinian earthquake. Malalas
+Palestine, named Salamine suffered from the              (Chronicle 9.21: Jeffreys et al., 1986) tells that
+wrath of God Augustus rebuilt the city and               during his visit to Antioch in about 15 B.C.,
+called it Diospolis».                                    Agrippa ordered the removal of collapse rubble,
+     The entry is rather vague since Augustus            which accumulated in the old hippodrome in
+reigned for more than half a century and the lo-         Antioch as a result of «former earthquake/s».
+cation of Salamine-Diospolis is not clear. In            Traina (1995) and Downey (1938) assume that
+Palestine only two cities bore the name Diospo-          these were post-64 B.C. earthquake repairs, the
+lis: Dion, already mentioned before (either in           same as the rebuilding of the bouleuterion by
+Golan or in Jordan) renamed with other cities of         Pompey. Agrippa’s order implies therefore that
+Decapolis after the conquest of Pompey in                either the work was not completed, or that the
+64/63 B.C. and Lod (Lydda) in the Coastal                repaired hippodrome was damaged once again
+Plain, renamed in 199 A.D., by Septimius                 by a subsequent shock sometime between 64
+Severus (Schwartz, 1991). Admittedly, Malalas            and 15 B.C. In this time window Guidoboni et
+may have extracted the information from some             al. (1994) and Ambraseys and White (1996) list
+post-200 A.D. source, that used the new name,            three earthquakes: in Palestine in 31 B.C., in
+but neither Diospolis-Dion nor Diospolis-Lod             Phrygia in 27 B.C. and on Cyprus in 17 B.C.,
+are known to have replaced a previous Salamin,           but there are no grounds to relate any of these
+or to have had any connection to Augustus. In            shocks to damage in Antioch.
+the Levant, however, very many location names
+were derived from Salem or Salam, so that one
+finds for example on the outskirts of Diospolis-         6.3. Evidence from other sources
+Lod a Deir Abu Salame, a hitherto unexplored
+site with remnants of Greek inscriptions (Per-                So far, the ongoing study of possible seis-
+ess, 1952 and Vilnay, 1974) and next to Diospo-          mic echoes in contemporary Judaeo-Christian
+lis-Dion in Jordan, an unexplored Roman mili-            sources provided no clues to analysis of this
+tary settlement, Shalem or Salem Salumnias,              earthquake’s parameters. It appears that numer-
+(e.g., Tsafrir et al.,1994).                             ous scholars traced its echoes in some of the
+     It seems that even if Malalas refers to the         apocrypha and pseudoepigrapha composed in
+same event as Josephus did, the conclusion re-           the first few centuries A.D. (e.g., Stone, 1990
+garding the size of the earthquake would not             found them in 4 Ezra: Klijn, 1983, in Baruch 2:
+change. Both Diospolis/Lod and Diospolis/                Mignana, 1917 and Charlesworth, 1983, in
+Dion-Jordan are within the suggested reduced             Book of Shem), however none are explicit and
+spread of damage. No ancient derivative of               all lack distinct historic clues. The texts may re-
+Salem was found for Dion/Golan. Of locations             fer to a shock or tumult, or may use the earth-
+outside Palestine, it is improbable that Malalas         quake only as a metaphor. Thus for example,
+lumped together Salamiyya (Salamias or                   modern editors of the Talmudic tractate Megilla
+Salaminias) on the Orontes in Syria, with either         (3.1: Simon, 1938) saw an echo of the 31 B.C.
+Dion-Golan about 250 km away, or with Diopo-             event in the report: «The targum [translation] of
+lis north of Laodicea, 100 km away (Dus-                 the Prophets was composed by Jonathan ben
+saud,1927). Also, since he knew of Salamin in            Uzziel from the mouth of the prophets Haggai,
+Cyprus (Malalas, Chronicle, 12:48: Jeffreys et           Zacharia and Malachi and the land of Israel
+al., 1986, reports that Salamin was destroyed by         quaked over an area of 400 parasangs by 400
+an earthquake in the days of Constantinus                parasangs and a voice came forth and ex-
+Chlorus) it is unlikely that he located it in            claimed who is this that has revealed my secrets
+Palestine while copying some early report of an          to mankind». The timeframe is right, since
+earthquake that hit Cyprus. The only possible,           Jonathan ben Uzziel lived in 1st-2nd century
+albeit tenuous, suggestion that the spread of            A.D. and so is the biblical allusion since Hag-
+damage extended farther to the north, is implic-         gai (2.6-7; 2:21) and Zacharia (14:4-5) include
+
+                                                   776
+             Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+explicit and Malachi (1:3) veiled references to                memory at the time of writing. The better
+earthquakes. The text, however, may be refer-                  known biblical echoes of ancient seismic disas-
+ring not to an earthquake but to the shock and                 ters in Israel and Levant, relevant here, include
+distress caused by disclosure of holy texts to                 for example the destruction of Sedom-Gomor-
+non-Jews. Similarly far-fetched was Mignana’s                  rah (21-17 century B.C.) and Jericho (15-12
+(1917) and Charlesworth’s (1983) correlation                   century B.C.), the Apheq (century 854 B.C.)
+of the prediction in Book of Shem (7:20) that                  and Uzziahu (758 B.C.) earthquakes and the
+«when the year starts in Libra [September 24-                  Lebanese coast tsunamis (590 B.C., 138 B.C.)
+October 23] there will be in Galilee a severe                  and possibly also the supposed allegoric cruci-
+earthquake» to the account of Josephus.                        fixion earthquake (33 A.D.). The number of
+    Such uncertainties are particularly striking               earthquake motives in the DSS is too small and
+in the case of the Dead Sea Scrolls (DSS), a rich              dating of the texts is not precise enough to de-
+corpus of more than 800 documents, found in                    termine whether frequency of seismic
+the caves at the northwestern end of the Dead                  metaphors in the texts increased after the 31
+Sea and associated with the sectarian communi-                 B.C. event. In fact the ratio of earthquake
+ty that occupied Khirbet Qumran during 2nd                     echoes to other natural phenomena used in lin-
+century B.C.-1st century A.D. (e.g., Garcia                    guistic imagery of that time (sea storms, floods,
+Martinez, 1994; Vermes, 1995; Wise et al.,                     winds and thunders, fire), is fairly constant for
+1996; Garcia Martinez and Tiglechaar, 1997).                   texts similar in character. In poetic and apoca-
+This collection of documents and the nearby ar-                lyptic texts, where the use of imagery is most
+chaeological site represent one of the most ex-                frequent, earthquake echoes represent about 10-
+tensively studied and certainly the most hotly                 20% (this is also the ratio in the Book of
+debated topics and produced a voluminous liter-                Psalms). None of the texts shows a pervasive
+ature (for references: e.g., Schiffman and Van-                use of literary earthquake motives that might
+derKam, 2000; Schiffman et al., 2000; Flint and                suggest that the writer went through the trauma
+VanderKam, 1999; Wise et al., 1996). About                     of a seismic disaster.
+one fourth of the retrieved DSS materials in-                      Though contemporary textual echoes are
+cludes texts specifically related to the commu-                scarce, numerous instances of seismic damage,
+nity, one third includes biblical texts and the rest           abandonment and rebuilding related to the 31
+are non sectarian texts (for bibliography: e.g.,               B.C. earthquake were reported from archaeo-
+Dimant, 1995, 2000). None of these documents                   logical sites in Israel. The implicit damaging in-
+includes information on when the materials                     tensities reinforce the devastating image of this
+were composed or copied, by whom and where                     event. The first and best known, was identifica-
+and only several include elements that are                     tion of earthquake destruction and related con-
+chronologically meaningful. The still ongoing                  flagration at Khirbet Qumran, the assumed cen-
+analysis of texts identified 16 explicit references            ter of the DSS community (for references de
+to earthquake disasters, 6 general literary allu-              Vaux, 1973; Humbert and Chambon, 1994;
+sions and further 5 which extol the importance                 Magness, 2002). Correlation of supposed signs
+of earthquake safe construction (e.g., «... this is            of seismic damage (a N-S running «earthquake
+the tested rampart the precious cornerstone that               fault» across the entire site with a 35cm down-
+will not allow foundations shake or tremble                    throw across one of the ritual baths, massive
+from their place» (Rule of Community VIII:7-                   breakage of jars under the fallen ceiling of a
+8); or «For you place the foundation upon rock                 pantry, damage to the main tower, collapse of
+and the beams to correct size and a true plumb                 rooms at the southeastern part of the site and
+line to stretch out, tested stone for a strong                 signs of abandonment of the site) with Jose-
+building which will not shake...» (Hodayot,                    phus’s account, provided de Vaux with a critical
+XIV:26, cf. Book of Psalms 104:5). None of                     chronological marker for the site. At the same
+these motives is unequivocally related to the 31               time it provided the geologists (starting with
+B.C. earthquake and they may reflect echoes of                 Zeuner, 1955), with evidence for ongoing de-
+other earthquakes preserved in the collective                  formation along the DSR. Subsequently, all in-
+
+                                                         777
+                                                Iaakov Karcz
+
+
+
+dividual elements of this archaeoseismic evi-               torical sources caused severe damage to
+dence were shown to be ambiguous or unac-                   Tiberias (Marco and Agnon, 2004) would have
+ceptable. Features described by de Vaux were                implied that the city was destroyed fifty years
+attributed either to static geotechnical instabili-         before it was built by Herod Antipas in 18 A.D.
+ty effects (e.g., Zavislock and Gibb in Steckoll,           named to honor Tiberius (who ruled between
+1967 and 1969; Karcz and Kafri, 1978); erro-                14-37 A.D.).
+neous interpretation of elements of construction
+(Hirshfeld, 2003) and a later collapse of upper
+part of the building (Milik, 1959), or to de-               6.4. Summary
+struction whether by Aristobulus II or Hyrcanus
+II (in 67-63 B.C.), Gabinius (in 57 B.C.), the                   It appears that the textual evidence reflects a
+Parthians (in 40/39 B.C.), or Antigonus (in 40-             relatively modest earthquake with magnitude in
+37 B.C.). The numismatic evidence for deser-                the range of 6-6.5, rather then a major catastro-
+tion of the site was rejected (e.g., Leonard,               phe. The earthquake motives found in assorted
+1997; Magness, 1995, 1998). Moreover a series               texts and tentatively attributed to the 31 B.C.
+of GPR traverses across the «earthquake fault»,             earthquake are non indicative and may represent
+conducted by A. Beck and I. Karcz in August                 literary metaphors, or echoes of any real events
+1995, revealed no displacement in excess of                 preserved in the collective memory at the time of
+survey resolution and the NS fault line marked              writing. While there is no doubt that this area
+by de Vaux is neither continuous nor disruptive.            was repeatedly shaken by earthquakes, in itself
+At this time however de Vaux’s hypothesis is so             the archaeological evidence found at Qumran is
+firmly entrenched that geophysicists have as-               equivocal and the signs of alleged seismic dam-
+sumed that it was Josephus himself who de-                  age may reflect static and geotechnical damage,
+scribed the details of seismic damage at Qum-               or destruction and damage inflicted by man.
+ran (Nur, 1991). Similarly, once the strike slip
+nature of motion along the DSR became
+known, archaeologists have changed the nature               7. 749 A.D.
+of displacement along the «earthquake fault»
+from vertical to horizontal (e.g., Shanks,                       All local and regional earthquake catalogs
+1998a,b). In the footsteps of the «Qumran                   list one or more earthquakes that in mid-8th cen-
+earthquake», several other locations across the             tury A.D. hit the Middle East and caused severe
+country were thought to have been hit in the 31             damage in Egypt, Palestine, Jordan, Syria and
+B.C. event, amongst them Massada and Jericho                Iraq. Recently however, all multiple year dates
+along the Dead Sea, Agappias (probably Anthe-               given in ancient texts were attributed to incon-
+don, between Gaza and Askalon), Askalon, An-                sistent use of different calendars and eras in dat-
+tipatris (Arethousa) and Stratton’s Tower along             ing the same event of 18th January 749 A.D.
+the Mediterranean and recently also the city of             (e.g., Tsafrir and Foerster, 1989, 1992; Gui-
+Tiberias. It was also assumed that at least some            doboni et al., 1994). This reduction of all felt re-
+of the intense building activities of Herod were            ports to the same denominator implies destruc-
+spurred by the need for post earthquake repairs             tion that extended from Egyptian littoral, to Iraq
+(e.g., Roller, 1998). Archaeological evidence is            and Iran (fig. 6) with ML estimates in the range
+tenuous at best, in fact Netzer (1991, 1997) in             of 7.3 to 8. This image was strengthened even
+his detailed analysis of architectural complexes            further by reports of alleged signs of seismic de-
+of Massada has shown that the signs of a possi-             struction at a myriad of archaeological sites in
+ble seismic damage there are much later than 31             Israel, Jordan and Syria. In Israel, reduction of
+B.C., while Mazar et al. (1966), Gichon (1993)              all dates to a common denominator relied on
+and Fischer et al. (2000) found no 31 B.C. seis-            chronological clues found in two ancient He-
+mic effects even at Ein Fesha and Ein Boqeq,                brew texts which describe a fast that allegedly
+next to Qumran. The claim that 31 B.C. earth-               commemorates a large earthquake on 18th Jan-
+quake was amongst those that according to his-              uary 749 A.D., as well as on archaeological and
+
+                                                      778
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+
+Fig. 6. Orientation map for the 747-749 A.D. earthquakes.
+
+
+
+
+numismatic evidence. These findings were gen-                 maps with Mercalli Modified Scale values
+erally accepted and incorporated in regional                  freely assigned to both textual and archaeologi-
+earthquake catalogues. A closer examination                   cal indications and attributed to one single event
+shows however that such clues rely on highly                  (e.g., Marco et al., 2003) would be misleading.
+questionable assumptions and, even more im-
+portant, that the Byzantine and Arab chronicles
+and traditions clearly report at least two discrete           7.1. Evidence of multiple earthquakes
+events up to three years apart and hundreds of
+kilometers apart. Moreover, comparison of texts                   Theophanes, d.818, (Turtledove, 1982; Man-
+that describe only one earthquake, shows that                 go and Scott, 1997), one of the major source for
+the difference between the reported dates, loca-              events of that period, lists two earthquakes that
+tions and descriptions of damage is too striking              hit Palestine and the Levant in mid-8th century
+to be attributed merely to erroneous date cali-               A.D. The first entry, the day and month of which
+brations. Under such circumstances intensity                  is cited by nearly all later authors and cata-
+
+                                                        779
+                                                Iaakov Karcz
+
+
+
+loguers, dates the earthquake to January 18th,              compilations of Baronius (1593), de Muralt
+A.M. 6238 (747 A.D., according to the indic-                (1855), Perrey (1850) and Grumel (1958), the
+tion-based calibration of Ostrogorsky, 1928):               second earthquake of Theophanes is still ig-
+    «... a great earthquake in Palestine, by the            nored by many.
+Jordan and in all of Syria on 18 January in the                 Further evidence of more than one earth-
+4th hour. Numberless multitudes perished,                   quake comes from old and modern catalogs
+churches and monasteries collapsed especially               based on Moslem sources such as those of 15th
+in the desert of the Holy City».                            century Jalal ad-Din as-Suyuti (Nejjar, 1973)
+    The second event occurred in AM 6241                    and Poirier and Taher (1980), who mention two
+(749/750), but the day and month are not given.             distinct earthquake events that in AH 130
+The record was entered immediately after that               (747/748) and AH 131 (748/749 A.D.) dam-
+of the birth of Leo, Emperor Constantinus’s                 aged Jerusalem and Damascus, while Caetani
+son, on 25 January 750 A.D.:                                (1912) lists references to earthquakes in Mus-
+    «... there was an earthquake and terrible de-           lim and Christian chronicles under the years
+struction in Syria as a result of which some cities         AH 129, 130 and 131.
+were entirely destroyed others partially so while               As-Suyuti cites the eye witness evidence of
+others slided down entire, with their walls and             Abdalla al Katir, a well known historian and sci-
+houses, from positions on mountains to low lay-             entist (d. AH 196, 811/812 A.D.), transmitted by
+ing plains a distance of 6 miles or thereabout.             al Wadai (d. AH 716, 1316/1317 A.D.), who re-
+Eyewitnesses affirmed that the ground in                    ports «we were hit in Damascus by an earth-
+Mesopotamia was split along two miles and that              quake in AH 130 that led the inhabitants to leave
+out of the chasm was thrown a different soil very           the city. In this earthquake the poultry market
+white and sandy, in the midst of which they say             collapsed under the fallen rocks» and continues
+there came up an animal like a mule quite spot-             «...and they told me that a devastating earth-
+less that spoke in a human voice...».                       quake in AH131 split the roof of the mosque so
+     Though dimensions are scaled up, the im-               that one could look through it at the skies. There-
+plied landslides, surface rupture and sand boils            after another earthquake took place and the
+sound authentic (in a semiarid area they would              crack had closed». It is probable that these two
+be more common during the wet season) and the               successive earthquakes are responsible for the
+fantasy part is restricted to the mule-like oracle.         hesitant and possibly confused accounts of 13th
+9th century Nicephorus (Bekker, 1837;                       century Sibt ibn al Jawzi, d.1257 (A. Elad, 1991,
+de Boor, 1880; Mango, 1990) presents an almost              pers. comm.) followed by 15th century Ibn Tagri
+identical description of the 750 A.D. shock but             Birdi (Shaltut, 1929), which report strong earth-
+not of the 747 shock. He used the same sources              quakes (plural) in Syria in AH 130, with heavy
+as Theophanes and though he was more selective              damage in Jerusalem, in the wake of which peo-
+(Whitby and Whitby, 1989), in this case the ab-             ple of Damascus fled into desolate areas for 40
+sence seems to reflect a lacuna or an illegible             days and add «and it was said that the earth-
+paragraph (as marked in the extant text). More              quakes took place in AH 131».
+tenuous evidence of two events comes from the                   Obviously a discrepancy exists between the
+Great Chronographer (e.g., Whitby and Whitby,               two pairs of dates, the 18 January 747 A.D. and
+1989) and the Minor Chronicles (Schreiner,                  early 750 A.D. of Theophanes and AH 130
+1979) which report the 18 January 747 earth-                (747/748 A.D.) and AH 131 of the Arab chron-
+quake and then a series of «wondrous events» af-            icles. Both sources were written within fifty
+ter the birth of Leo in 750 A.D.                            years from the events. Arab texts were com-
+    Strangely enough, even though both earth-               posed locally, while Theophanes, though far
+quakes are listed also in later chronicles, such            from infallible (e.g., Proudfoot, 1974; Mango
+as those of 9th century Anastasius Bibliothecar-            and Scott, 1997; Burgess, 1999) is believed to
+ius (Migne, 1879), Paulus Diaconus (Muratori,               have drawn information about Palestine and
+1861) and the 12th century Georgius Cedrenus                south Syria from a local Melekite chronicle
+(Bekker, 1839), as well as in the more recent               written about 780 A.D. and brought by monks
+
+                                                      780
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+who fled persecution in Palestine (Brooks,                    ter having been damaged by an earthquake, but
+1906; Proudfoot, 1974; Mango and Scott,                       it is not clear which earthquake of the 8th cen-
+1997). Information about Iraq and North Syria                 tury it was.
+may have come to Theophanes from a local                           Once a text includes only one mid-8th cen-
+source that used the Babylonian count of Seleu-               tury earthquake the critical questions are which
+cid years starting in Spring 311 B.C. rather than             one it is or whether the text almagamates two or
+in Fall 312 B.C., leading to the date of early 750            more events into one report. Answer is not al-
+A.D., rather than early 749 A.D. No explana-                  ways possible, because of uncertainties in defi-
+tion was found so far for the gap of a year be-               nition of the era used and because translators of
+tween the 747 A.D. of Theophanes and the 130                  chronicles expanded, calibrated and even «cor-
+AH date of the Arab sources.                                  rected» the details of time and location in the
+                                                              original text. Moreover in some oriental chroni-
+                                                              cles, the sequence in which events are described
+7.2. Single-event reports                                     does not always reflect their true chronological
+                                                              order. Finally, all single-event reports give either
+    Inclusion of an earthquake record in a chron-             the day and month, or the month, or the year of
+icle, depends on whether the writer regarded it               the earthquake but none gives the full date,
+important enough relative to other events of that             which obstructs the analysis, particularly since
+period and on the interest the shock-hit area                 also the later event of Theophanes may have tak-
+held for him and for his prospective readers. It is           en place in or shortly after January.
+difficult therefore to determine whether an event                  The reports which do supply pertinent in-
+is not included in a chronicle because it was un-             formation about either the date, location or in-
+known to the author, or because it was dis-                   tensity of damage sustained in a single mid-8th
+missed as irrelevant. Some Byzantine and later                century event are reviewed below.
+Arab chroniclers such as 12th century Michael
+Glycas, 13th century Leo Grammaticus and the
+10th century Said ibn Batriq (Eutychius), ignore              7.2.1. Oriental Christian sources
+the mid-8th century earthquake altogether. Oth-
+ers follow Theophanes, like the 9th century Gre-                  The most extensive information about the
+gorios Hamartolus (de Muralt, 1863), who re-                  spread of damage comes from oriental Christ-
+peats verbatim the 749/750 A.D. entry in Theo-                ian sources, but it does not necessarily refer to
+phanes, with a comment on the «incredible»                    one and the same event. The four major Syriac
+mule-like oracle and still others record the                  chronicles, i) Pseudo Dionysius of Tel Mahre
+earthquake without any identifying details. 14th              (Chabot, 1895; Witakowski, 1987, 1996; Har-
+century Zonaras (Pinder, 1897) for example,                   rak, 1999), now attributed to anonymous 9th
+says nothing about the time, location and extent              century monk from Zuqnin monastery, ii) 11th
+of damage, but enters the event after the fall of             century Elias of Nisbin (Brooks, 1910; Chabot,
+Germanikeia into Constantinus’s hands,                        1910), iii) 12th century Michael the Syrian
+(745/746 A.D. according to Theophanes) so that                (Chabot, 1899) and iv) mid 13th century
+he may be referring to either of the two shocks.              «Chronicon 1234» (Chabot, 1937) provide (or
+Even less definite are reports such as that of the            imply) only year dates for the earthquake. De-
+10th century Mukadassi (Le Strange, 1887) who                 spite some confusion between the Macedonian
+writes that «earthquake in the days of the Ab-                and Babylonian reckoning of Seleucid years, it
+basids threw down the sanctuary except the part               seems that they all refer to the later of the two
+round the mihrab», which may refer to the 750                 Theophanes’s events. Elias of Nisbin, the only
+A.D. event (i.e. after Marwan’s death and ascent              one with a specific interest in chronology, dates
+of Abbasides) but also to one of the later earth-             the shock to AH 131 (i.e. 748/749 A.D.), which
+quakes, or the statement in «Commemoratorium                  he says, lasted from 30 Ab AS 1059 to 20 Ab
+de Casis Dei» (808: Tobler and Mollinier, 1880)               1060. The attached chronological tables show
+that the Church of Maria Nea is still in ruins af-            however that his AS years started in the spring,
+
+                                                        781
+                                               Iaakov Karcz
+
+
+
+in AS 1059 on 25 Jummada AH 130 (Spring                    gence between Michael and Theophanes (e.g.,
+748) and in 1060 on 7 Ragab, AH 131 (Spring                Brooks, 1906; Proudfoot, 1974). Elias refers
+749 A.D.). «Chronicon 1234» (mid 13th centu-               only to displacement of a village near Mt. Tabor
+ry A.D.) written about half a century after                (with no damage nor casualties) and to damage
+Michael but using the same sources, dates the              in the church of Maboug (a distance of about
+earthquake to AS 1060 (with an erroneous par-              500 km), whereas Michael and the «Chronicle
+allel of AH 134, which may be a copying or                 1234» record intense damage at localities from
+printing error for AH 131). Michael provides no            Maboug in northernmost Syria to Baalqa and
+year date (unlike Russell, 1985, thought), but in          Moab areas east of the Rift, listing Ghautah,
+a footnote appended to the translation, Chabot             Dareiya, Bosra, Nawa, Derat, Baalbek, Damas-
+(1899) dates it to year 741 of Alexandrine                 cus and Beit Qoubaye, which may be a corrupt-
+Africanus era (i.e. AM 6241, AS 1060, 749/750              ed form of Koubaiyat or Qoubaiat at the foot of
+A.D.). In the accompanying tables, Chabot                  Jebel Akkar about 45 km southwest of Homs
+corrected Michael’s chronology pulling the                 (ancient Edessa) and 25 km south of Crac de
+AS and A.D. dates one year back i.e. to AS                 Chevalliers. On the other hand, their account of
+1059 = 748/749 A.D., but and it is not clear               damage, subsidence and inundation along
+whether the correction should apply also to his            seashores does not mention any of the Mediter-
+own note. Both he and others (for references:              ranean coastal cities and town by name and
+e.g., Weltecke, 2003) indicate that Michael's              refers instead to stormy seas and submersion of
+chronology is full of errors, whether of the au-           a Yemenite coastal fortress in the area of Baalqa
+thor or of the copyists. Pseudo Dionysius,                 and Moab, which lie east of DSR (along rhomb
+placed the earthquake in AS 1059, with equiva-             shaped depressions of Lake Kineret, Dead Sea
+lent date 747/748 A.D. (suggestive of Mace-                and Gulf of Aqaba) and to destruction of
+donian conversion). Indication, albeit tenuous,            Tiberias and lateral displacement of springs
+that this earthquake is not the one of 18 January,         near Jericho along the western side. It is not im-
+is that none of the chroniclers mentions the near          possible that a local tsunami-like storm wave
+coincidence of the earthquake with the Feast of            was generated in the Dead Sea whether due to a
+Mary for the Seeds (blessing of crops), one of             nearby fault, massive local slide, or by a tem-
+the principal feasts of the Virgin in Syrian tra-          porary halt of flow along the Jordan River and
+dition (observed on 15 January, which in 749               a subsequent dam-break wave at the inflow in-
+fell on Sunday, so that it would have been cele-           to the Dead Sea. A similar association of
+brated a day or two later).                                earthquake-induced flooding or inundation
+     Pseudo Dionysius provides no details of the           along the coast and an «enormous death toll and
+damaged localities except for Maboug and                   destruction in Tiberias» is made by 10th centu-
+refers archly to a «grand et violent tremblement           ry A.D. Agapius of Menbidj (Vasiliev, 1912).
+de terre dans la region occidentale». Chabot               Here however, the earthquake was placed in
+(1894) pointed out however that amongst the                January (Kanoun), without a year date, but after
+Jacobite writers, the terms «western» and «east-           the record of Constantinus’s incursion into Syr-
+ern» territories reflected the two ecclesiastic            ia (i.e. the conquest of Germanikeia) and prior
+provinces with centers in Antioch and Tagrit               to Abu Muslim’s revolt (Ramadan AH 129,
+and had no strict geographic significance. The             May 747). This would suggest that he refers to
+other three chronicles list numerous localities            the earlier of Theophanes’s two earthquakes
+that suffered, mainly in areas to the east of              and this is supported by the lack of any refer-
+DSR. In Palestine only Tiberias, Mt.Tabor and              ence to damage in Menbidj.
+Jericho are mentioned, but significantly nothing               Severus ibn al Muqaffa (Evetts, 1947)
+is said about any damage or destruction in                 refers to damage along the Mediterranean
+Jerusalem, in striking contrast to the Arab                coast, saying first that the shock was felt
+chronicles. This major difference, as well as              strongly in Egypt, but caused no damage nor
+lack of reference to the 18 January 747 event of           casualties, except for Damietta and then pro-
+Theophanes confirm the post 746 A.D. diver-                ceeds to report the destruction of six hundred
+
+                                                     782
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+towns and villages, «from city of Gaza to the                 Alexandrine-Africanus era. The dates of as-
+farthest extremity of Persia». Again no loca-                 cent and duration of service, differ from both
+tion names are given, with a comment that no                  al Makin and from the official chronology of
+orthodox churches nor monasteries were dam-                   the patriarchs and chronological calibration of
+aged. In addition Severus mentions that many                  the dates is inconsistent.
+ships were lost at sea. The earthquake took                       Finally the Mekhitar d’Airavanq chronicle
+place on 21 Tuba (17 January) on the day of                   (Brosset, 1869) mentions an earthquake in 751
+our Lady, Dormition day, which in Coptic tra-                 A.D., in times of Constantine Copronymus.
+dition was celebrated between 16 and 18 Jan-                  This later date is supported also by lack of ref-
+uary, unlike in the Byzantine empire where                    erence to the day and month date of 18 January,
+since 6th century it was celebrated on 15 Au-                 which is the day on which the Armenians in the
+gust (e.g., Garritte, 1958; Gamber, 1984). Year               Holy Land celebrate Christmas (12 days later
+of the earthquake is not given, but closely re-               than elsewhere).
+lated events (imprisonment and release of Pa-
+triarch Michael, Nubian incursion into Egypt
+etc.) are dated by Severus to AH 130 (747/748                 7.2.2. Arab sources
+A.D.). His description of events prior and after
+the earthquake, however, is confused particu-                     Near contemporary local Arab reports of an
+larly with respect to Marwan campaigns and                    AH 130 earthquake (or possibly two), traced
+the Abasside mutiny, which contrary to what                   back to 8th century, appear in two 11th century
+Russell (1985) assumed admit the earlier date                 compilations of traditions transmitted by the di-
+of AH 129 (746/747 A.D.). The 13th century                    arists of the prominent Jerusalem family Abd el
+compilers al Makin (Erpenius, 1625) and                       Rahman, the 11th century cousins al Wasiti and
+Petrus Ibn Rahib (Cheiko, 1903) report a                      Ibn al Murajja (Hasson, 1979; Elad, 1995). The
+widespread destruction of cities and loss of                  eastern and western parts of Al Aqsa compound
+life under the ruins and flooding along the                   in Jerusalem were damaged and repairs were
+coast, but do not mention any specific locali-                ordered by the Caliph Abu Jafar al Mansur
+ties. The day and month date of 21 Tuba fol-                  (754-775) during his visit in AH 141 (757/758).
+lows Severus, but the year appears to have                    Once completed, however, the mosque was hit
+been misrepresented. The text suggests that                   by another earthquake (presumably in 757
+rather than the year of the earthquake, AH 120,               A.D.) to be repaired only in the days of Caliph
+460th year of Diocletianus (two incompatible                  al Mahdi (probably following his visit in AH
+dates of 737/738 A.D. and 744/745 A.D.)                       163). One of the traditions in Ibn al Murajja
+refers not to the earthquake but to the year of               transmitted by Thabit ibn Istanibiyadh reports
+ascent of Patriarch Abnachajil (Kail, Michael),               that the «first» earthquake occurred on a cold
+in course of whose 23 year long tenure the                    and rainy night of Ramadan AH 130 (i.e. in
+earthquake took place. While the Diocletianus                 May) and includes a vivid description of a
+year agrees with the official chronology of Pa-               crack that opens and on a command from Heav-
+triarchs of Alexandria, the Hejira dates of al                en closes instantaneously. This wondrous mo-
+Makin and Erpenius do not. Indeed Michael’s                   tive appears also in description of some other
+ascent is given as AH 120 (737/738 A.D.)                      earthquakes in the Moslem literature and it is
+rather than the now known date of 743 CE and                  just possible that the holy month of Ramadan is
+the ascent of the preceding Patriarchs Cosmas                 invoked to lend reliability to the story (Elad,
+and Theodoros is respectively AH 108                          1995 and pers. comm.). Yet another tradition
+(726/727 A.D.) instead of 729 A.D. and AH                     that emerged from Jerusalem and was carried
+109 (727/728 A.D.) instead of 730. In view of                 over to the later day chronicles, reports damage
+al Makin’s Coptic background this may seem                    across whole Syria (Bilad al Sham) but empha-
+strange, but similar apparent inconsistencies                 sizes the destruction in Jerusalem and injuries
+appear also in Ibn Rahib chronicle, who tabu-                 to the descendants of Shadad al Aws, one of the
+lates the succession of patriarchs using the                  Prophet’s companions.
+
+                                                        783
+                                               Iaakov Karcz
+
+
+
+7.2.3. Samaritan sources                                   eu eut d’aussi terrible.» Somewhat more inform-
+                                                           ative is the 14th century chronicle of Abu l’Fath,
+    Damage in Jerusalem is not mentioned in                which exists in many manuscript versions and
+two local sources that emanate from the Samar-             «was plagiarized, summarized, abstracted, para-
+itan community near Nablus (Schechem) only                 phrased and edited for several other chronicles
+50 km away. Samaritans, now a tiny remnant of              which were then presented as different old
+once large and powerful community with strong              chronicles» (Stenhouse, 1989). The chronicle
+Jewish affinities, trace their origin to one or            has a shorter original version which brings the
+more of the twelve Tribes of Israel (Manasse)              text up to the rise of Mohammed and an expand-
+and see themselves as torchbearers of the origi-           ed version to bring it more up to date. Abu l’Fath
+nal values, who kept to the written law (the               wrote the chronicle in 1355, following a discus-
+Torah) through millennia of uninterrupted habi-            sion he had with the High Priest in 1352 lament-
+tation in the Holy Land (for references: e.g.,             ing the virtual absence of materials on history of
+Crown, 1989, 2001). The Jews, however, believe             the Samaritans (Payne-Smith, 1863; Vilmar,
+that Samaritans descend from people brought                1865; Stenhouse, 1981). He used some extinct
+into the Holy Land in 8th century B.C. by the              (or not found) Samaritan sources and is thought
+Assyrian conquerors, to replace the Jews who               to have used extensively materials then available
+were expelled to Assyria. While subsequently               in Damascus and Gaza. Thus it is not clear
+the newcomers accepted the principal tenets of             whether the following description of an earth-
+Judaism, they were accused of having kept idol-            quake is based on primary notes: «In the days of
+atrous practices (e.g., 2 Kings 17:33) and were            Marwan an extraordinarily powerful earthquake
+not accepted into the fold. Samaritans strictly            struck everywhere. Houses collapsed on their in-
+observe the Written Law, the Samaritan Toras               habitants and untold numbers of people per-
+and holy books are in the ancient Hebrew script            ished. It was a terrible earthquake that had no
+and tradition of Passover sacrifice has contin-            precedent. Those who survived it stayed out in
+ued. They reject, however, the later parts of the          the open for many days while the earth was still
+Scriptures and the later holy days and festivals,          shaking underneath them» (Dr. Paul L. Sten-
+regard Moses as the only Prophet and Messaiah              house, pers. comm.: from MS Samaritain, Bib-
+to come and reject the sanctity of Jerusalem in            liothèque Nationale de France, Paris). The year
+favor of Mt. Gerizim near Nablus. It is possible,          of the earthquake is in question. Before record-
+therefore, that the lack or reference to mid-8th           ing the earthquake the chronicler says: «Marwan
+century damage in Jerusalem reflects lack of in-           bin Muhammad the last of Ummayads who ruled
+terest and disdain. Over the years the rift be-            five years and two months. From the beginning
+tween Samaritans and the Jews ranged from un-              of Islam to this time was 131 years and three
+easy coexistence to bitter rivalry, hatred and             months». Marwan ruled between 744-750 A.D.,
+armed conflicts. Since Samaritan historical ma-            so it is possible that the 131 AH and 3 months
+terials are scarce, much of the information about          date refers to the earthquake of 748/749 A.D..
+such disputes, wars and fates under the rule of            However, after the earthquake entry, the chroni-
+various masters of the Holy Land comes from                cle records the Ummayad-Abbaside conflict and
+extrinsic, evidently biased sources. Even more             the rise of Abu Muslim, which occurred earlier
+serious is the problem of provenance and au-               (Ramadan 747 A.D.).
+thenticity of the available Samaritan texts, since
+in some cases allegations were made that the
+supposedly faithful copies of ancient manu-                7.2.4. Judaic texts
+scripts were fabricated or expanded by copyists
+to sell to travellers and scholars.                            One of the two Jewish documents used in
+    Chronicle Adler (Adler and Seligsohn,                  description and dating of the mid-8th century
+1902), thought to represent a relatively recent            earthquake is a liturgic poem (piyyut) called
+compilation, reports: «a l’epoque de Merwan un             «Seventh earthquake». Liturgic poetry was
+grand tremblement de terre et lieu, jamais il ny           used in synagogues to expand, enliven and re-
+
+                                                     784
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+place some of the fixed prayers and break the                 quake that in 1033/1034 hit Tiberias, Jerusalem,
+monotony of the services, not only on holidays,               Ramle and other towns and villages. This date
+but also on Sabbaths, days of fast and on special             was rejected by Margalioth (1941), who argued
+occasions. The use of this literary form was                  that the fast of 23rd Shvat was mentioned al-
+widespread in Palestine since the days of the                 ready by Pinneas the Poet, who in a 10th centu-
+Talmud and the structure and style did not                    ry text was mentioned amongst «ancient» au-
+change much over the ages, so that the date of                thors and that the poem includes a veiled refer-
+composition can not be deduced from literary                  ence to Moslem rulers. He assumed therefore
+form or language alone.                                       that the earthquake should be backdated and
+     The other text used comes from a 10th-11th               placed between the Arab conquest (about mid-
+century book of prayers and accompanying oc-                  7th century) and the beginning of 9th century, a
+casional texts, that was found in the famed                   period he regarded as consistent with the liter-
+Cairo depository (Genizza).                                   ary form and style of the poem. Having found
+     This poem (Zolai, 1937; Margalioth, 1941)                no evidence that successive earthquakes that hit
+laments an earthquake that caused a widespread                the Holy Land were counted in numerical order,
+destruction and extensive casualties in Tiberias              he read the title of the poem as «Earthquake of
+(«rage in fear and dark chaos will capital                    the Seventh (feminine)» rather than «Seventh
+Tiberias») and a catastrophic flooding in the                 (masculine) Earthquake». The «Seventh» (fem-
+plain of Sharon («in wrath and anger sunk                     inine) stands for a sabbatical (fallow) year and
+crowds in plains in Sharon Valley»). In modern                Margalioth indicated that in the above time
+times Sharon refers exclusively to the central                range only the earthquakes of 712/713 A.D. and
+Coastal Plain of Israel, but in the 4th century it            747/748 A.D. occurred in a sabbatical year.
+was used by Eusebius also for a part of Jordan                Having found no details about the former he
+and Yizrael Valleys between Mt.Tabor and                      dismissed it as unimportant and dated the earth-
+Tiberias (Weitz, 1939; Brawer, 1940). The poet                quake to 23rd Shvat (28 January), 748 A.D. in
+adds: «I heard how disaster befell the city and               agreement with two late Arab chronicles of
+the old and young in it have perished», where it              Mukaddasi (d.14th century) and Ibn Tagri Birdi
+is just barely possible that «the city» refers to             (d.15th century) who transmit news of an earth-
+Jerusalem rather than to Tiberias. The language               quake in AH 130 (747/748 A.D.). Twenty years
+includes elements of Habakkuk, ch.3.12, (earth-               later, Margalioth (1960) found a reference to the
+quake significance is lost in King James Version              23rd Shvat fast in a 10th-11th century book of
+which gives «...Though didst march through the                prayers found in the Cairo Genizza depository:
+land in indignation..» rather than the literal                «On 23 Shevat a fast to the Land of Israel, since
+«...in wrath shall march the land...» where                   the land trembled and many cities fell and sages
+«wrath» may stand for «earthquake» similar to                 and pious and the just and the [etc.]... died un-
+the Byzantine chronicles). The poem repeatedly                der the ruins. And it is referred to in texts ‘in
+refers to a fast in memory of this earthquake,                wrath the earth will pace ahead’ and since de-
+observed on the 23rd of Shvat. Zolai (1937) was               struction of Jerusalem to the date it happened in
+unable to decide if the title of the poem refers to           Land of Israel the count of in wrath [in wrath =
+a seventh shock in course of the same earth-                  b z a’ m]».
+quake swarm, or to a seventh earthquake in a se-                  Margalioth (1960) recognized that [«b z a’m»]
+ries of events preserved in some extinct tradi-               is a gematric expression in which letters of alpha-
+tion. In his opinion, however, the form and style             bet were substituted for numbers. This form of
+dated the poem to 10th-12th century, a period                 codification is quite common in old Jewish texts
+during which Tiberias was damaged only in                     and varies in complexity (for references: e.g.,
+1033/1034 A.D. and in 1202 A.D. Since in end                  Levias, 1903; Scholem, 1971; Lipiner, 1989). The
+11th century the Jewish community in Tiberias                 simplest code proceeds in alphabetical order with
+was too small for its misfortunes to trigger a na-            the first nine letters equivalent to 1-9, the next nine
+tionwide day of fasting, he concluded that the                to 10-90, the next four to 100-400 and the end let-
+fast of 23rd of Shevat commemorated the earth-                ters (five letters in the Hebrew alphabet: chav,
+
+                                                        785
+                                                  Iaakov Karcz
+
+
+
+mem, nun, peh, tsadik, assume different form                  the «Great Earthquake». Particularly numerous
+when at end of a word) to 500-900. There are,                 are reports of damage and destruction it caused
+however, more than 70 gematric conversion codes,              across Byzantine-Ummayad complexes in Israel,
+some relatively simple and some based on com-                 Jordan and Syria and of the far reaching implica-
+plex permutations or multiple-tier systems. The               tions it had. Thus for example, archaeologists
+ancient and modern numerologists applied such                 (e.g., Ben Dov, 1985, 2002; Wightman, 1993) re-
+diverse techniques to discover hidden meanings of             port extensive damage in Jerusalem, particularly
+words and expressions, for example by treating                southwest of the Temple Mount, dated by them to
+the numerical value of a word as a clue to another            747 A.D.. They claim that the damage, particular-
+word with the same numerical value. Occasional-               ly that to a central Ummayad administrative build-
+ly the code is selected so that the number, word or           ing, still under construction at the time of the
+expression would lead to a specific biblical verse            earthquake, was responsible for Marwan’s deci-
+or moral. Consequently, gematric hints must be                sion to abandon his plans to move the center of
+treated with caution, since it is not always clear            power from Damascus to Jerusalem. This sugges-
+what code the writer used. Margalioth used one of             tion, while plausible, ignores the fact that the Arab
+the most common codes (b = 2, z = 7, a’ = 70, end             chronicles reporting the AH 130 and 131 earth-
+m = 600) to arrive at the 679th year since the de-            quakes record similar damage and destruction in
+struction of the Temple (70 A.D.) and obtained a              Syria and Damascus itself. Furthermore, it is not
+final earthquake date of 23rd Shvat, 17 January               altogether clear, what was the structural effect of
+749 A.D., one year later than his former interpre-            the punitive removal of fortifications of Jerusalem,
+tation. In support of this ameliorated date Mar-              Damascus and Baalbek ordered by Marwan in
+galioth cited Theophanes’ (d.818) account of an               about 744/745 in retaliation for their sympathies
+earthquake in Palestine on 18 January 747 and                 with his opponents (Wellhausen, 1973) and
+Michael the Syrian’s (d.1199) account of an earth-            whether the city walls were dismantled or demol-
+quake in Syria and Palestine in 749 A.D.; combin-             ished with a resulting weakening of the adjacent
+ing the day and month of the former with the year             buildings.
+of the latter. Unfortunately, neither the 748 nor the             The ingenious proposal of Margalioth relied
+749 A.D. date is fully consistent with Margalioths            on some questionable assumptions and was not
+own arguments. On one hand, he showed that in                 entirely consistent in chronological analysis as
+749 A.D. the Jewish and Julian day and month                  well as in perception of the texts (Karcz and Elad,
+dates of 23rd Shvat and 18 January nearly coin-               1992; Berberian, 2001). Since the Creation, De-
+cided, whereas in 748 A.D. they were 10 days                  struction and possibly also the Sabbatical year
+apart, but on the other hand 748/749 A.D. was not             counting customs varied at that time, identifica-
+a sabbatical year, whereas 747/748 A.D. was.                  tion of a year date in a Jewish text is fully mean-
+Margalioth opted for the 749 A.D. year date, as-              ingful only if the years are given in all three ref-
+suming that the 8th century count of sabbatical               erence systems and are consistent. Similarly, the
+years followed an obscure system that lagged a                present conversion tables that Margalioth used
+year behind that used currently (Wacholder,                   are not applicable in detailed calibration of pre-
+1973). Tsafrir and Foerster (1992) took the same              10th century month and day dates, when calendar
+stand, reinforced by their find of a mint condition           and intercalation practices were not fully fixed.
+748 A.D. coin underneath seismic collapse rubble              Thus the choice of a year date using coincidence
+in the excavations of Beth Shaan. A somewhat                  of the Julian and Jewish month and day, which
+similar situation was reported by Tsafiris (1989)             was behind the decisions of Margalioth to move
+from Cappernaum, where the last in a hoard of                 the day and month of Theophanes’s 18 January
+coins found under collapse rubble was minted in               747 earthquake from 747 to 749 A.D. and to
+744 A.D.. Cushioned by the great authority of                 move the sabbatical count so that the fallow year
+Margalioth, one of the leading Judaic scholars of             falls in 749 rather than in 748, may be mislead-
+his time, the 18 January 749 A.D. earthquake took             ing. Berberian (2001) raised further weighty ob-
+roots in the local historical, literary and archaeo-          jections to Margalioth’s methodology. First, he
+logical literature and is occasionally referred to as         drew attention to a piyyut, which counts in nu-
+
+                                                        786
+            Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+merical order 10 earthquakes reflecting largely               posed seismic evidence either in literary or
+allegoric seismic echoes in the Bible and denied              homiletic texts, or at archaeological sites. Usu-
+that the «seventh» refers to a fallow year and even           ally such evidence is equivocal and admits ex-
+more important, that the «Seventh earthquake»                 planation and interpretation that are unrelated
+may refer to an allegoric rather than a historical            to any seismic effects. The supposed literary
+event. Second, since the gematric interpretation              earthquake motives may represent linguistic al-
+of the Hebrew expression «b z a’ m» follows a                 lusions or metaphors that reflect biblical events
+method, which is not unique but one of many, the              and quasi-historical traditions preserved in the
+figure of 679 years after destruction is equivocal            collective memory at the time the text was writ-
+and would change according to the chosen con-                 ten. Equally the word or a phrase with supposed
+version code. Finally, Berberian pointed out that             seismic connotations, may in fact refer to tu-
+the form and style of the poem can not indicate its           mult, fear, or horror. Usually, the prevailing ar-
+age even with a resolution of several centuries               gument for seismic significance rests on a cor-
+(indeed the intuitive dating of Zolai and Mar-                relation to an earthquake indicated in one of the
+galioth spans almost six centuries) and suggested             earthquake catalogs within a time-window ten-
+that the poem may have been composed much                     tatively defined for the text. Such correlations,
+earlier than mid-7th century.                                 though obviously biased, first by the quality of
+                                                              the catalogue used and then by the vested inter-
+                                                              est of the scholar in obtaining a terminus post
+7.3. Summary                                                  quem date for the text, often involved earth-
+                                                              quakes that were documented only more than
+    It appears that Margalioth’s assumptions are              five hundred kilometers away. In a similar fash-
+questionable and do not provide a solid enough                ion, early archaeologists in the Holy Land jus-
+basis for harmonization. Part of the problem                  tified the assigning of seismic origin to features
+was that he was unaware of most of the mid-8th                of «total disaster», structural damage and re-
+century earthquake records in Byzantine, East-                pairs, architectural asymmetries and site decay
+ern Christian and Moslem chronicles and texts,                and desertion. Since the same features may re-
+which indicate that difficulty in harmonizing                 sult from indifferent design and workmanship,
+the day, month and year dates stems from there                static decay of buildings or willful destruction
+have been more one event. In fact, the unre-                  by man (e.g., Karcz and Kafri, 1978, 1981;
+solved question is whether there were only two                Rapp, 1986; Stiros and Jones, 1996), it is the
+such earthquakes or more. Whatever the case, it               correlation to historic records that tips the scale
+is apparent that the image of widespread dam-                 in favour of seismic interpretation. Also in this
+aging intensities produced by a single high                   case, in addition to a sense of drama, seismic
+magnitude earthquake is misleading. It is prob-               interpretation provides a chronological marker
+able that the intense damage in northern Israel               that aids in dating the site and relating it to a
+and Jordan (possibly also in Jerusalem and                    discrete historical event. Once such correla-
+Damascus) includes the collapse of structures                 tions, textual or archaeological are published,
+weakened in the previous earthquake with epi-                 they are accepted by earth scientists as inde-
+center more to the south.                                     pendent evidence of the time, extent and even
+                                                              earthquake intensity and all simplifying as-
+                                                              sumptions on which correlation rests are ig-
+8. Conclusions                                                nored. In the next stage of the process, the sup-
+                                                              posedly reliable earthquake impact undergoes
+    A two stage, circuitous interdisciplinary                 self enhancement by adhesion of further textual
+mechanism leads to overestimates of historical                seismic echoes or further archaeoseismic inter-
+earthquake intensities in the catalogues of                   pretations.
+earthquakes in the Holy Land. The first stage                      It should be clear that this is not to say that
+starts with a tentative identification, usually by            the local textual, archaeological or palaeoseismic
+Judaic scholars or by archaeologists, of sup-                 evidence, is of no value, in fact just the reverse is
+
+                                                        787
+                                                             Iaakov Karcz
+
+
+
+true. To realize its full potential, however, analy-                      BAILEY, C.B. (1947): Lucretius (Clarendon Press, Oxford).
+                                                                          BALDUS, H.R. (1970): Der Helm des Tryphons und die Se-
+sis of such evidence must be accompanied by a                                 leukische Chronologie des Jahre 146-138 v. Chr., Jahrbuch
+detailed budget of assumptions and uncertainties                              Nummismatik und Geldgeschichte, 20, 217-239.
+inherent in each and every interpretation.                                BARONIUS, C. (1593): Annales Ecclesiastici, 12 (680-761
+                                                                              A.D.), p. 524, 526.
+                                                                          Barrington Atlas of the Greek and Roman World (2000), edit-
+                                                                              ed by R.J.A. TALBERT (Princeton, University Press).
+                  Acknowledgements                                        BARTOV, Y. (1990): Geological photomap of Israel and adja-
+                                                                              cent areas 1:750000, Survey of Israel, Tel Aviv.
+    This is to thank Max Stucchi and Paola Al-                            BEKKER, I. (1839): Georgius Cedrenus Synopsis historiarum,
+                                                                              Corpus Script. Hist. Byzant., Weber, Bonn, 2, p. 7, 9.
+bini for support and endless forbearance, to                              BEKKER, I. (1837): Breviarium Rebus post Mauricium Gestis,
+Paola Albini and Nick Ambraseys for editorial                                 Pat. Graeca, 100, col. 974.
+and critical comments. The remaining blunders                             BEN DOV, M. (1985): In the shadow of the Temple, Keter,
+are mine. I am very grateful to Amikam Elad                                   Jerusalem.
+                                                                          BEN DOV, M. (2002): Historical atlas of Jerusalem, Continu-
+and Paul Stenhouse for extracts from their un-                                um, London.
+published work and to Beni Begin for fig. 2.                              BEN-MENAHEM, A. (1979): Earthquake catalogue for the Mid-
+                                                                              dle East (92 B.C.-1980 A.D.), Boll. Geofis. Teor. Applic.,
+                                                                              21, 84, 245-310.
+                                                                          BEN-MENAHEM, A. (1991): 4000 years of seismicity along the
+REFERENCES                                                                    Dead Sea Rift, J. Geophys. Res., 96, 20195-20216.
+                                                                          BEN-MENAHEM, A., A. NUR and M. VERED (1976): Tectonics,
+The short quotation in the text explicitly mentions the                       seismicity and structure of the Afro-Eurasian junction, the
+source and the used edition of the source. The latter is ful-                 breaking of an incoherent plate, Phys. Earth Planet. In-
+ly referenced in the following.                                               ter., 12, 1-50.
+                                                                          BERBERIAN, A. (2001): The earthquake of the seventh, what is
+                                                                              it? 13th World Congress of Jewish Studies, 14 August
+ABOU KARAKI, N. (1987): Synthèse et carte sismotectonique                     2001 (unpublished).
+    des pays de la bordure orientale de la Mediterranée: Sis-             BICKERMAN, E.J. (1968): Chronology of the Ancient World
+    micité du système de failles du Jourdain - Mer Morte,                     (London, Thames & Hudson), pp. 253.
+    Ph.D. Thesis (Univ. Strasbourg), pp. 417.                             BLANCKENHORN, M. (1905): Über die letzten Erdbeben in
+ADLER C. and SELIGSOHN M. (1902): Une nouvelle chronique                      Palestina, Zeitschrift, Deutsche Palastina Verein, 28, 206-
+    Samaritaine, Revue Etudes Juives, 45, 223-254.                            221.
+AKAVIA, A.A. (1953): The Calendar and its Use for Chrono-                 BOETTGER, G. (1879): Topographisch-Historisches Lexicon zu
+    logical Purposes (Magness Press, Jerusalem), p. 182.                      den Schriften Flavius Josephus, Fernau, Leipzig, pp. 285.
+AKAVIA, A.A. (1976): Calendar for 6000 years (Mossad Har-                 BOOR DE, C. (1880): Nicephori archiepiscopi Constantinopo-
+    av Kook, Jerusalem), pp. 679.                                             litani, Opuscula historica, Leipzig, pp. 62, 64.
+ALSINAWI, S.A. (1988): The historical seismicity of the Arab              BRAWER, A. (1940): Sharon on the coast, Bull. Jewish Pales-
+    countries, in Proc. 3rd Arab Seismological Seminar, King                  tine Exploration Society, 7, 34-38 (in Hebrew).
+    Saud Univ., Riaydh, 11-33.                                            BROOKS, E.W. (1906): The sources of Theophanes and the
+AL TARAZI, E. (1992): Investigation and assessment of seismic                 Syriac Chroniclers, Byzant. Zeitsc., 15, 578-587.
+    hazard in Jordan and its vicinity, Berichte des Instituts fur         BROOKS, E.W. (1910): Eliae Metropolitae Nisisbeni opus
+    Geophysik der Ruhr Universität, Bochum, pp. 196.                          chronologicum, I, Corpus Scriptorum Christianorum
+AMBRASEYS, N.N. and D. WHITE (1996): Seismicity of the                        Orientalium (CSCO), Scriptores Syrii, vol. 23.
+    East Mediterranean and Middle East, ESEE Research                     BROSSET, M. (1869): Histoire Chronologique par Mekhithar
+    Rept 96-3-1996 (Imperial College, London), n.p.                           d’Airvank, Mem. Acad. Imp. Sc., St. Petersburg, Series 7,
+AMBRASEYS, N.N. and D. WHITE (1997): The seismicity of the                    Tome 13, 5, (1869), p. 110.
+    eastern Mediterranean region 550-1 B.C.: A re-appraisal,              BURGESS, R.W. (1999): Studies in Eusebian and post-Eusebian
+    J. Earthquake Eng., 1, 603-632.                                           chronography, Historia, Journal of Ancient History, 15, p.
+AMBRASEYS, N.N., C.P. MELVILLE and R.D. ADAMS (1994):                         134-143.
+    The seismicity of Egypt, Arabia and the Red Sea (Cam-                 CAETANI, L. (1912): Chronographia Islamica, 5, Anni AH 86-
+    bridge Univ. Press), pp. 181.                                             132, Roma.
+AMIRAN, D.H.K. (1950-51): A revised earthquake catalogue of               CARY, E. (1969): Dio’s Roman History (Loeb, Heineman Lon-
+    Palestine, Israel Exploration J., 1, 4, 223-246.                          don).
+AMIRAN, D.H.K., E. ARIE and T. TURCOTTE (1994): Earth-                    CASHDAN, E. (1935): Menahot, Babylonian Talmud (Socino
+    quakes in Israel and adjacent areas, Isr. Explor. J., 44,                 Press, London), pp. 709.
+    260-305.                                                              CHABOT, J.B. (1894): Trois episodes concenant les Juifs, Rev.
+ARIE, E. (1967): Seismicity of Israel and adjacent areas, Geol.               Etudes Juives, 28, 290-294.
+    Survey Israel Bull., 43, 1-14.                                        CHABOT, J.B. (1895): Chronique de Denys de Tell Mahre, qua-
+ARVANITAKIS, G.L. (1904): Essai sur le climat de Jerusalem,                   trième partie, Bouillon Paris, Chronicon Psudodionysi-
+    Bulletin Institut d’Egypt, 4 (4), 128-189.                                um, vulgo dictum, Corpus Scriptorum Christianorum
+
+
+                                                                    788
+               Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+    Orientalium (CSCO) 121, Scriptores Syrii, vol. 1.                       VIROS (Leiden), p. 372.
+CHABOT, J.B. (1899): Chronique de Michel le Syrien, Tome 1,             EVETTS, B. (1947): History of the Patriarchs of the Coptic Church
+    Leroux, Paris.                                                          of Alexandria, Patrologia Orientalis, 5 (1), 139-140.
+CHABOT, J.B. (1910): Eliae Metropolitae Nisisbeni opus                  FINEGAN, J. (1998): Handbook of Biblical Chronology (Hen-
+    chronologicum, II, Corpus Scriptorum Christianorum                      drickson, Peabody, Mass), pp. 426.
+    Orientalium (CSCO), Scriptores Syrii, vol. 24.                      FISCHER, M., M. GICHON and O. TAL (2000): En Gedi,
+CHABOT, J.B. (1937): Chronicon ad annum Christi 1234 perti-                 (Zabern, Mainz), II, p. 181.
+    nens, Corpus Scriptorum Christianorum Orientalium                   FLINT, P. and J.C. VANDERKAM (1999): Dead Sea Scrolls after
+    (CSCO), Scriptores Syrii, vol. 56 (Ser. III, 15), Louvain               fifty years (Brill, Leiden) vol. 1, p. 544; vol. 2, p. 816.
+    1937.                                                               FRANK, E. (1956): Talmudic and Rabbinical Chronology
+CHARLESWORTH, J.H. (Editor) (1983): Treatise of Shem,                       (Feldheim, New York), p. 58.
+    The Old Testament Epigrapha, 1, Doubleday, New                      GAMBER, K. (1984): Zur Geschichte des Koimesis-Festes, Os-
+    York, 472-486.                                                          tkirchliche Studien.
+CHEIKO (1903): Petrus Ibn Rahib, Chronicon orientale, Cor-              GARCIA MARTINEZ, F. (1994): Dead Sea Scrolls Translated
+    pus Scriptorum Christianorum Orientalium (CSCO),                        (Brill, Leiden), pp. 513.
+    Scriptores Arabici.                                                 GARCIA-MARTINEZ, F. and E.J.C. TIGCHELAAR (1997): The
+COHEN, A. (1936): Sotah, Babylonian Talmud (Socino Press,                   Dead Sea Scrolls, Study Edition, vol. 1, 1Q1-4Q273
+    London), pp. 300.                                                       (Brill, New York), pp. 627.
+CORCORAN, T.H. (1972): Seneca, Naturales Quaestiones                    GARFUNKEL, Z. (2001): The nature and history of motion
+    (Loeb, Heinemann, London).                                              along the Dead Sea transform (rift), in The Jordan Rift
+CROKE, B. (1990): Malalas, the man and his work, edited by E.               Valley, edited by A. HOROWITZ (Balkema), p. 627-651.
+    JEFFREYS, B. CROKE and R. SCOTT, Studies in Malalas,                GARFUNKEL, Z., I. ZAK and R. FREUND (1981): Active faulting
+    Australian Association for Byzantine Studies, Byzantina                 in the Dead Sea rift, Tectonophysics, 80, 1-26.
+    Australiensis, 6, pp.1-27.                                          GARITTE, G. (1958): Le calendrier Palestino-Géorgien, Studia
+CROWN, A.D. (1989): Samaritans (Mohr Siebeck, Tubingen),                    Hagiograpohica (Société des Bollandistes, Bruxelles),
+    pp. 865.                                                                20, 133-134.
+CROWN, A.D. (2001): Samaritan scribes and manuscripts                   GHAWANMEH, Y. (1992): Earthquake effects on Bilad ash-
+    (Mohr Siebeck, Tubingen), pp. 555.                                      Sham settlements, Studies in History and Archaeology of
+DEFERRARI, R.J. (1964): Paulus Orosius, Seven books of histo-               Jordan (Hashemite Kingdom of Jordan, Department of
+    ry against pagans (Fathers of the Church, Catholic Univ.                Antiquities), 4, 53-59.
+    of America, Washington DC), p. 414.                                 GICHON, M. (1993): En Boqeq (Zabern, Mainz), p. 25, 52, 55,
+DEGG, M.R. and J.C. DOORENKAMP (1989): Earthquake Haz-                      63, 100.
+    ard Atlas, Based on R.O.A. earthquake hazard zonation               GOMEZ, F., M. MEGHRAOUI, A.N. DARKAL, F. HIJAZI, M.
+    scheme, 1. Israel; 2. Egypt (London Reinsurance Offices                 MOUTY, Y. SULEIMAN, R. SBEINATI, R. DARAWCHEH, R. AL
+    Assoc.), pp. A1-D1.1.16.                                                GHAZZI and M. BARAZANGHI (2003): Holocene faulting
+DI SEGNI, L. (1997): Dated Greek inscriptions from Palestine                and earthquake recurrence along the Serghaya branch of
+    from the Roman and Byzantine periods, Hebrew Univer-                    the Dead Sea fault system in Syria and Lebanon, Geo-
+    sity, Ph.D. Thesis, 3 vols.                                             phys. J. Int., 153, 658-674.
+DIENER, C. (1886): Libanon (Hoelder, Wien), p. 412.                     GRAETZ (1888): Geschichte der Juden (Oskar Leitner,
+DIMANT, D. (1995): The Qumran manuscripts: contents and                     Leipzig), 2nd edition.
+    significance, in Time to Prepare the Way in the Wilder-             GRAINGER, J. (1990): The cities of Seleukid Syria (Oxford
+    ness, edited by D. DIMANT and L.H. SCHIFFMAN (Brill,                    Univ. Press), pp. 253.
+    Leiden), p. 23-59.                                                  GRAINGER, J. (1997): A Seleukid Prosopography and
+DIMANT, D. (2000): The Library of Qumran, its content and                   Gazetteer, Brill, pp. 818.
+    character, in The Dead Sea Scrolls 50 years after their             GROSSBERG, M. (1905): Tractat Megilath Taanith aus dem
+    Discovery, edited by L.H. SCHIFFMAN, E. TOV and J.C.                    babylonischen Talmud, Lemberg (published by the au-
+    VANDERKAM (Israel Exploration Society, Jerusalem), p.                   thor), pp. 84.
+    170-177.                                                            GRUMEL, V. (1958): La Chronologie, Traité d’Études Byzan-
+DOWNEY, G. (1938): Seleucid chronology in Malalas, Am. J.                   tines, vol. 1, pp. 479.
+    Archaeol., 42, 106-120.                                             GUIDOBONI, E., A. COMASTRI and G. TRAINA (1994): Catalogue
+DOWNEY, G. (1961): A History of Antioch in Syria from Seleucus              of Ancient Earthquakes in the Mediterranean Area up to
+    to Arab Conquest (Princeton University, Princeton), p. 751.             the 10th Century (ING, Roma-SGA, Bologna), pp. 504.
+DOWNEY, G. (1963): Ancient Antioch (Princeton Univ.Press,               GULICK, C.B. (1957): Athenaeus, Deipnosophists (Loeb, Hen-
+    Princeton), p. 295.                                                     eman, London).
+DUSSAUD, R. (1927): Topographie historique de la Syrie an-              HAKEEM AL, K. (1988): Studying of historical earthquakes ac-
+    tique et médiévale (Libraire orientaliste Paul Geuthner,                tivity in Syria, in Workshop on Historical Seismicity of the
+    Paris), pp. 632.                                                        Central Eastern Mediterranean Region, edited by C.
+EFRON, J. (1987): Studies on the Hasmonean Period (Brill,                   MARGOTTINI and L. SERVA (ENEA), Rome, 19-32.
+    Leiden), p. 442.                                                    HAMPEL, I. (1976): Megillat Taanit, Ph.D. Thesis (University
+ELAD, A. (1995): Mediaeval Jerusalem and Islamic Worship                    of Tel Aviv, Tel Aviv), pp. 222 (in Hebrew).
+    (Brill, New York), p. 196.                                          HARRAK, A. (1999): The Chronicle of Zuqnin, Parts III-IV,
+ERPENIUS, T. (1625): Georgio Elmacino, Historia Saracenica                  A.D. 488-775, Toronto, 1999.
+    qua res gestae muslimorium, edited by MAIRE and ELZE-               HASSON, I. (1979): Al Wasiti Abu Bakr Muhammad b Ahmad
+
+                                                                  789
+                                                              Iaakov Karcz
+
+
+
+     (Fadail al Bayt al Muuqaddas, Jerusalem), pp. 84.                         The Qumran Chronicle, 8, pp. 49-62.
+HIRSHFELD, I. (2003): Qumran in the Second Temple Period, a                MAGNESS, J. (2002): The archaeology of Qumran and the
+     reassessment of excavation results, Cathedra, 109, 5-50                   Dead Sea Scrolls (Eerdmans, Grand Rapids), pp. 238.
+     (in Hebrew).                                                          MAHLER, E. (1916): Handbuch der judischen chronologie
+HOFF, K.E.A. VON (1840): Chronik der Erdbeben und Vul-                         (Fock, Leipzig), pp. 65.
+     can-Ausbrüche, I. Theil (Jestus Perthes, Gotha), pp.                  MALLET R., (1853): Catalogue of recorded earthquakes from
+     470.                                                                      1606 B.C. to 1850, Brit. Ass. Rep., 1853, 1-176.
+HOROWITZ, A. (2001): The Jordan Rift Valley, Balkema,                      MANGO, C. and R. SCOTT (1997): The Chronicle of Theo-
+     pp. 730.                                                                  phanes Confessor (Clarendon Press, Oxford), pp. 744.
+HUMBERT, J.B. and A. CHAMBON (1994): Fouilles de Khirbet                   MANGO, C. (1990): Short history, Nikephoros Patriarch of
+     Qumran et de Ain Feshkha (Vanderhoech and Ruprecht,                       Constantinople, Dumbarton Oaks Texts 10 (Dumbarton
+     Gottingen), p. 411.                                                       Oaks Res. Library, Washington DC), pp. 247.
+JEFFREYS, E., M. JEFFREYS and R. SCOTT (Editors) (1986): The               MARCO, S. and A. AGNON (2004): Eartquakes of past two mil-
+     chronicle of John Malalas, Australian Association for                     lenia in the northern Dead Sea Fault, in Abstracts Israel
+     Byzantine Studies, Byzantina Australiensis, 4, p. 371.                    Geological. Soc. Annual. Meeting, Hagoshrim, p.75.
+JONES, H.L. (1917): Strabo, Geography (Loeb Class. Lib.                    MARCO, S., M. HARTAL, N. HAZAN, L. LEV and M. STEIN
+     Heinemann, London), 8 vols.                                               (2003): Archaeology, history and geology of the A.D. 749
+KARCZ, I. and A. ELAD (1992): The date of the «sabbatical                      earthquake, Dead Sea transform, Geology, 31, 665-668.
+     year» earthquake and its significance, Tarbitz, 61, 67-83             MARCUS, R. (1976): Josephus, Antiquities, Books 9-17 (Loeb,
+     (in Hebrew).                                                              Heinemann, London).
+KARCZ, I. and U. KAFRI (1978): Evaluation of supposed ar-                  MARGALIOTH, M. (1941): The date of an earthquake in
+     chaeoseismic damage in Israel, J. Archaeol. Sci., 5 (1978)                Tiberias, Bull. Jewish Palestine Exploration Society, 8,
+     237-253.                                                                  97-104 (in Hebrew).
+KARCZ, I. and U. KAFRI (1981): Studies in Archaeoseismicity                MARGALIOTH, M. (1960): A new document on the fast of the
+     of Israel: Hisham’s Palace, Jericho, Israel J. Earth Sc., 30,             earthquake, Tarbitz, 29, 339-344 (in Hebrew).
+     12-23.                                                                MAZAR, B., T. DOTHAN and I. DUNAYEVSKI (1966): Ein Gedi,
+KEN-TOR, R., A. AGNON, Y. ENZEL and M. STEIN (2000): High                      The first and second seasons of excavations 1961-1962,
+     resolution geological record of historic earthquakes in the               Atiqot, 5, Jerusalem 1966, p. 5 note 16.
+     Dead Sea basin, J. Geophys. Res., 106 (B2), 2221-2234.                MAZZA, R. (1998): The supposed Egyptian earthquakes of
+KIDD, I.G. (1988, 1999): Posidonius, vols.1, 2, p. 1045; vol. 3,               184, 95 B.C. Critical review and some lines of research in
+     p. 495.                                                                   historical seismology using Greek papyri from Egypt,
+KIRZNER, E.W. (1935): Baba Kama Babylonian Talmud (Soci-                       Ann. Geofis., 41 (1), 121-125.
+     no Press, London), p. 752.                                            MEIMARIS, Y. (1992): Chronological systems in Roman Byzan-
+KLIJN, A.F.J. (1983): Syriac apocalypse of Baruch, in Old Tes-                 tine Palestine and Arabia, Athens Research Centre for
+     tament Epigrapha, edited by J.H. CHARLESWORT (Dou-                        Greek and Roman antiquity, National Hellenic Founda-
+     bleday, Garden City, New York), 1, 615-653.                               tion, Studies 17, pp. 432.
+KOVACH, R.L. (1989): Seismicity patterns, earthquake source                MIGNANA, A. (1917): The book of Shem son of Noah, Some
+     mechanisms and seismic hazards in Jordan, in Proc. 4th                    early JudaeoChristian documents in the John Rylands Li-
+     International Symposium on Analysis of Seismicity and                     brary, Bull. Jrl., 4 (1917), 59-118.
+     Seismic Risk, Bechyne Castle, Czechoslovakia, n.p.                    MIGNE, J.P. (1879): Anastasii Prolegomena, Pat. Lat.,127, coll.
+KOVACH, R.L., G.E. ANDREASEN, M.E. GETTINGS and K. EL                          909.
+     KAYSI (1990): Geophysical investigations in Jordan,                   MIGOWSKI, C., A. AGNON, R. BOOKMAN, J.F.W. NEGEDANK and
+     Tectonophysics, 180, 61-69.                                               M. STEIN (2004): Recurrence pattern of Holocene earth-
+KURAN, U. (1980): Fatigue crack propagation along the Ana-                     quakes along the Dead Sea transform revealed by varve-
+     tolian faults and Levant coast and earthquake prediction,                 counting and radiocarbon dating of lacustrine sediments,
+     in Multidisciplinary Approach to Earthquake Prediction,                   Earth Planet. Sci. Lett., EPSL-07056, p. 14 (on line:
+     edited by A.M. ISIKAR and A. VOGEL (F. Vieweg, Braun-                     www.elsevier.com/locate/epsl).
+     schweig), 207-221.                                                    MILIK, J.T. (1959): Ten years of discovery in the wilderness of
+LEONARD, R.D. (1997): Numismatic evidence for the dating of                    Judaea (SCM Press, London), pp. 160.
+     Qumran, Qumran Chronicle, 7 (3-4), 225-234.                           MILLAR, F. (1987): The problem of Hellenistic Syria, in Hel-
+LE STRANGE, G. (1887): The noble sanctuary of Jerusalem                        lenism in the East, edited by A. KUHRT and S. SHERWIN-
+     (Muthir al Gharam bi Fadail al Quds wal Shamof al Maq-                    WHITE (U. California Press), 110-133, .
+     disi), J. R. Asiat. Soc., 19, p. 304.                                 MURALT, E. DE (1855): Essai de Chronographie Byzantine,
+LEVIAS, C. (1903): Gematria, Jewish Encyclopaedia, 5, 589-                     Paris, Hakkert, Orient, Paris, 1963, 2 vols.
+     592.                                                                  MURALT, E. DE (1863): Hamartolus Georgius Monachus,
+LICHTENSTEIN, H. (1931): Die Fastenrollenrolle: eine Unter-                    Chronicon Breve, Patrol. Graeca, 110, col. 946.
+     suchung zur Judische Hellenistischen Geschichte, HUCA,                MURATORI, T.A. (1861): Paulus Diaconus Historia Miscella,
+     8-9, 257-351.                                                             Pat. Lat. 95, coll. 1094-1098.
+LIPINER, E. (1989): Metaphysics of the Hebrew Alphabet (Mag-               NEJJAR, S. (1973): Al Suyuti, Jalal al Din, Kashf al Salsala an
+     ness Press, Jerusalem), p. 618 (in Hebrew).                               Wasf al Zalzala, 9th-10th edition, Rabat, p. 106.
+MAGNESS, J. (1995): The chronology of the settlement at Qum-               NETZER, E. (1991): Massada III, the buildings, stratigraphy
+     ran in the Herodian period, Dead Sea Discoveries 2, 58-65.                and architecture, Israel Exploration Society, Jerusalem,
+MAGNESS, J. (1998): The Archaeology of Qumran: a review, in                    pp. 655.
+
+
+                                                                     790
+               Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land
+
+
+
+NETZER, E. (1997): Massada from foundations to destruction,            SCHIFFMAN, L.H. and J.C. VANDERKAM (2000): Encyclopedia
+    in The story of Massada, edited by G. HURVITZ (BYU,                    of Dead Sea Scrolls (Oxford Univ. Press), pp. 1132.
+    Provo), pp. 146.                                                   SCHIFFMAN, L.H., E. TOV and J.C. VANDERKAM (2000): The
+NEUBAUER, A. (1868): Geographe du Talmud (Michel Levy,                     Dead Sea Scrolls 50 years after their discovery, Israel Ex-
+    Paris), pp. 468.                                                       ploration Society, Jerusalem, p. 970.
+NOAM, V. (2003): Megillat Taanit, Versions, Interpretation,            SCHLESINGER, A.C. (1967): Livy, Summaries (Loeb, Heine-
+    History with a Critical Edition (Yad Ben Zvi Press,                    mann, London).
+    Jerusalem), pp. 436.                                               SCHOLEM, G. (1971): Gematria, Enc. Judaica, 7, coll. 370-374.
+NORTH, R.G. (1974): Seismic slip rates in the Mediterranean            SCHREINER (1979): Die byzantinische kleinchroniken (Oster-
+    and the Middle East, Nature, 252, 560.                                 reich Akad. Wissensch.), Corpus fontium Historiae
+NORTH, R.G. (1977): Seismic moment, source dimensions and                  Byzantinae, Reichschronik 1, Paragraphs 17, 18.
+    stresses associated with earthquakes in the Mediterranean          SCHURER, E. (1973): The History of the Jewish people in the
+    and Middle East, Geophys. J. R. Astron. Soc., 48, 137-161.             age of Jesus Christ (175B.C.-135 A.D.), edited by M.
+NUR, A. (1991): And the walls came tumbling down, New Sci-                 BLACK and T.T. CLARK (Edinburgh), vol. I (1973), p. 614;
+    entist, 6 July 1991, 39-42.                                            vol. II (1979); vol. III (1986), p. 704; vol. III2 (1987),
+OSTROGORSKY, G. (1928): Die chronologie des Theophanes                     705-1015.
+    im 7 und 8 Jahrhundert, Byzantinisch-Neugriechische                SCHWARTZ, J.J. (1991): Lod (Lydda), Israel, 5600 B.C.-640
+    Jahrbuch, 7, 1-56.                                                     A.D., Oxford, pp. 212.
+PAULY, A.F. VON and WISSOWA G. (1893-1972): Paulys Real-               SEEL, O. (1985): Justinus, Epitoma Historiarum Phillipicarum
+    Encyclopaedie der classischen Altertumswissenschaft.                   Pompei Trogi (Teubner, Stuttgart).
+    Neue Bearbeitung, Chalcis, vol. 3, c. 2078, Stuttgart              SHAHAR, Y. (1996): Josephus Geography of Eretz Israel and its
+    1899.                                                                  relation to Talmudic traditions and Hellenistic and Roman
+PAYNE-SMITH, R. (1863); The Samaritan Chronicle of Abu’l                   literature, Ph.D. Thesis (Tel Aviv University, Tel Aviv),
+    Fatch etc. (edited by Deutsche Vierteljahschrift fur evan-             (in Hebrew).
+    gelische theologie Forschung).                                     SHALEM, N. (1949): Earthquakes in Jerusalem, Jerushalaim, 1
+PERESS, Y. (1952): Eretz Israel, Topographic-historic Ency-                (22-54), (in Hebrew).
+    clopaedia of Palestine, vol. 3, p. 503.                            SHALEM, N. (1951): Seismicity in Palestine and in the neigh-
+PERREY, A. (1850): Mémoire sur le Tremblement de terre                     boring areas, Israel Ministry of Agriculture, Water Divi-
+    ressentis dans la Peninsule Turco Hellenique et Syria,                 sion, pp. 68 (unpublished report).
+    Mém. Cour. Mem. Sav. Étrangère, Académie Royale Bel-               SHALEM, N. (1956): Seismic waves (tsunamis) in the eastern
+    gique, 23, 173.                                                        Mediterranean, Society for Exploration of Eretz Israel,
+PLASSARD, J. and B. KOGOJ (1962): Catalogue des séismes                    20, 159-170.
+    ressentis au Liban, Ann. Mem. Seism. Observat. Ksara,              SHALTUT, F.M. (1929): Ibn Tagri Birdi, Abu l’Mahasin al Nu-
+    pp. 12.                                                                jum al Zahira Fi Muluk Misr wal Quhira, Cairo, v. 1,
+PICARD, L. (1943): Structure and evolution of Palestine, Bull.             p. 311.
+    Geol. Dept., Hebrew University, 1, 1-143.                          SHAMIR, G., Y. BARTOV, A. SNEH, L. FLEISCHER, V. ARAD and
+PINDER, M. (1897): Ioannis Zonaras Annales, Corpus Script.                 M. ROSENSAFT (2001): Preliminary seismic zonation in
+    Hst. Byzant. (Weber, Bonn), 3, 268-269.                                Israel, Geol. Survey of Israel, Rep. GSI/12/2001.
+POIRIER, J.P. and M.A. TAHER (1980): Historical Seismicity in          SHANKS, H. (1998a): The Enigma of Qumran, BAR, 1, 24-37,
+    the Near and Middle East, North Africa and Spain from                  78-84.
+    Arabic documents from VIIth-XVIIIth century, Bull.                 SHANKS, H. (1998b): The Mystery and Meaning of Dead Sea
+    Seismol. Soc. Amer., 70, 2185-2201.                                    Scrolls (Random House, New York), p. 246.
+PROUDFOOT, A. (1974): The sources of Theophanes for Hera-              SHAPIRA, A. and A. HOFSTETTER (2002): Seimicity Parameters
+    clian dynasty, Byzantion, 44, 367-439.                                 of Seismogenic Zones (available on line: www.gii.co.il).
+RACKHAM, H. (1958): Pliny, Natural History (Loeb, Heine-               SHAPIRA, A.G. and SHAMIR (1994): Seismicity parameters of
+    mann, London).                                                         seismogenic zones in and around Israel, Institute of Petro-
+RAPP, G. (1986): Assessing archaeological evidence for seis-               leum Research and Geophysics, Rep. z1/567/79 (109).
+    mic catastrophes, Geoarchaeology, 1, 365-379.                      SIEBERG, A. (1932): Untersuchungen über Erdbeben und Bruch-
+ROLLER, D.W. (1998): The building program of Herod the                     schollenbau im Östlichen Mittelmeergebeit, Denkschr.
+    Great (U. California Press), pp. 351.                                  Medizin.-Natürwiss. Ges., Jena, 18 (2), 161-273.
+ROUSE,W.H.D. (1966): Lucretius, De rerum natura (Loeb                  SIMON, M. (1938): Megilla, Babylonian Talmud (Socino Press,
+    Classical Library, Harvard).                                           London), pp. 232.
+RUSSELL, K.W. (1985): The earthquake chronology of Pales-              SNEH, A. (1996): Dead Sea Rift, lateral displacement and
+    tine and northwest Arabia from the 2nd through the mid-                downfaulting phases, Tectonophysics, 233, 277-292.
+    8th century, Basor, 260, 37-59.                                    STECKOLL, S.H. (1967): The Qumran Sect in relation to the
+SALAMON, A., A. HOFFSTETTER, Z. GARFUNKEL and H. RON                       temple of Leontopolis, Rev. Qumran, 6 (21), 55-69.
+    (2003): Seismotectonics of the Sinai subplate; the eastern         STECKOLL, S.H. (1969): Marginal notes on the Qumran Exca-
+    Mediterranean region, Geoph. J. Int., 155, 149-173.                    vations, Rev. Qumran, 7 (1969), 25, 33-45.
+SAMUEL, A.E. (1972): Greek and Roman chronology, Hand-                 STENHOUSE, P. (1981): Kitab al Tarikh Abu’l Fath, Ph.D. The-
+    buch der Alterturmswissenshaft (Beck’sche Verlag,                      sis (University of Sydney).
+    Münich), vol. 1, 7, pp. 307.                                       STENHOUSE, P. (1989): Samaritan Chronicles, in Samari-
+SCHALIT, A. (1968): Namenworterbuch zu Flavius Josephus                    tans, edited by A.D. CROWN (Mohr-Siebeck, Tubin-
+    (Brill, Leiden), p. 143.                                               gen), pp. 865.
+
+
+                                                                 791
+                                                           Iaakov Karcz
+
+
+
+STIROS, S. and R.E. JONES (1996): Archaeoseismology, Fitch              VILMAR, E. (1865): Annales Samaritani quos ad fidem codicum
+    Laboratory Occasional Papers 7, IGME & British School                   scriptorum Berolinnensium, Bodleiani, Parisini, Gotha.
+    at Athens, Oxbow, Oxford, pp. 268.                                  VILNAY, Z. (1974): Ariel, col. 1680, in Encyclopaedia of Eretz
+STERN, S. (2003): Calendar and Community (Oxford Univer-                    Israel, vol. 3 (Am Oved, TelAviv), (in Hebrew).
+    sity Press), pp. 306.                                               WACHOLDER, B.Z. (1973): The Calendar of Sabbatical cycles
+STONE, M.E. (1990): Fourth Ezra (Augsburg Fortress Min-                     during the Second Temple and Early Rabbinic Period,
+    neapolis), pp. 496.                                                     Hebrew Union College Annual, 44 (1973), pp. 153-196.
+TAHER, M.A. (1979): Corpus des texts arabes relatifs aux trem-          WEITZ, Y. (1939): Is Sharon on the coast?, Bull. Jewish Pales-
+    blements de terre et autres catastrophes naturelles, de la              tine Exploration Society, 6, 131-142 (in Hebrew).
+    conquête arabe au XII H/XVIII JC, Ph.D. Thesis (Univ.               WELLHAUSEN, J. (1973): The arab kingdom and its fall, Cur-
+    Paris), p. 337.                                                         zon Press, London, pp. 592.
+THACKERAY, H.STJ. (1976): Wars of the Jews (Loeb, Heine-                WELTECKE, D. (2003): Die Beschreibung der Zeiten von Mor
+    mann, London).                                                          Michael dem Grossen (1126-1199), CSC Orientalium
+THOLOZAN, J.D. (1879): Sur les tremblements du terre qui ont                594, Subsidia tomus 110, Lovain, pp. 323.
+    lieu en Orient, C.R. Acad. Sci., 88, 1063-1067.                     WESTWAY, R. (2003): Kinematics of the Middle East and East-
+TOBLER, T. and A. MOLLINIER (1880): Commemoratorium de                      ern Mediterranean updated, Turkish J. Earth Sci., 12, 5-46.
+    Casis Dei, 808, 301-305, Itinera, Hierosolymitana, 1.               WHITBY, M.L. and M. WHITBY (1989): The Great Chronog-
+TRAINA, G. (1995): From Crimea to Syria, Re-defining the al-                rapher, in Chronicon Paschale 284-628 A.D., (translated
+    leged historical earthquake of 63 B.C., Ann. Geofis.,                   texts for historians), (Liverpool University Press), 193-
+    XXXVIII (5-6), 479-490.                                                 200.
+TSAFIRIS, V. (1989): Excavations at Capernaum, 1, 1972-1982             WHITE, H. (1962): Appianus, Roman History, The Syrian Wars
+    Eisenbram, Winona Lake, Indiana, pp. 234.                               (Loeb Classical Library, Heinemann London).
+TSAFRIR, Y., L. DI SEGNI and J. GREEN (1994): Tabula Imperia            WIGHTMAN, G.J. (1993): Walls of Jerusalem, Mediterranean
+    Romani Iudaea Palestina, Israeli Academy of Sciences                    Archaeology Studies Suppl. 4 (Med. Arch Univ. Sydney),
+    1994, pp. 263.                                                          p. 331.
+TSAFRIR G. and G. FOERSTER (1989): On the date of the earth-            WILLIS, B. (1928): Earthquakes in the Holy Land, Bull. Seism.
+    quake of the seventh, Tarbitz, 58, 357-362.                             Soc. Am., 18, 73-103.
+TSAFRIR G. and G. FOERSTER (1992): The dating of the earth-             WILLIS, B. (1933): Earthquakes in the Holy Land, a correc-
+    quake of sabbatical year of 749 CE in Palestine, Bull.                  tion., Bull. Seism. Soc. Am., 23, 88-89.
+    School of African and Oriental studies, 55, 231-235.                WISE, M.O., N. GOLB, J.J. COLLINS and D.G. PARDEE (1994):
+TAVO (Tubinger Atlas des Vorderen Orientes) (1980): Maps                    Methods of investigating the Dead Sea Scrolls and the
+    B, V3, Hellenistic states of 2nd century B.C., edited by H.             Khirbet Qumran site (New York Academy of Sciences),
+    WALDMAN and H. POHLMAN; B V4, Hellenistic states of                     vol. 722, p. 514.
+    3rd century B.C. edited by H. WALDMAN and H.                        WISE, M., M. ABEGG and E. COOK (1996): The Dead Sea
+    POHLMAN; B V6, Asia Minor and Black Sea in Mithidrates                  Scrolls (Harper, San Fancisco), pp. 503.
+    times, edited by E. OLSHAN, J. WAGNER and W. STAHL; B               WITAKOWSKI, W. (1996): Pseudo Dionysius of Tel Mahre, Part
+    V16.2, Palestine in times of Maccabeans, edited by H.                   III (translated texts for historians), (Liverpool), vol. 22,
+    WELDMAN; B V19, Palestine settlements according to                      pp. 149.
+    Josephus Flavius, edited by C. MOLLER and G. SCHMITT                WITAKOWSKI, W. (1987): Chronicle of pseudo Dionysius of Tel
+    (Reichert Verlag, Wiesbaden).                                           Mahre, Acta Univ. Upsaliensis, Studia Semitica Upsali-
+TURTLEDOVE, H. (1982): The Chronicle of Theophanes (Uni-                    aiensa, 9, p. 182.
+    versity of Pennsylvania Press, Philadelphia).                       YARDLEY, J.C. and W. HECKEL (1997): Justin Epitome of
+VAUX, R. DE (1973): Archaeology and the Dead Sea Scrolls,                   Phillipic History of Pompeius Trogos (Clarendon, Ox-
+    Oxford, pp. 146.                                                        ford), vol. 1, books 11,12, pp. 360.
+VERMES, G. (1995): The Dead Sea Scrolls in English (Pen-                ZEITLIN S. (1922): Megillat Taanit, Ph.D. (Dropsie College,
+    guin), 4th edition, pp. 391.                                            Philadelphia), pp. 120.
+VASILEV, AS., Agapius (Mahboub) de Menbidj, Kitab al- Un-               ZEUNER, F. (1955): Recent movement on the western fault of
+    wan. Histoire Universelle, éditée et traduite en français,              the Dead Sea Rift, Geologische Rundschau, 43, 3-4.
+    Patrologia Orientalis, vol. V, 1910, pp. 557-692; vol. VII,         ZOLAI, M. (1937): Liturgical poems in memory of various
+    1911, pp. 457-591; vol. Vlll, 1912, pp. 397-550; vol. XI,               events: an earthquake in Tiberias and other places, Insti-
+    1915, pp. 5-144.                                                        tute for Study of Hebrew Poetry in Berlin, 3, 151-162.
+
+
+
+
+                                                                  792
+
