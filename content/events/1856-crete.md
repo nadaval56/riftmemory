@@ -46,7 +46,7 @@ evidence:
 sources:
 - label: 'M. Zohar, "A newly discovered historical earthquake or merely a chronological mistake? Report of Mary Eliza Rogers from October 10, 1856", Journal of Seismology 21(5) (2017), pp. 1285–1290'
   url: https://doi.org/10.1007/s10950-017-9686-9
-- label: 'Mary Eliza Rogers, Domestic Life in Palestine, London, 1862, עמ׳ 360–361'
+- label: 'Mary Eliza Rogers, Domestic Life in Palestine, London, 1862, עמ׳ 360–361 (הציטוטים כפי שמביא אותם זוהר 2017; העמודים חסרים בסריקה שבידינו)'
   url: https://archive.org/details/domesticlifeinp01rogegoog
 - label: 'A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
@@ -79,6 +79,8 @@ review_notes:
 - 'הגל בחיפה: סלמון ועמיתיו 2007 מונים אותו בין הצונאמי המפוקפקים (נספח, טבלה 2). עמירן, אריה וטורקוטה 1994 רושמים אותו ב-10 באוקטובר 1856, התאריך של רוג׳רס. נמחקה הטענה מתיבת המידע האנגלית שצונאמי "לא סביר", כי אין לה מקור.'
 - 'magnitude.range נשאר 7.7 עד 8.3. זוהר 2017 מביא 7.7 עד 8.2; 8.3 הוא הקצה העליון של קלאס ועמיתיו 2018, שלא נבדק במקור. type=Mw לא אומת: זוהר אינו מציין סולם. החלטה לנדב: לצמצם ל-7.7 עד 8.2.'
 - 'deaths_note: המספרים מחוץ לארץ הגיעו מוויקיפדיה האנגלית (NGDC, Jusseret & Sintubin 2017, Badawy et al. 2017) ולא נבדקו.'
+- 'אימות ציטוטים (ספטמבר 2026): בסריקה של ספר רוג׳רס שבידינו חסרים עמ׳ 333–396, ובהם תיאור הרעידה. שני ציטוטים ממנה (הירח מעל הכרמל, הים המכוסה קצף) מובאים מילה במילה אצל זוהר 2017 (עמ׳ 1285, 1287), ומשם הובאו בתרגום שלנו, בהפניה כפולה. שאר התיאור נשאר פרפרזה לפי זוהר.'
+- 'הדף נכתב מחדש לקריאות: פתיחה בלילה של רוג׳רס בחיפה.'
 ---
 
 ## הסיפור
