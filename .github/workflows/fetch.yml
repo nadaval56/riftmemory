@@ -54,6 +54,16 @@ jobs:
             "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&minlatitude=27&maxlatitude=36&minlongitude=32&maxlongitude=38&minmagnitude=2&orderby=time&limit=30" || echo "usgs failed"
           curl -sSL -A "$UA" -o emsc-sample.json \
             "https://www.seismicportal.eu/fdsnws/event/1/query?format=json&minlat=27&maxlat=36&minlon=32&maxlon=38&minmag=2&limit=30" || echo "emsc failed"
+          # הדף הוא אפליקציית JS: מושכים את ה-bundle ומחלצים ממנו כתובות ומחרוזות רלוונטיות
+          for js in $(grep -oE 'src="[^"]+\.js"' ageEarthquakes.html | cut -d'"' -f2); do
+            curl -sSL -A "$UA" -o bundle.js "https://eq.gsi.gov.il$js" || true
+          done
+          if [ -f bundle.js ]; then
+            wc -c bundle.js
+            grep -oE '"(https?:)?/[^"]{3,200}"|`[^`]{0,200}(api|csv|json|query|earthquake)[^`]{0,200}`' bundle.js | sort -u > bundle-strings.txt || true
+            grep -oiE '[a-z0-9_./:-]*(api|csv|json|php|query|quakes?|events?)[a-z0-9_./?=&-]*' bundle.js | sort -u > bundle-words.txt || true
+            rm bundle.js
+          fi
           ls -la
 
       - name: commit
