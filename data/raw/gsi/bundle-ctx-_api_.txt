@@ -1,0 +1,29 @@
+top-bar-close","aria-label":"Close",children:W(O6,{className:"top-bar-close-icon"})})]}):null},gj=async()=>{try{const r=["https://eq.gsi.gov.il/api","/api",window.location.origin+"/api"].filter(Boolean);for(const e of r)try{const t=await fetch(`${e}/public/alerts/active-banner`,{headers:{Accept:"application/json"}});if(t.ok)return(await t.json()).data??null}catch{continue}try{const e=await fetch("/api/alerts/active-banner");if(e.ok)return(await e.json()).data??null}catch{}return null}catch(r){return console.warn("Failed to fetch active banner:",r),null}},yj=({pollIntervalMs:r=6e4,allowDismiss:e=!0})=>{const{i18n:t}=_r(),[n,i]=dt.useState(null),[s,a]=dt.useState(()=>{const m=sessionStorage.getItem("dismissed_eq_alert_id");return m?Number(m):null}),o=t.dir()==="rtl",l=dt.useCallback(async()=>{try
+
+-----
+
+×××× ××©×××¤×ª × ×ª×× ××";s(new Error(j)),console.error("API Error:",U)}finally{Q||n(!1),w.current=!1}},[]),T=dt.useCallback(async(R=!1)=>{if(m.current&&!w.current){w.current=!0;const Q={...m.current};Q.endDate=new Date(Date.now()+12e4).toISOString(),await B(Q,R)}},[B]);return dt.useEffect(()=>{let R=!0,Q=null,U=null;const j=()=>{y.current&&y.current.close();try{const Y=new EventSource("/api/earthquakes/stream");y.current=Y,Y.onopen=()=>{R&&d(!0)},Y.addEventListener("init",V=>{if(R)try{const P=JSON.parse(V.data);P.latestId&&(g.current=P.latestId,p(P.latestId))}catch{}}),Y.addEventListener("earthquake_update",V=>{if(R)try{const P=JSON.parse(V.data);console.log("[SSE] Live update event received:",P),P.latestId&&(g.current=P.latestId,p(P.latestId)),T(!0)}catch(P){console.warn("[SSE] Erro
+
+-----
+
+g("[SSE] Live update event received:",P),P.latestId&&(g.current=P.latestId,p(P.latestId)),T(!0)}catch(P){console.warn("[SSE] Error handling update:",P)}}),Y.onerror=()=>{R&&(d(!1),Y.close(),Q||(Q=window.setTimeout(()=>{Q=null,R&&j()},4e3)))}}catch(Y){console.warn("[SSE] Failed to initialize SSE stream:",Y),R&&d(!1)}};j(),U=window.setInterval(async()=>{if(R)try{const Y=g.current||"",V=await fetch(`/api/earthquakes/latest-check?lastId=${encodeURIComponent(Y)}`);if(V.ok){const P=await V.json();(P.hasUpdate||P.latestId&&P.latestId!==g.current)&&(console.log("[Fallback Check] New data found in DB, refreshing table..."),g.current=P.latestId,p(P.latestId),T(!0))}}catch{}},1e4);const $=()=>{document.visibilityState==="visible"&&R&&((!y.current||y.current.readyState===EventSource.CLOSED)&&j(),T(!0))};re
+
+-----
+
+obile-touch-target ${Y()&&!f?"bg-blue-500 text-white":"bg-gray-300 text-gray-500 cursor-not-allowed"}`,children:f?"×©×××...":"×©×× ×××××"})]})})]}):null},yat=()=>{const{t:r,i18n:e}=_r(),t=vc(),n=e.language==="he",[i,s]=dt.useState(),[a,o]=dt.useState(null),[l,u]=dt.useState(!1),[c]=RF();dt.useEffect(()=>{const h=c.get("id");h&&(s(h),d(h))},[c]);const d=async h=>{try{const f=await fetch(`/api/earthquakes/${h}`);if(f.ok){const A=await f.json();o(A)}}catch(f){console.error("Error fetching earthquake data:",f)}};return ht(Bit,{reCaptchaKey:"6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI",children:[ht("main",{id:"main-content",className:"bg-gray-50",style:{height:"100%",overflowY:"auto",direction:n?"rtl":"ltr"},tabIndex:-1,children:[!l&&ht("div",{className:"text-center mb-8 pt-8 px-4",children:[
+
+-----
+
+olor",viewBox:"0 0 24 24",children:W("path",{strokeLinecap:"round",strokeLinejoin:"round",strokeWidth:2,d:"M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"})}),r("about.catalog.download")]})]})]})},c)})})]})})};var wat={};const _at=async()=>{try{const r=wat.VITE_API_BASE_URL||"http://localhost:8080",e=await fetch(`${r}/api/publications`);return e.ok?(await e.json()).map((n,i)=>({...n,id:(i+1).toString()})):await UI()}catch{return console.warn("Could not fetch publications from API, using fallback detection"),await UI()}},UI=async()=>{const r=["2016_022-836-16_ES-33-15.pdf","2016_026-842-16.pdf","2017_011-863-16.pdf","2017_029-899-17.pdf"],e=[];for(const t of r)try{if((await fetch(`/publications/${t}`,{method:"HEAD"}
+
+-----
+
+ssage.length<10?(c.message=r("form.errors.minLength"),u=!1):/^[a-zA-Z\u0590-\u05FF0-9\s.,!?"'\n\r-]+$/.test(t.message)||(c.message=r("form.errors.invalidCharacters"),u=!1):(c.message=r("form.errors.required"),u=!1),s(c),u},o=u=>{n({...t,[u.target.name]:u.target.value}),i[u.target.name]&&s({...i,[u.target.name]:""})},l=async u=>{if(u.preventDefault(),!!a())try{if((await fetch("https://eq.gsi.gov.il/api/contact",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({...t,language:e.language})})).ok){const d=document.createElement("div");d.innerHTML=`
+          <div style="
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            padding: 30px 40px;
+            border-

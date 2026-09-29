@@ -1,0 +1,1474 @@
+SOURCE: https://nhess.copernicus.org/articles/20/125/2020/nhess-20-125-2020.html
+
+
+
+        NHESS - Assessment of seismic sources and capable faults through hierarchic tectonic criteria: implications for seismic hazard in the Levant
+
+                    Natural Hazards and Earth System Sciences
+
+                    Natural Hazards and Earth System Sciences
+
+                NHESS
+
+                        Articles & preprints
+
+Browse
+
+                                            Recent
+
+                                            By topics
+
+                                            Preprints
+
+                                            Journal volumes
+
+Highlights
+
+                                            Editor's choice
+
+Articles
+
+                                            Research articles
+
+                                            Review articles
+
+                                            Brief communications
+
+                                            Invited perspectives
+
+Special issues
+
+                                            Published SIs
+
+                                            Scheduled SIs
+
+                                            How to apply for an SI
+
+Collections
+
+                                            Published collections
+
+                                            How to add an article to a collection
+
+EGU Compilations
+
+                                            Encyclopedia of Geosciences
+
+                                            EGUsphere
+
+Popular
+
+                                            Most downloaded
+
+                                            Most commented
+
+Alerts
+
+                                            Subscribe to alerts
+
+                        Submission
+
+                        Policies
+
+                                            Licence & copyright
+
+                                            General terms
+
+                                            Publication policy
+
+                                            AI policy
+
+                                            Data policy
+
+                                            Publication ethics
+
+                                            Inclusivity in global research
+
+                                            Competing interests policy
+
+                                            Appeals & complaints
+
+                                            Proofreading guidelines
+
+                                            Obligations for authors
+
+                                            Obligations for editors
+
+                                            Obligations for referees
+
+                                            Inclusive author name-change policy
+
+                        Peer review
+
+                                            Interactive review process
+
+                                            Finding an editor
+
+                                            Review criteria
+
+                                            Become a referee
+
+                                            Manuscript tracking
+
+                                            Reviewer recognition
+
+                        Editorial board
+
+                        About
+
+                                            Aims & scope
+
+                                            Subject areas
+
+                                            Manuscript types
+
+                                            Article processing charges
+
+                                            Financial support
+
+                                                News & press
+
+                                                                Maria Ana Baptista becomes new executive editor of NHESS
+
+                                            EGU resources
+
+                                            Promote your work
+
+                                            Journal statistics
+
+                                            Journal metrics
+
+                                            Abstracted & indexed
+
+                                            Article level metrics
+
+                                            FAQs
+
+                                            Contact
+
+                                            XML harvesting & OAI-PMH
+
+                        EGU publications
+
+                        Article
+
+Articles
+Volume 20, issue 1
+NHESS, 20, 125–148, 2020
+
+                Multiple terms: term1 term2
+
+                red apples
+
+                returns results with all terms like:
+
+                Fructose levels in red and green apples
+
+                Precise match in quotes: "term1 term2"
+
+                "red apples"
+
+                returns results matching exactly like:
+
+                Anthocyanin biosynthesis in red apples
+
+                Exclude a term with -: term1 -term2
+
+                apples -red
+
+                returns results containing apples but not red:
+
+                Malic acid in green apples
+
+ hits for
+
+                                Close
+
+                        Refine your search
+                        Hide refinement
+
+There are no results for your search term.
+
+Network problems
+
+We are sorry, but your search could not be completed due to network problems. Please try again later.
+
+Server timeout
+
+We are sorry, but your search could not be completed due to server timeouts. Please try again later.
+
+Empty search term
+
+You have applied the search with an empty search term. Please revisit and try again.
+
+Too many requests
+
+We are sorry, but we have received too many parallel search requests. Please try again later.
+
+Searching
+
+                                    Articles | Volume 20, issue 1
+
+Article
+Peer review
+Metrics
+Related articles
+
+                            Articles | Volume 20, issue 1
+
+https://doi.org/10.5194/nhess-20-125-2020
+
+© Author(s) 2020. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+
+https://doi.org/10.5194/nhess-20-125-2020
+
+© Author(s) 2020. This work is distributed under
+the Creative Commons Attribution 4.0 License.
+
+                            Articles | Volume 20, issue 1
+
+Article
+Peer review
+Metrics
+Related articles
+
+                                        Research article
+
+                                     |
+
+14 Jan 2020
+
+                        Research article |
+                             | 14 Jan 2020
+
+Assessment of seismic sources and capable faults through hierarchic tectonic criteria: implications for seismic hazard in the Levant
+
+                        Assessment of seismic sources and capable faults through hierarchic tectonic criteria: implications for seismic hazard in the Levant
+                        Assessment of seismic sources and capable faults through hierarchic tectonic criteria:...
+
+                        Matty Sharon et al.
+
+                    Matty Sharon, Amir Sagy, Ittai Kurzon, Shmuel Marco, and Marcelo Rosensaft
+
+Matty Sharon
+
+                                        ×
+
+                                                    Geological Survey of Israel, Jerusalem, 9371234, Israel
+
+                                                    Porter School of the Environment and Earth Sciences, Tel Aviv University, Tel Aviv, 6997801, Israel
+
+Amir Sagy
+
+CORRESPONDING AUTHOR
+
+asagy@gsi.gov.il
+
+                                                    https://orcid.org/0000-0002-6610-545X
+
+                                        ×
+
+                                                    Geological Survey of Israel, Jerusalem, 9371234, Israel
+
+Ittai Kurzon
+
+                                                    https://orcid.org/0000-0001-6249-2109
+
+                                        ×
+
+                                                    Geological Survey of Israel, Jerusalem, 9371234, Israel
+
+Shmuel Marco
+
+                                                    https://orcid.org/0000-0001-5548-2447
+
+                                        ×
+
+                                                    Porter School of the Environment and Earth Sciences, Tel Aviv University, Tel Aviv, 6997801, Israel
+
+Marcelo Rosensaft
+
+                                        ×
+
+                                                    Geological Survey of Israel, Jerusalem, 9371234, Israel
+
+ Abstract
+
+We present a methodology for mapping faults that constitute a potential
+hazard to structures, with an emphasis on ground shake hazards and on
+surface rupture nearby critical facilities such as dams and nuclear power
+plants. The methodology categorises faults by hierarchic seismo-tectonic
+criteria, which are designed according to the degree of certainty for recent activity and the accessibility of the information within a given region. First, the instrumental seismicity is statistically processed to obtain the gridded seismicity of the earthquake density and the seismic moment density parameters. Their spatial distribution
+reveals the zones of the seismic sources, within the examined period. We
+combine these results with geodetic and pre-instrumental slip rates,
+historical earthquake data, geological maps and aerial photography to define and categorise faults that are likely to generate significant earthquakes (Mâ¥6.0). Their mapping is fundamental for seismo-tectonic modelling and for probabilistic seismic
+hazard analyses (PSHAs). In addition, for surface rupture hazard, we create a database and a map of Quaternary capable faults by developing criteria according to the regional stratigraphy and the tectonic configuration. The relationship between seismicity, slip dynamics and fault activity through time is an intrinsic result of our analysis that allows revealing the dynamic of the deformation in the region. The presented methodology expands the ability to differentiate between subgroups for planning or maintenance of different constructions or for research aims, and it can be applied in other regions.
+
+Download & links
+
+                                                        Article (PDF, 39243 KB)
+
+Download & links
+
+Article
+                                                    (39243 KB)
+
+                                                Full-text XML
+
+BibTeX
+
+EndNote
+
+Share
+
+How to cite.
+
+                                                     Sharon, M., Sagy, A., Kurzon, I., Marco, S., and Rosensaft, M.: Assessment of seismic sources and capable faults through hierarchic tectonic criteria: implications for seismic hazard in the Levant, Nat. Hazards Earth Syst. Sci., 20, 125–148, https://doi.org/10.5194/nhess-20-125-2020, 2020.
+
+                                Received: 06 Mar 2019 – Discussion started: 02 May 2019 – Revised: 13 Sep 2019 – Accepted: 16 Nov 2019 – Published: 14 Jan 2020
+
+1âIntroduction
+
+The global population growth and the establishment of sensitive facilities,
+such as nuclear power plants or dams, increase the seismic risk to higher
+levels and require profound understanding of the seismic hazard (e.g.Â Marano
+et al., 2010). Probably the most famous example is the destruction of the
+Fukushima nuclear power plant by the tsunami caused by theÂ 2011 Mw=9.0 TÅhoku earthquake, which has been a basic step in seismic hazard evaluation in defining and characterising faults that constitute a potential hazard. Because earthquakes are stochastic processes that trigger different hazards (such as ground shaking, tsunamis, landslides, liquefaction and surface rupture) and the planning of different infrastructures requires different safety standards, mapping and categorising hazardous faults is generated according to specific requirements.
+In this paper, we present a methodology for mapping and categorising faults,
+which can be applied for the evaluation of different seismic hazards. To
+generate our maps and to classify the faults in them, we combine seismological analysis with geologic and geodetic information. The
+methodology is implemented for generating regional maps of the âmain seismic
+sourcesâ and of âcapable faultsâ. The former are the regional faults that
+should be considered for ground shaking models and probabilistic seismic
+hazard analysisÂ (PSHA), and the latter constitute surface rupture hazards
+that should be considered for siting facilities with environmental impact,
+such as dams and nuclear plants, or other vulnerable facilities. We apply
+hierarchic criteria for categorising faults according to the specific hazard.
+We demonstrate our methodology for the seismically active region of Israel, which is mainly affected by the Dead Sea Transform fault system (DST; Fig.Â 1). First, we determine the main seismic sources, focusing on faults that are likely to generate significant earthquakes.
+Subsequently, we present the procedure to determine and map faults that
+constitute a potential hazard of surface rupture for sensitive facilities.
+We design the criteria according to the likelihood of surface rupture along
+specific faults.
+
+FigureÂ 1Plate configuration in the eastern Mediterranean. Arrows show relative motion. SR â Suez rift; GEA â Gulf of Elat (Aqaba); DST â Dead Sea
+Transform fault system; CTF â Carmel-Tirza fault zone; LRB â Lebanon
+restraining bend; CA â Cyprian Arc; DSB â Dead Sea basin; SG â Sea of Galilee.
+
+Despite the limited duration of the instrumental record, it constitutes one
+of the main direct sources of evidence of fault activity in the current tectonic
+configuration. Probabilistic analyses of seismicity can constrain fault
+locations, kinematics and activity rates (e.g.Â Woo, 1996; Atkinson and Goda,
+2013). Moreover, the GutenbergâRichter empirical law can aid in assessing the frequency of strong shocks by extrapolating lower-magnitude earthquakes. Since surface ruptures are usually associated with Mâ¥â¼6.0 (Wells and Coppersmith, 1994; Stirling et al., 2002), the concentration of seismicity along faults strongly suggests that surface ruptures occurred in the recent geological history. However, due to the scarcity of large earthquakes in the instrumental era, complementary information is required
+for further constraining the location of the main sources of significant
+earthquakes and for characterising them. This information can come from
+archaeological and paleo-seismological investigations, as well as from historical
+documents (Ambraseys, 2009; Agnon, 2014; Marco and Klinger, 2014; Zohar et
+al., 2016). Geodetic measurements of relative displacements and velocities
+provide further crucial kinematic information (Baer et al., 1999; Hamiel et
+al., 2016, 2018a,Â b).
+Detailed geological investigation of faults further extends the necessary
+information, in particular for long-term activity. From a seismic hazard
+perspective, faults that were active in the recent geological periods have a
+higher probability for future faulting. Field relations between faults and
+geological units, as revealed in geological maps, can constrain the
+location, timing and the amount of offset of the relevant faults. However,
+these sources of evidence are limited to places where faults cross or abut young
+geological formations and landforms. Since the spatial distribution of young
+formations can be limited, additional criteria are required for
+mapping potentially hazardous faults.
+
+2âTectonic settings
+
+The continental crust in the eastern Mediterranean region was formed during the
+pan-African orogeny of the late Precambrian age, and it was later subjected to
+alternating periods of sedimentation and erosion during the Paleozoic
+(Garfunkel, 1998). Continental breakup and the establishment of passive
+margins along the TethysâMediterranean coast of the Levant occurred during
+the TriassicâJurassic time. Widespread carbonate platform developed during
+the mid-Cretaceous. Since the Upper Cretaceous, the region was subjected to
+â¼âWNW compression of the Syrian Arc system, deforming the
+sedimentary sequence into a series of asymmetric folds, strike-slip faults
+and monoclines (Eyal and Reches, 1983; Sagy et al., 2003). Regional uplift
+began from the end of the Eocene, and the area was intermittently exposed to
+erosional processes (Picard, 1965). The AfricanâArabian plate broke along
+the suture of the Gulf of AdenâRed Sea during the Miocene, generating the Suez rift and the DST, which separate the Sinai sub-plate from the African and the
+Arabian plates (Fig.Â 1). The Suez rift, however, has shown relatively minor
+signs of deformation since the end of the Miocene (Garfunkel and Bartov,
+1977; Joffe and Garfunkel, 1987; Steckler et al., 1988). In the easternmost
+Mediterranean Sea, the deformation concentrates along the convergent Cyprian
+Arc (Fig.Â 1), where the Anatolian plate overrides the plates of Africa and
+Sinai (e.g. McKenzie, 1970).
+With Quaternary slip rates of 4â5âmmâyrâ1, evaluated from geological
+reconstructions, paleo-seismological and geodetic measurements (e.g.Â Garfunkel, 2011; Marco and Klinger, 2014; Hamiel et al., 2018a,Â b),
+the 1000âkm DST is the largest fault system in the eastern Mediterranean
+region (Fig.Â 1). Its northern section crosses northwest Syria in a NâS
+orientation; several recent large earthquakes were attributed to this
+section during the past two millennia (Meghraoui et al., 2003). The middle
+section of the DST is the Lebanon restraining bend (LRB; Fig.Â 1),
+characterised by transpression deformation (Quennell, 1959). This section is
+branched to a few segments that transfer the main component of the
+strike-slip motion in the Lebanon area (Gomez et al., 2003, 2007). The core of our study area is located along the southern section of the DST, but seismically it
+is also affected by the activity of the middle part.
+The southern part of the DST (Fig.Â 1) is dominated by a sinistral
+displacement of â¼105âkm over the last â¼16â20Â million years (Quennell, 1959; Garfunkel, 1981, 2014). It is marked by a
+pronounced 5â25âkm wide topographic valley, mostly with uplifted flanks,
+bordered by normal faults that extend along the valley margins. The lateral
+motion occurs on longitudinal left-stepping strike-slip and oblique-slip
+fault segments. The strike-slip segments delimit a string of en-echelon-arranged rhomb-shaped narrow and deep releasing bends that are associated
+with orthogonal separation of the transform flanks on the surface
+(Garfunkel, 1981; Garfunkel and Ben-Avraham, 2001; Wetzler et al., 2014).
+The seismic potential is clearly expressed by the 1995Â Mw=7.2 Nuweiba earthquake in the Gulf of Elat (Aqaba), the largest seismic event documented instrumentally on the DST, as well as by historical and prehistorical large earthquakes (e.g.Â Amit et al., 2002; Marco et al., 2005; Marco, 2008). Deep-crust seismicity is significant along the southern part of the DST in correlation with areas of low heat flow, particularly in the Dead Sea basin, probably indicating a cool and brittle lower crust (Aldersons et al., 2003; Shalev et al., 2007, 2013).
+The Sinai sub-plate south of Lebanon displays some internal deformation
+expressed by a few fault systems, which are associated with Quaternary
+activity. The Carmel-Tirza fault zone (CTF; Fig.Â 1) consists of a few normal
+and oblique fault segments generally striking SEâNW. The system is
+characterised by low heat flow and by relatively deep seismicity (Hofstetter
+et al., 1996; Shalev et al., 2013). The CTF divides the Sinai sub-plate into
+two tectonic domains (Neev et al., 1976; Sadeh et al., 2012), where the
+southern part is assumed to be relatively rigid, while northward, normal
+faults orientated EâW generate the SâN extension expressed by graben
+and horst structures (Ron and Eyal, 1985). South of the CTF, EâW-to-WSWâENE-trending faults constitute the SinaiâNegev shear belt (SNB; see Fig.Â A3).
+Geological evidence reveals different activity phases of mainly dextral slip
+with some vertical motions also during the Neogene (Bentor and Vroman,
+1954; Bartov, 1974; Zilberman et al., 1996; Calvo and Bartov, 2001). The DST
+post-dates the SNB, but the present tectonic interaction between them is not entirely clear (Garfunkel, 2014).
+
+3âGeological database
+
+The database of faults that were active in the recent geological history is
+mainly based on high-resolution geological maps. As of JanuaryÂ 2019, 71Â geological map sheets in the scale of 1:50â000 are available for this study. The 1:200â000 geological map of Israel (Sneh et al., 1998) is utilised, where 1:50â000 data are absent. Included also are faults defined as active or potentially active during the last 13â000 years for the Israel StandardÂ 413 (building code) âDesign provisions for earthquake resistance of structuresâ (Sagy et al., 2013). In addition, some faults, which have not been mapped (or not updated yet) crossing Quaternary units in the geological maps, are marked here as Quaternary faults based on evidence presented in scientific publications, reports and theses (see TableÂ A1).
+The establishment of the Quaternary formation database (TableÂ A2) to constrain
+fault activity in this study is complicated due to poorly constrained
+geochronology of some of the formations. In some cases, the age uncertainty
+is in the order of millions of years. Moreover, the PlioceneâPleistocene boundary (NeogeneâQuaternary) was shifted inÂ 2009, from
+â¼1.8Â to â¼2.6âMa (Gibbard et al., 2010). Thus,
+some formations that had previously been assigned the Pliocene age became part
+of the Pleistocene. Therefore, geological periods attributed to some
+formations, mentioned in pre-2009 publications, might be misleading. Many
+stratigraphic charts of the pre-2009 geological maps are outdated.
+Furthermore, as recent research provides better geochronological
+constraints, the most-up-to-date information is required in order to
+correctly select Quaternary formations. In AppendixÂ A (TableÂ A1) we present
+references to Quaternary faults that cannot be directly deduced from the
+geological maps.
+Besides the surface traces of mapped faults, offshore and subsurface
+continuation of faults, as well as faults extending beyond the Israeli
+borders, were added to the database (TableÂ A3). The latter are limited to the
+extensions of mapped faults that are within Israel and/or the main DST
+segments. The criteria for selecting these faults are discussed in Sect.Â 6.
+
+4âSeismological analysis
+
+We analyse the spatial distribution of seismic events in order to reveal the
+regional seismic pattern, which helps to define the main seismic sources and
+develop an independent criterion for Quaternary active faults. So as to
+define the seismicity-based criterion, we design seismic criteria that are
+based on the distribution of two parameters that are, to a large extent,
+independent: the earthquake kernel density and the seismic moment kernel density. We demonstrate the methodology and then present
+the results below.
+
+4.1âDataset
+
+We use an earthquake catalogue from 1Â JanuaryÂ 1983 until 31Â AugustÂ 2017 within 28â34ââN and 33â37ââE, recorded by â¼140Â stations whose distribution has changed in time and space. Most of the data are from the Israel Seismic NetworkÂ (ISN), the Comprehensive Nuclear-Test-Ban TreatyÂ (CTBT) and the Cooperating National FacilityÂ (CNF). Some additional data were incorporated from other regional networks: GE; the GEOFON global network of Deutsches GeoForschungsZentrum, PotsdamÂ (GFZ); the Jordanian Seismic ObservatoryÂ (JSO); and the seismic network of CyprusÂ (CQ). These earthquakes, which have been monitored by the Seismological Division of the Geophysical Institute of Israel, comprise a catalogue of â¼17â600Â earthquakes. They were relocated (Fig.Â 2) to generate a new catalogue with more precise locations of hypocentres (Wetzler and Kurzon 2016). As part of the relocation process, â¼900Â earthquakes were excluded for various reasons, e.g. events that were recorded by less than four stations and large location errors (including the Md=5.8Â 1993 event in the
+Gulf of Elat, which does not affect our marking of faults since it
+was nucleated outside our high-resolution geological data). BeforeÂ 1983 the
+locations are less reliable. Hence, the relocated catalogue consists of
+â¼16â700Â events of 0.1â¤Mâ¤7.2 (Fig.Â 2). Earthquakes with unknown magnitudes received a default value of M=0.1. The magnitude and the location of the Mw=7.2 1995Â Nuweiba earthquake were fixed
+according to Hofstetter et al.Â (2003).
+
+FigureÂ 2Epicentres in Israel and surrounding areas between the yearsÂ 1983 andÂ 2017, based on the relocated earthquake catalogue. Circle size
+and colours indicate the magnitude. Black lines represent the main fault
+segments of the DST and the CTF. The shaded relief background of this figure
+and the following ones is based on a digital elevation model of Earth (Farr et al., 2007).
+
+In order to assess the applicability of the following seismic processing and
+analysis, we define the network coverage area as the zone in which the
+hypocentres are relatively well constrained. This is examined and determined
+here as the polygon that covers all seismic stations that recorded at least
+350 arrivals and consists of the smallest number of polygon sides that link
+between the stations (Fig.Â A1 in AppendixÂ A).
+
+4.2âSpatial data processing
+
+In order to quantitatively characterise the regional seismicity and
+associate the earthquakes with mapped faults, we examine two parameters: (a)Â earthquake kernel density and (b)Â seismic momentÂ (M0) kernel density. Both parameters are obtained through the following spatial data processing. A regional scan is carried out in a 0.5âkm interval 2-D grid, in the horizontal coordinates. For each grid point, both parameters are calculated utilising all recorded events within a 6âkm radius. The parameters are calculated based on the kernel density estimation as an approach to obtain the spatial distribution through a probability density function, using the distance to weight each event from a reference point (each grid point, the common centre of its adjacent events). This circular-shape-based approach prevents any directional bias.
+
+The 6âkm limitation, the Gaussian function and its standard deviation ofÂ 2
+(for the kernel estimation) were tuned and chosen to (a)Â capture different
+seismic patches along active faults, (b)Â be significantly larger than the
+location horizontal median error (â¼1.2âkm; Wetzler and Kurzon, 2016), (c)Â assign a higher weight to events closer to the evaluated grid point and (d)Â include as many events as possible for achieving statistical significance at each of the grid points.
+
+The earthquake kernel density parameter, ÏNk, is calculated by counting all the weighted events within a 6âkm radius from each grid point, dividing their sum by the sampler areaÂ (Ïr2) and normalising by the duration of the earthquake catalogue:
+
+(1)
+
+    Ï
+
+      N
+      k
+
+  =
+
+          â
+
+            n
+            =
+            1
+
+          N
+
+          e
+
+            -
+
+                d
+                (
+                n
+
+                  )
+                  2
+
+                2
+
+                  Ï
+                  2
+
+        T
+        Ï
+
+          r
+          2
+
+  ,
+
+          where NÂ is the total number of events within the radiusÂ r, d(n)Â is the distance between an eventÂ n and the circle centre, ÏÂ is the standard deviation of the Gaussian function and TÂ is the duration of the earthquake catalogue. Units are events per squared kilometre per year (eventsâkmâ2âyrâ1).
+
+The M0Â kernel density parameter, ÏM0k, is obtained by first calculating the seismic moment released by each event separately, using the empirical relation betweenÂ M0 andÂ ML, as obtained by Shapira and HofstetterÂ (1993) after converting units from dyneâÃâcm toÂ NÃm:
+
+(2)
+  log
+
+        M
+        0
+
+  =
+  10
+  +
+  1.3
+
+    M
+    L
+
+  .
+
+          Secondly, each amount of energy is weighted according to the distance of the
+corresponding event from the circle centre (like the calculation of the
+earthquake kernel density). Then, we sum the weighted M0 released from all the events within a 6âkm radius, divide the sum by the circle areaÂ (Ïr2) and normalise by the duration of the catalogue:
+
+(3)
+
+    Ï
+
+        M
+        0
+
+      k
+
+  =
+
+          â
+
+            n
+            =
+            1
+
+          N
+
+          M
+          0
+
+        (
+        n
+        )
+
+          e
+
+            -
+
+                d
+                (
+                n
+
+                  )
+                  2
+
+                2
+
+                  Ï
+                  2
+
+        T
+        Ï
+
+          r
+          2
+
+  ,
+
+          where NÂ is the total number of events within the radiusÂ r, M0(n)Â is the seismic moment released from an eventÂ n according to Eq.Â (2), d(n)Â is the distance between an eventÂ n and the circle centre, ÏÂ is the standard deviation of the Gaussian function and TÂ is the duration of the earthquake catalogue; units are joules per squared kilometre per year  (Jâkmâ2âyrâ1).
+
+4.3âDistribution maps of the spatial processing parameters
+
+4.3.1âEarthquake kernel density
+
+The earthquake kernel density (Fig.Â 3) captures the main active tectonic sources and seismic patches, according to â¼35Â years of instrumental seismicity. As expected, most of the earthquakes are concentrated along the main fault zone of the DST, and to a lesser extent along the CTF, including its offshore continuation in the Mediterranean Sea. In the southwest, seismicity is observed in the area of the Gulf of Suez. Small patches appear in different spots, mainly west of the DST, raising the issue of the detectability of the network east of it. We note that the International Seismological Centre catalogue reveals a large portion of events recorded east of the DST as well (Palano et al., 2013). The most prominent zone of seismicity that is not associated with known active tectonic feature is northwest of the Gulf of Elat.
+
+FigureÂ 3The earthquake kernel density distribution, according to the relocated catalogue. Colours and corresponding numbers indicate the value in events per squared kilometre per year (eventsâkmâ2âyrâ1).
+
+A more detailed scan of the seismicity from the south shows that the prominent
+patches of seismicity along the DST are located in the Gulf of Elat, the
+Arava valley and the Dead Sea basin. Northwards, seismicity becomes more
+distributed, reflecting the intersection between the DST and the CTF (Fig.Â 1). North of the intersection, the Jordan Valley segment of the DST is
+sparse with seismicity. However, further north, dominant seismicity patches
+are seen in the Sea of Galilee and in the Hula valley. Northwest of the
+Hula valley, another zone of intense seismicity is captured, which might be
+associated with faults related to the Roum fault, west of the LRB (Meirova
+and Hofstetter, 2013).
+
+4.3.2âSeismic moment kernel density
+
+The distribution of the average annual moment density released from all
+earthquakes, assuming them to be point sources, is shown in Fig.Â 4. Since the
+amount of energy released by each earthquake differs significantly according
+to its magnitude, this parameter is presented on a logarithmic scale.
+Overall, the M0 kernel density distribution emphasises the seismic activity along the DST, with similarity to the earthquake kernel density distribution (Fig.Â 3). Still, the distribution is less smooth due to single events differing significantly from each other in their corresponding M0 release.
+
+FigureÂ 4The seismic moment kernel density distribution, according to the relocated catalogue. Colours and corresponding numbers indicate the value in log(Jâkmâ2âyrâ1).
+
+The Gulf of Elat includes the largest event recorded in the catalogue, the
+MW=7.2 1995Â Nuweiba earthquake (Hofstetter et al., 2003), 2Â orders of magnitude larger than the second-largest event (Md=5.6), hence the significantly higher values in its vicinity. The spatial distribution of the M0 kernel density reveals a wide zone of deformation surrounding the gulf flanks, which is much wider than the relatively narrow gulf. This can be partially explained by the poorly constrained epicentre locations, far away from the network coverage (Fig.Â A1). The seismic moment kernel density strongly reflects the most significant events that occurred in the past 35Â years; among them are the Mw=5.1 2004Â event in the Dead Sea (Hofstetter et al., 2008) and the Md=5.3 1984Â event associated with the CTF. In contrast with the distribution of the earthquake kernel density, the M0 kernel density does not reflect seismic swarms, unless they consist of high magnitudes. This contrast is predominant in the Sea of Galilee, which
+contains a high earthquake kernel density (Fig.Â 3) but is less significant in the seismic moment kernel density (Fig.Â 4).
+
+5âThe main seismic sources
+
+FiguresÂ 3 andÂ 4 show a strip of dense seismic events and moment release
+along the DST and its main branches. We now combine these data with
+geologic, geodetic and paleo-seismologic measurements to generate the main-seismic-source map, which displays regional faults that demonstrate slip
+rates inferred as â¥0.5âmmâyrâ1 during the Holocene. Tectonic and
+geometric characteristics (i.e.Â segment length and orientation) are also
+considered. We define the main seismic sources as faults that are likely to
+generate significant earthquakes (Mâ¥6.0), which can impact Israel
+(and also neighbouring countries) and constitute potential sources for
+different sorts of damages (i.e.Â ground shaking, landslides, liquefactions
+and tsunamis). These faults and their map (Fig.Â 5) are essential for
+seismo-tectonic modelling of Israel, for probabilistic seismic hazard analysisÂ (PSHA) and eventually for generating ground motion maps. Below, we define two subgroups of faults divided by their tectonic characteristics and their slip rates. Offshore inferred continuations of the main faults are also presented (dashed lines in Fig.Â 5).
+
+FigureÂ 5The main seismic sources in Israel and adjacent areas. Colours indicate the two categories of faults according to the criteria. Inferred subsurface faults are marked by dashed lines. Abbreviations are for the DST main strike-slip segments, its main branches and marginal faults. Numbers indicate geodetic slip rates (mmâyrâ1) for strike-slip components
+according to recent studies (for longer-term slip rates, see
+TablesÂ 1 andÂ 2; Fig.Â A2). Brackets indicate slip rates accommodated by an
+entire fault zone. Asterisks denote segments of unknown slip rates, where
+the fault splits into a few (sub-)parallel segments.
+
+5.1âMain strike-slip segments of theÂ DST
+
+This category (solid black in the map) includes potential sources for large
+to major earthquakes in the region. According to paleo-seismic and/or
+geodetic investigations (TableÂ 1; Fig.Â A2), these faults are associated with
+Holocene average sinistral slip rates of 1â5âmmâyrâ1. Equally important, all the faults in this category are relatively long with a preferable slip orientation according to the present stress field (Jaeger et al., 2007; Eyal and Reches, 1983). Our database (Fig.Â 5) includes fault segments from this subgroup that are located up to 150âkm away from Israel. As noted in Sect.Â 4, the only recorded large earthquake, the 7.2Â Mw Nuweiba event, occurred on the Aragonese fault and was associated with mean slip of 1.4â3âm (Baer et al., 1999).
+
+South of Lebanon, geodetic measurements show â¼4â5âmmâyrâ1
+sinistral slip rate (Masson et al., 2015; Hamiel et al., 2016, 2018a,Â b). Faulting in Lebanon is partitioned to a few branches (Fig.Â 5) and the specific rates are less constrained. While the Yammuneh and the Serghaya faults can undoubtedly be considered as independent sources for significant
+earthquakes, the status of the shorter Rachaiya and Roum fault branches is
+less clear. Nevertheless, according to the present state of information (for
+example, Nemer and Meghraoui, 2006), we cannot rule them out and they remain part of this group.
+
+Previous analyses of maximum earthquake magnitude based on historical
+earthquakes or on background seismicity predicted magnitudes of â¤7.8Mw for the largest segments (e.g. Stevens and Avouac, 2017; Klinger et al., 2015; Hamiel et al., 2018a).
+
+5.2âMain marginal faults and branches
+
+This subgroup (pale blue lines in the map) consists of fault zones with
+lengths of several to dozens of kilometres that are associated with the DST.
+Based on several previous works (TableÂ 2), we estimated the slip rates along
+these fault zones as 0.5â1âmmâyrâ1. All the fault segments are
+located inside (or partly inside) the overlap zone defined by the two
+seismological analyses (Fig.Â 6).
+
+FigureÂ 6The seismicity polygons: earthquake kernel density of valuesâ>ââ¼0.001âeventsâkmâ2âyrâ1 and M0Â kernel density of valuesâ>ââ¼9.5âlog(Jâkmâ2âyrâ1); the product is the overlap polygon (in brown).
+
+The subgroup includes the Hasbaya fault in Lebanon, the fault zone in the
+western and eastern margins of the Dead Sea, the marginal faults of the Hula
+basin, the Carmel-Tirza fault zoneÂ (CTF) and the Elat fault (Fig.Â 5). The
+partitioning of the slip rate across parallel segments in any given fault
+zone is usually below the geodetic measurement (or the information)
+resolution. Therefore, the segments presented in Fig.Â 5 are representative but not necessarily the most active within a given system.
+
+Due to the lack of reliable historical and paleo-seismological evidence,
+the evaluation of maximum possible magnitude on these faults is less certain
+and requires several assumptions. First, we consider here a local rupture on
+segments from a given system and disregard a rupture of the entire system as
+part of an extremely large earthquake on the main strike-slip faults (as
+evaluated separately in Sect.Â 5.1). In addition, we assume that the longest
+possible subsurface rupture length is similar to the length of the segment's
+surface trace. For example, the Carmel fault, the northern fault in the CTF,
+is up to 40âkm in length (on- and offshore). According to some published
+scaling relationships, rupturing along its entire length can be associated
+with up to â¼7Mw earthquakes (Wells and Coppersmith, 1994;
+Stirling et al., 2013). However, here we assume again that such magnitudes
+must be interconnected with an earthquake along a much larger DST segment
+(Agnon, 2014) and not confined to a local segment. We therefore assume a
+maximum rupture length of â¼10â20âkm along faults from this
+subgroup and correspondingly to maximum magnitudes of Mw<6.5 (Wells and Coppersmith, 1994). We note that the data on the Elat fault
+is based only on evidence from its northern edge (e.g.Â a catastrophic event
+at 2.3âka inferred by Shaked et al., 2004), while the rates at its offshore
+parts are less constrained. Further work on its subsurface section and the
+connection to the main sinistral displacement is required for better
+evaluation of its seismic potential.
+
+TableÂ 1Main strike-slip faults: average slip rate details.
+
+aÂ Geodetic or geological measurements on a specific segment. bÂ According to geodetic-based model; E and C are extension and convergence, respectively, normal to the fault. cÂ Creeping from a depth of 1.5Â±1.0âkm to the surface at a rate of 2.5Â±0.8âmmâyrâ1.
+Download Print Version | Download XLSX
+
+TableÂ 2Marginal faults and branches with integrated slip or subsidence of ~0.5â1âmmâyr and references.
+Download Print Version | Download XLSX
+
+We additionally note that large earthquakes along the Cyprian Arc (Fig.Â 1)
+can also generate tsunamis that might affect the coastline of Israel
+(Salamon et al., 2007). This source is not analysed and mapped here but
+should be taken into account in regional seismo-tectonic models.
+
+6âCapable faults
+
+6.1âFramework and principles
+
+The hazard of surface rupture is defined as the likelihood of an earthquake
+that will rupture the surface within a certain time window. This likelihood
+is based on knowledge about the past and present fault kinematics and
+dynamics. The determination of the relevant time reference for young
+faulting is usually dictated by different constrains and applications. In
+theÂ United States, faults are commonly considered to be active for planning
+constructions if they have ruptured the surface at least once in the past
+10âkyr. However, regional conditions, such as sedimentary cover or available
+age dating of pertinent geological units, can affect this determination. For
+example, faults that are defined as âActiveâ in the âDesign Provisions
+for Earthquake Resistance of Structuresâ in Israel are those that ruptured
+the surface in the past 13âkyr (Heimann, 2002). This is the age of the top of
+the lake formation that covers significant parts of the Dead Sea valleys.
+
+The time reference for special constructions such as dams and nuclear power
+plants is usually much longer, because the possible damage to the
+construction has severe regional implications. According to the
+International Atomic Energy AgencyÂ (IAEA) Safety Fundamentals (IAEA, 2010),
+capable faults are those with evidence of displacement over thousands or
+millions of years, depending on how tectonically active is the area. Here,
+the Quaternary period is selected as the time reference for sensitive
+facilities due to two main reasons: (a)Â we assume that faults that were
+active during the present regional stress regime (Zoback, 1992) are more
+likely to activate in the near future. The regional stress state within the
+Quaternary period represents the current stress field well (Eyal and Reches,
+1983; Hofstetter et al., 2007; Garfunkel, 2011; Palano et al., 2013). We
+note that âregional stress fieldâ (Zoback, 1992) as a criterion for active
+faulting is closely related to the âtectonic regimeâ suggested by Galadini et al.Â (2012). (b)Â Quaternary geological units are mostly well defined in the region.
+
+The primary and secondary criteria for sorting the faults are listed in a
+descending order of categorisation, meaning that faults are initially
+examined according to the first criterion, and, only if they do not match it,
+they are examined according to the second criterion, and so on. Where
+geological evidence is absent, we utilise a seismological criterion (Fig.Â 6), under the assumption that faults associated with seismically active
+subzones are more likely to have ruptured the surface in the Quaternary
+compared to others.
+
+Finally, because of the limitation of our database, mapped capable faults
+(Fig.Â 7) are limited to Israel and its vicinity.
+
+FigureÂ 7Quaternary fault map of Israel. Colours indicate the corresponding criterion for each fault. Inferred subsurface faults are marked by dashed lines. Abbreviations are for the main strike-slip segments of theÂ DST.
+
+6.2âPrimary criteria
+
+Main strike-slip faults of the DST are identified here as the main
+sources for large regional earthquakes (Fig.Â 7).
+
+Faults with direct evidence of Quaternary activity are faults that
+have been mapped offsetting Quaternary formations or that have been
+interpreted by scientific publications (TableÂ A1) to rupture the Earth's
+surface at least once since the Quaternary. This criterion is mainly related to zones covered by Quaternary units.
+
+6.3âSecondary criteria
+
+Faults that have no field relationship with Quaternary formations
+consequently show no direct evidence for Quaternary faulting. We therefore
+designed the next criteria under the rationale that they expand the database
+with faults that reasonably have been active since the Quaternary, based on
+the following criteria.
+
+First-order branches and the marginal faults of the DST.
+
+a.
+
+First-order branches of faults that are mapped following the
+primary criteria. A fault branch is defined here as splitting at an acute
+angle from another fault. The throw direction of the fault and its branches are also taken into account.
+b.
+
+Faults that bound the DST basins, separating Quaternary
+formations from older rocks, and are associated with a sharp topographic
+boundary of at least 100âm.
+c.
+
+Faults that emerge from Quaternary sediments that infill the DST valleys and are likely to branch off the main DST segments.
+
+Faults associated with recent seismicity.
+It is challenging to match the faults and recent seismicity and assume they
+ruptured the surface at least once since the beginning of the Quaternary,
+because there are thousands of mapped faults, the high-resolution
+geophysical data on fault structures in depth are scarce and the
+hypocentres' location uncertainties are large. In order to define the
+seismicity-based criterion, we create polygons for each of the parameters.
+The polygons are defined by threshold values, so that each of them is the
+smallest to cover continuously the whole length of the most active tectonic
+feature in the region. In our case study, this feature is the DST, but we
+exclude the relatively silent northern section of the Jordan Valley segment
+(IÂ in Fig.Â 6). Therefore, the overlap area (Fig.Â 6) of the two polygons
+consists of at least the minimum level of both seismic moment kernel density and earthquake kernel density along the southern part of the DST, nearby or within the network coverage area (Fig. A1). Hence, if a fault is within the overlap area, it means that it is associated with at least a minimum level of seismicity along the most active tectonic feature, and thus it is likely to be seismogenic. We further assume a relation between a fault mapped surface trace and a possible past surface rupture for selecting the most prominent faults. Considering scaling relations between fault dimensions and source parameters, faults that contain surface traces of at least 6âkm (corresponding to Mwâ¥6.0 earthquakes; Wells and Coppersmith, 1994; Stirling et al., 2002; Mai and Beroza, 2000) within the overlap area are assumed here as Quaternary faults.
+
+Subsurface faults.
+Subsurface and offshore continuation of the main DST strike-slip segments as well as
+and a few other faults with published details for both their subsurface
+extension and their Quaternary activity are marked (the majority are in Fig.Â 5). In addition, we map other faults that offset dated Quaternary units, with well-constrained near-surface location inferred from high-resolution seismic data. We exclude subsurface faults when their exact location and activity period are less constrained. Fault segments that were mapped as concealed (mostly by thin alluvium) in the 1:50â000 maps and are the continuation of Quaternary faults are marked as ordinary surface traces.
+
+7âDiscussion
+
+7.1âMethodological aspects and applications for hazard evaluations
+
+Regions with intermediate seismicity rates present a challenge for hazard
+evaluation; whilst the hazard might be perceptible, the seismic data and the
+geological evidence for recent surface rupture are sparse compared to very
+active zones. Considering that the earthquake phenomenon is a stochastic
+process and its predictability is limited, we develop a methodology for
+mapping and characterising hazardous faults by taking advantage of
+incorporating interdisciplinary information with statistical seismological
+analyses.
+
+Two regional fault maps are presented: one is relevant for regional ground
+shaking models (Fig.Â 5) and the other for surface rupture near facilities
+that are particularly vulnerable to this hazard (Fig.Â 7). In addition to the
+approach of classifying faults by the recency of faulting or by their
+recurrence intervals (Machette, 2000, and references therein), we utilise
+other criteria such as seismological patterns (Sect.Â 4) and tectonic
+configuration (Sect.Â 6.3). In particular, we use the distribution of the
+earthquake kernel density and the seismic moment kernel density to test the relevancy of faults for different hazards. FigureÂ A3
+reveals that most of the capable faults, which are mapped based on the
+geological criteria, could have entered the map also by the seismological
+criterion (ignoring its 6âkm fault length limitation). The match between the
+geologically categorised faults and the area defined by the seismological
+analysis reinforces the methodological concept of utilising the two
+seismological distributions that are, to a large extent, independent of one
+another. Moreover, faults that are defined here as âmain seismic sourcesâ
+according to specific tectonic conditions (i.e.Â slip rate, geometry,
+structure) are well correlated with the zone defined by our seismological
+analysis (Fig.Â 6). This emphasises the significance of this analysis, especially when slip rates are slow or under debate (as in Sect.Â 5.2).
+
+The internal hierarchic categorisation of faults in both maps (Figs.Â 5 andÂ 7)
+enables separating different fault groups and can later be implemented if a
+specific hazard is considered or if risk evaluation is applied. However, we
+note that although faults are marked by hierarchical criteria, the different
+categories in many cases complement each other rather than show
+the hierarchy of the activity level. The grid-based distributions of the
+obtained seismicity parameters are utilised here together with fault
+geometry parameters (length and orientation) for defining capable faults.
+The advantage of this integration is expressed where the seismological
+criterion (Sect.Â 6. 3) defines capable faults in zones where young formations
+are scarce (Fig.Â 7). Just as important, our database of gridded seismicity,
+with possible adjustments, can be implemented as an independent source for
+hazard evaluations, and as a complement to the regional databases of
+mapped faults in zones of subsurface faults.
+
+Although our methodology is demonstrated for Israel and its vicinity, the approach is universal and is particularly useful in domains of intermediate
+seismicity rates or limited field evidence. The criteria, when implemented
+in other regions, should be adjusted according to the regional and local
+seismo-tectonic settings. For example, our seismicity-based analysis is not
+considering the orientation and the inclination of the fault surface when
+epicentre locations and fault traces are correlated together, because most
+of the faults in the study area are characterised by steep dips. This cannot
+be neglected in low-angle fault zones or the convergence regime. Finally, our
+approach of hierarchic tectonic criteria for categorising faults can be
+applied in principle also when local siting of an infrastructure is
+considered. However, faults with extremely long recurrence intervals,
+located along zones that are not covered by young formations, might be
+difficult to detect, even when seismo-tectonic criteria are considered.
+Moreover, faults that constitute a mechanical potential for slip, such as
+conjugate fault sets (Eyal and Reches, 1983) or old faults that can be
+reactivated by stress triggering (Stein et al., 1997), are not defined as
+capable in our regional analysis, unless further geological or seismological
+evidence for Quaternary activity exists. Therefore, local siting, in
+particular of sensitive infrastructure, might require stricter criteria both
+for surface rupture and ground shaking, depending on the specific
+requirements.
+
+7.2âImplications for local tectonics and slip dynamics
+
+The DST accommodates most of the seismic activity but also contains zones
+of very sparse seismicity (Fig.Â 6). The seismicity distribution maps (Figs.Â 3 andÂ 4) exhibit enhanced seismicity in the pull-apart basins and reduced
+activity in the long straight segments. The heterogeneous distribution can
+be explained by the tendency of stress amplification and failure to
+concentrate locally within zones of geometric irregularity, such as
+releasing bends (e.g.Â Segall and Pollard, 1980; Reches, 1987), whereas the
+long segments can accommodate higher stresses that are released in single
+earthquakes of more seismic moment release (Sagy and Lyakhovsky, 2019). At
+the northern section of the Jordan Valley long segment, sectionÂ I is the
+least active part of the DST during the last â¼35Â years.
+Shallow crust creep along the northern part of this segment at a rate of
+approximately half the total plate motion (Hamiel et al., 2016), and
+potential partitioning of the DST activity to the CTF (Sadeh et al., 2012;
+Hamiel et al., 2018b) might reduce the seismicity rate in sectionÂ I (Fig.Â 6). SectionsÂ II andÂ III, at the middle and the northern sections of the
+Arava segment, are also associated with sparse seismicity but to a lesser
+extent. With no indication for creep, the reduction of seismicity might be
+attributed to local locking of the main fault. Structural and lithological
+contrasts in fault junctions (e.g.Â the SNB and â¼âNNE striking faults) might also affect the increasing or decreasing of local seismicity along the segments.
+
+FiguresÂ 3 andÂ 4 indicate a â¼âSEâNW-trending seismological
+lineament with intensified seismicity in its southeast (IVÂ in Fig.Â 6,
+referred to here as the east Sinai zone). This lineament seems to branch off the
+DST in a zone of a structural boundary, between the deep tectonic basins of
+the Gulf of Elat (Ben-Avraham, 1985) and the Arava valley, a âstructural
+and topographic saddle with hardly any `rift-valley' in its centreâ
+(Garfunkel, 1981). Since the seismic activity implies that it may run
+further northwest, we refer to it as the ElatâBardawil lineamentÂ (EBL).
+Its orientation, sub-parallel to the CTF, the Suez rift and the Red Sea
+spreading centre, might indicate a similar extensional feature (see Fig.Â A4). This possibility is supported by geodetic analysis (Palano et al.,
+2013), a focal mechanism solution within this zone (Abdelazim et al., 2016),
+and by the orientation of nearby Quaternary faults (Fig.Â 6) and other fault
+traces in Sinai, outside our high-resolution data (e.g.Â Eyal et al., 1980).
+However, currently there are no available high-resolution maps to confirm
+the existence of faults associated with the seismicity in the east Sinai
+zone. We interpret the seismicity within the EBL as related to the reactivation of subsurface faults that were either formed during the post-Eocene Red Sea
+rifting or even older faults. Further research is required for better
+characterisation of this activity and its relationship to the regional
+tectonics.
+
+Finally, relatively long EâW-trending faultsÂ (SNB) cross the south of Israel
+and Sinai, and some of them are marked as Quaternary faults (Figs.Â 7 andÂ A3). However, there are no geologic or geodetic indications for any activity
+along them since the early Pleistocene, and the associated seismic activity
+mostly concentrates in their junctions with the DST. We therefore assume
+that these dextral oblique-slip faults are inactive in the present regional
+stress field, and their reactivation may generally decrease with increasing
+distance from theÂ DST.
+
+8âConclusions
+
+Mapping and characterising faults that pose seismic hazard, particularly in regions with intermediate seismicity rates and/or where young formations are sparse, require developing an interdisciplinary regional database and hierarchical seismo-tectonic criteria. With respect to the specific dictated requirements, faults that are potential sources for the far-field and for the near-field (i.e. surface rupture) hazards should be analysed by different criteria; both represent seismic hazard of significant earthquakes but within different time frames.
+
+We design a seismicity-based criterion that utilises the distribution of two parameters: the earthquake kernel density and the seismic moment kernel density. The success of this selection is demonstrated by the match between the geologically categorised faults and the seismicity criterion (Fig.Â A3). The union zone defined by these two statistical distributions is efficient in both the definition of the main seismic sources (Fig.Â 6) and in categorising capable faults (Fig.Â 7).
+
+The hierarchic seismo-tectonic criteria ideally reflect the degree of certainty for recent faulting and can later be implemented if a specific hazard is considered or if risk evaluation is applied.
+
+The temporal reference for local planning of critical facilities such as dams and nuclear power plants is usually long, because the possible damage to the construction has severe regional implications. We select the Quaternary period as the relevant time frame for capable faults in Israel and its surroundings. While this time frame (2.6âMyr) is longer than the previous one for defining capable faults for a potential local nuclear power plant (IEC and WLA, 2002), it is justified by considering the regional stress field, the regional stratigraphic configurations and the criteria that focus on surface rupture rather than general fault movements. We suggest that tectonic and stratigraphic conditions, as well as the accessibility of geologic maps and their resolutions, should be considered for defining the time frame for capable faults.
+
+Beyond planning of special constructions, the developed database and the maps that are generated and presented here constitute further applications for planning and research. The regional main-seismic-source map (Fig.Â 5) is fundamental for seismotectonic modelling and eventually for generating ground motion prediction maps (e.g.Â by PSHA) that are essential for construction planning. The capable fault database and the related maps (Figs.Â 2â4, 6 andÂ 7) lay the foundation for further study of the regional Quaternary faulting and tectonics in the eastern Mediterranean region. Furthermore, the methodology, which is based on categorisation and sub-categorisation by seismo-tectonic hierarchic criteria, enables differentiation of hazard potential and can be applied in other regions around the world.
+
+The relation between instrumental seismicity, geodetic slip rates and the internal structure of the main fault zone enables revealing seismo-tectonic patterns in an investigated region. Specifically, along the DST we recognise zones of enhanced or reduced seismicity, which can be controlled by the following factors: slip partitioning, creep, geometric irregularities associated with releasing bends, and litho-structural complexities in fault junctions. In addition, we identify a zone of seismicity that seems to diverge from the main fault zone towards â¼âNW (EBL in Figs.Â A4 andÂ 6). Its orientation and independent evidence imply that it reflects extension-related activity, accommodated by (subsurface?) fault systems that branch off theÂ DST.
+
+Appendix A
+
+FigureÂ A1Seismic stations utilised for recording the earthquakes of the examined catalogue, and the ensuing seismic network coverage area. The spatial distribution of the stations is temporally dependent. Stations that recorded less than 350Â arrivals are in black, while stations that recorded more than 350Â arrivals are in blue. Green lines mark the borders of the seismic network coverage area as defined in this study.
+
+FigureÂ A2The main seismic sources in Israel and adjacent areas as in Fig.Â 5, with colours indicating the two fault categories according to the criteria. Inferred subsurface faults are marked by dashed lines. Abbreviations are for the DST main strike-slip segments, its main branches and marginal faults. Numbers indicate lateral components of slip rates (mmâyrâ1) according to geodetic investigations (black) and field measurements of lateral offsets (green), based on recent studies (TablesÂ 1 andÂ 2). Brackets indicate slip rates accommodated by an entire fault zone. Asterisks denote segments of unknown slip rates, where the fault splits into a few (sub-)parallel segments.
+
+FigureÂ A3Quaternary faults superimposed on the seismicity polygons of the seismicity-based criterion. The letterÂ S indicates SNB faults.
+
+FigureÂ A4Marked â¼âNW trending seismicity lineaments: CTFÂ (north) and the EBLÂ (south), on the distribution maps of the earthquake densityÂ (a) and seismic moment densityÂ (b), as in Figs.Â 3 andÂ 4.
+
+TableÂ A1References for faults and fault segments that have been marked based on papers, reports and theses. Faults are listed in TableÂ 3 if their latest mapping is not updated yet in the 1:50â000Â sheets (as ofÂ 2018) or if their definition as Quaternary faults cannot be directly deduced from the geological maps. Fault names are mainly according to the references.
+Download Print Version | Download XLSX
+
+TableÂ A2List of geological formations and units used for the Quaternary fault map of Israel.
+
+*Â Geologic and geomorphic descriptions that appear in 1:50â000Â geological maps for Quaternary deposits. **Â Cgl. means conglomerate.
+Download Print Version | Download XLSX
+
+TableÂ A3References for faults located beyond Israeli borders and/or subsurface faults.
+Download Print Version | Download XLSX
+
+ Data availability
+
+The geological maps are available at the Geological Survey of Israel's website at http://www.gsi.gov.il/_Uploads//ftp/GeologicalMap/map_for_web_2016.pdf (last access: JanuaryÂ 2020) for 1:50â000 resolution and at https://www.gov.il/he/departments/general/israel-map-1-200k (last access: JanuaryÂ 2020) for 1:200â000 resolution. The earthquake catalogue can be accessed through the website of the Division of Seismology of the Geophysical Institute of Israel at http://seis.gii.co.il/en/earthquake/searchEQS.php (last access: JanuaryÂ 2020).
+
+ Author contributions
+
+MSÂ created the databases of the Quaternary formations and faults. MSÂ and ASÂ wrote the paper, reviewed literature sources, designed and applied the criteria, and edited the maps. IKÂ relocated the earthquake catalogue and contributed to the seismological criterion and to the writing of the seismological section. MSÂ and IKÂ processed the seismological data. SMÂ contributed to the geological analysis and to the editing of the paper. MRÂ contributed to the generation of a computed database and to GISÂ applications.
+
+ Competing interests
+
+The authors declare that they have no conflict of interest.
+
+ Acknowledgements
+
+We thank the following people for their assistance: RivkaÂ Amit, Yoav Â Avni, YossiÂ Bartov, ZviÂ Ben-Avraham, GideonÂ Baer, MarylineÂ LeÂ BÃ©on, MichaelÂ Beyth, AlexÂ Borshevsky, RaniÂ Calvo, YehudaÂ Eyal, ZviÂ Garfunkel,
+HananÂ Ginat, ZoharÂ Gvirtzman, YarivÂ Hamiel, ShmuelÂ Hoyland, ShimonÂ Ilani,
+RonnieÂ Kamai, WilliamÂ Lettis, TsafrirÂ Levi, DoronÂ Mor, ChanaÂ Netzer, PerachÂ Nuriel, YaelÂ Sagy, AmosÂ Salamon, AmihaiÂ Sneh, RamiÂ Weinberger and EzraÂ Zilberman. We also thank three anonymous reviewers for their constructive and important comments.
+
+ Review statement
+
+This paper was edited by MariaÂ AnaÂ Baptista and reviewed by three anonymous referees.
+
+ References
+
+Abdelazim, M., Samir, A., El-Nader, I. A., Badawy, A., and Hussein, H.:
+Seismicity and focal mechanisms of earthquakes in Egypt fromÂ 2004 toÂ 2011,
+NRIAG J. Astron. Geophys., 5, 393â402, 2016.â
+
+Agnon, A.: Pre-instrumental earthquakes along the Dead Sea Rift, in: Dead
+Sea Transform Fault System: Reviews, edited by: Garfunkel, Z., Ben-Avraham,
+Z., and Kagan, E. J., Springer, Dordrecht, the Netherlands, 207â262, 2014.â
+
+Aldersons, F., Ben-Avraham, Z., Hofstetter, A., Kissling, E., and Al-Yazjeen, T.: Lower-crustal strength under the Dead Sea basin from local earthquake data and rheological modeling, Earth Planet. Sc. Lett., 214, 129â142, 2003.â
+
+Ambraseys, N.: Earthquakes in the Mediterranean and Middle East: a multidisciplinary study of seismicity up toÂ 1900, Cambridge University Press, New York, 2009.â
+
+Amit, R., Zilberman, E., Enzel, Y., and Porat, N.: Paleoseismic evidence for
+time dependency of seismic response on a fault system in the southern Arava
+Valley, Dead Sea rift, Israel, Geol. Soc. Am. Bull., 114, 192â206, 2002.â
+Atkinson, G. M. and Goda, K.: Probabilistic seismic hazard analysis of civil infrastructure, in:Â Handbook of Seismic Risk Analysis and Management of Civil Infrastructure Systems, edited by: Tesfamariam, S. and Goda, K., Woodhead Publishing, Cambridge, UK, 3â28, https://doi.org/10.1533/9780857098986.1.3, 2013.â
+
+Avni, Y.: Paleogeography and tectonics of the Central Negev and the Dead Sea
+Rift western margin during the late Neogene and Quaternary, PhDÂ thesis, Hebrew University of Jerusalem, Geological Survey of Israel Report No.Â GSI/24/98, Jerusalem, 231âpp., 1998.â
+
+Avni, Y. and Zilberman, E.; Landscape evolution triggered by neotectonics in the Sede Zin region, central Negev, Israel, Israel J. Earth. Sci., 55, 189â208, 2007.â
+Baer, G., Sandwell, D., Williams, S., Bock, Y., and Shamir, G.: Coseismic
+deformation associated with the NovemberÂ 1995, Mw=7.1 Nuweiba earthquake, Gulf of Elat (Aqaba), detected by synthetic aperture radar interferometry, J. Geophys. Res.-Solid, 104, 25221â25232, 1999.â
+
+Bartov, Y.: A Structural and paleogeographical study of the central Sinai faults and domes, PhDÂ thesis, Hebrew University of Jerusalem, Jerusalem, 143âpp., 1974.â
+
+Bartov, Y. and Sagy, A.: Late Pleistocene extension and strike-slip in the
+Dead Sea Basin, Geol. Mag., 141, 565â572, 2004.â
+
+Bartov, Y., Agnon, A., Enzel, Y., and Stein, M.: Late Quaternary faulting
+and subsidence in the central Dead Sea basin, Israel, Israel J. Earth Sci.,
+55, 17â32, 2006.â
+
+Ben-Avraham, Z.: Structural framework of the Gulf of Elat (Aqaba), Northern Red Sea, J. Geophys. Res., 90, 703â726, 1985.â
+
+Ben-Avraham, Z. and Schubert, G.: Deep âdrop downâ basin in the southern
+Dead Sea, Earth Planet. Sc. Lett., 251, 254â263, 2006.â
+Bentor, Y. K. and Vroman, A.: A Structural contour map of Israel (1:250,000) with remarks on its dynamic interpretation, Bull. Res. Counc. Isr., 4, 125â135, 1954.â
+
+Buchbinder, B. and Sneh, A.: Marine sandstones and terrestrial conglomerates and mudstones of Neogene â Pleistocene age in the Modi'im area: a re-evaluation, Geol. Surv. Israel Curr. Res., 1983â184, 65â69, 1984.â
+
+Calvo, R.: Stratigraphy and petrology of the Hazeva Formation in the Arava
+and the Negev: Implications for the development of sedimentary basins and
+the morphotectonics of the Dead Sea Rift Valley, PhDÂ thesis, Geological Survey of Israel Report No.Â GSI/22/02, Hebrew University of Jerusalem, Jerusalem, 264âpp., 2002.â
+
+Calvo, R. and Bartov, Y.: Hazeva Group, southern Israel: New observations, and their implications for its stratigraphy, paleogeography, and
+tectono-sedimentary regime, Israel J. Earth Sci., 50, 71â99, 2001.â
+
+Calvo, R., Bartov, Y., Avni, Y., Garfunkel, Z., and Frislander, U.: Geological field trip to the Karkom graben: The HazevaÂ Fm.Â and its relation
+to the structure, Annual Meeting Field Trips Guidebook, Israel Geological
+Society, Mitzpe Ramon, 47â62, 1998.â
+Ellenblum, R., Marco, S., Kool, R., Davidovitch, U., Porat, R., and Agnon, A.: Archaeological record of earthquake ruptures in Tell Ateret, the Dead
+Sea Fault, Tectonics, 34, 2105â2117, https://doi.org/10.1002/2014TC003815, 2015.â
+
+Enzel, Y., Saliv, G., and Kaplan, M.: The tectonic deformation along the Zin
+Lineament, Nuclear Power Plant â Shivta Site: preliminary safety analysis
+Report. AppendixÂ 2.5E: Late Cenozoic Geology in the Site area, Israel
+Electric Corporation Ltd., Haifa, Israel, 1988.â
+
+Enzel, Y., Kadan, G., and Eyal, Y.: Holocene earthquakes inferred from a Fan-Delta sequence in The Dead Sea Graben, Quaternary Res., 53, 34â48, 2000.â
+
+Eppelbaum, L., Ben-Avraham, Z., and Katz, Y.: Structure of the Sea of Galilee and Kinarot Valley derived from combined geological-geophysical analysis, First Break, 25, 21â28, 2007.â
+Eyal, M., Bartov, Y., Shimron, A. E., and Bentor, Y. K.: Sinai â Geological Map: scaleÂ 1:500,000, Survey of Israel, Tel Aviv, 1980.â
+
+Eyal, Y. and Reches, Z.: Tectonic analysis of the Dead Sea Rift Region since the Late-Cretaceous based on mesostructures, Tectonics, 2, 167â185, 1983.â
+Eyal, Y., Kaufman, A., and Bar-Matthews, M.: Use of 230ThâU ages of striated Carnotites for dating fault displacements, Geology, 20, 829â832, 1992.â
+Farr, T. G., Rosen, P. A.,  Caro, E., Crippen, R., Duren, R., Hensley, S., Kobrick, M., Paller, M., Rodriguez, E., Roth, L., Seal, D., Shaffer, S., Shimada, J., Umland, J., Werner, M., Oskin, M., Burbank, D., and Alsdorf, D.: The Shuttle Radar Topography Mission, Rev. Geophys., 45, RG2004, https://doi.org/10.1029/2005RG000183, 2007.â
+
+Ferry, M., Meghraoui, M., Karaki, N. A., Al-Taj, M., Amoush, H., Al-Dhaisat,
+S., and Barjous, M.: A 48-kyr-long slip rate history for the Jordan Valley
+segment of the Dead Sea Fault, Earth Planet. Sc. Lett., 260, 394â406, 2007.â
+Ferry, M., Meghraoui, M., Abou Karaki, N., Al-Taj, M., and Khalil, L.: Episodic Behavior of the Jordan Valley Section of the Dead Sea Fault Inferred from a 14-ka-Long Integrated Catalog of Large Earthquakes, B. Seismol. Soc. Am., 101, 39â67, https://doi.org/10.1785/0120100097, 2011.â
+
+Galadini, F., Falcucci, E., Galli, P., Giaccio, B., Gori, S., Messina, P.,
+Moro, M., Saroli, M., Scardia, G., and Sposato, A.: Time intervals to assess
+active and capable faults for engineering practices in Italy, Eng. Geol., 139, 50â65, 2012.â
+
+Garfunkel, Z.: Internal structure of the Dead Sea leaky transform (rift) in
+relation to plate kinematics, in: The Dead Sea Rift, edited by: Freund, R.
+and Garfunkel, Z., Tectonophysics, 80, 81â108, 1981.â
+
+Garfunkel, Z.: Constrains on the origin and history of the Eastern Mediterranean basin, Tectonophysics, 298, 5â35, 1998.â
+Garfunkel, Z.: The long- and short-term lateral slip and seismicity along
+the Dead Sea Transform: An interim evaluation, Israel J. Earth. Sci., 58,
+217â235, https://doi.org/10.1560/IJES.58.3-4.217, 2011.â
+
+Garfunkel, Z.: Lateral motion and deformation along the Dead Sea transform, in: Dead Sea Transform Fault System: Reviews, edited by: Garfunkel, Z.,
+Ben-Avraham, Z., and Kagan, E. J., Springer, Dordrecht, the Netherlands,
+109â150, 2014.â
+
+Garfunkel, Z., and Bartov, Y.: The tectonics of the Suez rift, Geol. Surv. Israel Bull., 71, 1â44, 1977.â
+
+Garfunkel, Z. and Ben-Avraham, Z.: Basins along the Dead Sea transform,
+MÃ©moires du MusÃ©um national d'histoire naturelle, 186, 607â627,
+2001.â
+
+Ginat, H.: Paleogeography and the landscape evolution of the Nahal Hiyyon and Nahal Zihor basins, PhDÂ thesis, Geological Survey of Israel Report No.Â GSI/19/97, Hebrew University of Jerusalem, Jerusalem, 206âpp., 1997.â
+
+Gibbard, P. L., Head, M. J., Walker, M. J., and Subcommission on Quaternary
+Stratigraphy: Formal ratification of the Quaternary System/Period and the
+Pleistocene Series/Epoch with a base at 2.58âMa, J. Quaternary Sci., 25,
+96â102, 2010.â
+
+Gomez, F., Meghraoui, M., Darkal, A. B., Hijazi, F., Mouty, M., Suleiman, Y., Sbeinati, R., Darawcheh, R., Al-Ghazzi, R., and Barazabgi, M.: Holocene
+faulting and earthquake recurrence along the Serghaya branch of the Dead Sea
+Fault system in Syria and Lebanon, Geophys. J. Int., 153, 658â674, 2003.â
+
+Gomez, F., Karam, G., Khawlie, M., McClusky, S., Vernant, P., Reilinger, R.,
+R., Jaafar, R., Tabet, C., Khair, K., and Barazangi, M.: Global Positioning
+System measurements of strain accumulation and slip transfer through the
+restraining bend along the Dead Sea fault system in Lebanon, Geophys. J. Int., 168, 1021â1028, 2007.â
+
+Hamiel, Y., Piatibratova, O., and Mizrahi, Y.: Creep along the northern Jordan Valley section of the Dead Sea Fault, Geophys. Res. Lett., 43, 2494â2501, 2016.â
+Hamiel, Y., Masson, F., Piatibratova, O., and Mizrahi, Y.: GPS measurements
+of crustal deformation across the southern Arava Valley section of the Dead
+Sea Fault and implications to regional seismic hazard assessment, Tectonophysics, 724â725, 171â178, https://doi.org/10.1016/j.tecto.2018.01.016, 2018a.â
+Hamiel, Y., Piatibratova, O., Mizrahi, Y., Nahmias, Y., and Sagy, A.: Crustal deformation across the Jericho Valley section of the Dead Sea Fault as resolved by detailed field and geodetic observations, Geophys. Res. Lett., 45, 3043â3050, https://doi.org/10.1002/2018GL077547, 2018b.â
+Hartman, G., Niemi, T. M., Tibor, G., Ben-Avraham, Z., Al-Zoubi, A., Makovsky, Y., Akawwi, E., Abueladas, A.-R., and Al-Ruzouq, R.: Quaternary
+tectonic evolution of the Northern Gulf of Elat/Aqaba along the Dead Sea
+Transform, J. Geophys. Res.-Solid, 119, 9183â9205, https://doi.org/10.1002/2013JB010879, 2014.â
+
+Heimann, A.: Active faulting in Israel, Geologiacl Survey of Israel Report
+No.Â GSI/07/02, Geologiacl Survey of Israel, Jerusalem, 33âpp., 2002.â
+
+Hofstetter, A., vanÂ Eck, T., and Shapira, A.: Seismic activity along fault
+branches of the Dead Sea-Jordan transform system: the Carmel â Tirza fault
+system, Tectonophysics, 267, 317â330, 1996.â
+
+Hofstetter, A., Thio, H. K., and Shamir, G.: Source mechanism of the
+22/11/1995Â Gulf of Aqaba earthquake and its aftershock sequence, J. Seismol., 7, 99â114, 2003.â
+
+Hofstetter, R., Klinger, Y., Amrat, A.-Q., Rivera, L., and Dorbath, L.: Stress tensor and focal mechanisms along the Dead Sea fault and related
+structural elements based on seismological data, Tectonophysics, 429,
+165â181, 2007.â
+
+Hofstetter, R., Gitterman, Y., Pinsky, V., Kraeva, N., and Feldman, L.:
+Seismological observations of the northern Dead Sea basin earthquake on 11Â FebruaryÂ 2004 and its associated activity, Israel J. Earth Sci., 57,
+101â124, 2008.â
+
+Hurwitz, S., Garfunkel, Z., Ben-Gai, Y., Reznikov, M., Rotstein, Y., and
+Gvirtzman, H.: The tectonic framework of a complex pull-apart basin: seismic
+reflection observations in the Sea of Galilee, Dead Sea transform, Tectonophysics, 359, 289â306, 2002.â
+
+IAEA â International Atomic Energy Agency: Seismic hazards in site
+evaluation for nuclear installations specific safety guide: IAEA Safety
+Standards Series No.Â SSG-9, International Atomic Energy Agency, Vienna, 2010.â
+
+IEC and WLA â Israel Electric Corporation and William LettisÂ &Â Associates,
+Inc.: Shivta-Rogem Site Report, Israel Electric Corporation, Ltd., 2002.â
+
+Jaeger, J. C., Cook, N. G. W., and Zimmerman, R. W.: Fundamentals of Rock
+Mechanics, 4yhÂ Edn., Blackwell, Malden, Mass., 488âpp., 2007.â
+
+Joffe, S. and Garfunkel, Z.: Plate kinematics of the circum Red Sea â a
+re-evaluation, in: Sedimentary basins within the Dead Sea and other rift
+zones, edited by: Ben-Avraham, Z., Tectonophysics, 141, 5â22, 1987.â
+
+Kafri, U. and Ecker, A.: Neogene and Quaternary subsurface geology and
+hydrogeology of the Zevulun plain, Geological Survey of Israel Bulletin No.Â 37, Geological Survey of Israel, Jerusalem, 13âpp., 1964.â
+
+Katz, O., Amit, R., Yagoda-Biran, G., Hatzor, Y. H., Porat, N., and Medvedev, B.: Quaternary earthquakes and landslides in the Sea of Galilee area, the Dead Sea Transform: paleoseismic analysis and implication to the current hazard, Israel J. Earth. Sci., 58, 275â294, 2009.â
+
+Klinger, Y., Avouac, J .P., Abou Karaki, N., Dorbath, L., Bourles, D., and
+Reyss, J. L.: Slip rate on the Dead Sea transform fault in northern Araba valley (Jordan), Geophys. J. Int., 142, 755â768, 2000.â
+
+Klinger, Y., LeÂ BÃ©on, M., and Al-Qaryouti, M.: 5000âyr of paleoseismicity along the southern Dead Sea fault, Geophys. J. Int., 202, 313â327, 2015.â
+LeÂ BÃ©on, M., Klinger, Y., Al-Qaryouti, M., MÃ©riaux, A. S., Finkel, R. C., Elias, A., Mayyas, O., Ryerson, F. J., and Tapponnier, P.: Early Holocene and Late Pleistocene slip rates of the southern Dead Sea Fault determined from 10Be cosmogenic dating of offset alluvial deposits, J. Geophys. Res.-Solid, 115, B11414, https://doi.org/10.1029/2009JB007198, 2010.â
+LeÂ BÃ©on, M., Klinger, Y., MÃ©riaux, A.-S., Al-Qaryouti, M., Finkel, R. C., Mayyas, O., and Tapponnier, P.: Quaternary morphotectonic mapping of the Wadi Araba and implications for the tectonic activity of the southern Dead Sea fault, Tectonics, 31, TC5003, https://doi.org/10.1029/2012TC003112, 2012.â
+
+Machette, M. N.: Active, capable, and potentially active faults â a
+paleoseismic perspective, J. Geodyn., 29, 387â392, 2000.â
+
+Mai, M. and Beroza, G. C.: Source scaling properties from finite-fault-rupture models, B. Seismol. Soc. Am., 90, 604â615, 2000.â
+
+Marano, K. D., Wald, D. J., and Allen, T. I.: Global earthquake casualties
+due to secondary effects: a quantitative analysis for improving rapid loss
+analyses, Nat. Hazards, 52, 319â328, 2010.â
+
+Marco, S.: Recognition of earthquake-related damage in archaeological sites:
+Examples from the Dead Sea fault zone, Tectonophysics, 453, 148â156, 2008.â
+
+Marco, S. and Klinger, Y.: Review of on-fault palaeoseismic studies along the Dead Sea fault, in: Dead Sea Transform Fault System: Reviews, edited by:
+Garfunkel, Z., Ben-Avraham, Z., and Kagan, E. J., Springer, Dordrecht, the
+Netherlands, 183â205, 2014.â
+
+Marco, S., Hartal, M., Hazan, N., Lev, L., and Stein, M.: Archaeology, history and Geology of the A.D.Â 749 earthquake, Dead Sea transform, Geology,
+31, 665â668, 2003.â
+
+Marco, S., Rockwell, T. K., Heimann, A., Frieslander, U., and Agnon, A.:
+Late Holocene activity of the Dead Sea transform revealed in 3D palaeoseismic trenches on the Jordan Gorge Segment, Earth Planet. Sc. Lett., 234, 189â205, 2005.â
+
+Masson, F., Hamiel, Y., Agnon, A., Klinger, Y., and Deprez, A.: Variable behavior of the Dead Sea Fault along the southern Arava segment from GPS
+measurements, C. R. Geosci., 347, 161â169, 2015.â
+
+McKenzie, D. P.: Plate tectonics of the Mediterranean Region, Nature, 226,
+239â243, 1970.â
+
+Meghraoui, M., Gomez, F., Sbeinati, R., Van der Woerd, J., Mouty, M., Darkal, A. N., Radwan, Y., Layyous, I., Al Najjar, H., Darawcheh, R., Hijazi, F., Al-Ghazzi, R., and Barazangi, M.: Evidence for 830Â years of seismic quiescence from palaeoseismology, archaeoseismology and historical seismicity along the Dead Sea fault in Syria, Earth Planet. Sc. Lett., 210, 35â52, 2003.â
+
+Meirova, T. and Hofstetter, A.: Observations of seismic activity in Southern Lebanon, J. Seismol., 17, 629â644, 2013.â
+Mitchell, S. G., Matmon, A., Bierman, P. R., Enzel, Y., Caffee, M., and
+Rizzo, D.: Displacement history of a limestone normal fault scarp, northern
+Israel, from cosmogenic 36Cl, J. Geophys. Res., 106, 4247â4264, 2001.â
+
+Neev, D., Almagor, G., Arad, A., Ginzburg, A., and Hall, J. K.: The geology
+of the southeastern Mediterranean Sea, Geol. Surv. Israel Bull., 68, 1â51, 1976.â
+
+Nemer, T. and Meghraoui, M.: Evidence of coseismic ruptures along the Roum
+fault (Lebanon): a possible source for the ADÂ 1837 earthquake, J. Struct. Geol., 28, 1483â1495, 2006.â
+
+Niemi, T. M., Zhang, H., Atallah, M., and Harrison, J. B. J.: Late Pleistocene and Holocene slip rate of the northern Wadi Araba fault, Dead
+Sea transform, Jordan, J. Seismol., 5, 449â474, 2001.â
+
+Palano, M., Imprescia, P., and Gresta, S.: Current stress and strain-rate fields across the Dead Sea Fault System: Constraints from seismological data
+and GPS observations, Earth Planet. Sc. Lett., 369, 305â316, 2013.â
+
+Picard, L.: The geological evolution of the Quaternary in the central-northern Jordan Graben, Israel, Geol. S. Am. S., 84, 337â366, 1965.â
+
+Porat, N., Wintle, A. G., Amit, R., and Enzel, Y.: Late Quaternary earthquake
+chronology from luminescence dating of colluvial and alluvial deposits of the Arava valley, Israel, Quatern. Res., 46, 107â117, 1996.â
+
+Quennell, A. M.: Tectonics of the Dead Sea rift, in: Int. Geol. Congr., 20th, Assoc. Serv. Geol. Afr., Mexico, 385â405, 1959.â
+
+Reches, Z. E.: Mechanical aspects of pull-apart basins and push-up swells
+with applications to the Dead Sea transform, in: Sedimentary basins within
+the Dead Sea and other rift zones, edited by: Ben-Avraham, Z., Tectonophysics, 141, 75â88, 1987.â
+Reilinger, R., McClusky, S., Vernant, P., Lawrence, S., Ergintav, S., Cakmak, R., Ozener, H., Kadirov, F., Guliev, I., Stepanyan, R., Nadariya, M., Habubia, G., Mahmoud, S., Sakr, K., ArRajehi A., Paradissis, D., Al-Aydrus, A., Prilepin, M., Guseva T., Evren, E., Dmitrotsa, A., Filikov, S. V., Gomez, F., Al-Ghazzi, R., and Karam, G.: GPS constraints on continental deformation in the Africa-Arabia-Eurasia continental collision zone and implications for the dynamics of plate interactions, J. Geophys. Res.-Solid, 111, B05411, https://doi.org/10.1029/2005JB004051, 2006.â
+
+Reznikov, M., Ben-Avraham, Z., Garfunkel, Z., Gvirtzman, H., and Rotstein, Y.: Structural and stratigraphic framework of Lake Kinneret, Israel J. Earth Sci., 53, 131â149, 2004.â
+
+Ron, H. and Eyal, Y.: Intraplate deformation by block rotation and mesostructures along the Dead Sea transform, northern Israel, Tectonics, 4, 85â105, 1985.â
+Sadeh, M., Hamiel, Y., Ziv, A., Bock, Y., Fang, P., and Wdowinski, S.: Crustal deformation along the Dead Sea Transform and the Carmel Fault
+inferred from 12Â years of GPS measurements, J. Geophys. Res., 117, B08410,
+https://doi.org/10.1029/2012JB009241, 2012.â
+Sagy, A. and Lyakhovsky, V.: Stress patterns and failure around rough interlocked fault surface, J. Geophys. Res.-Solid, 124,  https://doi.org/10.1029/2018JB017006, 2019.â
+
+Sagy, A., and Nahmias, Y.: Characterizing active faulting zone, in:
+Infrastructure instability along the Dead Sea: Final Report: 2008â2010,
+edited by: Baer, G., Geological Survey of Israel Report No.Â GSI/02/2011,
+Geological Survey of Israel, Jerusalem, 7â17, 2011.â
+Sagy, A., Reches, Z. E., and Agnon, A.: Hierarchic three-dimensional
+structure and slip partitioning in the western Dead Sea pull-apart, Tectonics, 22, 1004, https://doi.org/10.1029/2001TC001323, 2003.â
+
+Sagy, A., Sneh, A., Rosensaft, M., and Bartov, Y.: Map of `active' and
+`potentially active' faults that rupture the surface in Israel: UpdatesÂ 2013
+for Israel StandardÂ 413, Geological Survey of Israel Report No.Â GSI/02/2013,
+Geological Survey of Israel, Jerusalem, 17âpp., 2013.â
+
+Sagy, Y.,and Gvirtzman, Z.: Subsurface mapping of the Zevulun valley, The
+Geophysical Institute of Israel ReportÂ 648/454/09, Geophysical Institute of Israel, Lod, 21âpp., 2009.â
+
+Salamon, A., Rockwell, T., Ward, S. N., Guidoboni, E., and Comastri, A.:
+Tsunami hazard evaluation of the eastern Mediterranean: historical analysis
+and selected modeling, B. Seismol. Soc. Am., 97, 705â724, 2007.â
+Schattner, U. and Ben-Avraham, Z.: Transform margin of the northern Levant,
+eastern Mediterranean: From formation to reactivation, Tectonics, 26, TC5020, https://doi.org/10.1029/2007TC002112, 2007.â
+Schattner, U. and Weinberger, R.: A mid-Pleistocene deformation transition in the Hula basin, northern Israel: Implications for the tectonic evolution of the Dead Sea Fault, Geochem. Geophy. Geosy., 9, Q07009, https://doi.org/10.1029/2007GC001937, 2008.â
+
+Segall, P. and Pollard, D. D.: Mechanics of discontinuous faults, J. Geophys. Res.-Solid, 85, 4337â4350, 1980.â
+
+Shaked, Y., Agnon, A., Lazar, B., Marco, S., Avner, U., and Stein, M.: Large
+earthquakes kill coral reefs at the north-west Gulf of Aqaba, Terra Nova, 16, 133â138, 2004.â
+
+Shalev, E., Lyakhovsky, V., and Yechieli, Y.: Is advective heat transport
+significant at the Dead Sea basin?, Geofluids, 7, 292â300, 2007.â
+
+Shalev, E., Lyakhovsky, V., Weinstein, Y., and Ben-Avraham, Z.: The thermal
+structure of Israel and the Dead Sea Fault, Tectonophysics, 602, 69â77, 2013.â
+
+Shapira, A. and Hofstetter, A.: Source parameters and scaling relationships of earthquakes in Israel, Tectonophysics, 217, 217â226, 1993.â
+
+Sneh, A. and Weinberger, R.: Major geological structures of Israel and Environs, Geological Survey of Israel, Jerusalem, 2014.â
+Sneh, A., Bartov, Y., Weissbrod, T., and Rosensaft, M.: Geological Map of
+Israel, 1:200,000 (4Â sheets), Geological Survey of Israel, Jerusalem, 1998.â
+
+Steckler, M. S., Berthelot, F., Lyberis, N., and LeÂ Pichon, X.: Subsidence in the Gulf of Suez: implications for rifting and plate kinematics, Tectonophysics, 153, 249â270, 1988.â
+
+Stein, R. S., Barka, A. A., and Dieterich, J. H.: Progressive failure on the
+North Anatolian fault since 1939 by earthquake stress triggering, Geophys.
+J. Int., 128, 594â604, 1997.â
+
+Stevens, V. L. and Avouac, J. P.: Determination of Mmax from background
+seismicity and moment conservation, B. Seismol. Soc. Am., 107, 2578â2596, 2017.â
+
+Stirling, M., Rhoades, D., and Berryman, K.: Comparison of Earthquake Scaling Relations Derived from Data of the Instrumental and Preinstrumental Era, B. Seismol. Soc. Am., 92, 812â830, 2002.â
+
+Stirling, M., Goded, T., Berryman, K., and Litchfield, N.: Selection of
+earthquake scaling relationships for seismic-hazard analysis, B. Seismol. Soc. Am., 103, 2993â3011, 2013.â
+tenÂ Brink, U. S. and Flores, C. H.: Geometry and subsidence history of the
+Dead Sea basin: A case for fluid induced mid-crustal shear zone?, J. Geophys.
+Res., 117, B01406, https://doi.org/10.1029/2011JB008711, 2012.â
+
+Torfstein, A., Haase-Schramm, A., Waldmann, N., Kolodny, Y., and Stein, M.:
+U-series and oxygen isotope chronology of the mid-Pleistocene Lake Amora (Dead Sea basin), Geochim. Cosmochim. Ac., 73, 2603â2630, 2009.â
+
+Wechsler, N., Rockwell, T. K., and Klinger, Y.: Variable slip-rate and
+slip-per-event on a plate boundary fault: The Dead Sea fault in northern Israel, Tectonophysics, 722, 210â226, 2018.â
+Weinberger, R., Gross, M. R., and Sneh, A.: Evolving deformation along a
+transform plate boundary: Example from the Dead Sea Fault in northern Israel, Tectonics, 28, TC5005, https://doi.org/10.1029/2008TC002316, 2009.â
+
+Wells, D. L. and Coppersmith, K. J.: New empirical relationships among magnitude, rupture length, rupture width, rupture area, and surface displacement, B. Seismol. Soc. Am., 84, 974â1002, 1994.â
+
+Wetzler, N. and Kurzon, I.: The earthquake activity in Israel: Revisiting
+30Â years of local and regional seismic records along the Dead Sea transform,
+Seismol. Res. Lett., 87, 47â58, 2016.â
+
+Wetzler, N., Sagy, A., and Marco, S.: The association of micro-earthquake
+clusters with mapped faults in the Dead Sea basin, J. Geophys. Res.-Solid, 119, 8312â8330, 2014.â
+Wieler, N., Avni, A., Ginat, H., and Rosensaft, M.: Quaternary map of the
+Eilat region on a scale ofÂ 10:000 with explanatory notes, Geological Survey
+of Israel Report No.Â GSI/37/2016, Geological Survey of Israel, Jerusalem, 15âpp., 2017.â
+
+Woo, G.: Kernel estimation methods for seismic hazard area source modelling, B. Seismol. Soc. Am., 86, 353â362, 1996.â
+
+Zilberman, E.: The geology of the central Sinai-Negev shear zone, central
+Negev. PartÂ C: The Paran Lineament, Geological Survey of Israel Report No.Â GSI/38/85, Geological Survey of Israel, Jerusalem, 53âpp., 1985.â
+
+Zilberman, E., Baer. G., Avni, Y., and Feigin, D.: Pliocene fluvial systems
+and tectonics in the central Negev, southern Israel, Israel J. Earth Sci., 45, 113â126, 1996.â
+
+Zilberman, E., Greenbaum, N., Nahmias, Y., Porat, N., and Ashqar, L.: Middle
+Pleistocene to Holocene tectonic activity along the Carmel Fault â preliminary results of a paleoseismic study, Geological Survey of Israel
+Report No.Â GSI/02/2007, Geological Survey of Israel, Jerusalem, 35âpp., 2006.â
+
+Zilberman, E., Greenbaum, N., Nahmias, Y., Porat, N., and Ashkar, L.: Late
+Pleistocene to Holocene tectonic activity along the Nesher fault, Mount Carmel, Israel, Israel J. Earth. Sci., 57, 87â100, 2008.â
+Zilberman, E., Nahmias, Y., Gvirtzman, Z., and Porat, N.: Evidence for late
+Pleistocene and Holocene tectonic activity along the Bet Qeshet fault system
+in the Lower Galilee, Geological Survey of Israel Report No.Â GSI/06/2009,
+Geological Survey of Israel, Jerusalem, 22âpp., 2009.
+ â
+
+Zilberman, E., Greenbaum, N., Nahmias, Y., and Porat, N.: The evolution of
+the northern shutter ridge, Mt.Â Carmel, and its implications on the tectonic
+activity along the Yagur fault, Geological Survey of Israel Report No.Â GSI/14/2011, Geological Survey of Israel, Jerusalem, 25 pp., 2011a.â
+
+Zilberman, E., Ron, H., and Sa'ar, R.: Evaluating the potential seismic hazards of the Ahihud Ridge fault system by paleomagnetic and morphological analyses of calcretes, Geological Survey of Israel Report No.Â GSI/15/2011, Geological Survey of Israel, Jerusalem, 30âpp., 2011b.â
+
+Zoback, M. L.: First-and second-order patterns of stress in the lithosphere:
+The World Stress Map Project, J. Geophys. Res.-Solid, 97, 11703â11728, 1992.â
+
+Zohar, M., Salamon, A., and Rubin, R.: Reappraised list of historical
+earthquakes that affected Israel and its close surroundings, J. Seismol., 20, 971â985, 2016.â
+
+                    Articles
+
+                                Abstract
+
+                                Introduction
+
+                                Tectonic settings
+
+                                Geological database
+
+                                Seismological analysis
+
+                                The main seismic sources
+
+                                Capable faults
+
+                                Discussion
+
+                                Conclusions
+
+                                Appendix A
+
+                                Data availability
+
+                                Author contributions
+
+                                Competing interests
+
+                                Acknowledgements
+
+                                Review statement
+
+                                References
+
+Download
+
+Article
+                                            (39243 KB)
+
+                                        Full-text XML
+
+BibTeX
+
+EndNote
+
+Short summary
+
+We present a methodology for mapping faults that constitute far-field (ground motion) and near-field (surface rupture) hazards to structures, particularly for critical facilities. For categorising faults, the criteria are adjusted to local tectonic characteristics, combining data of geological maps, instrumental seismicity, geodesy and past earthquakes. Our results adhere to international standards of hazard assessment for nuclear power plants and improve the regional tectonic understanding.
+
+We present a methodology for mapping faults that constitute far-field (ground motion) and...
+
+                                Read more
+
+Share
+
+Altmetrics
+
+                        Final-revised paper
+
+                            Preprint
+
+                         Turn MathJax on
+
+Sections
+
+                                        Abstract
+
+                                        Introduction
+
+                                        Tectonic settings
+
+                                        Geological database
+
+                                        Seismological analysis
+
+                                        The main seismic sources
+
+                                        Capable faults
+
+                                        Discussion
+
+                                        Conclusions
+
+                                        Appendix A
+
+                                        Data availability
+
+                                        Author contributions
+
+                                        Competing interests
+
+                                        Acknowledgements
+
+                                        Review statement
+
+                                        References
+
+                            Natural Hazards and Earth System Sciences
+
+An interactive open-access journal of the European Geosciences Union
+
+ All site content, except where otherwise noted, is licensed under the Creative Commons Attribution 4.0 License.
+
+Contact
+
+|
+
+Imprint
+
+|
+
+Data protection
+
