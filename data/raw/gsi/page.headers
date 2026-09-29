@@ -1,9 +1,9 @@
 HTTP/2 200 
 content-type: text/html
-x-guploader-uploadid: AP6rU814JPdPwkfleBNtvj80LnM317qoWbI6zOKqMjav2hd7NLEBRs10GZauna1WmPEtaUpP
-date: Tue, 29 Sep 2026 15:14:46 GMT
+x-guploader-uploadid: AP6rU82B3p6jtWBQnsvIXXfxF7xPj7HvLVxeo61sKeM8li7hZjdYoEiYSi37e5-LXb3c_NTT
+date: Tue, 29 Sep 2026 15:15:38 GMT
 cache-control: no-cache, no-store, must-revalidate, max-age=0
-expires: Tue, 29 Sep 2026 15:14:46 GMT
+expires: Tue, 29 Sep 2026 15:15:38 GMT
 last-modified: Thu, 03 Sep 2026 14:09:54 GMT
 etag: "4bb1c386f2a94302f0d632268325e238"
 x-goog-generation: 1788444594756563
@@ -20,7 +20,7 @@ access-control-allow-origin: *
 access-control-expose-headers: Content-Type,Cache-Control,ETag,Date
 server: UploadServer
 alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
-alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+alt-svc: h3=":443"; ma=2592000
 via: 1.1 google
 x-frame-options: SAMEORIGIN
 referrer-policy: strict-origin-when-cross-origin
