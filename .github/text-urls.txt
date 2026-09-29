@@ -1,4 +1,3 @@
-# טקסטים פתוחים בלבד (CC BY). slug url   (סבב 4ג: PDF סרוקים, עם OCR)
-abdelfattah1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3831/3895
-ambraseys1997 https://www.annalsofgeophysics.eu/index.php/annals/article/download/3887/3952
-papazachos1996 https://www.annalsofgeophysics.eu/index.php/annals/article/download/4023/4088
+# טקסטים פתוחים בלבד. slug url   (סבב 6ב: ספריית הקונגרס, נחלת הכלל)
+loc-matpc-03034 https://www.loc.gov/resource/matpc.03034/?fo=json
+loc-matpc-03034-item https://www.loc.gov/pictures/item/2019703339/?fo=json

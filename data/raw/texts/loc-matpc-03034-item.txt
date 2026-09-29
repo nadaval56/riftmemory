@@ -1,0 +1,150 @@
+SOURCE: https://www.loc.gov/pictures/item/2019703339/?fo=json
+
+{"reproductions":"
+\nFor preservation reasons, original negatives in the Matson Photograph\n  Collection are not used for producing photographic\n  copies. The Library arranged to digitize the negatives at a high \n  resolution that is sufficient for most publication\n  purposes. \n\n
+\n Photographic prints in the collection have been copied in various \n ways over the years and may or may not have been digitized at high \n resolution.\n \n
+ \n You can download images yourself. Alternatively, you can purchase \n copies of various types through Library of Congress Duplication \n Services.\n\n \n
+  \nFor photographic prints:\n\n\n\n\t\n
+\n
+If a digital image is displaying: The qualities of \nthe digital image partially depend on whether it was made from the \noriginal or an intermediate such as a copy negative or transparency. \nIf the Reproduction Number field above includes a reproduction number \nthat starts with LC-DIG..., then there is a digital image that was \nmade directly from the original and is of sufficient resolution for \nmost publication purposes. \n\n\n
+\t\n
+If there is information listed in the Reproduction Number \nfield above: You can use the reproduction number to purchase \na copy from Duplication Services. It will be made from the source \nlisted in the parentheses after the number. If only black-and-white \n("b&w") sources are listed and you desire a copy showing \ncolor or tint (assuming the original has any), you will need to order \nphotography of the original in color. Order photography of the original \nby citing the Call Number listed above and including the catalog record\n ("About This Item") with your request. \n\t\n\n
+\n
+If there is no information listed in the Reproduction Number\n field above: The original will have to be photographed by \n Duplication Services. Order photography of the original by citing \n the Call Number listed above and including the catalog record \n ("About This Item") with your request. \n\t\n\n\n
+\nPrice lists, contact information, and order forms are available on the \nDuplication Services Web site.\n\n\n",
+"item":{
+    "source_created": "2005-08-02T00:00:00Z",
+    "restriction": "",
+    "other_number": "",
+    "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/matpc.13764"
+    ],
+    "title": "Y.M.C.A. athletic events [Jerusalem]",
+    "related_items": [],
+    "medium_brief": "1 negative :",
+    "service_medium": "https://cdn.loc.gov/service/pnp/matpc/13700/13764r.jpg",
+    "collections": [
+        {
+            "code": "matpc",
+            "link": "https://www.loc.gov/pictures/collection/matpc/",
+            "title": "Matson (G. Eric and Edith) Photograph Collection"
+        }
+    ],
+    "part_of_group": null,
+    "stmt_of_responsibility": "",
+    "other_titles": "",
+    "link": "https://www.loc.gov/pictures/item/2019703339/",
+    "other_control_numbers": [
+        "21369668",
+        "mpc2005008392/PP"
+    ],
+    "notes": [
+        {
+            "note": "Taken either by the American Colony Photo Department or its successor, the Matson Photo Service.",
+            "label": null
+        },
+        {
+            "note": "Title from negative sleeve.",
+            "label": null
+        },
+        {
+            "note": "General information about the G. Eric and Edith Matson Photograph Collection is available at:  https://hdl.loc.gov/loc.pnp/pp.matpc",
+            "label": null
+        },
+        {
+            "note": "Gift; Episcopal Home; 1978.",
+            "label": null
+        }
+    ],
+    "modified": "2020-01-14T14:53:51Z",
+    "summary": "",
+    "formats": [
+        {
+            "link": "https://www.loc.gov/pictures/related/?fi=format&q=Nitrate%20negatives.",
+            "title": "Nitrate negatives."
+        }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2019703339/marc/",
+    "mediums": [
+        {
+            "medium": "1 negative : nitrate ; 4 x 5 in.",
+            "label": null
+        }
+    ],
+    "group_has_items": false,
+    "thumb_gallery": "https://cdn.loc.gov/service/pnp/matpc/13700/13764_150px.jpg",
+    "rights_information": "No known restrictions on publication. For information see: \"G. Eric and Edith Matson Photograph Collection,\" https://hdl.loc.gov/loc.pnp/res.258.mats",
+    "display_offsite": true,
+    "related_names": [],
+    "created_published": "[between 1933 and 1946]",
+    "title_translation": "",
+    "id": "2019703339",
+    "contents": "",
+    "raw_collections": [
+        "diof",
+        "matpc",
+        "minload",
+        "pp"
+    ],
+    "call_number": "LC-M33- 80345-x [P&P]",
+    "sort_date": "1933",
+    "subjects": [
+        {
+            "link": "https://www.loc.gov/pictures/related/?fi=subject&q=Jerusalem.",
+            "title": "Jerusalem."
+        }
+    ],
+    "source_modified": "2020-01-08T14:31:48Z",
+    "part_of": "Matson photograph collection",
+    "terms": [],
+    "reproduction_number": "LC-DIG-matpc-13764 (digital file from original)",
+    "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print",
+    "service_low": "https://cdn.loc.gov/service/pnp/matpc/13700/13764_150px.jpg",
+    "date": "[between 1933 and 1946]",
+    "created": "2020-01-14T14:53:51Z",
+    "control_number": "2019703339",
+    "place": [
+        {
+            "latitude": "",
+            "link": "https://www.loc.gov/pictures/related/?fi=place&q=Jerusalem",
+            "longitude": "",
+            "title": "Jerusalem"
+        }
+    ],
+    "creators": [],
+    "created_published_date": "[between 1933 and 1946]"
+},
+"thesaurus_entry":null,
+"resources":[
+    {
+        "note": "digital file from original",
+        "medium": "https://cdn.loc.gov/service/pnp/matpc/13700/13764r.jpg",
+        "largest": "https://memory.loc.gov/pp/notdig.gif",
+        "largest_s": 0,
+        "url": "https://hdl.loc.gov/loc.pnp/matpc.13764",
+        "medium_s": 47242,
+        "small_s": 5022,
+        "large": "https://cdn.loc.gov/service/pnp/matpc/13700/13764v.jpg",
+        "item": "13764",
+        "larger_s": 13522192,
+        "large_s": 112807,
+        "external": null,
+        "larger": "https://cdn.loc.gov/master/pnp/matpc/13700/13764u.tif",
+        "aggregate": "matpc",
+        "small": "https://cdn.loc.gov/service/pnp/matpc/13700/13764_150px.jpg",
+        "id": "matpc.13764",
+        "link": "https://www.loc.gov/pictures/resource/matpc.13764/"
+    }
+],
+"links":{
+    "json": "https://www.loc.gov/pictures/item/2019703339/?fo=json",
+    "html": "https://www.loc.gov/pictures/item/2019703339/"
+},
+"related":{
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&pk=2019703339&st=gallery&sb=call_number#focus",
+    "survey_link": null,
+    "group_record": null
+},
+"unrestricted":true,
+"collection":null}

@@ -1,0 +1,139 @@
+SOURCE: https://www.loc.gov/pictures/search/?q=winter%20palace%20jericho%201927&co=matpc&fo=json
+
+{"search":{
+    "field": null,
+    "hits": 1,
+    "sort_order": null,
+    "do_facets": true,
+    "focus_item": null,
+    "query": "winter palace jericho 1927",
+    "type": "search",
+    "sort_by": null
+},
+"focus":null,
+"views":{
+    "current": "list",
+    "grid": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&co=matpc&st=grid",
+    "list": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&co=matpc",
+    "gallery": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&co=matpc&st=gallery",
+    "slideshow": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&co=matpc&st=slideshow"
+},
+"facets":[
+    {
+        "type": "displayed",
+        "filters": [
+            {
+                "count": 1,
+                "on": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&fa=displayed%3Aanywhere&sp=1&co=matpc&fo=json",
+                "selected": false,
+                "off": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&sp=1&co=matpc&fo=json",
+                "title": "Larger image available anywhere"
+            },
+            {
+                "count": 0,
+                "on": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&fa=displayed%3Alc_only&sp=1&co=matpc&fo=json",
+                "selected": false,
+                "off": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&sp=1&co=matpc&fo=json",
+                "title": "Larger image available only at the Library of Congress"
+            },
+            {
+                "count": 0,
+                "on": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&fa=displayed%3Anot_digitized&sp=1&co=matpc&fo=json",
+                "selected": false,
+                "off": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&sp=1&co=matpc&fo=json",
+                "title": "Not Digitized"
+            },
+            {
+                "count": 0,
+                "on": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&fa=displayed%3Asurveys_only&sp=1&co=matpc&fo=json",
+                "selected": false,
+                "off": "https://www.loc.gov/pictures/search/?q=winter+palace+jericho+1927&sp=1&co=matpc&fo=json",
+                "title": "Surveys only"
+            }
+        ],
+        "title": "displayed"
+    }
+],
+"links":{
+    "json": "https://www.loc.gov/pictures/search/?q=winter%20palace%20jericho%201927&co=matpc&fo=json",
+    "html": "https://www.loc.gov/pictures/search/?q=winter%20palace%20jericho%201927&co=matpc",
+    "rss": "https://www.loc.gov/pictures/search/?q=winter%20palace%20jericho%201927&co=matpc&fo=rss"
+},
+"suggestions":{
+    "possible": []
+},
+"pages":{
+    "current": 1,
+    "next": null,
+    "perpage": 20,
+    "last": null,
+    "page_list": [
+        {
+            "url": null,
+            "number": 1
+        }
+    ],
+    "previous": null,
+    "total": 1,
+    "results": "1 - 1",
+    "first": null
+},
+"collection":{
+    "digitized": "Most",
+    "code": "matpc",
+    "display_offsite": "Yes",
+    "thumb_large_item": "",
+    "title": "Matson (G. Eric and Edith) Photograph Collection",
+    "banner_item": "https://www.loc.gov/pictures/item/mpc2005010016/PP/",
+    "brief": "Images made by the American Colony Photo Department and its successor, the Matson Photo Service, illustrating Middle East culture, history, and political events including people and locations in Palestine (present day Israel, the West Bank and Gaza Strip), Jordan, Lebanon, Syria, Iraq, Egypt, and Turkey.",
+    "banner_title": "Camel transport, Olivet. American Colony Photo Dept., 1918.",
+    "thumb_item": "matpc.11906",
+    "home_link": "https://www.loc.gov/pictures/collection/matpc/",
+    "from_date": "1898",
+    "view_all": "https://www.loc.gov/pictures/search?st=grid&co=matpc",
+    "link": "https://www.loc.gov/pictures/collection/matpc/",
+    "to_date": "1946",
+    "extent": "Over 23,000 negatives, transperencies and photographic prints.",
+    "thumb_featured": "https://www.loc.gov/pictures/static/data/matpc/featured.png",
+    "rights": "https://www.loc.gov/rr/print/res/258_mats.html",
+    "thumb_large": "https://www.loc.gov/pictures/static/data/matpc/thumb_large.png",
+    "banner": "https://www.loc.gov/pictures/static/data/matpc/banner.jpg",
+    "thumb": "https://www.loc.gov/pictures/static/data/matpc/thumb.png"
+},
+"results":[
+    {
+        "source_created": "2004-04-08T00:00:00Z",
+        "index": 1,
+        "medium": "1 negative : glass, dry plate ; 5 x 7 in.",
+        "reproduction_number": "LC-DIG-matpc-03034 (digital file from original)",
+        "links": {
+            "item": "https://www.loc.gov/pictures/collection/matpc/item/2019696329/",
+            "resource": "https://www.loc.gov/pictures/collection/matpc/item/2019696329/resource/"
+        },
+        "title": "Palestine events. The earthquake of July 11, 1927. Wreckage of the Winter Palace Hotel, Jericho. A complete collapse",
+        "image": {
+            "alt": "digitized item thumbnail",
+            "full": "https://tile.loc.gov/storage-services/service/pnp/matpc/03000/03034r.jpg",
+            "square": "https://tile.loc.gov/storage-services/service/pnp/matpc/03000/03034_75x75px.jpg",
+            "thumb": "https://tile.loc.gov/storage-services/service/pnp/matpc/03000/03034_150px.jpg"
+        },
+        "created": "2020-01-14T00:00:00Z",
+        "modified": "2020-01-14T00:00:00Z",
+        "collection": [
+            "diof",
+            "matpc",
+            "minload",
+            "pp"
+        ],
+        "creator": "American Colony (Jerusalem). Photo Department",
+        "call_number": "LC-M32- 4098 [P&P]",
+        "medium_brief": "1 negative :",
+        "source_modified": "2020-01-07T00:00:00Z",
+        "pk": "2019696329",
+        "created_published_date": "1927 July.",
+        "subjects": [
+            "West Bank--Jericho.",
+            "Dry plate negatives."
+        ]
+    }
+]}
