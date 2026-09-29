@@ -407,3 +407,22 @@ table.data td:nth-child(2), table.data td:nth-child(3) { white-space: nowrap; }
 .dmg.doubtful { background: var(--surface); border: 1.5px dashed var(--ink-2); }
 .lg-dmg { width: 9px; height: 9px; border-radius: 2px; transform: rotate(45deg); background: var(--ink-2); }
 .dmg-entry { margin-top: .35rem; }
+
+/* מתג השכבות במפה */
+.map .leaflet-control-layers { direction: rtl; font: .8rem Heebo, sans-serif; background: var(--surface); color: var(--ink); border: 1px solid var(--line); box-shadow: none; }
+.map .leaflet-control-layers label { display: flex; align-items: center; gap: .3rem; }
+.quake-links { margin: .35rem 0 0; font-size: .88rem; }
+table.data a.ext { font-size: .82em; }
+
+/* ===== הפס החי בראש כל דף ===== */
+.live-bar {
+  display: flex; flex-wrap: wrap; align-items: center; gap: .15rem .6rem;
+  padding: .45rem 1rem; background: var(--accent-soft); color: var(--ink);
+  font-size: .88rem; text-decoration: none; border-bottom: 1px solid var(--line-soft);
+}
+.live-bar:hover .lb-more { text-decoration: underline; }
+.lb-kicker { font-weight: 600; color: var(--ink-2); }
+.lb-place { font-weight: 600; }
+.lb-mag { font-weight: 700; color: var(--accent); }
+.lb-ago { color: var(--ink-2); }
+.lb-more { margin-inline-start: auto; color: var(--accent); }

@@ -45,6 +45,7 @@
             {% if q.fault_km < 1 %}פחות מק״מ{% else %}כ־{{ q.fault_km }} ק״מ{% endif %}{% if q.fault_km <= 50 and q.fault_seg %} (מקטע {{ q.fault_seg }}){% endif %}</dd></div>{% endif %}
           {% if q.felt %}<div><dt>הורגשה</dt><dd>כן, לפי המכון</dd></div>{% endif %}
         </dl>
+        <p class="quake-links"><a href="#map" data-map-focus="{{ q.anchor }}">הצגה במפה ↑</a></p>
         {% if q.echo and q.echo.text %}
         <p class="echo">{{ q.echo.text }}
           {% for id in q.echo.event_ids if id in by_id %}<a href="{{ base }}/events/{{ id }}/">{{ by_id[id].short_title }}</a>{% if not loop.last %} · {% endif %}{% endfor %}</p>

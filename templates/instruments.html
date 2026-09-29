@@ -41,14 +41,14 @@
     <h2 id="top-h">הרעידות החזקות שנמדדו</h2>
     <div class="table-wrap">
     <table class="data">
-      <thead><tr><th>תאריך</th><th>מגניטודה</th><th>עומק</th><th>מקום (USGS)</th></tr></thead>
+      <thead><tr><th>תאריך</th><th>מגניטודה</th><th>עומק</th><th>מקום</th></tr></thead>
       <tbody>
       {% for q in inst.strongest %}
         <tr>
           <td>{{ q.label }}{% if q.event %}<br><a href="{{ base }}/events/{{ q.event.id }}/">{{ q.event.short_title }}</a>{% endif %}</td>
           <td><bdi dir="ltr">{{ q.mag }}</bdi> <span class="muted">{{ q.mag_type }}</span></td>
           <td>{% if q.depth is not none %}{{ q.depth }} ק״מ{% endif %}</td>
-          <td><a href="{{ q.url }}" rel="noopener"><bdi dir="ltr">{{ q.place }}</bdi></a></td>
+          <td><a href="#map" data-map-focus="u-{{ q.id }}">הצגה במפה ↑</a><br><a class="muted ext" href="{{ q.url }}" rel="noopener"><bdi dir="ltr">{{ q.place }}</bdi> ↗</a></td>
         </tr>
       {% endfor %}
       </tbody>

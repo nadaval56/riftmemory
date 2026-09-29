@@ -23,6 +23,15 @@
     }
   });
 
+  var mapFocus = [];
+  document.addEventListener("click", function (ev) {
+    var a = ev.target.closest && ev.target.closest("[data-map-focus]");
+    if (!a) return;
+    ev.preventDefault();
+    var key = a.getAttribute("data-map-focus");
+    mapFocus.some(function (f) { return f(key); });
+  });
+
   function initMap(el) {
     var data = JSON.parse(el.dataset.map);
     var map = L.map(el, { scrollWheelZoom: false, minZoom: 5, maxZoom: 10 }).setView([31.8, 35.2], 7);
@@ -66,6 +75,16 @@
       rust: css.getPropertyValue("--accent").trim()
     };
     var bounds = [];
+    // קישורי "הצגה במפה" ברשימות: מפתח -> סמן
+    var focusable = {};
+    mapFocus.push(function (key) {
+      var m = focusable[key];
+      if (!m) return false;
+      el.scrollIntoView({ behavior: "smooth", block: "center" });
+      map.setView(m.getLatLng(), Math.max(map.getZoom(), 9));
+      m.openPopup();
+      return true;
+    });
     var faultBounds = [];
     var segBounds = [];
 
@@ -116,20 +135,28 @@
     });
 
     data.live.forEach(function (q) {
-      L.circleMarker([q.lat, q.lon], {
+      var m = L.circleMarker([q.lat, q.lon], {
         radius: data.dot_scale ? Math.max(2, (q.mag - 2) * data.dot_scale) : Math.max(3, q.mag * 1.6),
         color: colors.live, weight: data.dot_scale ? 0.5 : 1, fillOpacity: data.dot_scale ? 0.35 : 0.6
       }).bindPopup('<div class="map-popup"><strong>' + esc(q.label) + '</strong><br><bdi dir="ltr">M' + q.mag + "</bdi>" +
         (q.depth != null ? " · עומק " + q.depth + " ק״מ" : "") +
         '<div class="src">' + esc(q.local || ago(q.time_utc) || "") + "</div>" +
-        (q.url ? '<div class="src"><a href="' + q.url + '">לכל הפרטים ←</a></div>' : "") + "</div>")
+        (q.url ? '<div class="src"><a href="' + q.url + '"' + (q.url.indexOf("http") === 0 ? ' rel="noopener"' : "") + ">" +
+          (q.url.indexOf("http") === 0 ? "הרשומה בקטלוג USGS ↗" : "לכל הפרטים ←") + "</a></div>" : "") + "</div>")
         .addTo(map);
+      if (q.key) focusable[q.key] = m;
       bounds.push([q.lat, q.lon]);
     });
 
     // מקומות שנפגעו: המקומות שהדפים מתארים בהם נזק (לא מוקדים). ריבוע קטן, ובלחיצה: מה קרה שם ובאיזו רעידה.
     var dmgBounds = [];
-    if (data.damage && data.damage.length) map.attributionControl.addAttribution('<a href="https://www.geonames.org">GeoNames</a>');
+    var dmgLayer = L.layerGroup();
+    if (data.damage && data.damage.length) {
+      map.attributionControl.addAttribution('<a href="https://www.geonames.org">GeoNames</a>');
+      dmgLayer.addTo(map);
+      // מתג להצגה ולהסתרה של המקומות שנפגעו
+      L.control.layers(null, { "מקומות שנפגעו": dmgLayer }, { collapsed: false, position: "topleft" }).addTo(map);
+    }
     (data.damage || []).forEach(function (d) {
       var icon = L.divIcon({ className: "dmg" + (d.doubtful ? " doubtful" : ""), iconSize: [8, 8] });
       var html = '<div class="map-popup"><strong>' + esc(d.name) + "</strong>" + d.entries.map(function (x) {
@@ -137,7 +164,7 @@
           (x.place !== d.name ? " (" + esc(x.place) + ")" : "") + ": " + esc(x.what) +
           '<div class="src">' + esc(x.status) + "</div></div>";
       }).join("") + "</div>";
-      L.marker([d.lat, d.lon], { icon: icon, keyboard: false }).bindPopup(html).addTo(map);
+      L.marker([d.lat, d.lon], { icon: icon, keyboard: false }).bindPopup(html).addTo(dmgLayer);
       dmgBounds.push([d.lat, d.lon]);
     });
 
@@ -146,19 +173,20 @@
     var hist = [];
     data.events.forEach(function (e) {
       var popup = '<div class="map-popup"><a href="' + e.url + '"><strong>' + esc(e.title) + "</strong></a><br>" + esc(e.year) +
-        "<br><strong>מיקום משוער</strong>" +
+        "<br><strong>" + (e.label ? "הצעה אחת למוקד (מיקום משוער)" : "מיקום משוער") + "</strong>" +
         (e.source ? '<div class="src">לפי: ' + (e.source_url
           ? '<a href="' + esc(e.source_url) + '" rel="noopener">' + esc(e.source) + "</a>"
           : esc(e.source)) + "</div>" : "") +
         '<div class="src"><a href="' + e.url + '#bibliography">לביבליוגרפיה המלאה</a></div></div>';
       var area = L.circle([e.lat, e.lon], {
-        radius: 30000, color: colors.rust, weight: 1.5, dashArray: "4 4",
+        radius: e.label ? 12000 : 30000, color: colors.rust, weight: 1.5, dashArray: "4 4",
         fillColor: colors.rust, fillOpacity: 0.15
       }).bindPopup(popup).addTo(map);
       L.circleMarker([e.lat, e.lon], {
         radius: 4, stroke: false, fillColor: colors.rust, fillOpacity: 1
       }).bindPopup(popup).addTo(map);
-      area.bindTooltip("מיקום משוער · " + esc(e.year), { permanent: true, direction: "right", offset: [12, 0], className: "approx-label" });
+      area.bindTooltip(e.label ? "הצעה: " + esc(e.label) : "מיקום משוער · " + esc(e.year),
+        { permanent: e.perm !== false, direction: "right", offset: [12, 0], className: "approx-label" });
       hist.push([e.lat, e.lon]);
     });
 
@@ -168,6 +196,11 @@
     var inRegion = function (p) { return p[0] > 29 && p[0] < 33.6 && p[1] > 34 && p[1] < 36.6; };
     var near = bounds.concat(data.focus ? [] : hist).filter(inRegion);
     var all = faultBounds.filter(function (p) { return p[0] < 33.4; }).concat(near, data.focus ? hist : []);
+    // דף רעידה עם מיקום משוער: המבט על המיקום (או ההצעות) ועל המקומות שנפגעו
+    if (data.focus && hist.length) {
+      map.fitBounds(L.latLngBounds(hist.concat(dmgBounds)).pad(0.25), { maxZoom: 9 });
+      return;
+    }
     // מפה של מקטע בלבד (בלי מיקום לרעידה): המבט על המקטע והמקומות שנפגעו, עם מעט סביבה
     if (data.focus && !hist.length && (segBounds.length || dmgBounds.length)) {
       all = segBounds.concat(near, dmgBounds);
