@@ -234,7 +234,7 @@ def instruments_data(segments, segment_names, events):
         gsi_felt=sum(1 for q in gsi_rows if q.get("felt")),
         map_live=[dict(lat=q["lat"], lon=q["lon"], magnitude=q["mag"], time_utc=q["t"],
                        label=q["time"].astimezone(TZ).strftime("%-d.%-m.%Y"), depth_km=q["depth"],
-                       local=q.get("place"), anchor=None, url=q.get("url"))
+                       local=q.get("place"), anchor=None, url=q.get("url"), key="u-" + q["id"])
                   for q in rows],
     )
 
@@ -353,6 +353,23 @@ def damage_data(sites, events, only=None):
     return out
 
 
+def approx_points(e, focus):
+    """מיקומים משוערים של רעידה היסטורית: מוקד אחד ממקור, או כמה הצעות (למשל 1927).
+    focus: בדף הרעידה התוויות קבועות; בדף הבית הן מופיעות רק בריחוף, כדי לא להעמיס."""
+    loc = e["location"]
+    base = {"id": e["id"], "title": e["short_title"], "year": fmt.event_year_label(e),
+            "kind": evidence_kind(e), "url": f"{BASE_PATH}/events/{e['id']}/"}
+    out = []
+    if loc.get("lat") is not None and loc.get("lon") is not None:
+        out.append(dict(base, lat=loc["lat"], lon=loc["lon"], source=loc.get("source"),
+                        source_url=loc.get("source_url"), label=None, perm=True))
+    for p in loc.get("proposals") or []:
+        out.append(dict(base, lat=p["lat"], lon=p["lon"], label=p["label"],
+                        source=f'{p["label"]}. לפי {loc.get("proposals_source")}',
+                        source_url=loc.get("proposals_source_url"), perm=False))
+    return out
+
+
 def map_data(events, live, segments, focus=False, highlight=None, all_events=None, damage=None):
     """focus: מפה של דף רעידה בודדת. המבט כולל את הרעידה גם כשהיא רחוקה.
     highlight: מזהה המקטע של הרעידה. המקטע מודגש והמבט מתמקד בו."""
@@ -370,21 +387,7 @@ def map_data(events, live, segments, focus=False, highlight=None, all_events=Non
                          if e["location"].get("segment") == s["id"]]}
             for s in segments if s.get("approved")
         ],
-        "events": [
-            {
-                "id": e["id"],
-                "title": e["short_title"],
-                "year": fmt.event_year_label(e),
-                "lat": e["location"]["lat"],
-                "lon": e["location"]["lon"],
-                "kind": evidence_kind(e),
-                "source": e["location"].get("source"),
-                "source_url": e["location"].get("source_url"),
-                "url": f"{BASE_PATH}/events/{e['id']}/",
-            }
-            for e in events
-            if e["location"].get("lat") is not None and e["location"].get("lon") is not None
-        ],
+        "events": [p for e in events for p in approx_points(e, focus)],
         "live": [
             {
                 "lat": q["lat"],
@@ -395,6 +398,7 @@ def map_data(events, live, segments, focus=False, highlight=None, all_events=Non
                 "depth": q.get("depth_km"),
                 "local": q.get("local"),
                 "url": f"{BASE_PATH}/recent/#{q['anchor']}" if q.get("anchor") else q.get("url"),
+                "key": q.get("anchor") or q.get("key"),
             }
             for q in live["events"]
         ],
@@ -441,7 +445,10 @@ def build(drafts=False):
         e["live_nearby"] = [q for q in live["events"] if seg and q.get("segment") == seg]
 
     env = make_env()
-    common = dict(drafts=drafts, public_drafts=public_drafts, built_at=now, segment_names=segment_names)
+    # הפס החי בראש כל דף: הרעידה האחרונה שנרשמה
+    latest_quake = live["events"][0] if live["events"] else None
+    common = dict(drafts=drafts, public_drafts=public_drafts, built_at=now, segment_names=segment_names,
+                  live_bar=latest_quake, live_bar_by_id={e["id"]: e for e in events})
 
     if SITE.exists():
         shutil.rmtree(SITE)
