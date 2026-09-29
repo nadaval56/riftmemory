@@ -1,5 +1,2 @@
-# טקסטים פתוחים בלבד. slug url   (סבב 12: נחלת הכלל ומטא-נתונים)
-robinson1841-v2-princeton https://archive.org/download/biblicalresearch02robi/biblicalresearch02robi_djvu.txt
-perrey1859-pdf https://www.persee.fr/docAsPDF/marb_0770-8459_1859_num_8_1_2102.pdf
-ncei-ref-1222 https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/references/1222
-ncei-1033-refs https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/8156/references
+# טקסטים פתוחים בלבד. slug url   (סבב 13: רובינסון כרך 1, אספלט אחרי רעידות)
+robinson1841-v1-princeton https://archive.org/download/biblicalresearch01robi/biblicalresearch01robi_djvu.txt
