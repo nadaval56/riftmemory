@@ -43,6 +43,14 @@ jobs:
         if: contains(steps.task.outputs.tasks, 'wikipedia')
         run: python scripts/fetch_wikipedia.py
 
+      # טקסטים ראשוניים בנחלת הכלל (מקרא, ספרות חז"ל, יוסף בן מתתיהו בתרגום וויסטון,
+      # ספרי מסע מהמאה ה-19) לבדיקת ציטוטים. נשמרים כמו שהם, בלי הצפנה.
+      - name: texts
+        if: contains(steps.task.outputs.tasks, 'texts')
+        run: |
+          sudo apt-get install -y -qq poppler-utils >/dev/null
+          python scripts/fetch_research.py data/raw/texts .github/text-urls.txt
+
       - name: gsi-probe
         if: contains(steps.task.outputs.tasks, 'gsi-probe')
         run: python scripts/probe_gsi.py

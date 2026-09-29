@@ -1,6 +1,6 @@
 """משיכת מחקרים ומקורות לבדיקת עובדות (לא לפרסום).
 
-קלט: .github/research-urls.txt, שורה לכל מקור: "<slug> <url>".
+קלט: .github/research-urls.txt (או קובץ אחר כארגומנט שני), שורה לכל מקור: "<slug> <url>".
 פלט: תיקייה (ברירת מחדל research-out/) עם <slug>.txt (הטקסט) ו-<slug>.links.txt
 (הקישורים שבדף, לדפי HTML). ה-workflow מצפין את הפלט לפני שהוא נשמר בריפו,
 כדי לא לפרסם מחדש חומר מוגן בזכויות יוצרים.
@@ -53,8 +53,9 @@ class Text(HTMLParser):
 
 def main():
     out = Path(sys.argv[1] if len(sys.argv) > 1 else "research-out")
+    urls = Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / ".github" / "research-urls.txt"
     out.mkdir(parents=True, exist_ok=True)
-    lines = (ROOT / ".github" / "research-urls.txt").read_text(encoding="utf-8").splitlines()
+    lines = urls.read_text(encoding="utf-8").splitlines()
     for line in lines:
         line = line.strip()
         if not line or line.startswith("#"):
