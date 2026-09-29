@@ -118,9 +118,17 @@ def parse_gsi(data):
         if q.get("m_type", "earthquake") != "earthquake" or q.get("magnitude") is None:
             continue
         region = (q.get("region") or "").strip() or None
-        out.append(record(parse_time(q["timestamp"]), q["latitude"], q["longitude"], q.get("depth"),
-                          q["magnitude"], None, place=region,
-                          place_he=GSI_REGIONS_HE.get(region), source_id=q.get("id")))
+        r = record(parse_time(q["timestamp"]), q["latitude"], q["longitude"], q.get("depth"),
+                   q["magnitude"], None, place=region,
+                   place_he=GSI_REGIONS_HE.get(region), source_id=q.get("id"))
+        # אי-ודאות המיקום והעומק כפי שהמכון מדווח (הנחה: בק"מ), ו"הורגשה" אם דווח
+        unc = [q.get("m_latitude_uncertainty"), q.get("m_longitude_uncertainty")]
+        unc = [u for u in unc if isinstance(u, (int, float))]
+        r["loc_unc_km"] = round(max(unc), 1) if unc else None
+        du = q.get("m_depth_uncertainty")
+        r["depth_unc_km"] = round(du, 1) if isinstance(du, (int, float)) else None
+        r["felt"] = (q.get("felt") or "").strip() or None
+        out.append(r)
     return out
 
 

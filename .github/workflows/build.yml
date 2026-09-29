@@ -25,6 +25,13 @@ jobs:
           python-version: "3.11"
           cache: pip
       - run: pip install -r requirements.txt
+      # רענון הרעידות האחרונות גם בכל בנייה (בלי commit), כי ה-schedule של live.yml לא תמיד רץ בזמן
+      - name: fetch live
+        continue-on-error: true
+        run: |
+          cd scripts
+          python fetch_live.py
+          python echo.py
       - id: pages
         uses: actions/configure-pages@v5
       - name: build site

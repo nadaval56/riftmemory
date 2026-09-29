@@ -55,11 +55,16 @@ jobs:
         if: contains(steps.task.outputs.tasks, 'gsi-probe')
         run: python scripts/probe_gsi.py
 
+      # קטלוג הרעידות של המכון לאורך שנים (עמוד "מה המכשירים רואים")
+      - name: catalog
+        if: contains(steps.task.outputs.tasks, 'catalog')
+        run: python scripts/fetch_catalog.py
+
       - name: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
-          git add data/raw
+          git add data/raw data/catalog 2>/dev/null || git add data/raw
           if git diff --cached --quiet; then
             echo "no changes"
           else
