@@ -88,7 +88,8 @@
         {% endif %}
       {% endfor %}
       {% if e.footnotes %}
-      <section class="notes" aria-label="הערות">
+      <section class="notes" aria-labelledby="notes-h">
+        <h2 id="notes-h">הערות ומקורות</h2>
         {{ e.footnotes | safe }}
       </section>
       {% endif %}
@@ -123,7 +124,7 @@
       {% endif %}
 
       <section class="sources">
-        <h2>מקורות</h2>
+        <h2>ביבליוגרפיה</h2>
         <ul>
           {% for s in e.sources %}
           <li>{% if s.url %}<a href="{{ s.url }}" rel="noopener">{{ s.label }}</a>{% else %}{{ s.label }}{% endif %}</li>
@@ -134,6 +135,13 @@
     </div>
   </div>
 </article>
+<div class="source-sheet" id="source-sheet" role="dialog" aria-modal="false" aria-live="polite" hidden>
+  <div class="source-sheet-inner">
+    <p class="source-sheet-label"></p>
+    <div class="source-sheet-body"></div>
+    <p class="source-sheet-hint">נגיעה בכל מקום סוגרת</p>
+  </div>
+</div>
 {% endblock %}
 {% block scripts %}
 {% if map_data.events or map_data.live %}

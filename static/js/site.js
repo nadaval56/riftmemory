@@ -81,6 +81,29 @@
     });
   }
 
+  // הערות שוליים: לחיצה על מספר ההערה פותחת את המקור בחלון צף בתחתית המסך.
+  // לחיצה או נגיעה בכל מקום אחר (או Esc) סוגרת אותו.
+  var sheet = document.getElementById("source-sheet");
+  if (sheet) {
+    var body = sheet.querySelector(".source-sheet-body");
+    var label = sheet.querySelector(".source-sheet-label");
+    var close = function () { sheet.hidden = true; };
+    document.addEventListener("click", function (ev) {
+      var ref = ev.target.closest && ev.target.closest("a.footnote-ref");
+      if (ref) {
+        var note = document.getElementById(decodeURIComponent(ref.getAttribute("href").slice(1)));
+        if (!note) return;
+        ev.preventDefault();
+        body.innerHTML = note.innerHTML;
+        label.textContent = "מקור " + ref.textContent;
+        sheet.hidden = false;
+        return;
+      }
+      if (!sheet.hidden && !(ev.target.closest && ev.target.closest(".source-sheet-body a"))) close();
+    });
+    document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") close(); });
+  }
+
   window.addEventListener("load", function () {
     if (!window.L) return;
     document.querySelectorAll(".map[data-map]").forEach(initMap);

@@ -285,3 +285,31 @@ section + section { margin-top: 2rem; }
 .dot.no-mag.k-archaeology { stroke: var(--archaeology); }
 .dot.no-mag.k-instrumental { stroke: var(--instrumental); }
 .tl-event:hover .dot { stroke: var(--ink); }
+
+/* ===== חלון מקור צף (הערות שוליים) ===== */
+.footnote-ref { text-decoration: none; padding: 0 .1em; }
+.footnote-ref::before { content: "["; }
+.footnote-ref::after { content: "]"; }
+.source-sheet {
+  position: fixed; inset-inline: 0; bottom: 0; z-index: 1000;
+  padding: 0 12px calc(12px + env(safe-area-inset-bottom));
+  display: flex; justify-content: center; pointer-events: none;
+}
+.source-sheet[hidden] { display: none; }
+.source-sheet-inner {
+  pointer-events: auto; width: 100%; max-width: 640px;
+  background: color-mix(in srgb, var(--surface) 86%, transparent);
+  -webkit-backdrop-filter: blur(14px) saturate(1.2); backdrop-filter: blur(14px) saturate(1.2);
+  border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: 0 10px 40px rgba(0,0,0,.14);
+  padding: .8rem 1.1rem .6rem; font-size: .95rem; line-height: 1.55;
+  animation: sheet-in .18s ease-out;
+}
+.source-sheet-label { margin: 0 0 .2rem; font-size: .75rem; font-weight: 600; color: var(--accent); }
+.source-sheet-body p { margin: 0 0 .4rem; }
+.source-sheet-body a { overflow-wrap: anywhere; }
+.source-sheet-hint { margin: .2rem 0 0; font-size: .7rem; color: var(--muted); text-align: center; }
+@keyframes sheet-in { from { transform: translateY(12px); opacity: 0; } to { transform: none; opacity: 1; } }
+@media (prefers-reduced-motion: reduce) { .source-sheet-inner { animation: none; } }
+.notes ol li { margin-bottom: .35rem; }
+.notes li:target { background: var(--accent-soft); border-radius: 6px; }
