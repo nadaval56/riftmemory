@@ -60,9 +60,11 @@ sources:
   url: https://books.google.com/books?id=fxnnk2inWT0C&pg=PA31
 - label: 'E. Zilberman, R. Amit, N. Porat, Y. Enzel, U. Avner, "Surface ruptures induced by the devastating 1068 AD earthquake in the southern Arava valley, Dead Sea Rift, Israel", Tectonophysics 408 (2005), עמ׳ 79–99 (TODO: לבדוק במקור)'
   url: https://doi.org/10.1016/j.tecto.2005.05.030
-- label: 'Y. Klinger ואחרים, "Seismic behaviour of the Dead Sea fault along the Araba valley, Jordan", Geophysical Journal International 142 (2000), עמ׳ 769–782 (TODO: לבדוק במקור)'
+- label: 'Y. Klinger, J. P. Avouac, L. Dorbath, N. Abou Karaki, N. Tisnerat, "Seismic behaviour of the Dead Sea fault along Araba valley, Jordan", Geophysical Journal International 142 (2000), עמ׳ 769–782'
   url: https://doi.org/10.1046/j.1365-246x.2000.00166.x
-- label: 'A. K. Abdel Fattah ואחרים, "Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications", Annali di Geofisica 40 (1997) (TODO: לבדוק במקור)'
+- label: 'R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco, J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", Journal of Geophysical Research 106 (B2) (2001), עמ׳ 2221–2234, טבלה 3 (עמ׳ 2228)'
+  url: https://doi.org/10.1029/2000JB900313
+- label: 'A. K. Abdel-Fattah, H. M. Hussein, E. M. Ibrahim, A. S. Abu El Atta, "Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications", Annali di Geofisica 40 (6) (1997) (נקרא התקציר בלבד, והוא עוסק ברעידות 1993 ו-1995. TODO: לבדוק במקור את מספרי ההרוגים של 1068)'
   url: http://www.annalsofgeophysics.eu/index.php/annals/article/view/3831
 - label: 'לקריאה נוספת: ויקיפדיה, רעידת האדמה במזרח הקרוב (1068)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_במזרח_הקרוב_(1068)
@@ -89,6 +91,7 @@ review_notes:
 - 'להכרעת נדב: segment. זהר ואחרים משייכים את רעידת מרץ לאזור הדרומי (מפרץ אילת), ואת רעידת מאי לאזור המרכזי (רמלה). אם בוחרים מקטע אחד לדף, arava מתאים לרעידת מרץ. נשאר null.'
 - 'להכרעת נדב: השעה. בטבלה 3 בנספח של סלמון ואחרים (2007) רעידת מרץ רשומה "08 30". מופיעה בהערה, אבל time_local נשאר null כי לא ברור אם זו שעה מקומית ומאיזה מקור.'
 - 'סבב עריכה (ספטמבר 2026): ציטוטים. אבן אל-בנא לא נקרא ואין ממנו ציטוט. אומתו מילה במילה: "of a day׳s walk" (עמירן, אריה וטורקוטה, לפי סלמון ואחרים 2007), "extraordinary violence" ו-"presumably that of 1068" (ויטקומב), "massive urban dislocation" (וולמסלי, אצל ויטקומב; התרגום תוקן ל"שיבוש עירוני מסיבי"). הגוף נכתב מחדש כסיפור שנפתח בשער החסום באיילה; רשימת הגדלים הועברה להערה.'
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) Klinger ועמיתיו 2000 נקרא במלואו; הוסר ה-TODO, והושלמו המחברים והכותרת המדויקת ("along Araba valley"). תוקן: לפני, "לפי סיכום משני, יותר מ-12 קילומטרים של קרע, מלפני 900 עד 1,000 שנה", בלי שם. אחרי: קלינגר ועמיתיו (עמ׳ 772) מסכמים את זילברמן ועמיתיו 1998: קרע של יותר מ-12 ק"מ מצפון לאילת, 900–1,000 שנה לפני זמננו, וגודל של 7 לפחות. ה-7.0 "של קלינגר" שהגיע מוויקיפדיה הוא בעצם ההערכה של זילברמן ועמיתיו 1998 כפי שהם מביאים אותה. נוסף מאותו עמוד: נזק מבניאס עד חג׳אז, ואיילה "completely destroyed" (לפי Ambraseys et al. 1994). (2) נוסף Ken-Tor ועמיתיו 2001, טבלה 3: 15,000 הרוגים ברמלה, "seems exaggerated". (3) Abdel-Fattah ועמיתיו 1997: נקרא רק התקציר, שעוסק ברעידות 1993 ו-1995; הושלמו המחברים והגיליון (6); המספרים של 1068 עדיין TODO. הטקסט המלא עדיין לא הגיע.'
 ---
 
 ## הסיפור
@@ -121,9 +124,9 @@ review_notes:
 
 העיר לא ננטשה מיד. על ההריסות בשער נבנה שער חדש, צר, בקשת מחודדת, והשכבות שמעליו מכילות חומרים פאטמיים מסוף המאה העשירית ומהמאה ה-11.[^whitcomb] ויטקומב מביא גם את וולמסלי, שמייחס לרעידת 1068 "שיבוש עירוני מסיבי" באיילה. עם זאת, הוא מזהיר מפני הישענות יתר על רעידות אדמה בתיארוך ארכיאולוגי, ומפקפק באזכור של רעידה ב-873 באיילה.[^whitcomb]
 
-**קרע בערבה.** עזרא זילברמן ועמיתיו מצאו קרעי פני שטח צעירים לאורך שבר אילת בדרום הערבה, וקשרו אותם לרעידת 1068. מתוך העתק אנכי של כמטר אחד הם הסיקו גודל של 6.6 עד 7.[^zil][^zohar16s] לפי תקציר מאמרם, הרעידה עיוותה את פלאיית עברונה והפכה אותה מאגן סגור לאגן שמתנקז דרומה.[^zil] מצפון לעקבה ולאילת תוארו, לפי סיכום משני, יותר מ-12 קילומטרים של קרע לאורך השבר, מלפני 900 עד 1,000 שנה.[^klinger]
+**קרע בערבה.** עזרא זילברמן ועמיתיו מצאו קרעי פני שטח צעירים לאורך שבר אילת בדרום הערבה, וקשרו אותם לרעידת 1068. מתוך העתק אנכי של כמטר אחד הם הסיקו גודל של 6.6 עד 7.[^zil][^zohar16s] לפי תקציר מאמרם, הרעידה עיוותה את פלאיית עברונה והפכה אותה מאגן סגור לאגן שמתנקז דרומה.[^zil] קלינגר ועמיתיו (2000) מסכמים את מחקר השדה המוקדם יותר של זילברמן ועמיתיו (1998): קרע של יותר מ-12 קילומטרים, שמתחיל כמה קילומטרים מצפון לאילת ומתוארך ל-900 עד 1,000 שנה לפני זמננו. לפי הסיכום הזה, מעיוות הקרקע הוסק גודל של 7 לפחות, והוא מתיישב עם הנזק שדווח ב-1068.[^klinger] זו הערכה גבוהה מעט מזו שמיוחסת למאמר של זילברמן ועמיתיו מ-2005, 6.6 עד 7. קלינגר ועמיתיו מוסיפים, בהסתמך על אמברייזיס, מלוויל ואדמס, שהרעידה גרמה נזק כבד מאזור בניאס בצפון ועד חג'אז, ושהעיר איילה נהרסה כליל.[^klinger]
 
-<!-- פלאיית עברונה: לפי תקציר ותוצאת חיפוש. קלינגר ואחרים (2000): דרך ויקיפדיה. TODO: לבדוק במקור. -->
+<!-- פלאיית עברונה: לפי תקציר ותוצאת חיפוש. TODO: לבדוק במקור. -->
 
 **משקעי ים המלח.** לפי מיגוסקי ועמיתיו, שתי הרעידות של 1068 נרשמו כשכבות מופרעות במשקעים לחוף ים המלח.[^zohar16s]
 
@@ -133,7 +136,7 @@ review_notes:
 
 **איפה?** יש הממקמים את רעידת מרץ בראש מפרץ אילת[^zohar16s], ויש הממקמים אותה בצפון חג'אז, ליד תבוכ, ממזרח למפרץ עקבה.[^sal07] הממצאים בדרום הערבה ובאיילה מתיישבים יותר עם מוקד קרוב לראש המפרץ.[^zil][^whitcomb]
 
-**כמה נהרגו?** בספרות מופיע המספר כ-20,000 הרוגים בשתי הרעידות, ומתוכם כ-15,000 ברמלה.[^abdel][^ama] אלה מספרים מדווחים, לא ספירה. זהר ועמיתיו, שבדקו את הדיווחים, מסווגים את מספר הנפגעים בשתי הרעידות רק כ"רבים", כלומר יותר מעשרה.[^zohar16]
+**כמה נהרגו?** בספרות מופיע המספר כ-20,000 הרוגים בשתי הרעידות, ומתוכם כ-15,000 ברמלה.[^abdel][^ama] אלה מספרים מדווחים, לא ספירה. גם קן-תור ועמיתיו (2001), בטבלה שמסכמת קטלוגים ישנים, מביאים 15,000 הרוגים ברמלה, ומעירים שהמספר "נראה מוגזם".[^kentor] זהר ועמיתיו, שבדקו את הדיווחים, מסווגים את מספר הנפגעים בשתי הרעידות רק כ"רבים", כלומר יותר מעשרה.[^zohar16]
 
 <!-- TODO: המספר 20,000 הגיע דרך ויקיפדיה. לבדוק במקור. -->
 
@@ -154,7 +157,7 @@ review_notes:
 - N. N. Ambraseys, C. P. Melville, R. D. Adams, *The Seismicity of Egypt, Arabia and the Red Sea: A Historical Review*, Cambridge University Press 1994.
 - E. Guidoboni, A. Comastri, *Catalogue of Earthquakes and Tsunamis in the Mediterranean Area from the 11th to the 15th Century*, INGV-SGA, Bologna 2005.
 - E. Zilberman ואחרים, "Surface ruptures induced by the devastating 1068 AD earthquake in the southern Arava valley, Dead Sea Rift, Israel", *Tectonophysics* 408 (2005), עמ׳ 79–99.
-- Y. Klinger ואחרים, "Seismic behaviour of the Dead Sea fault along the Araba valley, Jordan", *Geophysical Journal International* 142 (2000).
+- Y. Klinger et al., "Seismic behaviour of the Dead Sea fault along Araba valley, Jordan", *Geophysical Journal International* 142 (2000), עמ׳ 769–782.
 
 [^zohar16]: M. Zohar, A. Salamon, R. Rubin, ["Reappraised list of historical earthquakes that affected Israel and its close surroundings"](https://link.springer.com/article/10.1007/s10950-016-9575-7), Journal of Seismology 20 (2016), עמ׳ 971–985, טבלה 3, עמ׳ 978. שם: הערכות הגודל, הממוצע 7.3, הסיווג "גדולה" (Major), Me 6 לרעידת מאי (Guidoboni & Comastri 2005), ומספר נפגעים "רבים".
 [^zohar16s]: M. Zohar, A. Salamon, R. Rubin, Journal of Seismology 20 (2016), הנספח האלקטרוני, נספח A, ערכים 14 (18 במרץ 1068) ו-15 (29 במאי 1068), עמ׳ 7–8; ורשימת הרעידות המפוקפקות, נספח B. שם: רעידת מרץ אמינה ברמה גבוהה (HR) ומשויכת לאזור מפרץ אילת; רעידת מאי אמינה ברמה בינונית (MR), ברמלה, "כנראה לא קשורה" לרעידת מרץ לפי אמברייזיס; המוקד של Guidoboni & Comastri ‏(29.55° צפון, 34.95° מזרח, עוצמה IX, Me 8.1); הגודל של Zilberman ואחרים מתוך העתק של מטר; אבן אל-בנא כמקור הראשוני; ומשקעי ים המלח לפי Migowski ואחרים (2004).
@@ -166,4 +169,5 @@ review_notes:
 [^ama]: N. N. Ambraseys, C. P. Melville, R. D. Adams, [The Seismicity of Egypt, Arabia and the Red Sea: A Historical Review](https://books.google.com/books?id=fxnnk2inWT0C&pg=PA31), Cambridge University Press 1994. TODO: לבדוק במקור.
 [^zil]: E. Zilberman, R. Amit, N. Porat, Y. Enzel, U. Avner, "Surface ruptures induced by the devastating 1068 AD earthquake in the southern Arava valley, Dead Sea Rift, Israel", [Tectonophysics 408 (2005)](https://doi.org/10.1016/j.tecto.2005.05.030), עמ׳ 79–99. TODO: לבדוק במקור.
 [^abdel]: A. K. Abdel Fattah, H. M. Hussein, E. M. Ibrahim, A. S. Abu El Atta, "Fault plane solutions of the 1993 and 1995 Gulf of Aqaba earthquakes and their tectonic implications", [Annali di Geofisica 40 (1997)](http://www.annalsofgeophysics.eu/index.php/annals/article/view/3831), עמ׳ 1557. TODO: לבדוק במקור.
-[^klinger]: Y. Klinger, J. P. Avouac, L. Dorbath, N. Abou Karaki, N. Tisnerat, "Seismic behaviour of the Dead Sea fault along the Araba valley, Jordan", [Geophysical Journal International 142 (2000)](https://doi.org/10.1046/j.1365-246x.2000.00166.x), עמ׳ 769–782. TODO: לבדוק במקור.
+[^kentor]: R. Ken-Tor et al., "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (B2) (2001), עמ׳ 2221–2234, טבלה 3, עמ׳ 2228, לפי הקטלוגים ההיסטוריים שהם מסכמים (לדבריהם, ההערכה שלהם נשענת על הכתוב בקטלוגים בלבד): "Ramla was destroyed, and 15,000 people died (seems exaggerated)".
+[^klinger]: Y. Klinger, J. P. Avouac, L. Dorbath, N. Abou Karaki, N. Tisnerat, "Seismic behaviour of the Dead Sea fault along Araba valley, Jordan", [Geophysical Journal International 142 (2000)](https://doi.org/10.1046/j.1365-246x.2000.00166.x), עמ׳ 769–782, עמ׳ 772, בהפניה ל-Zilberman et al. 1998 ול-Ambraseys et al. 1994. במקור: "a major seismic rupture over more than 12 km starting a few kilometres north of Eilat and dated between 900 and 1000 yr BP"; "A magnitude of at least 7 was derived from the observed ground deformation".

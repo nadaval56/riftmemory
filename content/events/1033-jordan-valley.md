@@ -33,7 +33,7 @@ magnitude:
 impact:
   deaths: 70000
   deaths_verified: false
-  deaths_note: 'מספר שמופיע במאגרי מידע, בלי מקור קדום ידוע. לא אומת במקורות המחקריים שנקראו: זהר, סלמון ורובין מסווגים את מספר הנפגעים רק כ"רבים".'
+  deaths_note: 'מספר שמופיע במאגרי מידע, בלי מקור קדום ידוע. ברשומה של NCEI הוא מופיע רק באחד מהסיכומים ("70,000 victims"), וסיכום אחר שם אומר שהמספר אינו ידוע. לא אומת במקורות המחקריים שנקראו: זהר, סלמון ורובין מסווגים את מספר הנפגעים רק כ"רבים".'
   injured: null
   places:
   - רמלה
@@ -60,18 +60,18 @@ sources:
 - label: 'אברהם יערי, אגרות ארץ ישראל, תל אביב 1943, עמ׳ 70–73 (מכתבו של שלמה בן צמח. TODO: לבדוק במקור)'
 - label: 'C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, "Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments", Earth and Planetary Science Letters 222 (2004), עמ׳ 301–314'
   url: https://doi.org/10.1016/j.epsl.2004.02.015
-- label: 'L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace (Jordan Valley, Dead Sea Transform Zone)", Seismological Research Letters 84/6 (2013), עמ׳ 997–1003 (TODO: לבדוק במקור)'
+- label: 'L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace (Jordan Valley, Dead Sea Transform Zone)", Seismological Research Letters 84/6 (2013), עמ׳ 997–1003'
   url: https://doi.org/10.1785/0220130060
 - label: 'D. H. Kallner-Amiran, "A Revised Earthquake-Catalogue of Palestine", Israel Exploration Journal 1/4 (1950), עמ׳ 223–246 (TODO: לבדוק במקור)'
   url: https://www.jstor.org/stable/27924451
-- label: 'E. Guidoboni ואחרים, "CFTI5Med, the new release of the catalogue of strong earthquakes in Italy and in the Mediterranean area", Scientific Data 6 (2019), 80 (TODO: לבדוק במקור)'
+- label: 'E. Guidoboni, G. Ferrari, G. Tarabusi, G. Sgattoni, A. Comastri, D. Mariotti, C. Ciuccarelli, M. G. Bianchi, G. Valensise, "CFTI5Med, the new release of the catalogue of strong earthquakes in Italy and in the Mediterranean area", Scientific Data 6 (2019), 80 (נקרא המאמר שמתאר את הקטלוג. TODO: לבדוק בקטלוג עצמו את רשומת 1033)'
   url: https://doi.org/10.1038/s41597-019-0091-9
 - label: 'I. Grigoratos, V. Poggi, L. Danciu, G. Rojo, "An updated parametric catalog of historical earthquakes around the Dead Sea Transform Fault Zone", Journal of Seismology 24 (2020), עמ׳ 803–832 (TODO: לבדוק במקור)'
   url: https://link.springer.com/article/10.1007/s10950-020-09904-9
 - label: 'M. Ferry ואחרים, "A 48-kyr-long slip rate history for the Jordan Valley segment of the Dead Sea Fault", Earth and Planetary Science Letters 260 (2007), עמ׳ 394–406 (TODO: לבדוק במקור)'
   url: https://doi.org/10.1016/j.epsl.2007.05.049
 - label: 'M. Ma׳oz, S. Nusseibeh (עורכים), Jerusalem: Points of Friction and Beyond, Kluwer 2000, עמ׳ 136–138 (TODO: לבדוק במקור)'
-- label: 'NGDC/WDS, Global Significant Earthquake Database, NOAA, רשומת 1033 (TODO: לבדוק במקור)'
+- label: 'NCEI/WDS (לשעבר NGDC), Global Significant Earthquake Database, NOAA, רשומה 8156 (5 בדצמבר 1033), נקראה בספטמבר 2026'
   url: https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/8156
 - label: 'לקריאה נוספת: ויקיפדיה, רעידת האדמה בבקעת הירדן (1033)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_בבקעת_הירדן_(1033)
@@ -97,6 +97,7 @@ review_notes:
 - 'נשאר TODO: ארמון הישאם (אלפונסי ואחרים 2013), פרי ואחרים (2007), קטלוג CFTI5Med, גריגורטוס ואחרים (2020), אמירן (1950), הפרטים על ירושלים (מעוז ונוסייבה 2000). כולם הגיעו דרך ויקיפדיה האנגלית או תוצאות חיפוש.'
 - 'קואורדינטות: lat/lon נשארו null. אין בטקסטים שנקראו מוקד מנומק.'
 - 'סבב עריכה (ספטמבר 2026): מכתבו של שלמה בן צמח לא נקרא, ולכן מוצג רק בפרפרזה לפי זהר ואחרים (2016, נספח A); הוסרה הערת ה-TODO לציטוט. אומת מילה במילה בנספח של סלמון ואחרים (2007): "it is reasonable to suppose that the tsunami affected the whole coast" (גווידובוני וקומסטרי), והועבר להערה. הגוף נכתב מחדש כסיפור שנפתח בנמל עכו; רשימת הגדלים ושמות הקטלוגים הועברו להערות.'
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) אלפונסי, צ׳ינטי ונטורה 2013 נקרא במלואו; הוסר ה-TODO. פסקת ארמון הישאם נכתבה מחדש לפי המאמר, עם עמודים (997–1002). תוקן: השם "לורה" הוסר, כי במאמר מופיע רק "L. Alfonsi". תוקן: "מתחת לקשת שהתמוטטה נמצאו שרידי אדם" הפך ל"שלד מתחת להריסות קשת שקרסה בין 1000 ל-1400, שעשוי להעיד על רעידה", כלשון המאמר. נוסף הנימוק לתיארוך (חרס מ-750–850 מתחת להריסות; עוצמה IX–X מול VII ל-749). (2) רשומת NCEI (8156) נקראה: ה-70,000 מופיע רק באחד הסיכומים שהיא מביאה, כ"קורבנות", וסיכום אחר שם אומר שהמספר אינו ידוע; הטקסט וה-deaths_note עודכנו. הפרטים על שכם, רמלה, אל-באד׳אן, עזה וחומות ירושלים נמצאו שם ובטבלה 1 אצל אלפונסי ועמיתיו, ועכשיו מקושרים אליהם כסיכומים משניים. תוקן: "בעזה קרס המסגד הגדול" הפך ל"נהרסו מסגד וצריחיו", כלשון הרשומה. (3) CFTI5Med: נקרא המאמר שמתאר את הקטלוג (נוספו כל המחברים), אבל רשומת 1033 עצמה, עם ה-7.3, לא נבדקה. נשאר TODO: אמירן 1950, מעוז ונוסייבה, פרי ואחרים, גריגורטוס ואחרים, יערי.'
 ---
 
 ## הסיפור
@@ -111,11 +112,11 @@ review_notes:
 
 הנזק התפרש על שטח גדול: יריחו, רמלה, בניאס, אשקלון, ירושלים, עכו, עזה, שכם, חברון והכפר אל-באד'אן. בין המקום הצפוני ביותר שנפגע לדרומי ביותר יש כ-190 קילומטרים.[^zohar16][^zohar17] כמה נהרגו? החוקרים יכולים לומר רק שהיו "רבים".[^zohar16]
 
-סיכומים משניים מוסיפים פרטים קשים, שלא בדקנו במקור. לפיהם, שליש מרמלה נהרס. בשכם נהרסה מחצית העיר ומתו 300 מתושביה. מפולת קברה את הכפר אל-באד'אן, ומתו בו כל התושבים ובעלי החיים. בעזה קרס המסגד הגדול, והמגדלור נפגע.[^amiran]
+סיכומים משניים מוסיפים פרטים קשים. את המקורות שעליהם הם נשענים לא בדקנו. לפיהם, שליש מרמלה נהרס. בשכם קרסה מחצית הבניינים ומתו כ-300 בני אדם.[^alfonsi-t1][^ngdc] מפולת קברה את הכפר אל-באד'אן, עם כל אנשיו ובעלי החיים שבו. בעזה נהרסו מסגד וצריחיו, והחלק העליון של המגדלור נפגע קשה.[^ngdc][^amiran]
 
-גם בירושלים, לפי אותם סיכומים, קרסו חלקים מחומות העיר. הח'ליף הפאטמי א-זאהר יזם בשנים 1034 עד 1038 עבודות שיקום גדולות. בתהליך הזה, לפי מעוז ונוסייבה, ויתר השליט על הקטע הדרומי של החומה, זה שהקיף את הר ציון, וכיפת הסלע ומסגד אל-אקצא חוזקו בקורות עץ.[^nusseibeh]
+גם בירושלים, לפי אותם סיכומים, קרסו חומות העיר.[^ngdc] הח'ליף הפאטמי א-זאהר יזם בשנים 1034 עד 1038 עבודות שיקום גדולות. בתהליך הזה, לפי מעוז ונוסייבה, ויתר השליט על הקטע הדרומי של החומה, זה שהקיף את הר ציון, וכיפת הסלע ומסגד אל-אקצא חוזקו בקורות עץ.[^nusseibeh]
 
-<!-- הפרטים על רמלה, שכם, אל-באד'אן, עזה וירושלים הגיעו דרך ויקיפדיה. TODO: לבדוק במקור. -->
+<!-- הפרטים על רמלה, שכם, אל-באד'אן, עזה וירושלים נמצאים ברשומה של NCEI ובטבלה 1 אצל אלפונסי ועמיתיו (לפי אמברייזיס 2009 וגווידובוני וקומסטרי 2005). TODO: לבדוק במקורות עצמם, ובאמירן 1950. הפרטים על השיקום (מעוז ונוסייבה) עדיין לא נבדקו. -->
 
 ## מה כתוב במקורות
 
@@ -129,9 +130,11 @@ review_notes:
 
 **משקעי ים המלח.** לפי מיגוסקי ועמיתיו, הרעידה נרשמה כשכבה מופרעת במשקעים בשולי ים המלח.[^zohar16s]
 
-**ארמון הישאם (ח'רבת אל-מפג'ר).** ההרס של הארמון שליד יריחו יוחס בעבר לרעש שביעית, באמצע המאה השמינית. לורה אלפונסי ועמיתיה מייחסים אותו לרעידת 1033.[^alfonsi] לפי סיכום של מחקרם, ברצפות נמצאו סדקים בקו אחד, ועמודים וקירות קרסו. בשטח נמצא העתק, והמבנים הוסטו לאורכו עד 10 סנטימטרים הצידה. מתחת לקשת שהתמוטטה נמצאו שרידי אדם. עוצמת הרעידה באתר הוערכה ב-IX עד X.[^alfonsi]
+**ארמון הישאם (ח'רבת אל-מפג'ר).** ההרס של הארמון, כשלושה קילומטרים מצפון ליריחו, יוחס בעבר לרעש שביעית, באמצע המאה השמינית. אלפונסי, צ'ינטי ונטורה (2013) מייחסים אותו לרעידת 1033.[^alfonsi-997] הם סקרו את הארמון מחדש, והשוו לתצלומים מחפירות שנות השלושים. בקירות מצאו סדקים והעתקים קטנים, שהסיטו חלקים מהמבנה עד 10 סנטימטרים הצידה, שמאלה. אבני הריצוף בחצר המרכזית הורמו ושקעו לאורך קו של כ-30 מטר. קירות נטו עד 15 מעלות, ועמודים קרסו.[^alfonsi-1000] הם מזכירים גם שלד אדם שנמצא בחפירות הישנות מתחת להריסות של קשת שקרסה בין 1000 ל-1400, ומציינים שהוא עשוי להעיד על רעידה.[^alfonsi-1000]
 
-<!-- הפרטים על ארמון הישאם הגיעו דרך ויקיפדיה ותקציר. TODO: לבדוק במקור. זהר ואחרים (2016) לא מונים את ח'רבת אל-מפג'ר בין המקומות שנפגעו, לא ב-749 ולא ב-1033. -->
+למה 1033 ולא 749? לפי החוקרים, מתחת לעמודים ולקירות שנפלו נמצאו שברי כלי חרס מהשנים 750 עד 850, כלומר ההרס מאוחר ל-749. האתר המשיך להיות מיושב גם אחרי 749, ואילו מהמאות ה-11 וה-12 לא נמצא בו חרס. הם מעריכים את עוצמת הרעידה באתר ב-IX עד X לפחות, ואת עוצמת רעידת 749 שם ב-VII בלבד.[^alfonsi-1000]
+
+<!-- זהר ואחרים (2016) לא מונים את ח'רבת אל-מפג'ר בין המקומות שנפגעו, לא ב-749 ולא ב-1033. -->
 
 **קרע פני שטח.** לפי סיכום משני, מחקרים ליד יריחו וליד הכנרת מצאו סימנים לקרע של פני השטח.[^ferry]
 
@@ -147,7 +150,7 @@ review_notes:
 
 זהר ועמיתיו מביאים שני שיקולים הפוכים. מצד אחד, היקף הנזק של 1033 דומה לזה של רעידת 1927, שנמדדה במכשירים וגודלה 6.2, ולכן הם מציעים בזהירות שהגודל היה דומה או קטן יותר. מצד שני, כשמחשבים את התזוזה הכוללת על השבר מתוך הגדלים ההיסטוריים, מתקבל פחות ממה שמדידות גאולוגיות מראות. אחד ההסברים שהם מציעים הוא שהגדלים ההיסטוריים מוערכים בחסר, אולי בכחצי יחידה.[^zohar17] כל המספרים האלה הם הערכות לרעידה שלא נמדדה במכשירים.
 
-**כמה נהרגו?** בספרות ובמאגרי מידע חוזר המספר 70,000 הרוגים.[^ngdc] לא מצאנו לו מקור קדום. זהר ועמיתיו, שבדקו את הדיווחים ההיסטוריים, מסווגים את מספר הנפגעים רק כ"רבים", כלומר יותר מעשרה.[^zohar16]
+**כמה נהרגו?** בספרות ובמאגרי מידע חוזר המספר 70,000 הרוגים. במאגר של NCEI הוא רשום כמספר ההרוגים, אבל ברשומה עצמה הוא מופיע רק באחד מהסיכומים שהיא מביאה, כ-70,000 "קורבנות", בפסקה שמזכירה גם נזק במצרים. סיכום אחר באותה רשומה אומר שמספר הקורבנות היה ניכר, אבל אינו ידוע.[^ngdc] לא מצאנו למספר מקור קדום. זהר ועמיתיו, שבדקו את הדיווחים ההיסטוריים, מסווגים את מספר הנפגעים רק כ"רבים", כלומר יותר מעשרה.[^zohar16]
 
 <!-- TODO: מקור למספר 70,000. לא ידוע מי דיווח עליו לראשונה ועל מה הוא מבוסס. -->
 
@@ -160,7 +163,7 @@ review_notes:
 - C. Migowski ואחרים, "Recurrence pattern of Holocene earthquakes along the Dead Sea transform", *Earth and Planetary Science Letters* 222 (2004), עמ׳ 301–314.
 - E. Guidoboni, A. Comastri, *Catalogue of Earthquakes and Tsunamis in the Mediterranean Area from the 11th to the 15th Century*, INGV-SGA, Bologna 2005.
 - N. N. Ambraseys, *Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900*, Cambridge University Press 2009.
-- L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace", *Seismological Research Letters* 84 (2013), עמ׳ 997–1003.
+- L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace (Jordan Valley, Dead Sea Transform Zone)", *Seismological Research Letters* 84 (2013), עמ׳ 997–1003.
 - I. Grigoratos ואחרים, "An updated parametric catalog of historical earthquakes around the Dead Sea Transform Fault Zone", *Journal of Seismology* 24 (2020), עמ׳ 803–832.
 
 [^zohar16]: M. Zohar, A. Salamon, R. Rubin, ["Reappraised list of historical earthquakes that affected Israel and its close surroundings"](https://link.springer.com/article/10.1007/s10950-016-9575-7), Journal of Seismology 20 (2016), עמ׳ 971–985, טבלה 3, עמ׳ 978. שם: השעה "בלילה", רשימת המקומות שנפגעו, מספר נפגעים "רבים", והסיווג "חזקה" (Strong).
@@ -172,8 +175,10 @@ review_notes:
 [^sal07t]: סלמון ואחרים (2007), [הנספח האלקטרוני](https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/), טבלה 1 (צונאמי אמינים, רשומת "1033 12 05") ונספח 1 (הערה על 1033). הסיכומים שם: Amiran, Arieh & Turcotte (1994), שמתארכים את הגל ל-4 בינואר 1034 (עכו התייבשה לשעה, צונאמי ביפו); Soloviev ואחרים (2000) (עזה, אשקלון, עכו); Guidoboni & Comastri (2005): "it is reasonable to suppose that the tsunami affected the whole coast"; Shalem (1956) (כפילות אפשרית עם 1068). ההגבלה לחופים הצפוניים והמרכזיים היא בעקבות Ambraseys, Melville & Adams (1994) ו-Guidoboni & Comastri.
 [^amiran]: D. H. Kallner-Amiran, ["A Revised Earthquake-Catalogue of Palestine"](https://www.jstor.org/stable/27924451), Israel Exploration Journal 1 (1950), עמ׳ 223–246. TODO: לבדוק במקור.
 [^nusseibeh]: M. Ma'oz, S. Nusseibeh (עורכים), Jerusalem: Points of Friction and Beyond, Kluwer 2000, עמ׳ 136–138. TODO: לבדוק במקור.
-[^alfonsi]: L. Alfonsi, F. R. Cinti, G. Ventura, ["The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace (Jordan Valley, Dead Sea Transform Zone)"](https://doi.org/10.1785/0220130060), Seismological Research Letters 84 (2013), עמ׳ 997–1003. ההסטה המתוארת היא הסטה אופקית שמאלית. TODO: לבדוק במקור.
+[^alfonsi-997]: L. Alfonsi, F. R. Cinti, G. Ventura, ["The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace (Jordan Valley, Dead Sea Transform Zone)"](https://doi.org/10.1785/0220130060), Seismological Research Letters 84 (2013), עמ׳ 997–1003, עמ׳ 997, בהפניה ל-Amiran et al. 1994 (הייחוס הקודם ל-749), ועמ׳ 998 (המרחק מיריחו).
+[^alfonsi-1000]: Alfonsi, Cinti and Ventura 2013, עמ׳ 998–1002: הסקר (עמ׳ 998), תיאור הנזק (עמ׳ 1000: "left-lateral slips up to 10 cm", ריצוף "in a pop-up-like array" לאורך כ-30 מטר, קירות נוטים "up to 15°"; השלד מתחת לקשת, לפי Baramki 1938, "could be also indicative of seismic shaking"), התיארוך (עמ׳ 1000: חרס מ-750–850 מתחת לעמודים שנפלו, לפי Whitcomb 1988; עוצמה IX–X, מול VII ל-749 לפי Marco et al. 2003) והמסקנות (עמ׳ 1002: "a minimum IX–X intensity degree").
+[^alfonsi-t1]: Alfonsi, Cinti and Ventura 2013, טבלה 1, עמ׳ 998, לפי Ambraseys 2009 ("In Nablus half of the buildings collapsed killing about 300 people") ולפי Guidoboni and Comastri 2005 ("one third of Ramla razed to the ground").
 [^ferry]: M. Ferry ואחרים, "A 48-kyr-long slip rate history for the Jordan Valley segment of the Dead Sea Fault", [Earth and Planetary Science Letters 260 (2007)](https://doi.org/10.1016/j.epsl.2007.05.049), עמ׳ 394–406. TODO: לבדוק במקור.
-[^cfti]: E. Guidoboni ואחרים, "CFTI5Med, the new release of the catalogue of strong earthquakes in Italy and in the Mediterranean area", [Scientific Data 6 (2019)](https://doi.org/10.1038/s41597-019-0091-9), 80. TODO: לבדוק במקור.
+[^cfti]: E. Guidoboni et al., "CFTI5Med, the new release of the catalogue of strong earthquakes in Italy and in the Mediterranean area", [Scientific Data 6 (2019)](https://doi.org/10.1038/s41597-019-0091-9), 80. המאמר מתאר את הקטלוג ואת ה"מגניטודה השקולה" (Me) שהוא מחשב מנתוני עוצמה, אבל לא את רעידת 1033. הערך 7.3: TODO: לבדוק בקטלוג עצמו.
 [^grig]: I. Grigoratos, V. Poggi, L. Danciu, G. Rojo, ["An updated parametric catalog of historical earthquakes around the Dead Sea Transform Fault Zone"](https://link.springer.com/article/10.1007/s10950-020-09904-9), Journal of Seismology 24 (2020), עמ׳ 803–832. TODO: לבדוק במקור.
-[^ngdc]: NGDC/WDS, [Global Significant Earthquake Database](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/8156), NOAA, רשומת 1033. TODO: לבדוק במקור.
+[^ngdc]: NCEI/WDS (לשעבר NGDC), [Global Significant Earthquake Database](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/8156), NOAA, רשומה 8156, נקראה בספטמבר 2026. זה מאגר שמצטט סיכומים מקטלוגים שונים, לא מקור היסטורי. בשדה ההרוגים: 70,000. בהערות: "There were 70,000 victims" באחד הסיכומים, ובאחר: "The victims reached a considerable number, which is not given". שם גם: "In Nablus 1/2 of the buildings collapsed, killing about 300 people"; "A landslide overwhelmed a neighbouring village of al-Badan, with all its people and its livestock"; "The mosque and its minarets at El-Gaalan at Gaza were destroyed and the upper part of the lighthouse of Gaza was badly damaged"; "The walls of Jerusalem collapsed".

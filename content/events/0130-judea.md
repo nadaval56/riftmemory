@@ -49,11 +49,11 @@ sources:
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (TODO: לבדוק במקור)'
 - label: 'Kenneth W. Russell, "The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D.", BASOR 260 (1985), pp. 37–59 (TODO: לבדוק במקור)'
   url: https://www.journals.uchicago.edu/doi/10.2307/1356863
-- label: 'N. Wechsler et al., "A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.", Bulletin of the Seismological Society of America 104 (3) (2014) (TODO: לבדוק במקור)'
+- label: 'N. Wechsler, T. K. Rockwell, Y. Klinger, P. Štěpančíková, M. Kanari, S. Marco, A. Agnon, "A Paleoseismic Record of Earthquakes for the Dead Sea Transform Fault between the First and Seventh Centuries C.E.: Nonperiodic Behavior of a Plate Boundary Fault", Bulletin of the Seismological Society of America 104 (3) (2014). נקרא בגרסה המוקדמת (BSSA Early Edition), שעמודיה ממוספרים 1–19'
   url: https://doi.org/10.1785/0120130304
 - label: 'Caesarea Maritima: A Retrospective after Two Millennia, p. 23 (TODO: לבדוק במקור)'
   url: https://books.google.co.il/books?id=pckUkJIHjiQC&pg=PA23
-- label: 'Jerome, Chronicle, באוסף Caesarea Maritima Testimonia, מס׳ 277 (TODO: לבדוק במקור)'
+- label: 'Jerome, Chronicle 200a-b (מהדורת Helm 1956), באוסף Caesarea Maritima Testimonia, מס׳ 277, טקסט לטיני ותרגום של J. L. Rife, נקרא בספטמבר 2026'
   url: https://caesarea-maritima.org/testimonia/277
 - label: 'Jefferson B. Williams, "Eusebius Mystery Quake", deadseaquake.info (TODO: לבדוק במקור)'
   url: https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html
@@ -72,6 +72,7 @@ review_notes:
 - '(עודכן, ראו למטה) אי-התאמה בפרטי הכרוניקון: ויקיפדיה העברית כותבת אולימפיאדה 226, שנה 12 לאדריאנוס; Caesarea Maritima Testimonia (לפי תוצאת חיפוש) אולימפיאדה 227 ושנה 128 או 129; deadseaquake.info שנה 13–14 לאדריאנוס. לבדוק במהדורה של הכרוניקון.'
 - 'אימות ציטוט (ספטמבר 2026) מול jerome-chronicle-part2.txt (tertullian.org): הרשומה "Nicopolis and Caesarea were ruined in an earthquake" נמצאה בעמ׳ [282/283] של התרגום, בעמוד שכותרותיו "227th Olympiad" ו-"228th Olympiad", בשנות אדריאנוס. בטקסט הפשוט שתי העמודות מעורבבות, ולכן אי אפשר לקבוע בוודאות לאיזו שנת אדריאנוס (13 = 129, או 17 = 133 לפי התרגום) היא שייכת. הקריאה "אולימפיאדה 226, שנה 12" (ויקיפדיה) אינה מתאימה למהדורה הזו. נוסף מאותו טקסט: הכרוניקון מתאר את ייסוד ניקופוליס, "שנקראה קודם אמאוס", כעיר בימי יוליוס אפריקנוס (עמוד האולימפיאדות 250–252). לא הוספתי מסקנה משלנו מהעובדה הזו.'
 - 'שכתוב לקריאוּת (ספטמבר 2026): הדף מסופר עכשיו כסיפור של טעות זיהוי אפשרית.'
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) Caesarea Maritima Testimonia מס׳ 277 נקרא; הוסר ה-TODO. הוספה ההפניה Jerome, Chronicle 200a-b (מהדורת Helm 1956). פתרון חלקי של אי-ההתאמה בתאריך: במהדורת Helm הידיעה בשנה ה-12 לאדריאנוס, עם האולימפיאדה ה-227; העורכים: 128 לספירה. "שנה 12" של ויקיפדיה מתאימה, "אולימפיאדה 226" לא. הטקסט עודכן. (2) Wechsler ואחרים 2014 נקרא (בגרסה המוקדמת, עמ׳ 1–19); הוסר ה-TODO, והושלמו המחברים וכותרת המשנה. תוקן: לפני, "מצאו סימנים לפעילות סייסמית בצפון הארץ בין 137 ל-206 והציעו לקשור אותם לאירוע". אחרי: קרע פני שטח בעמק בית צידה (CH4-E5, 137–206), שבטבלה 3 מוצב לצד הידיעה על 130, עם ההסבר שלהם שרעידה ממקום אחר אולי הגיעה עד הכנרת או עוררה תזוזה. נוסף שהם קוראים את הידיעה כנוגעת לאמאוס וקיסריה שבארץ. מספרי העמודים בכרך המודפס (1329–1347 לפי הרשימה של נדב) לא אומתו מול הקובץ, ולכן לא נוספו.'
 - 'Wechsler ואחרים (2014) מצאו, לפי זוהר ואחרים 2016, עדות לפעילות סייסמית בצפון הארץ בין 137 ל-206 לספירה, והציעו קשר לאירוע הזה. זוהר ואחרים סבורים שאלה כנראה שתי רעידות נפרדות.'
 ---
 
@@ -95,9 +96,9 @@ review_notes:
 
 > "ניקופוליס וקיסריה נהרסו ברעידת אדמה."[^jerome]
 
-הידיעה עומדת בעמוד שמכסה את האולימפיאדות ה-227 וה-228, בשנות אדריאנוס, לצד ידיעות על מות אנטינואוס ועל בר כוכבא.[^jerome] מתי בדיוק? הסיכומים שבידינו אינם מסכימים. יש שקראו בכרוניקון את האולימפיאדה ה-226 והשנה ה-12 לאדריאנוס, אוסף המקורות על קיסריה מציין את האולימפיאדה ה-227, ולפי הקטלוג של ג׳פרסון ויליאמס מדובר בשנה ה-13 או ה-14 לאדריאנוס. לפי הקריאות השונות, התאריך נע בין 128 ל-131.[^jerome][^testimonia][^dsq]
+הידיעה עומדת בעמוד שמכסה את האולימפיאדות ה-227 וה-228, בשנות אדריאנוס, לצד ידיעות על מות אנטינואוס ועל בר כוכבא.[^jerome] מתי בדיוק? במהדורה המדעית של הכרוניקון, כפי שמביא אותה אוסף המקורות על קיסריה, הידיעה רשומה בשנה ה-12 לאדריאנוס, בתחילת האולימפיאדה ה-227. עורכי האוסף מתאימים את השנה הזו ל-128 לספירה. מות אנטינואוס רשום מיד אחריה, בשנה ה-13, כלומר 129.[^testimonia] סיכומים אחרים נותנים תאריכים מעט שונים: לפי הקטלוג של ג׳פרסון ויליאמס מדובר בשנה ה-13 או ה-14 לאדריאנוס. לפי הקריאות השונות, התאריך נע בין 128 ל-131.[^testimonia][^dsq]
 
-<!-- TODO: אולימפיאדה 226 ושנה 12 הגיעו דרך ויקיפדיה העברית ואינן מתאימות לתרגום באתר tertullian.org; שנה 13–14 מ-deadseaquake.info. לבדוק במהדורה מודפסת של הכרוניקון (Helm) את השנה המדויקת. -->
+<!-- TODO: שנה 13–14 מ-deadseaquake.info, לא נבדק. "אולימפיאדה 226" (ויקיפדיה העברית) אינה מתאימה למהדורת Helm; "שנה 12" מתאימה. -->
 
 פרט מעניין מאותו כרוניקון עצמו: במקום אחר הוא מספר שניקופוליס, "שנקראה קודם אמאוס", נוסדה כעיר רק מאוחר יותר, בתחילת המאה השלישית, אחרי שיוליוס אפריקנוס ניהל את השליחות למענה.[^jeromeemmaus]
 
@@ -111,7 +112,7 @@ review_notes:
 
 <!-- TODO: מקור. משה שרון (CIAP, כרך 1, עמ׳ 79, דרך ויקיפדיה) מתארך הרס של אמאוס ברעידה ל-131. לא ברור אם התיארוך נשען על ממצא בשטח. -->
 
-גם העדות הגיאולוגית אינה מכריעה. Wechsler וחבריו (2014) מצאו סימנים לפעילות סייסמית בצפון הארץ בין 137 ל-206 לספירה, והציעו לקשור אותם לאירוע הזה. זוהר וחבריו סבורים שבגלל הבלבול במקורות, סביר יותר שמדובר בשתי רעידות נפרדות,[^zoharC] ובטבלה של תקופות "השתיקה" בתיעוד ההיסטורי הם רושמים את ההצעה לשנת 130 בסימן שאלה.[^zohar982]
+גם העדות הגיאולוגית אינה מכריעה. Wechsler וחבריו (2014) חפרו תעלות על העתק ים המלח בעמק בית צידה, מצפון לכנרת, ומצאו בהן קרע של פני השטח שתוארך ל-137 עד 206 לספירה. בטבלה שלהם הם מציבים לידו, כרעידה היסטורית אפשרית, את הידיעה על 130, שאותה הם קוראים כידיעה על אמאוס וקיסריה שבארץ. לדבריהם, ייתכן שרעידה שמוקדה לא היה על השבר הזה הגיעה עד הכנרת או עוררה בו תזוזה.[^wechsler] זוהר וחבריו סבורים שבגלל הבלבול במקורות, סביר יותר שמדובר בשתי רעידות נפרדות,[^zoharC] ובטבלה של תקופות "השתיקה" בתיעוד ההיסטורי הם רושמים את ההצעה לשנת 130 בסימן שאלה.[^zohar982]
 
 ## מה המדע אומר
 
@@ -131,11 +132,12 @@ review_notes:
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985, והנספח האלקטרוני.
 - N. N. Ambraseys, *Earthquakes in the Mediterranean and Middle East*, Cambridge University Press, 2009.
 - Kenneth W. Russell, "The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D.", *BASOR* 260 (1985), pp. 37–59.
-- N. Wechsler ואחרים, "A paleoseismic record of earthquakes for the Dead Sea Transform fault between the first and seventh centuries C.E.", *BSSA* 104 (2014).
+- N. Wechsler et al., "A Paleoseismic Record of Earthquakes for the Dead Sea Transform Fault between the First and Seventh Centuries C.E.: Nonperiodic Behavior of a Plate Boundary Fault", *BSSA* 104 (2014).
 
 [^jerome]: Jerome, *Chronicle*, בתרגום האנגלי באתר [tertullian.org](http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm), סימון העמודים [282/283] בטקסט, בעמוד שכותרותיו "227th Olympiad" ו-"228th Olympiad". תרגום שלנו מהתרגום האנגלי באתר tertullian.org ("Nicopolis and Caesarea were ruined in an earthquake"). בטקסט המקוון שתי העמודות של הכרוניקון משולבות זו בזו, ולכן לא קבענו ממנו את שנת אדריאנוס המדויקת.
 [^jeromeemmaus]: Jerome, *Chronicle*, בתרגום באתר [tertullian.org](http://www.tertullian.org/fathers/jerome_chronicle_03_part2.htm), בעמוד שכותרותיו "250th Olympiad" ו-"252nd Olympiad" ("In Palestine Nicopolis, which previously used to be called Emmaus, was founded as a city, the labour of the embassy on its behalf being undertaken by Julius Africanus").
-[^testimonia]: [Caesarea Maritima Testimonia, מס׳ 277](https://caesarea-maritima.org/testimonia/277). TODO: לבדוק במקור. <!-- לפי תוצאת חיפוש -->
+[^testimonia]: [Caesarea Maritima Testimonia, מס׳ 277](https://caesarea-maritima.org/testimonia/277): Jerome, Chronicle 200a-b, לפי מהדורת Helm (1956), בתרגום של J. L. Rife. בלטינית: "Romanorum XII ….. CCXXVII Olymp. Nicopolis et Caesarea terrae motu conciderunt"; בתרגום שם: "Year of the Romans [128 C.E.] 12 ….. 227th Olympiad (a) Nicopolis and Caesarea collapsed in an earthquake. [129 C.E.] 13 (b) Antinous ... dies in Egypt". שם גם: זמן החיבור 380–381 לספירה, כנראה בקונסטנטינופול. עורכי האוסף מזהים את ניקופוליס עם אמאוס, ורואים בידיעה רעידה שפגעה בארץ ישראל.
+[^wechsler]: N. Wechsler et al., "A Paleoseismic Record of Earthquakes for the Dead Sea Transform Fault between the First and Seventh Centuries C.E.", *BSSA* 104 (3) (2014), בגרסה המוקדמת: עמ׳ 14 (אירוע CH4-E5, "between 137 and 206 C.E."), טבלה 3 בעמ׳ 15 ("130 C.E.: Nicopolis (Imwas-Latrun) and Caesarea collapsed (single but reliable report by Eusebius)") ועמ׳ 16 (רעידות שלא מוקדו על השבר הזה, "but which may have either ruptured to the Sea of Galilee or triggered slip or an aftershock", ובהן 130).
 [^zoharC]: Motti Zohar, Amos Salamon and Rehav Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985, הנספח האלקטרוני, נספח C, רשומה 7 ("127–130, Nicopolis, Neocaesarea (Asia Minor)"), עמ׳ 22–23. שם מסוכמות עמדות Ambraseys 2009, Karcz 1987 ו-Wechsler et al. 2014.
 [^zoharB]: Zohar, Salamon and Rubin 2016, הנספח האלקטרוני, נספח B, רשומה 13 ("2nd century (c.110–114?)"), עמ׳ 18.
 [^zohar982]: Zohar, Salamon and Rubin 2016, טבלה 4, עמ׳ 982 (הרישום "130?").

@@ -65,7 +65,7 @@ sources:
 - label: 'N. N. Ambraseys, "The seismic activity in Syria and Palestine during the middle of the 8th century; an amalgamation of historical earthquakes", Journal of Seismology 9 (2005), עמ׳ 115–125 (TODO: לבדוק במקור)'
 - label: 'Y. Tsafrir, G. Foerster, "The dating of the Earthquake of the Sabbatical Year of 749 C.E. in Palestine", Bulletin of SOAS 55 (1992), עמ׳ 231–235 (TODO: לבדוק במקור)'
   url: https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/abs/dating-of-the-earthquake-of-the-sabbatical-year-of-749-ce-in-palestine1/820504A1FA350C916A6B253F21AFFD19
-- label: 'S. Marco, M. Hartal, N. Hazan, L. Lev, M. Stein, "Archaeology, history, and geology of the A.D. 749 earthquake, Dead Sea transform", Geology 31 (2003), עמ׳ 665–668 (TODO: לבדוק במקור)'
+- label: 'S. Marco, M. Hartal, N. Hazan, L. Lev, M. Stein, "Archaeology, history, and geology of the A.D. 749 earthquake, Dead Sea transform", Geology 31 (2003), עמ׳ 665–668 (הפרטים הביבליוגרפיים אומתו ברשימת הפרסומים של מרקו באתר אוניברסיטת תל אביב, שהיא רשימה בלבד. TODO: לבדוק במקור את התוכן)'
   url: https://doi.org/10.1130/G19516.1
 - label: 'C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, "Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments", Earth and Planetary Science Letters 222 (2004), עמ׳ 301–314'
   url: https://doi.org/10.1016/j.epsl.2004.02.015
@@ -80,7 +80,7 @@ sources:
 - label: 'משה גיל, "בענייני ארץ-ישראל בתקופה המוסלמית הראשונה", קתדרה 70 (תשנ"ד), עמ׳ 30–33 (TODO: לבדוק במקור)'
 - label: 'שולמית אליצור, פיוטי ר׳ פינחס הכהן, ירושלים תשס"ד (TODO: לבדוק במקור)'
 - label: 'G. Avni, The Byzantine-Islamic Transition in Palestine: An Archaeological Approach, Oxford 2014 (TODO: לבדוק במקור)'
-- label: 'L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace", Seismological Research Letters 84/6 (2013), עמ׳ 997–1003 (TODO: לבדוק במקור)'
+- label: 'L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace (Jordan Valley, Dead Sea Transform Zone)", Seismological Research Letters 84/6 (2013), עמ׳ 997–1003'
   url: https://doi.org/10.1785/0220130060
 - label: 'לקריאה נוספת: ויקיפדיה, רעש שביעית'
   url: https://he.wikipedia.org/wiki/רעש_שביעית
@@ -109,6 +109,7 @@ review_notes:
 - 'נשאר TODO: לבדוק אם "Karcz 2004" ו"יעקב קרץ׳" (תרביץ סא) הם אותו חוקר.'
 - 'קואורדינטות: lat/lon נשארו null. אין בטקסטים שנקראו מוקד מנומק.'
 - 'סבב עריכה (ספטמבר 2026): ציטוטים. אומת: הפסוק "בזעם תצעד ארץ" (חבקוק ג, יב) מול ספריא, והחישוב 679 נוסף במפורש. הוסבו לפרפרזה עם הפניה: הדף מהגניזה (מרגליות), תיאופנס, אל-מקדסי ואבן תע׳רי-ברדי. נוסף מאנטונופולוס (עמ׳ 169) התיאור של אל-מכין על ספינות שטבעו, ומסלמון ואחרים (2007, נספח 1) הפרשנות שלהם לצונאמי בים התיכון. התאריך 18 בינואר 749 מיוחס עכשיו לקטלוגים (סלמון ואחרים 2007) ולא לתיאופנס. הגוף נכתב מחדש כסיפור שנפתח בצום כ"ג בשבט; פרטים טכניים (רשימת הגדלים, שמות הכותבים הערבים) הועברו להערות.'
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) אלפונסי, צ׳ינטי ונטורה 2013 נקרא במלואו; הוסר ה-TODO והושלמה הכותרת. הדף לא הציג את המאמר באופן שגוי, אבל הניסוח חודד. לפני: "חוקרים אחרים מייחסים גם את ההרס הקשה בח׳רבת אל-מפג׳ר לרעידת 1033". אחרי: אלפונסי ועמיתיו מייחסים את ההרס בארמון הישאם לרעידת 1033 ולא ל-749, עם הנימוקים שלהם (חרס מ-750–850 מתחת להריסות; עוצמה IX–X מול VII ל-749; עמ׳ 997, 1000, 1002). (2) Marco ועמיתיו 2003: הקובץ שהתקבל הוא רשימת הפרסומים של מרקו באתר אוניברסיטת תל אביב, בלי המאמר עצמו. היא מאשרת את המחברים, הכותרת, Geology 31, עמ׳ 665–668 וה-DOI; התוכן עדיין TODO. (3) Karcz 2004: הטקסט המלא עדיין לא הגיע (רק דף המאמר עם התקציר), ולכן ה-TODO נשאר.'
 ---
 
 ## הסיפור
@@ -151,9 +152,9 @@ review_notes:
 
 **איילה.** גם בקצה הדרומי של השבר, בעקבה, יש עקבות. דונלד ויטקומב, מחוקרי איילה, מתאר מגדל ומבנה מרכזי שנבנו מחדש בסביבות 750, ומקשר אותם לרעידה שהוא מתארך ל-748. לדבריו, אחרי הרעידה באה בעיר תקופה של שגשוג ומסחר. הוא גם מזהיר שלא כדאי להישען יותר מדי על רעידות אדמה בתיארוך ארכיאולוגי.[^whitcomb]
 
-**אתרים שנויים במחלוקת.** צפריר ופרסטר מונים שכבות הרס גם בירושלים, בג'רש, בפחל, בכפר נחום ובח'רבת אל-מפג'ר.[^tf92] לא כולם מסכימים. גדעון אבני טוען שהמבנים האומיים הגדולים מדרום למסגד אל-אקצא נשארו בשימוש עד רעידת 1033[^avni], וחוקרים אחרים מייחסים גם את ההרס הקשה בח'רבת אל-מפג'ר לרעידת 1033.[^alfonsi]
+**אתרים שנויים במחלוקת.** צפריר ופרסטר מונים שכבות הרס גם בירושלים, בג'רש, בפחל, בכפר נחום ובח'רבת אל-מפג'ר.[^tf92] לא כולם מסכימים. גדעון אבני טוען שהמבנים האומיים הגדולים מדרום למסגד אל-אקצא נשארו בשימוש עד רעידת 1033[^avni], ואלפונסי, צ'ינטי ונטורה מייחסים את ההרס הקשה בארמון הישאם שבח'רבת אל-מפג'ר לרעידת 1033, לא ל-749. לדבריהם, מתחת להריסות נמצא חרס מהשנים 750 עד 850, והעוצמה שהם משחזרים באתר, IX עד X, גבוהה בהרבה מ-VII שיוחסה לו ברעידת 749.[^alfonsi]
 
-<!-- עמדות אבני ואלפונסי: TODO: לבדוק במקור. TODO: מקור לאום אל-קנאטר. -->
+<!-- עמדת אבני: TODO: לבדוק במקור. עמדת אלפונסי ועמיתיו אומתה (2013, עמ' 997, 1000, 1002). TODO: מקור לאום אל-קנאטר. -->
 
 **מלכודת המעגל הסגור.** יעקב קרץ מזהיר מפני טעות מתודולוגית: קטלוגים ישנים הרחיבו את הנזק של רעידות בארצות שכנות אל ארץ ישראל, ואחר כך השתמשו חוקרים בדיווחים האלה כדי לתארך רמזים ספרותיים עמומים ושכבות הרס לא ברורות. אחד המקרים שהוא בוחן הוא ההנחה שב-749 היה "אסון סייסמי אזורי".[^karcz]
 
@@ -219,7 +220,7 @@ review_notes:
 [^elitzur]: שולמית אליצור, פיוטי ר' פינחס הכהן, ירושלים תשס"ד. TODO: לבדוק במקור.
 [^ke]: יעקב קרץ' ועמיקם אלעד, "על תיארוך 'רעש השביעית' ומשמעותו", תרביץ סא (תשנ"ב), עמ׳ 67–82. TODO: לבדוק במקור.
 [^avni]: G. Avni, The Byzantine-Islamic Transition in Palestine: An Archaeological Approach, Oxford 2014, עמ׳ 325. TODO: לבדוק במקור.
-[^alfonsi]: L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace", [Seismological Research Letters 84 (2013)](https://doi.org/10.1785/0220130060), עמ׳ 997–1003. TODO: לבדוק במקור.
+[^alfonsi]: L. Alfonsi, F. R. Cinti, G. Ventura, "The Kinematics of the 1033 A.D. Earthquake Revealed by the Damage at Hisham Palace (Jordan Valley, Dead Sea Transform Zone)", [Seismological Research Letters 84 (2013)](https://doi.org/10.1785/0220130060), עמ׳ 997–1003: עמ׳ 997 (הייחוס הקודם ל-749, לפי Amiran et al. 1994), עמ׳ 1000 (החרס מ-750–850, לפי Whitcomb 1988; עוצמה IX–X, מול VII ל-749 לפי Marco et al. 2003) ועמ׳ 1002 (המסקנה: רעידת 1033 "as the cause of the severe and widespread damage at Hisham palace").
 
 <!-- TODO: מספרי העמודים של תיאופנס ומיכאל הסורי בהפניות משניות (תרביץ כט, תרביץ נח) נראים משובשים. לבדוק. -->
 <!-- הערה: Sbeinati et al. (2005) נשאר ב-frontmatter, כי זהר ואחרים וסלמון ואחרים נשענים עליו. -->
