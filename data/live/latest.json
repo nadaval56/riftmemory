@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T20:09:13Z",
+  "fetched_at": "2026-09-29T20:52:37Z",
   "source": "gsi",
   "events": [
     {
@@ -12,6 +12,9 @@
       "place_he": "יהודה ושומרון",
       "place": "Judea-Samaria",
       "source_id": "gsi_loc_2026sxdu",
+      "loc_unc_km": 1.3,
+      "depth_unc_km": 2.1,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -28,6 +31,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026suum",
+      "loc_unc_km": 3.5,
+      "depth_unc_km": 2.7,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -44,6 +50,9 @@
       "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026sssx",
+      "loc_unc_km": 5.3,
+      "depth_unc_km": 3.5,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -60,6 +69,9 @@
       "place_he": "לבנון",
       "place": "Lebanon",
       "source_id": "gsi_loc_2026ssqe",
+      "loc_unc_km": 16.9,
+      "depth_unc_km": 23.9,
+      "felt": null,
       "segment": "lebanon",
       "echo": {
         "event_ids": [],
@@ -76,6 +88,9 @@
       "place_he": "הערבה",
       "place": "Arava",
       "source_id": "gsi_loc_2026ssjb",
+      "loc_unc_km": 2.7,
+      "depth_unc_km": 1.5,
+      "felt": null,
       "segment": "arava",
       "echo": {
         "event_ids": [],
@@ -92,6 +107,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026srtb",
+      "loc_unc_km": 10.7,
+      "depth_unc_km": 28.4,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -108,6 +126,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026sqny",
+      "loc_unc_km": 18.6,
+      "depth_unc_km": 25.8,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -124,6 +145,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026sqjl",
+      "loc_unc_km": 36.6,
+      "depth_unc_km": 64.8,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -140,6 +164,9 @@
       "place_he": "ואדי סירחאן",
       "place": "W.-Sirhan",
       "source_id": "gsi_loc_2026sphw",
+      "loc_unc_km": 3.7,
+      "depth_unc_km": 5.0,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -156,6 +183,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026skfr",
+      "loc_unc_km": 5.0,
+      "depth_unc_km": 17.1,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -172,6 +202,9 @@
       "place_he": "אגן ים המלח",
       "place": "Dead-Sea-Basin",
       "source_id": "gsi_loc_2026sjcl",
+      "loc_unc_km": 1.5,
+      "depth_unc_km": 1.6,
+      "felt": null,
       "segment": "arava",
       "echo": {
         "event_ids": [],
@@ -188,6 +221,9 @@
       "place_he": "מפרץ סואץ",
       "place": "Suez",
       "source_id": "gsi_loc_2026shxq",
+      "loc_unc_km": 7.4,
+      "depth_unc_km": 8.6,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -204,6 +240,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026sgrc",
+      "loc_unc_km": 6.3,
+      "depth_unc_km": 39.8,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -220,6 +259,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026sges",
+      "loc_unc_km": 4.8,
+      "depth_unc_km": 16.1,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -236,6 +278,9 @@
       "place_he": "צפון ירדן",
       "place": "Northern-Jordan",
       "source_id": "gsi_loc_2026sfhx",
+      "loc_unc_km": 42.7,
+      "depth_unc_km": 10.8,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -252,6 +297,9 @@
       "place_he": "מפרץ אילת",
       "place": "Elat-Deep",
       "source_id": "gsi_loc_2026sfat",
+      "loc_unc_km": 5.4,
+      "depth_unc_km": 4.4,
+      "felt": null,
       "segment": "arava",
       "echo": {
         "event_ids": [],
@@ -268,6 +316,9 @@
       "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026sefh",
+      "loc_unc_km": 4.6,
+      "depth_unc_km": 3.6,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -284,6 +335,9 @@
       "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026seer",
+      "loc_unc_km": 6.6,
+      "depth_unc_km": 8.9,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -300,6 +354,9 @@
       "place_he": "סוריה",
       "place": "Syria2",
       "source_id": "gsi_loc_2026sees",
+      "loc_unc_km": 8.6,
+      "depth_unc_km": 19.7,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -316,6 +373,9 @@
       "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026sedv",
+      "loc_unc_km": 10.1,
+      "depth_unc_km": 15.8,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -332,6 +392,9 @@
       "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026sedl",
+      "loc_unc_km": 8.4,
+      "depth_unc_km": 6.5,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -348,6 +411,9 @@
       "place_he": "סוריה",
       "place": "Syria",
       "source_id": "gsi_loc_2026sdxv",
+      "loc_unc_km": 11.4,
+      "depth_unc_km": 25.6,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -364,6 +430,9 @@
       "place_he": "סוריה",
       "place": "Syria",
       "source_id": "gsi_loc_2026sdwu",
+      "loc_unc_km": 9.7,
+      "depth_unc_km": 8.7,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -380,6 +449,9 @@
       "place_he": "לבנון",
       "place": "Lebanon",
       "source_id": "gsi_loc_2026sbud",
+      "loc_unc_km": 2.2,
+      "depth_unc_km": 3.2,
+      "felt": null,
       "segment": "lebanon",
       "echo": {
         "event_ids": [],
@@ -396,6 +468,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026sbcq",
+      "loc_unc_km": 9.7,
+      "depth_unc_km": 26.7,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -412,6 +487,9 @@
       "place_he": "ימונה (לבנון)",
       "place": "Yamune",
       "source_id": "gsi_loc_2026rwtg",
+      "loc_unc_km": 16.5,
+      "depth_unc_km": 12.3,
+      "felt": null,
       "segment": "lebanon",
       "echo": {
         "event_ids": [],
@@ -428,6 +506,9 @@
       "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026rwob",
+      "loc_unc_km": 5.1,
+      "depth_unc_km": 2.8,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -444,6 +525,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026rvok",
+      "loc_unc_km": 2.5,
+      "depth_unc_km": 3.8,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -460,6 +544,9 @@
       "place_he": "לבנון",
       "place": "Lebanon",
       "source_id": "gsi_loc_2026rtyq",
+      "loc_unc_km": 3.1,
+      "depth_unc_km": 2.7,
+      "felt": null,
       "segment": "lebanon",
       "echo": {
         "event_ids": [],
@@ -476,6 +563,9 @@
       "place_he": "יהודה ושומרון",
       "place": "Judea-Samaria",
       "source_id": "gsi_loc_2026rsvj",
+      "loc_unc_km": 2.5,
+      "depth_unc_km": 2.5,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -492,6 +582,9 @@
       "place_he": "ואדי סירחאן",
       "place": "W.-Sirhan",
       "source_id": "gsi_loc_2026rsdd",
+      "loc_unc_km": 2.0,
+      "depth_unc_km": 5.3,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -508,6 +601,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026rrza",
+      "loc_unc_km": 10.0,
+      "depth_unc_km": 18.6,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -524,6 +620,9 @@
       "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026rpgq",
+      "loc_unc_km": 14.3,
+      "depth_unc_km": 16.2,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -540,6 +639,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026rpfj",
+      "loc_unc_km": 9.2,
+      "depth_unc_km": 8.6,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -556,6 +658,9 @@
       "place_he": "לבנון",
       "place": "Lebanon",
       "source_id": "gsi_loc_2026rpdm",
+      "loc_unc_km": 14.2,
+      "depth_unc_km": 5.1,
+      "felt": null,
       "segment": "lebanon",
       "echo": {
         "event_ids": [],
@@ -572,6 +677,9 @@
       "place_he": "תדמור (סוריה)",
       "place": "Palmira",
       "source_id": "gsi_loc_2026rpaq",
+      "loc_unc_km": 11.3,
+      "depth_unc_km": 7.7,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -588,6 +696,9 @@
       "place_he": "הגליל",
       "place": "Galilee",
       "source_id": "gsi_loc_2026roun",
+      "loc_unc_km": 0.7,
+      "depth_unc_km": 1.2,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -604,6 +715,9 @@
       "place_he": "מזרח השומרון",
       "place": "E.Shomron",
       "source_id": "gsi_loc_2026rohl",
+      "loc_unc_km": 0.6,
+      "depth_unc_km": 0.8,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -620,6 +734,9 @@
       "place_he": "מזרח השומרון",
       "place": "E.Shomron",
       "source_id": "gsi_loc_2026robe",
+      "loc_unc_km": 0.9,
+      "depth_unc_km": 1.1,
+      "felt": null,
       "segment": null,
       "echo": {
         "event_ids": [],
@@ -636,6 +753,9 @@
       "place_he": "מפרץ אילת",
       "place": "Aragonese-Deep",
       "source_id": "gsi_loc_2026rnji",
+      "loc_unc_km": 10.9,
+      "depth_unc_km": 3.9,
+      "felt": null,
       "segment": "arava",
       "echo": {
         "event_ids": [],
@@ -652,6 +772,9 @@
       "place_he": "הערבה",
       "place": "Arava",
       "source_id": "gsi_loc_2026rneu",
+      "loc_unc_km": 1.8,
+      "depth_unc_km": 1.4,
+      "felt": null,
       "segment": "arava",
       "echo": {
         "event_ids": [],
@@ -668,6 +791,9 @@
       "place_he": "הערבה",
       "place": "Arava",
       "source_id": "gsi_loc_2026rmyn",
+      "loc_unc_km": 1.5,
+      "depth_unc_km": 1.4,
+      "felt": null,
       "segment": "arava",
       "echo": {
         "event_ids": [],
@@ -684,6 +810,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026rlaj",
+      "loc_unc_km": 2.3,
+      "depth_unc_km": 3.6,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -700,6 +829,9 @@
       "place_he": "הערבה",
       "place": "Arava",
       "source_id": "gsi_loc_2026rknj",
+      "loc_unc_km": 1.6,
+      "depth_unc_km": 1.5,
+      "felt": null,
       "segment": "arava",
       "echo": {
         "event_ids": [],
@@ -716,6 +848,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026riok",
+      "loc_unc_km": 3.4,
+      "depth_unc_km": 2.2,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -732,6 +867,9 @@
       "place_he": "מזרח השומרון",
       "place": "E.Shomron",
       "source_id": "gsi_loc_2026ribb",
+      "loc_unc_km": 1.1,
+      "depth_unc_km": 1.1,
+      "felt": null,
       "segment": "jordan-valley",
       "echo": {
         "event_ids": [],
@@ -748,6 +886,9 @@
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
       "source_id": "gsi_loc_2026rhxy",
+      "loc_unc_km": 11.4,
+      "depth_unc_km": 8.2,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -764,6 +905,9 @@
       "place_he": "מפרץ אילת",
       "place": "Elat-Deep",
       "source_id": "gsi_loc_2026rghg",
+      "loc_unc_km": 6.0,
+      "depth_unc_km": 2.7,
+      "felt": null,
       "segment": "arava",
       "echo": {
         "event_ids": [],
