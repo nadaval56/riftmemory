@@ -318,6 +318,7 @@ section + section { margin-top: 2rem; }
 @media (prefers-reduced-motion: reduce) { .source-sheet-inner { animation: none; } }
 .notes ol li { margin-bottom: .35rem; }
 .notes li:target { background: var(--accent-soft); border-radius: 6px; }
+.lg-fault.lg-strong { height: 5px; }
 .lg-fault { width: 22px; height: 3px; border-radius: 2px; background: var(--accent); }
 
 /* ===== רעידות שיוחסו בטעות / מפוקפקות ===== */
@@ -340,6 +341,7 @@ section + section { margin-top: 2rem; }
   background: color-mix(in srgb, var(--surface) 85%, transparent); border: 0; box-shadow: none;
   color: var(--accent); font: 600 .78rem/1.2 Heebo, sans-serif; padding: 1px 5px; white-space: nowrap;
 }
+.leaflet-tooltip.seg-label.dim { opacity: .5; font-weight: 400; }
 .leaflet-tooltip.seg-label::before, .leaflet-tooltip.approx-label::before { display: none; }
 .leaflet-tooltip.approx-label {
   background: var(--surface); border: 1px solid var(--accent); color: var(--ink);

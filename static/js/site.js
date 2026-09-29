@@ -47,6 +47,7 @@
     };
     var bounds = [];
     var faultBounds = [];
+    var segBounds = [];
 
     function esc(t) {
       return String(t == null ? "" : t).replace(/[&<>"]/g, function (c) {
@@ -58,14 +59,20 @@
     // לחיצה על קו מסבירה מה הוא. שם המקטע כתוב פעם אחת, על הקו, באמצע הטווח הצפון-דרומי של המקטע.
     data.segments.forEach(function (s) {
       var lines = [], lo = 90, hi = -90;
+      // בדף רעידה: המקטע שלה מודגש, והשאר חיוורים
+      var dim = data.highlight && data.highlight !== s.id;
+      var strong = data.highlight === s.id;
       s.lines.forEach(function (line) {
         var latlngs = line.map(function (c) { return [c[1], c[0]]; });
-        L.polyline(latlngs, { color: colors.rust, weight: 3, opacity: 0.9, dashArray: s.draft ? "6 5" : null })
+        L.polyline(latlngs, {
+          color: colors.rust, weight: strong ? 5 : dim ? 2 : 3, opacity: dim ? 0.35 : 0.9,
+          dashArray: s.draft ? "6 5" : null
+        })
           .bindPopup('<div class="map-popup"><strong>קו שבר פעיל (העתק)</strong><br>מקטע: ' + esc(s.name) +
             (s.note ? '<div class="src">' + esc(s.note) + "</div>" : "") +
             '<div class="src">מקור הקו: GEM Global Active Faults, מודל EMME</div></div>')
           .addTo(map);
-        latlngs.forEach(function (p) { faultBounds.push(p); });
+        latlngs.forEach(function (p) { faultBounds.push(p); if (strong) segBounds.push(p); });
         lines.push(latlngs);
         latlngs.forEach(function (p) { lo = Math.min(lo, p[0]); hi = Math.max(hi, p[0]); });
       });
@@ -80,7 +87,7 @@
         }
       });
       if (mid) {
-        L.tooltip({ permanent: true, direction: "left", offset: [-8, 0], className: "seg-label" })
+        L.tooltip({ permanent: true, direction: "left", offset: [-8, 0], className: "seg-label" + (dim ? " dim" : "") })
           .setLatLng(mid).setContent(esc(s.name)).addTo(map);
       }
     });
@@ -120,6 +127,12 @@
     var inRegion = function (p) { return p[0] > 29 && p[0] < 33.6 && p[1] > 34 && p[1] < 36.6; };
     var near = bounds.concat(data.focus ? [] : hist).filter(inRegion);
     var all = faultBounds.filter(function (p) { return p[0] < 33.4; }).concat(near, data.focus ? hist : []);
+    // מפה של מקטע בלבד (בלי מיקום לרעידה): המבט על המקטע, עם מעט סביבה
+    if (segBounds.length && !hist.length) {
+      all = segBounds.concat(near);
+      map.fitBounds(L.latLngBounds(all).pad(0.6), { maxZoom: 9 });
+      return;
+    }
     if (all.length > 1) map.fitBounds(all, { padding: [24, 24], maxZoom: 9 });
     else if (all.length === 1) map.setView(all[0], 8);
   }

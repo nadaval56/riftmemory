@@ -28,8 +28,9 @@
      role="region" aria-label="מפה: מקטעי השבר ורעידות"></div>
 <ul class="map-legend">
   <li><span class="lg lg-fault"></span> קו שבר פעיל (העתק). לחיצה על קו מציגה לאיזה מקטע הוא שייך</li>
-  <li><span class="lg lg-hist"></span> מיקום משוער של רעידה היסטורית, לפי מחקר. העיגול הגדול מסמן שהמיקום לא מדויק</li>
-  <li><span class="lg lg-live"></span> רעידות מהחודש האחרון (המכון הגיאולוגי)</li>
+  {% if data.highlight %}<li><span class="lg lg-fault lg-strong"></span> המקטע של הרעידה הזו</li>{% endif %}
+  {% if data.events %}<li><span class="lg lg-hist"></span> מיקום משוער של רעידה היסטורית, לפי מחקר. העיגול הגדול מסמן שהמיקום לא מדויק</li>{% endif %}
+  {% if data.live %}<li><span class="lg lg-live"></span> רעידות מהחודש האחרון (המכון הגיאולוגי)</li>{% endif %}
 </ul>
 <p class="note">מה רואים: השבר הסורי-אפריקני הוא לא קו אחד אלא כמה קווי שבר (העתקים) שעוברים לאורך הערבה, ים המלח, בקעת הירדן והכינרת. כל קו על המפה הוא העתק פעיל, כפי שמופה במאגר GEM Global Active Faults, לפי מודל EMME (רישיון CC BY-SA 4.0). את הקווים חילקנו לחמישה מקטעים, ושם המקטע כתוב על המפה.{% if data.segments | selectattr("draft") | list %} קו מקווקו: שיוך המקטע טרם אושר.{% endif %}</p>
 {% endmacro %}
