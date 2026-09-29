@@ -1,18 +1,13 @@
-# slug url
-dsq-index https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/
-dsq-cyril-363 https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/CyrilQuakes.html
-zohar2016 https://mzohar.haifa.ac.il/wp-content/uploads/2024/03/Zohar-et-al-2016-reappraised-list-earthquakes_JOS.pdf
-zohar2016-supp https://mzohar.haifa.ac.il/wp-content/uploads/2024/03/Zohar-et-al-2016-reappraised-list-earthquakes_JOS_Supplement.pdf
-zohar2017-rogers-1856 https://mzohar.haifa.ac.il/wp-content/uploads/2024/03/Zohar-2017-report-of-mary-aliza-rogers_JOS.pdf
-zohar2017-damage https://mzohar.haifa.ac.il/wp-content/uploads/2024/03/Zohar-et-al-2017-earthquake-damage-in-Israel-TECTO.pdf
-zohar2014-jerusalem-1927 https://mzohar.haifa.ac.il/wp-content/uploads/2024/03/Zohar-et-al-2014-damage-jerusalem-1927_SRL.pdf
-ambraseys-jackson-1998 https://scispace.com/pdf/faulting-associated-with-historical-and-recent-earthquakes-458ulp05ld.pdf
-karcz2004 https://www.annalsofgeophysics.eu/index.php/annals/article/view/3334
-antonopoulos1980 https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/4702/4786
-salamon2007-supp https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
-daeron2005 https://daeron.fr/biblio/Daeron-2005.pdf
-inqua2009-guide https://www.isprambiente.gov.it/contentfiles/00004800/4893-inqua-field-guide-dsw-2009-part1.pdf
-syriac-363 https://syriacstudies.com/wp-content/uploads/2020/12/74-Syriac-Chronicon.pdf
-ayla-shaj https://publication.doa.gov.jo/uploads/publications/25/SHAJ_10-123-132.pdf
-salamon2024-551 https://mzohar.haifa.ac.il/wp-content/uploads/2024/10/Salamon-et-al-2024-551-earthquake-tsunami_NatHaz.pdf
-# run 2
+# slug url  (run 3: deadseaquake per-event pages and open PDFs)
+dsq-amos http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/AmosQuakes.html
+dsq-josephus-31bce http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/JosephusQuake.html
+dsq-eusebius-130 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html
+dsq-trajan-115 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/TrajanQuake.html
+dsq-sabbatical-749 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/SabbaticalYearQuakes.html
+dsq-11th-century http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/11thCenturyCEPalestineQuakes.html
+dsq-1068 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1068CEQuakes.html
+dsq-1759 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1759CEBaalbeAndSafedQuakes.html
+dsq-1834 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html
+dsq-1837 http://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1837CESafedQuake.html
+karcz2004-pdf https://www.annalsofgeophysics.eu/index.php/annals/article/view/3334/3380
+ambraseys1997-1837 https://www.annalsofgeophysics.eu/index.php/annals/article/view/3887
