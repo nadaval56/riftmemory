@@ -32,7 +32,7 @@ magnitude:
   note: 'שתי רעידות. 30 באוקטובר: Ms כ-6.6 (אמברייזיס ובאראזאנגי 1989), 6.5 (בן-מנחם 1991). 25 בנובמבר: Ms כ-7.4 (אמברייזיס ובאראזאנגי 1989; אמברייזיס וג׳קסון 1998), 7.4 (מיגובסקי ועמיתיו 2004; בן-מנחם 1991), 7.0 עד 7.2 (גומז ועמיתיו 2003). כך מסכמים זוהר ועמיתיו 2016, טבלה 3. הערכות לפי תיאורי נזק ולפי ממצאי שדה, לא מדידה.'
 impact:
   deaths: null
-  deaths_note: 'ברעידה הראשונה כ-2,000 הרוגים (דארון ועמיתיו 2005, לפי אמברייזיס ובאראזאנגי 1989). וולני (התרגום האנגלי, 1798, כרך 1, עמ׳ 187) כותב ש"אומרים" שרעידת 1759 המיתה בבקעת בעלבכ יותר מעשרים אלף נפש. אין ספירה.'
+  deaths_note: 'ברעידה הראשונה כ-2,000 הרוגים (דארון ועמיתיו 2005, לפי אמברייזיס ובאראזאנגי 1989). וולני (התרגום האנגלי, 1798, כרך 1, עמ׳ 187) כותב ש"אומרים" שרעידת 1759 המיתה בבקעת בעלבכ יותר מעשרים אלף נפש. ראסל (אצל קיטו 1841, עמ׳ xc): בדמשק מתו "אלפים שמספרם לא נודע". אין ספירה.'
   injured: null
   places:
   - צפת
@@ -60,17 +60,17 @@ sources:
 - label: 'A. Salamon, T. Rockwell, S. N. Ward, E. Guidoboni, A. Comastri, "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97(3) (2007), pp. 705–724, נספח אלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
 - label: 'R. Amit, A. Agnon, A. Matmon (עורכים), The Dead Sea Rift as a natural laboratory for earthquake behavior: prehistorical, historical and recent seismicity, מדריך סיור, סדנת ים המלח של INQUA, פברואר 2009'
-- label: 'N. N. Ambraseys and M. Barazangi, "The 1759 earthquake in the Bekaa Valley: implications for earthquake hazard assessment in the Eastern Mediterranean region", Journal of Geophysical Research 94 (1989), pp. 4007–4013 (TODO: לבדוק במקור)'
+- label: 'N. N. Ambraseys and M. Barazangi, "The 1759 earthquake in the Bekaa valley: implications for earthquake hazard assessment in the eastern Mediterranean region", Journal of Geophysical Research 94 (B4) (1989), pp. 4007–4013 (נקרא התקציר בלבד. TODO: לבדוק במקור את גוף המאמר)'
   url: https://doi.org/10.1029/JB094iB04p04007
-- label: 'T. Nemer, M. Meghraoui, K. Khair, "The Rachaya-Serghaya fault system (Lebanon): evidence of coseismic ruptures, and the AD 1759 earthquake sequence", Journal of Geophysical Research 113 (2008), B05312 (TODO: לבדוק במקור)'
+- label: 'T. Nemer, M. Meghraoui, K. Khair, "The Rachaya-Serghaya fault system (Lebanon): evidence of coseismic ruptures, and the AD 1759 earthquake sequence", Journal of Geophysical Research 113 (2008), B05312 (נקראו התקציר ועמ׳ 1–3 מתוך 12. TODO: לבדוק במקור את תוצאות החפירות)'
   url: https://doi.org/10.1029/2007JB005090
-- label: 'R. Ellenblum, S. Marco, R. Kool, U. Davidovitch, R. Porat, A. Agnon, "Archaeological record of earthquake ruptures in Tell Ateret, the Dead Sea Fault", Tectonics (2015) (TODO: לבדוק במקור)'
+- label: 'R. Ellenblum, S. Marco, R. Kool, U. Davidovitch, R. Porat, A. Agnon, "Archaeological record of earthquake ruptures in Tell Ateret, the Dead Sea Fault", Tectonics 34 (10) (2015), pp. 2105–2117 (נקראו התקציר ועמ׳ 2105–2107)'
   url: https://doi.org/10.1002/2014TC003815
-- label: 'Y. Schweppe ועמיתיו, "Reconstructing the slip velocities of the 1202 and 1759 CE earthquakes based on faulted archaeological structures at Tell Ateret, Dead Sea Fault", Journal of Seismology (2021) (TODO: לבדוק במקור)'
+- label: 'Schweppe ועמיתיו, "Reconstructing the slip velocities of the 1202 and 1759 CE earthquakes based on faulted archaeological structures at Tell Ateret, Dead Sea Fault", Journal of Seismology (2021) (TODO: לבדוק במקור)'
   url: https://link.springer.com/article/10.1007/s10950-021-10009-0
 - label: 'N. N. Lewis, "Baalbek before and after the earthquake of 1759: the drawings of James Bruce", Levant 31 (1999), עמ׳ 241 ואילך (TODO: לבדוק במקור)'
   url: https://doi.org/10.1179/lev.1999.31.1.241
-- label: 'John Kitto, Palestine: the Physical Geography and Natural History of the Holy Land, London, 1841, עמ׳ cvii (אומת). תיאור ראסל בעמ׳ lxxxix–xci חסר בסריקה (TODO: לבדוק במקור)'
+- label: 'John Kitto, Palestine: the Physical Geography and Natural History of the Holy Land, London, 1841, עמ׳ lxxxix–xc (תיאור ראסל, נבדק בסריקה השנייה, palestinephysica02kitt) ועמ׳ cvii'
   url: https://archive.org/details/palestinephysica00kitt
 - label: 'C.-F. Volney, Travels through Egypt and Syria, in the years 1783, 1784, and 1785, תרגום אנגלי, לונדון 1798, כרך 1, עמ׳ 187'
   url: https://archive.org/details/bim_eighteenth-century_voyage-en-syrie-et-en-e_volney-c-f_1798_1
@@ -99,7 +99,7 @@ review_notes:
 - 'אימות ציטוטים (ספטמבר 2026): דברי וולני אומתו מול התרגום האנגלי מ-1798 (כרך 1, עמ׳ 187): "יותר מעשרים אלף" בבקעת בעלבכ, ושלושה חודשים של זעזועים. הציטוט העברי הקודם (תרגום אמיר, "30,000 בתוך שתי דקות" ב-30 באוקטובר) לא נמצא במהדורה הזו והוסר. המהדורה העברית לא נבדקה.'
 - 'קיטו: בסריקה שבידינו חסרים עמ׳ lxxxvi–cii, ובהם תיאור ראסל (לפי המפתח, עמ׳ lxxxix–xci). לכן תיאור ראסל נשאר פרפרזה עם TODO. נוסף ציטוט מאומת מעמ׳ cvii על החורבן בבקעת הלבנון.'
 - 'הדף נכתב מחדש לקריאות: פתיחה בסיפור, פרטים טכניים עברו להערות שוליים.'
-- 'החלטה לנדב: האם לשמור בדף את מספר ההרוגים של קיטו, שעדיין לא נבדק במקור.'
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) קיטו 1841, עמ׳ lxxxix–xc, נמצאו בסריקה השנייה (palestinephysica02kitt). תיאור ראסל אומת והורחב: המשכים (יותר מדקה, כשתי דקות) הם כפי שהורגשו בחלב; נוספו הידיעות על דמשק ועל צפת. לקיטו אין מספר הרוגים משלו: ה-20,000 שיוחסו לו (דרך ויקיפדיה) הם ציטוט של וולני, "בבקעת בעלבכ לבדה", לא "ברעידה השנייה". ההחלטה הפתוחה לגבי מספר ההרוגים של קיטו נסגרה בהתאם. (2) אלנבלום ועמיתיו 2015 (תקציר ועמ׳ 2105–2107): אומת שהקריעה של 30 באוקטובר 1759 חצתה את המסגד העות׳מאני, כ-0.5 מטר; נוספו כרך ועמודים. (3) נמר ועמיתיו 2008 (תקציר ועמ׳ 1–3): תוקן. לפני: "חפירות ... קשרו את שניהם לסדרת הרעידות של 1759". אחרי: החופרים מציעים זאת כאפשרות ("might be"). פרטי התעלות עדיין TODO. (4) אמברייזיס ובאראזאנגי 1989: נקרא התקציר בלבד. אומתו השיוך להעתק יאמונה והרעידה המקדימה ליד צפת וקוניטרה; נוסף (B4). ערכי Ms 6.6 ו-7.4 בגוף המאמר לא נבדקו. (5) Schweppe 2021 לא נקרא; האות "Y." הוסרה משמו, כי לא אומתה (ברשימת הפרסומים של מרקו מופיע Gregor Schweppe במאמרים אחרים).'
 ---
 
 ## הסיפור
@@ -108,13 +108,13 @@ review_notes:
 
 וולני דיבר על רעידה אחת. למעשה היו שתיים, בהפרש של פחות מחודש. הראשונה פגעה ב-30 באוקטובר 1759, ברבע לארבע לפנות בוקר. השנייה פגעה ב-25 בנובמבר, ב-19:23 בערב.[^zohar16] בלוח העברי אלה היו ט׳ בחשוון ו-ו׳ בכסלו תק"ך, לפי איגרת של ר׳ יוסף סופר מצפת.[^yaari]
 
-הרעידה הראשונה החריבה את צפת ואת קוניטרה ורבים מהכפרים סביבן. כ-2,000 בני אדם נהרגו.[^daeron-530] נזק דווח גם בטבריה, בעכו, בנצרת ובשכם.[^zohar16]
+הרעידה הראשונה החריבה את צפת ואת קוניטרה ורבים מהכפרים סביבן. כ-2,000 בני אדם נהרגו.[^daeron-530][^ab89] נזק דווח גם בטבריה, בעכו, בנצרת ובשכם.[^zohar16]
 
 הרעידה השנייה הייתה חזקה בהרבה. כל הכפרים בבקעת הלבנון נהרסו, ובעלבכ חרבה. במקדש יופיטר שבבעלבכ עמדו עד אז תשעה עמודים אחרונים, ושלושה מהם נפלו. במקדש בכחוס נפלו עוד שלושה. צפת ודמשק נפגעו שוב, והרעידה הורגשה עד מצרים ואנטוליה, במרחק של כ-1,100 קילומטר.[^daeron-530] בארץ דווח הפעם על נזק מהחולה ועד קיסריה ושכם.[^zohar16]
 
 היישובים שנפגעו ברעידה השנייה השתרעו על כ-580 קילומטר מצפון לדרום. ברשימה של זוהר ועמיתיו רק ארבע רעידות היסטוריות הותירו נזק על פני יותר מ-500 קילומטר, וזו אחת מהן.[^zohar17-t1]
 
-כמה מתו? אין ספירה. ידוע רק שבכל אחת מהרעידות נהרגו רבים.[^zohar17-t1] המספרים בספרי המאה ה-18 וה-19 גבוהים בהרבה מ-2,000: וולני שמע על יותר מעשרים אלף הרוגים בבקעת בעלבכ, וכתב במפורש "אומרים".[^volney] זה דיווח מכלי שני, לא ספירה.
+כמה מתו? אין ספירה. ידוע רק שבכל אחת מהרעידות נהרגו רבים.[^zohar17-t1] המספרים בספרי המאה ה-18 וה-19 גבוהים בהרבה מ-2,000: וולני שמע על יותר מעשרים אלף הרוגים בבקעת בעלבכ, וכתב במפורש "אומרים".[^volney] זה דיווח מכלי שני, לא ספירה. ראסל, שכתב מחלב בזמן האירועים, לא נקב במספר: בדמשק, כתב, מתו אלפים שמספרם לא נודע.[^kitto]
 
 ## מה כתוב במקורות
 
@@ -126,9 +126,11 @@ review_notes:
 
 <!-- הוסר: ציטוט מהתרגום העברי של אהרן אמיר ("שרעידת האדמה של ה-30 באוקטובר הכחידה 30,000 בתוך שתי דקות"), שהגיע דרך ויקיפדיה העברית. הנוסח הזה לא נמצא במהדורה האנגלית של 1798. TODO: לבדוק במהדורה העברית ובמקור הצרפתי. -->
 
-**ראסל.** רוב הפרטים על מהלך הרעידות מגיעים מהרופא הבריטי פטריק ראסל, שאחיו כתב את "ההיסטוריה הטבעית של חלב", וראסל עצמו הוסיף לה חומר במהדורה חדשה.[^kitto-ccx] קיטו מביא את תיאורו של ראסל: הרעידה הראשונה נמשכה יותר מדקה, השנייה כשתי דקות, בתנודות שהתחזקו ונחלשו לסירוגין, ורעידות משנה נמשכו עד ינואר.[^kitto] וולני, לעומת זאת, לא נותן משך לאף אחת מהן.[^volney]
+**ראסל.** את התיאור המפורט ביותר של מהלך הרעידות כתב פטריק ראסל, הרופא של בית המסחר הבריטי בחלב, במכתב לאחיו אלכסנדר, מחבר "ההיסטוריה הטבעית של חלב". האח העביר את המכתב לחברה המלכותית בלונדון, והוא נדפס בכתב העת שלה.[^kitto-lxxxix] מאוחר יותר הוסיף פטריק ראסל חומר למהדורה חדשה של ספר אחיו.[^kitto-ccx]
 
-<!-- TODO: לאמת ציטוט. תיאור ראסל נמצא אצל קיטו בעמ' lxxxix–xci (לפי המפתח), אבל העמודים lxxxvi–cii חסרים בסריקה שבידינו. פרטי התיאור הגיעו דרך ויקיפדיה. -->
+קיטו מסכם את המכתב. חשוב לזכור שראסל כתב מחלב, רחוק מאזורי ההרס. שם, לפי ראסל, הרעידה של 30 באוקטובר, בסביבות ארבע לפנות בוקר, נמשכה קצת יותר מדקה ולא גרמה נזק. הרעידה של 25 בנובמבר, בערך בשבע וחצי בערב, התחילה ברטט עדין, התחזקה, נחלשה והתחזקה שוב כמה פעמים, ונמשכה כשתי דקות. זעזועים קלים הורגשו גם בדצמבר ואפילו בינואר.[^kitto] וולני, לעומת זאת, לא נותן משך לאף אחת מהן.[^volney]
+
+בחלב איש לא נהרג. מהידיעות שהגיעו אחר כך התברר שהרעידה של 25 בנובמבר הייתה הרסנית במיוחד: שליש מדמשק נהרס, ובהריסות מתו אלפים, שמספרם לא נודע. ראסל מוסר גם שצפת נחרבה כליל ושרוב תושביה מתו.[^kitto]
 
 **קיטו על בקעת הלבנון.** בתיאור הבקעה כותב קיטו, בתרגום שלנו:
 
@@ -154,17 +156,17 @@ review_notes:
 
 ## מה נמצא באדמה
 
-**תל עתרת, ליד גשר בנות יעקב.** המבצר הצלבני שם יושב על העתק ים המלח. רעידת 1202 הסיטה את חומותיו ב-1.6 מטר, ואחר כך זזו החומות בעוד כחצי מטר. מתי? כאן החוקרים חלוקים. שמואל מרקו מייחס את חצי המטר לרעידת אוקטובר 1759,[^marco-guide] ודארון ועמיתיו משאירים פתוח בינה לבין רעידת 1837.[^daeron-529] סלמון ועמיתיו רושמים לרעידת אוקטובר קריעה של פני השטח בקטע הזה של העתק ים המלח.[^salamon07-t3] חפירות מאוחרות יותר באתר מייחסות את התזוזה ל-1759, ולפיהן הקריעה חצתה גם את המסגד העות׳מאני בתל.[^ateret]
+**תל עתרת, ליד גשר בנות יעקב.** המבצר הצלבני שם יושב על העתק ים המלח. רעידת 1202 הסיטה את חומותיו ב-1.6 מטר, ואחר כך זזו החומות בעוד כחצי מטר. מתי? כאן החוקרים חלוקים. שמואל מרקו מייחס את חצי המטר לרעידת אוקטובר 1759,[^marco-guide] ודארון ועמיתיו משאירים פתוח בינה לבין רעידת 1837.[^daeron-529] סלמון ועמיתיו רושמים לרעידת אוקטובר קריעה של פני השטח בקטע הזה של העתק ים המלח.[^salamon07-t3] גם אלנבלום ועמיתיו, שחפרו בתל, כותבים שהקריעה האחרונה שם אירעה ב-30 באוקטובר 1759. לדבריהם היא חצתה את המסגד העות׳מאני שבתל, והתזוזה בה, כחצי מטר, נמדדה גם בבית צידה. בניכוי חצי המטר הזה מ-2.1 המטרים שנמדדו בחומות המבצר, נשארים 1.6 מטר לרעידת 1202.[^ateret]
 
-<!-- TODO: מקור. לקרוא את Ellenblum et al. 2015 ואת Schweppe et al. 2021 ולוודא על מה מבוסס התיארוך לאוקטובר 1759. -->
+<!-- TODO: מקור. Ellenblum et al. 2015 מבססים את התיארוך על עבודתם הקודמת (Ellenblum et al. 1998; Marco et al. 1997) ועל Marco et al. 2005, שלא נקראו. Schweppe et al. 2021 לא נקרא. -->
 
 **בקעת זבדאני, סוריה.** על העתק סרע׳איה נמצא מדרון העתק טרי בגובה של כחצי מטר. בחפירה התברר שהקריעה האחרונה שם אירעה אחרי 1650, ב-1705 או ב-1759. החופרים לא יכלו להכריע. דארון ועמיתיו טוענים שממצאיהם מכריעים לטובת 1759.[^daeron-530]
 
 **אגן יאמונה, לבנון.** בתעלה שנחפרה במשקעי אגם עתיק על העתק יאמונה לא נמצאה שום קריעה אחרי 1400. הקריעה האחרונה שם זוהתה עם רעידת 1202. מכאן שרעידות 1759 לא אירעו על השבר הזה.[^daeron-531]
 
-**רשאיה וסרע׳איה.** על שני השברים האלה, בצד המזרחי של בקעת הלבנון, נמצאו תלמים ומדרגות טריים בפני הקרקע.[^daeron-530] חפירות נוספות על שני השברים קשרו את שניהם לסדרת הרעידות של 1759.[^nemer]
+**רשאיה וסרע׳איה.** על שני השברים האלה, בצד המזרחי של בקעת הלבנון, נמצאו תלמים ומדרגות טריים בפני הקרקע.[^daeron-530] נמר, מגראווי וח׳יר (2008) חפרו על שני השברים. לדבריהם, שניהם פעילים והיו מקורן של רעידות היסטוריות, והאחרונה שבהן אולי הייתה סדרת 1759. הם מנסחים זאת כאפשרות, לא כקביעה.[^nemer]
 
-<!-- TODO: מקור. לקרוא את Nemer et al. 2008 ולפרט מה נמצא בכל תעלה ואיזה תיארוך התקבל. -->
+<!-- TODO: מקור. לקרוא את המשך המאמר של Nemer et al. 2008 (עמ' 4–12) ולפרט מה נמצא בכל תעלה ואיזה תיארוך התקבל. -->
 
 **מבצר נמרוד ומבצר הונין.** במבצר נמרוד נפגעו קשה מבנים מהתקופה המוסלמית. הקשתות והקמרונות שזזו בהם מראים לאיזה כיוון טלטלה אותם הרעידה. מבצר הונין, שמעל עמק החולה, נהרס שלוש פעמים ברעידות גדולות: ב-1202, ב-1759 וב-1837.[^agnon-guide]
 
@@ -176,12 +178,12 @@ review_notes:
 
 ב-1759 לא היו מכשירי מדידה, ולכן כל הגדלים הם הערכות לפי תיאורי נזק וממצאי שדה. גודלה של הרעידה הראשונה מוערך ב-6.5 עד 6.6, ושל השנייה ב-7.0 עד 7.4.[^zohar16][^daeron-531] זוהר ועמיתיו (2016) מסווגים את הראשונה כרעידה "חזקה" ואת השנייה כ"גדולה".[^zohar16]
 
-<!-- TODO: מקור. לפי תקציר המאמר של אמברייזיס ובאראזאנגי (כפי שהופיע בתוצאת חיפוש), הם ניסחו "Ms 6 ומעלה" ו"Ms 7 ומעלה". לבדוק במאמר עצמו מה הערך שבגוף המאמר. -->
+<!-- TODO: מקור. בתקציר של אמברייזיס ובאראזאנגי (נקרא) כתוב "Ms ~ 6 plus" ו-"Ms ~ 7 plus". הערכים 6.6 ו-7.4 מיוחסים להם אצל Nemer et al. 2008 (עמ' 3), דארון ועמיתיו וזוהר ועמיתיו. גוף המאמר לא נקרא. -->
 
 על איזה שבר אירעה כל רעידה? יש שתי תשובות עיקריות:
 
-- **העתק יאמונה**, בצד המערבי של בקעת הלבנון. כך שייכו אמברייזיס ובאראזאנגי (1989) את רעידת נובמבר, ורעידת אוקטובר הייתה לפיהם רעידה מקדימה.[^daeron-529][^zohar16s-29]
-- **שני שברים נפרדים בצד המזרחי**, לאורך האנטי-לבנון. לפי דארון ועמיתיו (2005), רעידת אוקטובר קרעה את העתק רשאיה, באורך של כ-50 קילומטר, ורעידת נובמבר את העתק סרע׳איה, באורך של כ-130 קילומטר. לפיהם אלה שתי רעידות נפרדות על שני קטעים.[^daeron-531][^zohar16s-29] גם החפירות של נמר ועמיתיו (2008) תומכות בשני השברים האלה.[^nemer]
+- **העתק יאמונה**, בצד המערבי של בקעת הלבנון. כך שייכו אמברייזיס ובאראזאנגי (1989) את רעידת נובמבר, ורעידת אוקטובר הייתה לפיהם רעידה מקדימה.[^ab89][^daeron-529][^zohar16s-29]
+- **שני שברים נפרדים בצד המזרחי**, לאורך האנטי-לבנון. לפי דארון ועמיתיו (2005), רעידת אוקטובר קרעה את העתק רשאיה, באורך של כ-50 קילומטר, ורעידת נובמבר את העתק סרע׳איה, באורך של כ-130 קילומטר. לפיהם אלה שתי רעידות נפרדות על שני קטעים.[^daeron-531][^zohar16s-29] נמר ועמיתיו (2008) מציעים, בזהירות, את אותם שני שברים.[^nemer]
 
 ולמה עבר חודש בין השתיים? דארון ועמיתיו מציעים שבחרמון, שם מערכת השברים מתעקלת והקרקע נדחסת, נעצרה הקריעה של אוקטובר. הקטע הצפוני נקרע רק כעבור חודש. הם מדגישים שזה אינו ההסבר האפשרי היחיד.[^daeron-531]
 
@@ -196,7 +198,7 @@ review_notes:
 - R. Amit, A. Agnon and A. Matmon (eds.), *The Dead Sea Rift as a natural laboratory for earthquake behavior*, INQUA field guide, 2009.
 - N. N. Ambraseys and M. Barazangi, "The 1759 earthquake in the Bekaa Valley", *Journal of Geophysical Research* 94 (1989), pp. 4007–4013.
 - T. Nemer, M. Meghraoui and K. Khair, "The Rachaya-Serghaya fault system (Lebanon)", *Journal of Geophysical Research* 113 (2008).
-- R. Ellenblum et al., "Archaeological record of earthquake ruptures in Tell Ateret, the Dead Sea Fault", *Tectonics* (2015).
+- R. Ellenblum et al., "Archaeological record of earthquake ruptures in Tell Ateret, the Dead Sea Fault", *Tectonics* 34 (2015), pp. 2105–2117.
 - N. N. Lewis, "Baalbek before and after the earthquake of 1759: the drawings of James Bruce", *Levant* 31 (1999).
 - C.-F. Volney, *Travels through Egypt and Syria, in the years 1783, 1784, and 1785*, London, 1798, vol. 1. [עותק סרוק ב-Internet Archive](https://archive.org/details/bim_eighteenth-century_voyage-en-syrie-et-en-e_volney-c-f_1798_1).
 - John Kitto, *Palestine: the Physical Geography and Natural History of the Holy Land*, London, 1841. [עותק סרוק ב-Internet Archive](https://archive.org/details/palestinephysica00kitt).
@@ -216,11 +218,13 @@ review_notes:
 [^marco-guide]: S. Marco, "The history of the Frankish Castle of Vadum Iacob", בתוך: Amit, Agnon and Matmon (eds.), מדריך הסיור של סדנת INQUA, 2009, עמ׳ 38, בהפניה ל-Ellenblum et al. 1998. לפי מרקו, בסך הכול הוסטו החומות ב-2.1 מטר. אצל מרקו כתוב "25 October 1759", כנראה טעות דפוס.
 [^agnon-guide]: A. Agnon et al., "Hula basin", בתוך: Amit, Agnon and Matmon (eds.), מדריך הסיור של סדנת INQUA, 2009, עמ׳ 3.
 [^katz-guide]: O. Katz, "Paleoseismic study of earthquake induced landslide hazard in the city of Safed, northern Israel", בתוך: Amit, Agnon and Matmon (eds.), מדריך הסיור של סדנת INQUA, 2009, עמ׳ 24–25 ואיור 2, על פי O. Katz and O. Crouvi, *Engineering Geology* 95 (2007), pp. 57–78.
-[^ateret]: R. Ellenblum, S. Marco, R. Kool, U. Davidovitch, R. Porat and A. Agnon, "Archaeological record of earthquake ruptures in Tell Ateret, the Dead Sea Fault", *Tectonics* (2015), doi:10.1002/2014TC003815; Y. Schweppe et al., *Journal of Seismology* (2021). לפי תקצירי המאמרים בלבד. TODO: לבדוק במקור. <!-- הגיע דרך תוצאות חיפוש -->
-[^nemer]: T. Nemer, M. Meghraoui and K. Khair, *Journal of Geophysical Research* 113 (2008), B05312, לפי תקציר המאמר. TODO: לבדוק במקור. <!-- הגיע דרך תקציר ב-ADS שהופיע בתוצאת חיפוש -->
+[^ateret]: R. Ellenblum, S. Marco, R. Kool, U. Davidovitch, R. Porat and A. Agnon, "Archaeological record of earthquake ruptures in Tell Ateret, the Dead Sea Fault", *Tectonics* 34 (2015), pp. 2105–2117, עמ׳ 2107, בהפניה ל-Ellenblum et al. 1998, ל-Marco et al. 1997 ול-Marco et al. 2005. במקור: "The most recent event that ruptured on 30 October 1759 bisected the Ottoman mosque." גם בתקציר (עמ׳ 2105): "two previously resolved slip events (the 20 May 1202 and 30 October 1759 earthquakes)". המאמר של Schweppe et al., *Journal of Seismology* (2021), לא נקרא (TODO: לבדוק במקור).
+[^nemer]: T. Nemer, M. Meghraoui and K. Khair, "The Rachaya-Serghaya fault system (Lebanon): evidence of coseismic ruptures, and the AD 1759 earthquake sequence", *Journal of Geophysical Research* 113 (2008), B05312, תקציר (עמ׳ 1): "the Rachaya and Serghaya faults are active and the sources of recent historical earthquakes, the last of which might be the 30 October–25 November 1759 (Ms 6.6 and 7.4) earthquake sequence". עמ׳ 3: אמברייזיס ובאראזאנגי העריכו את הראשונה ב-Ms 6.6, עם מוקד קרוב לעמק החולה, ואת השנייה ב-Ms 7.4, צפונה יותר.
+[^ab89]: N. N. Ambraseys and M. Barazangi, *Journal of Geophysical Research* 94 (B4) (1989), pp. 4007–4013, תקציר: רעידת 25 בנובמבר, "Ms ~ 7 plus", יצרה כמעט בוודאות קריעה של פני השטח, "probably along the Yammouneh fault"; לפניה, ב-30 באוקטובר, רעידה מקדימה, "Ms ~ 6 plus", ליד צפת וקוניטרה, שנהרסו כמעט כליל.
 [^yaari]: אברהם יערי, *אגרות ארץ ישראל*, עמ׳ 287, איגרת ר׳ יוסף סופר מצפת. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
 [^yaari2]: אברהם יערי, "רעש צפת בשנת תק"ך", *סיני* כ"ח (תשי"א). TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
-[^kitto]: John Kitto, *Palestine: the Physical Geography and Natural History of the Holy Land*, London, 1841, עמ׳ lxxxix–xci (לפי מפתח הספר: "Russell, Dr. Patrick, his account of the earthquake of 1759, lxxxix–xci"). TODO: לבדוק במקור. העמודים האלה חסרים בסריקה שבידינו. <!-- הפרטים הגיעו דרך ויקיפדיה העברית והאנגלית -->
+[^kitto]: John Kitto, *Palestine: the Physical Geography and Natural History of the Holy Land*, London, 1841, עמ׳ xc, לפי מכתבו של פטריק ראסל. נבדק ב[סריקה השנייה ב-Internet Archive](https://archive.org/details/palestinephysica02kitt). במקור, על 30 באוקטובר: "a pretty severe shock occurred, which lasted rather more than a minute, but did no damage at Aleppo"; על 25 בנובמבר: "then again more violent, and thus changed alternately several times during the shock, which lasted altogether about two minutes"; על דמשק: "One-third of Damascus was overthrown; and of the people unknown thousands perished in the ruins"; על צפת: "was totally destroyed, and the greater part of the inhabitants perished"; ועל הזעזועים המאוחרים: "several slight shocks in December and even in January".
+[^kitto-lxxxix]: Kitto 1841, עמ׳ lxxxix, והערות c–d שם: המכתב נדפס ב"Transactions" של החברה המלכותית, "Vol. li. pt. ii.", עמ׳ 529–534. באותו עמוד מביא קיטו גם את דברי וולני על 1759, ב"יותר מ-20,000" הרוגים "בבקעת בעלבכ לבדה".
 [^kitto-cvii]: Kitto 1841, עמ׳ cvii. תרגום שלנו. במקור: "But the terrible earthquake of 1759, joined to the subsequent wars with the Turks, brought almost everything to ruin and neglect."
 [^kitto-ccx]: Kitto 1841, עמ׳ ccx, הערה c: "Dr. Patrick Russell subsequently incorporated in a new edition of his brother's work" (על "Natural History of Aleppo").
 [^volney]: C.-F. Volney, *Travels through Egypt and Syria, in the years 1783, 1784, and 1785*, תרגום אנגלי מצרפתית, London, 1798, כרך 1, עמ׳ 187, בפרק "Volcanoes and Earthquakes". תרגום שלנו. במקור (בכתיב מודרני): "In our time, in the year 1759, there happened one which caused the greatest ravages. It is said to have destroyed, in the valley of Balbek, upwards of twenty thousand persons, a loss which has never been repaired. For three months the shocks of it terrified the inhabitants of Lebanon so much as to make them abandon their houses, and dwell under tents. Very lately (the 14th of December, 1783,) when I was at Aleppo, so violent a shock was felt, as to ring the bell in the house of the French Consul."

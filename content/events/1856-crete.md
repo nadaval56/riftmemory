@@ -57,9 +57,9 @@ sources:
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009, עמ׳ 683–685 (TODO: לבדוק במקור)'
 - label: 'B. C. Papazachos, P. E. Comninakis, G. F. Karakaisis ועמיתיו, A catalogue of earthquakes in Greece and surrounding area for the period 550BC–1999, University of Thessaloniki, 2000 (TODO: לבדוק במקור)'
   url: http://geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html
-- label: 'B. C. Papazachos, "Large seismic faults in the Hellenic arc", Annali di Geofisica 39 (1996), pp. 891–903 (TODO: לבדוק במקור)'
+- label: 'B. C. Papazachos, "Large seismic faults in the Hellenic arc", Annali di Geofisica 39 (5) (1996), pp. 891–903 (נקרא התקציר בלבד. TODO: לבדוק במקור את גוף המאמר)'
   url: https://doi.org/10.4401/ag-4023
-- label: 'P. Galea, "Seismic history of the Maltese islands and considerations on seismic risk", Annals of Geophysics 50 (2007), pp. 725–740 (TODO: לבדוק במקור)'
+- label: 'P. Galea, "Seismic history of the Maltese islands and considerations on seismic risk", Annals of Geophysics 50 (6) (2007), pp. 725–740'
   url: https://www.annalsofgeophysics.eu/index.php/annals/article/viewFile/3053/3096
 - label: 'N. N. Ambraseys, C. P. Melville, R. D. Adams, The Seismicity of Egypt, Arabia and the Red Sea: A Historical Review, Cambridge University Press, 1994, עמ׳ 69–70 (TODO: לבדוק במקור)'
 - label: 'לקריאה נוספת: ויקיפדיה, רעידת האדמה בכרתים (1856)'
@@ -69,6 +69,7 @@ sources:
 status: draft
 reviewed_by: null
 review_notes:
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): Galea 2007 נקרא במלואו; הוסר ה-TODO ונוסף מספר הגיליון (6). נוספה פסקה על מלטה לפי עמ׳ 733–734 (סדקים בבתים ובכנסיות, עוצמה VII ב-EMS-98, מרחק כ-1,000 ק"מ), שהחליפה את המשפט הלא מבוסס "במלטה נסדקו בתים וכנסיות". Galea מביא גם את הגודל: 8.2 (NEIC) ו-7.7 (Papazachos et al. 2000). בטבלה I שלה השעה 00:45, כנראה בשעון אחר מזה של זוהר; לא הוכנס לדף. Papazachos 1996: נקרא רק התקציר (דף המאמר באתר כתב העת). נוספו ממנו: M 8.2, עומק בינוני (40–100 ק"מ), שבר של כ-220 ק"מ מצפון לכרתים, ו"לא לוותה בצונאמי", שעומד מול הדיווח של רוג׳רס על ים סוער בחיפה; שתי העמדות מוצגות. גוף המאמר (העומק 60–90 ק"מ שבוויקיפדיה) עדיין TODO. מספרי ההרוגים בכרתים, ברודוס, בקהיר ובאלכסנדריה עדיין TODO.'
 - 'ניקוי מקורות (ספטמבר 2026, באישור נדב): הוסרו מקורות שלא נבדקו ושהטקסט לא נשען עליהם: Kkallas, Papadopoulos, E. Daskalaki.'
 - 'החלטת נדב (ספטמבר 2026): הטווח צומצם ל-7.7 עד 8.2, לפי זוהר 2017. התרחישים של קלאס ועמיתיו 2018 הוסרו מגוף הדף כי לא נבדקו במקור.'
 - 'רעידה רחוקה שהורגשה בארץ. המאמר של זוהר 2017 נקרא במלואו, והדף נבנה סביבו.'
@@ -93,9 +94,11 @@ review_notes:
 
 אבל מקור הרעידה לא היה בחיפה. הוא היה בים שמצפון לכרתים, יותר מ-900 קילומטר משם. שם אירעה, בלילה שבין 11 ל-12 באוקטובר 1856, בסביבות שתיים וחצי לפנות בוקר, רעידה שגודלה מוערך ב-7.7 עד 8.2.[^zohar-1285] היא פגעה בעיקר בערי כרתים, בהן חניה, הרקליון ויירפטרה, וגרמה נזק ניכר גם בערים אחרות ביוון. היא הורגשה מאיטליה ועד דלתת הנילוס, וממלטה ועד סוריה.[^zohar-1286]
 
-הנזק הכבד ביותר היה בכרתים. לפי סיכומים שעדיין לא בדקנו במקור, העיר הרקליון כמעט נהרסה. בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים. במלטה נסדקו בתים וכנסיות. בקהיר קרסו כעשרים בתים ומתו לפחות עשרה בני אדם, ובאלכסנדריה מתו שניים.[^deaths]
+הנזק הכבד ביותר היה בכרתים. לפי סיכומים שעדיין לא בדקנו במקור, העיר הרקליון כמעט נהרסה. בכרתים נהרגו 538 בני אדם, ברודוס כשישים, ובקסוס ובקרפתוס עשרים. בקהיר קרסו כעשרים בתים ומתו לפחות עשרה בני אדם, ובאלכסנדריה מתו שניים.[^deaths]
 
-<!-- TODO: מקור. מספרי ההרוגים והנזק מחוץ לארץ הגיעו דרך ויקיפדיה העברית והאנגלית. לבדוק באמברייזיס 2009 (עמ' 683-685), ב-Galea 2007 וב-Ambraseys, Melville and Adams 1994. -->
+הרעידה הגיעה גם למלטה, כאלף קילומטר ממוקדה. לפי פאולין גאליאה, שאספה את הדיווחים בעיתונים המקומיים, התושבים התעוררו באמצע הלילה ויצאו מבתיהם, בקירות של כמעט כל הבתים בוולטה ושל בתים רבים בכפרים ובגוזו נפערו סדקים רציניים, וכנסיות רבות נפגעו בכיפות ובקירות. היא מעריכה את העוצמה במלטה ב-VII. לפי ניתוח קודם שהיא מביאה, במרחק כזה היה מצופה IV או V בלבד.[^galea]
+
+<!-- TODO: מקור. מספרי ההרוגים והנזק בכרתים, ברודוס, בקהיר ובאלכסנדריה הגיעו דרך ויקיפדיה העברית והאנגלית. לבדוק באמברייזיס 2009 (עמ' 683-685) וב-Ambraseys, Melville and Adams 1994. הנזק במלטה אומת אצל Galea 2007. -->
 
 ומה הקשר לחיפה? כאן מתחילה תעלומה קטנה.
 
@@ -117,7 +120,7 @@ review_notes:
 
 זוהר ממליץ לבדוק את הדיווח על הים הסוער, ואם יאומת, להוסיף אותו לקטלוגים של גלי צונאמי.[^zohar-1289]
 
-הדיווח כבר מופיע בספרות, אבל בסימן שאלה. סלמון ועמיתיו (2007) מונים אותו בין הצונאמי המפוקפקים של מזרח הים התיכון. חלק מהקטלוגים רשמו גל בחיפה, וקטלוג אחד רשם אותו ב-10 באוקטובר, התאריך של רוג׳רס. קטלוג אחר, מנגד, לא מזכיר צונאמי בתיאור רעידת כרתים. סלמון ועמיתיו מסכמים שהאירוע דורש בדיקה נוספת.[^salamon07-t2]
+הדיווח כבר מופיע בספרות, אבל בסימן שאלה. סלמון ועמיתיו (2007) מונים אותו בין הצונאמי המפוקפקים של מזרח הים התיכון. חלק מהקטלוגים רשמו גל בחיפה, וקטלוג אחד רשם אותו ב-10 באוקטובר, התאריך של רוג׳רס. קטלוג אחר, מנגד, לא מזכיר צונאמי בתיאור רעידת כרתים. סלמון ועמיתיו מסכמים שהאירוע דורש בדיקה נוספת.[^salamon07-t2] פפאזאכוס (1996), מצדו, כותב שהרעידה לא לוותה בצונאמי.[^papazachos96]
 
 <!-- TODO: מקור. הדיווח על "גל צונאמי קטן לאורך חופי חיפה ולבנון" בוויקיפדיה מפנה ל-Papadopoulos et al. לא נבדק. -->
 
@@ -127,9 +130,9 @@ review_notes:
 
 ## מה המדע אומר
 
-הרעידה קדמה למכשירי מדידה, והגודל שלה הוא הערכה: 7.7 עד 8.2 לפי קטלוגי הרעידות של יוון.[^zohar-1285]
+הרעידה קדמה למכשירי מדידה, והגודל שלה הוא הערכה: 7.7 עד 8.2 לפי קטלוגי הרעידות של יוון.[^zohar-1285] פפאזאכוס (1996) מתאר אותה כרעידה הגדולה ביותר הידועה בכל אזור הים התיכון מבין הרעידות העמוקות-למחצה, שמוקדן בעומק של 40 עד 100 קילומטר. לדבריו היא נוצרה על שבר באורך של כ-220 קילומטר מצפון לכרתים, גרמה נזק חמור בכמה מארצות מזרח הים התיכון, ולא לוותה בצונאמי.[^papazachos96]
 
-<!-- TODO: מקור. לפי ויקיפדיה האנגלית: רעידה בעומק בינוני, בתוך הלוח האפריקאי שמשתפל מתחת לים האגאי; עומק 61 עד 100 ק"מ (קטלוג סלוניקי) או 60 עד 90 ק"מ (פפאזאכוס 1996); עוצמה XI במרכז כרתים; עוצמה VII במלטה (Galea 2007). לבדוק במקורות. -->
+<!-- TODO: מקור. לפי ויקיפדיה האנגלית: רעידה בעומק בינוני, בתוך הלוח האפריקאי שמשתפל מתחת לים האגאי; עומק 61 עד 100 ק"מ (קטלוג סלוניקי) או 60 עד 90 ק"מ (פפאזאכוס 1996); עוצמה XI במרכז כרתים. לבדוק במקורות. העוצמה VII במלטה אומתה אצל Galea 2007, עמ׳ 734. -->
 
 גם על השעה יש הבדל קטן: 02:33 או 02:45, שתיהן לפי השעון המקומי של כרתים, שהיה גם השעון של חיפה.[^zohar-1286]
 
@@ -153,4 +156,6 @@ review_notes:
 [^zohar-1289]: Zohar 2017, עמ׳ 1289, בהפניה ל-Rogers 1862, עמ׳ 361, ול-Papazachos 1996.
 [^salamon07-t2]: A. Salamon et al., *Bulletin of the Seismological Society of America* 97 (2007), נספח אלקטרוני, טבלה 2 (צונאמי מפוקפקים). שם: Shalem 1956 (סערת ים חזקה בחיפה בלי רוח), Ben-Menahem 1991 (צונאמי בחיפה ובחופי לבנון), Amiran, Arieh and Turcotte 1994 (10 באוקטובר 1856), ומנגד Ambraseys, Melville and Adams 1994, שאינם מזכירים צונאמי.
 [^zohar16s]: M. Zohar, A. Salamon and R. Rubin, *Journal of Seismology* 20 (2016), נספח אלקטרוני, נספח C, רשומה 41, עמ׳ 27.
+[^papazachos96]: B. C. Papazachos, "Large seismic faults in the Hellenic arc", *Annali di Geofisica* 39 (5) (1996), pp. 891–903, התקציר: "The longest of these faults (L = 220 km) is that which produced the largest known intermediate depth earthquake in the whole Mediterranean area (12 October 1856, M = 8.2) north of Crete"; "caused very serious damage in several Eastern Mediterranean countries but were not associated with tsunamis". גוף המאמר לא נקרא.
+[^galea]: P. Galea, "Seismic history of the Maltese islands and considerations on seismic risk", *Annals of Geophysics* 50 (6) (2007), pp. 725–740, טבלה I (עמ׳ 731) ועמ׳ 733–734, בהפניה לעיתונים Il Portafoglio Maltese, L'Ordine ו-The Malta Mail ול-Woo 1995. שם: "Almost all houses in Valletta, and many houses in other villages and in Gozo suffered serious cracks to their walls"; "the earthquake has been assigned an intensity of VII" (בסולם EMS-98); המרחק למלטה "around 1000 km"; הגודל 8.2 בקטלוג NEIC ו-7.7 אצל Papazachos et al. 2000.
 [^deaths]: TODO: מקור. <!-- הגיע דרך ויקיפדיה העברית והאנגלית; שם בהפניה ל-NGDC, Jusseret & Sintubin 2017, Badawy et al. 2017, Galea 2007 ו-Ambraseys, Melville and Adams 1994 -->

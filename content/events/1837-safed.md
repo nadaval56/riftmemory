@@ -65,7 +65,7 @@ sources:
 - label: 'R. Amit, A. Agnon, A. Matmon (עורכים), The Dead Sea Rift as a natural laboratory for earthquake behavior: prehistorical, historical and recent seismicity, מדריך סיור, סדנת ים המלח של INQUA, פברואר 2009'
 - label: 'M. Daëron, Y. Klinger, P. Tapponnier, A. Elias, E. Jacques, A. Sursock, "Sources of the large A.D. 1202 and 1759 Near East earthquakes", Geology 33(7) (2005), pp. 529–532'
   url: https://doi.org/10.1130/G21352.1
-- label: 'N. N. Ambraseys, "The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel", Annali di Geofisica 40(4) (1997), pp. 923–935 (TODO: לבדוק במקור)'
+- label: 'N. N. Ambraseys, "The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel", Annali di Geofisica 40(4) (1997), pp. 923–935 (נקרא התקציר בלבד. TODO: לבדוק במקור את גוף המאמר)'
   url: https://www.annalsofgeophysics.eu/index.php/annals/article/view/3887
 - label: 'T. Nemer and M. Meghraoui, "Evidence of coseismic ruptures along the Roum fault (Lebanon): a possible source for the AD 1837 earthquake", Journal of Structural Geology 28(8) (2006), pp. 1483–1495 (TODO: לבדוק במקור)'
 - label: 'W. M. Thomson, "Journal of Mr. W. M. Thomson on a visit to Safet and Tiberias", Missionary Herald 33 (נובמבר 1837), עמ׳ 433 ואילך (נבדק בעמ׳ 433–438)'
@@ -74,7 +74,7 @@ sources:
   url: https://books.google.com/books?id=2DUHAAAAQAAJ
 - label: 'S. E. Calman, Description of Part of the Scene of the Late Earthquake in Syria, London, 1837 (TODO: לבדוק במקור)'
 - label: 'U. Ben-Horin, "An official report on the earthquake of 1837", Israel Exploration Journal 2 (1952), pp. 63–65 (TODO: לבדוק במקור)'
-- label: 'E. Robinson and E. Smith, Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, 1841, כרך 3, עמ׳ 238, ונספח XLII, עמ׳ 471–475 (TODO: לבדוק במקור; בסריקה שבידינו אומת רק תוכן העניינים)'
+- label: 'E. Robinson and E. Smith, Biblical Researches in Palestine, Mount Sinai and Arabia Petraea, 1841, כרך 3, עמ׳ 238, ונספח XLII, עמ׳ 471–475 (TODO: לבדוק במקור; בשתי הסריקות שבידינו, כולל זו של אוניברסיטת טורונטו, העמודים האלה חסרים, ואומת רק תוכן העניינים)'
   url: https://archive.org/details/biblicalresearch03robiuoft
 - label: 'John Kitto, Palestine: the Physical Geography and Natural History of the Holy Land, London, 1841, עמ׳ lxxvii (ציטוט מקלמן)'
   url: https://archive.org/details/palestinephysica00kitt
@@ -83,7 +83,7 @@ sources:
   url: http://zadok.org/research/1927/landslides.html
 - label: 'מרדכי אליאב, "עדות ראייה על מוראות הרעש בצפת תקצ"ז (1837)", קתדרה 79 (מרץ 1996), עמ׳ 53–78 (TODO: לבדוק במקור)'
 - label: 'מיכאל איש-שלום, מסעי נוצרים לארץ ישראל, 1965 (TODO: לבדוק במקור)'
-- label: 'משה ריישר, שערי ירושלים, ורשה תרכ"ט, עמ׳ 22 (TODO: לבדוק במקור)'
+- label: 'משה ריישר, שערי ירושלים, ורשה, דפוס אורגלבראנד, עמ׳ 22 (נבדק בסריקה של HebrewBooks; שנת ההדפסה של המהדורה הסרוקה לא אומתה, ויש מהדורות רבות)'
 - label: 'יצחק ריבקינד, "הרוגי צפת ברעש תקצ"ז", ספר השנה של ארץ-ישראל ב–ג (תרפ"ד–תרפ"ה), עמ׳ 100–109 (TODO: לבדוק במקור)'
 - label: 'ויקטור גרן, תיאור גיאוגרפי, היסטורי וארכיאולוגי של ארץ-ישראל, כרך ד: השומרון (א), יד יצחק בן-צבי, 1983, עמ׳ 237 (TODO: לבדוק במקור)'
 - label: '"1837 CE Safed Quake", deadseaquake.info (TODO: לבדוק במקור)'
@@ -110,6 +110,7 @@ review_notes:
 - 'אימות ציטוטים (ספטמבר 2026): יומן תומסון נקרא ב-Missionary Herald 33 (נובמבר 1837), עמ׳ 433–438. ארבעה ציטוטים ממנו נוספו בתרגום שלנו. תיקונים לפיו: בג׳ש "יותר ממאה ושלושים" מתו כשהכנסייה כולה נפלה (לא "135" ולא "קמרון"); בטבריה כ-700 הרוגים (לא 600, שהגיע מ-The Land and the Book דרך ויקיפדיה ולא נבדק); תומסון וקלמן יצאו מביירות ב-13 בינואר והגיעו לצפת ב-18 בו.'
 - 'רובינסון כרך 3: בסריקה שבידינו חסרים העמודים עם לוביה (238) והנספח על צפת (471–475). אומת רק תוכן העניינים, שמאשר שהנספח הוא "Earthquake at Safed. Mr. Thomson''s Report". מספר ההרוגים בלוביה (143) נשאר TODO.'
 - 'ציטוטי ריישר וויזינו (דרך ויקיפדיה, בלי גישה למקור) הוחלפו בפרפרזה עם הפניה למקור ו-TODO.'
+- 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) ריישר, שערי ירושלים, עמ׳ 22, נבדק בסריקה של HebrewBooks; הוסר ה-TODO. הפרפרזה על הרב הלר אומתה, ונוספו ממנו ציטוט קצר ("ובחמלת ה׳ עליו אשר נשאר נשמה באפו") ופרטים: בית המדרש החדש, האבנים "עד חוטמו", חצי שנה על ערש דווי ויד שבורה. אשתו וילדיו של הלר אינם נזכרים אצל ריישר (בעמוד מסופר שנהרגו שלושה בניו של חותנו של המחבר); הטענה נשארה עם ההפניה לאמבון, שלא נקראה. תוקן: "ורשה תרכ"ט" הוחלף ב"ורשה, דפוס אורגלבראנד", כי שנת ההדפסה לא ניכרת בסריקה. (2) רובינסון וסמית׳ כרך 3: גם הסריקה של אוניברסיטת טורונטו חסרה את עמ׳ 238 ו-471–475; מספר ההרוגים בלוביה (143) נשאר TODO. תוכן העניינים שם מזכיר גם את חורבן צפת (עמ׳ 321–322), את טבריה (254–255) ואת ג׳ש (368–369). (3) קיטו, עמ׳ lxxvii: הציטוט מקלמן אומת שוב בסריקה השנייה. (4) אמברייזיס 1997: נקרא רק התקציר; הוא מאשר שהרעידה הייתה "גדולה בהרבה" ממה שבקטלוגים, רדודה, כנראה מרובה, ובגודל של יותר מ-7. שאר הפרטים מהמאמר עדיין TODO.'
 - 'הדף נכתב מחדש לקריאות: פתיחה בהגעת תומסון לצפת, פרטים טכניים בהערות.'
 ---
 
@@ -162,7 +163,7 @@ review_notes:
 
 החילוץ נמשך זמן רב. היה חורף קר וגשום, ומעטים נותרו בריאים כדי לחלץ ולטפל בפצועים. הראשונים שהגיעו לעזור היו מיסיונרים אמריקנים ואנגלים מביירות,[^eliav] כמו תומסון וקלמן.
 
-הרב שמואל הלר נלכד תחת הריסות בית המדרש. משה ריישר מספר שנשארה בו נשמה, ושבבוקר הרחיקו אנשים מעליו את גלי האבנים והוציאו אותו פצוע ומדמם.[^reisher] הלר איבד ברעש את אשתו וילדיו, ואחר כך הוביל את שיקום הקהילה. רבקה אמבון, שחקרה את דמותו, מתארת איך הקהילה התאוששה בהמשך המאה.[^ambon]
+הרב שמואל הלר נלכד תחת הריסות בית המדרש החדש. משה ריישר מספר שכל הלילה שכב בין ההרוגים, כשגלי האבנים מגיעים עד חוטמו, "ובחמלת ה׳ עליו אשר נשאר נשמה באפו". בבוקר הרחיקו אנשים מעליו את האבנים והוציאו אותו פצוע ומדמם. כחצי שנה שכב חולה, ואחת מידיו נשארה שבורה.[^reisher] הלר איבד ברעש את אשתו וילדיו, ואחר כך הוביל את שיקום הקהילה. רבקה אמבון, שחקרה את דמותו, מתארת איך הקהילה התאוששה בהמשך המאה.[^ambon]
 
 יהודים רבים עזבו את צפת אחרי הרעידה. רוב הפרושים עברו לירושלים, וחלק מהחסידים הלכו אחריהם.[^ambon] שנים רבות ציינו יהודי צפת את כ"ד בטבת כיום אבל.[^tiberias]
 
@@ -251,7 +252,7 @@ review_notes:
 [^katz-26]: Katz, מדריך INQUA 2009, עמ׳ 26.
 [^katz-refs]: U. Ben-Horin, "An official report on the earthquake of 1837", *Israel Exploration Journal* 2 (1952), pp. 63–65, כפי שהוא מופיע בין המקורות ההיסטוריים אצל Katz, מדריך INQUA 2009, עמ׳ 25–26. TODO: לבדוק במקור מה כתוב בדוח.
 [^daeron]: M. Daëron et al., "Sources of the large A.D. 1202 and 1759 Near East earthquakes", *Geology* 33 (2005), עמ׳ 529, בהפניה ל-Ambraseys 1997.
-[^ambraseys]: N. N. Ambraseys, *Annali di Geofisica* 40(4) (1997), עמ׳ 923–935; הפרטים כאן מעמ׳ 927 ו-929: מיפוי עוצמה ביותר מ-120 מקומות, רעידות משנה לאורך כ-70 קילומטר, ושלוש רעידות משנה. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה האנגלית ודרך תקציר המאמר בתוצאת חיפוש -->
+[^ambraseys]: N. N. Ambraseys, "The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel", *Annali di Geofisica* 40(4) (1997), עמ׳ 923–935. בתקציר (נקרא): "This earthquake was a much larger event than earthquake catalogues indicate. We reckon it was a shallow, probably multiple event of magnitude greater than 7.0." שאר הפרטים כאן, מעמ׳ 927 ו-929 (מיפוי עוצמה ביותר מ-120 מקומות, רעידות משנה לאורך כ-70 קילומטר, שלוש רעידות משנה, וסוגי הבנייה): TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה האנגלית ודרך תקציר המאמר בתוצאת חיפוש -->
 [^wachs]: D. Wachs and D. Levitte, *Damage Caused By Landslides During the Earthquakes of 1837 and 1927 in the Galilee Region*, Geological Survey of Israel, 1978. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה האנגלית. מדריך INQUA 2009 מפנה ל-Wachs and Levitte 1981, Isr. J. Earth Sci. 30, 39-43 -->
 [^vered]: M. Vered and H. L. Striem, *BSSA* 67(6) (1977), עמ׳ 1607 ו-1612: ML 6.25 עד 6.5, לפי השוואה לנתוני הנזק ברעידת 1927, ומוקד מעט צפונית לצפת. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה האנגלית -->
 [^robinson]: E. Robinson and E. Smith, *Biblical Researches in Palestine*, 1841, כרך 3, עמ׳ 238. TODO: לבדוק במקור. העמוד חסר בסריקה שבידינו; תוכן העניינים מאשר רק שלוביה נזכרת בעמ׳ 238. <!-- הגיע דרך ויקיפדיה האנגלית -->
@@ -260,7 +261,7 @@ review_notes:
 [^eliav]: מרדכי אליאב, "עדות ראייה על מוראות הרעש בצפת תקצ"ז (1837)", *קתדרה* 79 (1996), עמ׳ 53–78. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
 [^ishshalom1]: מיכאל איש-שלום, *מסעי נוצרים לארץ ישראל*, 1965, עמ׳ 453–455. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
 [^ishshalom2]: ויזינו, בתרגום אצל מיכאל איש-שלום, *מסעי נוצרים לארץ ישראל*, 1965, עמ׳ 477–478. פרפרזה; הנוסח המדויק לא נבדק. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
-[^reisher]: משה ריישר, *שערי ירושלים*, ורשה תרכ"ט, עמ׳ 22. פרפרזה; הנוסח המדויק לא נבדק. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
+[^reisher]: משה ריישר, *שערי ירושלים*, ורשה, דפוס אורגלבראנד, שער ד ("ישוב הארץ"), עמ׳ 22, לפי [הסריקה ב-HebrewBooks](https://www.hebrewbooks.org). שם: "רק מביהמ"ד החדש נשאר הרב הג' רבי שמואל העליר [...] ובחמלת ה׳ עליו אשר נשאר נשמה באפו • ובבקר באו אנשים ויפקחו [...] את גלי האבנים ולקחוהו משם". שנת ההדפסה של המהדורה הסרוקה לא אומתה.
 [^benayahu]: מאיר בניהו, *רבי חיים יוסף דוד אזולאי*, ירושלים תשי"ט. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
 [^rivkind]: יצחק ריבקינד, "הרוגי צפת ברעש תקצ"ז", *ספר השנה של ארץ-ישראל* ב–ג (תרפ"ד–תרפ"ה), עמ׳ 100–109. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
 [^ambon]: רבקה אמבון, "הרב שמואל הלר (1803–1884) ומקומו בקהילה היהודית בצפת", עבודת דוקטור, אוניברסיטת תל אביב, 2016. TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
