@@ -4,6 +4,9 @@
 python scripts/build_site.py --drafts בונה גם טיוטות, עם סימון "טיוטה"
 ו-noindex, לתצוגה מקומית בלבד.
 
+אם ב-data/site.json מוגדר "show_drafts": true, גם הבנייה הציבורית כוללת
+טיוטות: כל דף טיוטה מסומן בבירור, מקבל noindex, ולא נכנס ל-sitemap.
+
 משתני סביבה:
   SITE_URL   כתובת האתר המלאה, בלי / בסוף (ל-sitemap ול-Open Graph)
   BASE_PATH  הנתיב שהאתר יושב בו, למשל /riftmemory (ריק בדומיין משלו)
@@ -184,7 +187,8 @@ def write(path, html):
 def map_data(events, live, segments):
     return {
         "segments": [
-            {"id": s["id"], "name": s["name_he"], "bbox": s["bbox"]}
+            {"id": s["id"], "name": s["name_he"] + (" (טיוטה, טרם אושר)" if s.get("draft") else ""),
+             "bbox": s["bbox"], "draft": bool(s.get("draft"))}
             for s in segments if s.get("approved")
         ],
         "events": [
@@ -213,15 +217,24 @@ def map_data(events, live, segments):
     }
 
 
+def load_config():
+    path = ROOT / "data" / "site.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+
+
 def build(drafts=False):
     now = dt.datetime.now(dt.timezone.utc)
+    public_drafts = not drafts and bool(load_config().get("show_drafts"))
     today = now.astimezone(TZ).date()
 
     all_events = load_events()
-    events = [e for e in all_events if drafts or e["status"] == "published"]
+    events = [e for e in all_events if drafts or public_drafts or e["status"] == "published"]
     segments = echo.load_segments()
     segment_names = {s["id"]: s["name_he"] for s in segments} | SEGMENT_NAMES_EXTRA
 
+    # בתצוגת טיוטות גם מקטעים שלא אושרו משמשים למפה ולהד, כדי שאפשר יהיה לבדוק אותם
+    if drafts or public_drafts:
+        segments = [dict(s, draft=not s.get("approved"), approved=True) for s in segments]
     live = load_live()
     echo.annotate(live["events"], events, segments)
     for q in live["events"]:
@@ -241,7 +254,7 @@ def build(drafts=False):
         e["live_nearby"] = [q for q in live["events"] if seg and q.get("segment") == seg]
 
     env = make_env()
-    common = dict(drafts=drafts, built_at=now, segment_names=segment_names)
+    common = dict(drafts=drafts, public_drafts=public_drafts, built_at=now, segment_names=segment_names)
 
     if SITE.exists():
         shutil.rmtree(SITE)
@@ -281,7 +294,8 @@ def build(drafts=False):
             by_id=by_id,
             map_data=map_data([e], dict(live, events=e["live_nearby"]), segments),
         ))
-        pages.append(path)
+        if e["status"] == "published":
+            pages.append(path)
 
     # ציר הזמן
     write(SITE / "timeline" / "index.html", env.get_template("timeline.html").render(
@@ -311,7 +325,8 @@ def build(drafts=False):
             pages=pages, lastmod=today.isoformat()))
         write(SITE / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
 
-    print(f"built {len(pages)} pages ({len(events)} events{', with drafts' if drafts else ''}) -> {SITE}")
+    mode = ", with drafts (local)" if drafts else ", with drafts (public, noindex)" if public_drafts else ""
+    print(f"built {len(events)} events{mode}, sitemap {len(pages)} pages -> {SITE}")
 
 
 def main():

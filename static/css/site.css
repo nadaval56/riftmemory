@@ -181,3 +181,4 @@ main { max-width: 1120px; margin: 0 auto; padding: 0 16px 3rem; }
 .footnote-backref { text-decoration: none; }
 .event-cards + h2, section + section { margin-top: 2rem; }
 .notes a { overflow-wrap: anywhere; }
+.draft-note { background: #fff3cd; border: 1px solid #e8d48a; color: #6b4e00; border-radius: 6px; padding: .5rem .8rem; font-size: .9rem; }

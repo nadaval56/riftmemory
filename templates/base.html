@@ -6,7 +6,7 @@
 {% set full_title = (title ~ " · " ~ site_name) if title else (site_name ~ " — " ~ site_tagline) %}
 <title>{{ full_title }}</title>
 <meta name="description" content="{{ description or site_tagline }}">
-{% if drafts %}<meta name="robots" content="noindex, nofollow">{% endif %}
+{% if drafts or noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
 <link rel="canonical" href="{{ site_url }}{{ page_path }}">
 <meta property="og:type" content="{{ og_type or 'website' }}">
 <meta property="og:locale" content="he_IL">
@@ -24,7 +24,8 @@
 <link rel="stylesheet" href="{{ base }}/static/css/site.css">
 </head>
 <body>
-{% if drafts %}<div class="draft-banner">תצוגה מקומית, כולל טיוטות. לא לפרסום.</div>{% endif %}
+{% if drafts %}<div class="draft-banner">תצוגה מקומית, כולל טיוטות. לא לפרסום.</div>
+{% elif public_drafts %}<div class="draft-banner">האתר בבנייה. דפים שמסומנים "טיוטה" עוד לא נבדקו, וייתכנו בהם אי-דיוקים.</div>{% endif %}
 <header class="site-header">
   <a class="brand" href="{{ base }}/">
     <svg class="brand-mark" viewBox="0 0 64 24" aria-hidden="true"><path d="M0 14 C10 12 18 16 26 13 L30 4 L34 21 L37 11 C46 14 54 12 64 13"/></svg>

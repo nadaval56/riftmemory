@@ -43,7 +43,7 @@
 
     data.segments.forEach(function (s) {
       var b = [[s.bbox[0], s.bbox[1]], [s.bbox[2], s.bbox[3]]];
-      L.rectangle(b, { color: colors.rust, weight: 1, fillOpacity: 0.12 })
+      L.rectangle(b, { color: colors.rust, weight: 1, fillOpacity: 0.12, dashArray: s.draft ? "5 4" : null })
         .bindTooltip(s.name).addTo(map);
       bounds.push(b[0], b[1]);
     });
