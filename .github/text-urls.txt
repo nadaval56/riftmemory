@@ -1,4 +1,12 @@
-# סבב 15. מקורות מוגנים שפתוחים לקריאה: רק קטעים (אחרי " | "), עם מספרי עמודים.
-ambon2016 https://humanities.tau.ac.il/sites/humanities.tau.ac.il/files/media_server/all-units/%D7%91%D7%99%D7%AA%20%D7%A1%D7%A4%D7%A8%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%99%D7%94%D7%93%D7%95%D7%AA/%D7%A2%D7%91%D7%95%D7%93%D7%95%D7%AA%20%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8%D7%98/%D7%A8%D7%91%D7%A7%D7%94%20%D7%90%D7%9E%D7%91%D7%95%D7%9F-%20%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8%D7%98.pdf | כ"ד בטבת;עזבו לירושלים;סכנה להתחיל;רוב מכריע של הפרושים
-uziel2021-he https://cityofdavid.org.il/wp-content/uploads/2025/11/sefer_keness-22_HE_Uziel.pdf | מלחמה;קומה;קרסו;רעידת אדמה באמצע;עדויות ארכיאולוגיות לרעידת
-migowski2004 https://gfzpublic.gfz.de/rest/items/item_247420_1/component/file_247419/content | 1834;Table 1;Table 2;Ze'elim;Zeelim;disturbed
+# סבב 16: מקורות חלופיים (1856, 1927, 881). מקורות מוגנים: רק קטעים (אחרי " | ").
+adiyeke2012 https://dergipark.org.tr/tr/download/article-file/781254 | Kandiye;ölü;yaralı;Rodos;Kerpe;Kaşot;3620;538;Mısır;İskenderiye;Kahire
+oasp-1856 https://www.oasp.gr/node/2560 | 1856;538;638;Ρόδο;Κάρπαθο;Κάσο;3.620
+ahead-1856 https://www.emidius.eu/AHEAD/event/18561012_0245_000
+papazachos-seiscat http://geophysics.geo.auth.gr/ss/CATALOGS/seiscat.dat | 1856
+aldersons2014-abs https://link.springer.com/chapter/10.1007/978-94-017-8872-4_3 | 1927;ISC-GEM;preferred;31.92;Jordan Valley
+usgs-ofr86-561 https://pubs.usgs.gov/of/1986/0561/report.pdf | 1927;Damiya;Jericho;Vered
+unispal-1927 https://unispal.un.org/UNISPAL.NSF/3d14c9e5cdaa296d85256cbf005aa3eb/d0523c86855faa6e052565e700693905?OpenDocument | earthquake;killed;injured;casualt
+zadok-1927-damage http://zadok.org/research/1927/damage.html
+zadok-1927-nyt2 http://zadok.org/research/1927/nyt2.html
+cza-1927 http://www.zionistarchives.org.il/en/datelist/Pages/earthquake.aspx | 192;923;earthquake;killed
+ncei-tsunami-881 https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=881&maxYear=882
