@@ -539,6 +539,11 @@ def build(drafts=False):
     ))
     pages.append("/about/")
 
+    # הצהרות: פרטיות ונגישות
+    for name in ("privacy", "accessibility"):
+        write(SITE / name / "index.html", env.get_template(f"{name}.html").render(**common, page_path=f"/{name}/"))
+        pages.append(f"/{name}/")
+
     write(SITE / "404.html", env.get_template("404.html").render(**common, page_path="/404.html"))
 
     # sitemap ו-robots
@@ -547,7 +552,9 @@ def build(drafts=False):
     else:
         write(SITE / "sitemap.xml", env.get_template("sitemap.xml").render(
             pages=pages, lastmod=today.isoformat()))
-        write(SITE / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
+        write(SITE / "robots.txt", f"User-agent: *\nAllow: /\n# תיאור האתר למודלי שפה: {SITE_URL}/llms.txt\nSitemap: {SITE_URL}/sitemap.xml\n")
+        # llms.txt: תיאור האתר ורשימת הדפים למודלי שפה (llmstxt.org)
+        write(SITE / "llms.txt", env.get_template("llms.txt").render(**common, events=[e for e in events if e["status"] == "published"]))
 
     mode = ", with drafts (local)" if drafts else ", with drafts (public, noindex)" if public_drafts else ""
     print(f"built {len(events)} events{mode}, sitemap {len(pages)} pages -> {SITE}")

@@ -1,0 +1,28 @@
+# {{ site_name }} (riftmemory)
+
+> {{ site_tagline }}. A Hebrew-language, non-commercial site about historical earthquakes along the Dead Sea Transform in the Land of Israel, from the earthquake in the days of King Uzziah (8th century BCE) to the Jericho earthquake of 1927, plus a live strip of recent earthquakes. Every page is written in Hebrew (RTL).
+
+Each earthquake has its own page with a fact card (date, magnitude estimate with its basis, impact), a narrative, what the written sources say, what archaeology and geology found, what is uncertain, and full footnoted references. Content rules: no fact without a cited source; quotes are verbatim from the source; the site distinguishes "the source reports" from "was found"; uncertainty is shown as ranges; sources not yet checked against the original are labelled "טרם נבדק במקור" (not yet checked in the source). The site makes no forecasts; the "historical echo" of a live earthquake is a geographic fact only (same fault segment).
+
+When citing, cite the primary or scholarly source given in the page's footnotes, and this site as the compiler.
+
+## Earthquakes
+{% for e in events %}- [{{ e.title }}]({{ site_url }}/events/{{ e.id }}/): {{ e | year_label }}
+{% endfor %}
+## Pages
+- [Home, live strip and map]({{ site_url }}/)
+- [Earthquakes of the last 30 days]({{ site_url }}/recent/)
+- [What the instruments see: catalog since 1924]({{ site_url }}/instruments/)
+- [Timeline]({{ site_url }}/timeline/)
+- [About, method and sources]({{ site_url }}/about/)
+- [Sitemap]({{ site_url }}/sitemap.xml)
+
+## Policies
+- [Privacy policy (Hebrew): no cookies, no analytics, no third-party code]({{ site_url }}/privacy/)
+- [Accessibility statement (Hebrew): WCAG AA, Israeli standard 5568]({{ site_url }}/accessibility/)
+
+## Data and code
+- Live data: Geological Survey of Israel, USGS ComCat, EMSC (fetched at build time)
+- Active faults: GEM Global Active Faults Database (CC BY-SA 4.0)
+- Base map: Natural Earth (public domain); place coordinates: GeoNames (CC BY 4.0)
+- Code: https://github.com/nadaval56/riftmemory

@@ -3,7 +3,7 @@
 {% set title = "מה המכשירים רואים" %}
 {% set description = "רעידות האדמה באזור השבר מאז שהתחילו למדוד אותן במכשירים: מפה, עומקים לאורך השבר, והרעידות החזקות שנמדדו." %}
 {% block head %}
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="{{ base }}/static/vendor/leaflet/leaflet.css">
 {% endblock %}
 {% block main %}
 <article class="instr-page">
@@ -77,5 +77,5 @@
 {{ source_sheet() }}
 {% endblock %}
 {% block scripts %}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
+<script src="{{ base }}/static/vendor/leaflet/leaflet.js" defer></script>
 {% endblock %}

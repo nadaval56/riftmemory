@@ -122,7 +122,7 @@ def horizontal(events, base):
     def x(year):
         return right - _pos(year) * (right - left)
 
-    parts = [f'<svg class="timeline timeline-h" viewBox="0 0 {W} {H}" role="img" '
+    parts = [f'<svg class="timeline timeline-h" viewBox="0 0 {W} {H}" role="group" '
              f'aria-label="ציר זמן של רעידות האדמה, מימין לשמאל">']
 
     for a, b, start, end, name in _era_bounds():
@@ -181,7 +181,7 @@ def vertical(events, base):
     def y(year):
         return top + _pos(year) * (bottom - top)
 
-    parts = [f'<svg class="timeline timeline-v" viewBox="0 0 {W} {H}" role="img" '
+    parts = [f'<svg class="timeline timeline-v" viewBox="0 0 {W} {H}" role="group" '
              f'aria-label="ציר זמן של רעידות האדמה, מלמעלה למטה">']
 
     for a, b, start, end, name in _era_bounds():

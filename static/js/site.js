@@ -220,7 +220,8 @@
         ? root.dataset.theme === "dark"
         : window.matchMedia("(prefers-color-scheme: dark)").matches;
       root.dataset.theme = dark ? "light" : "dark";
-      try { localStorage.setItem("riftmemory.theme", root.dataset.theme); } catch (e) {}
+      if (typeof PRIVACY !== "undefined") PRIVACY.set("riftmemory.theme", root.dataset.theme);
+      else { try { localStorage.setItem("riftmemory.theme", root.dataset.theme); } catch (e) {} }
     });
   }
 

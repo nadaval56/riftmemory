@@ -5,7 +5,7 @@
 {% set noindex = e.status != "published" %}
 {% set description = "רעידת אדמה, " ~ (e | year_label) ~ (". " ~ e.location.description if e.location.description else "") %}
 {% block head %}
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="{{ base }}/static/vendor/leaflet/leaflet.css">
 {% endblock %}
 {% block main %}
 <article class="event">
@@ -145,6 +145,6 @@
 {% endblock %}
 {% block scripts %}
 {% if map_data.events or map_data.live or map_data.highlight or map_data.damage %}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
+<script src="{{ base }}/static/vendor/leaflet/leaflet.js" defer></script>
 {% endif %}
 {% endblock %}

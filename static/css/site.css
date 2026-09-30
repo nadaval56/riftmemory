@@ -25,11 +25,16 @@
   --surface-2: #faf9f5;
   --ink: #1f1e1d;
   --ink-2: #6e6c66;
-  --muted: #a5a39b;
+  --muted: #6b6a65; /* טקסט משני: 4.5:1 לפחות על כל הרקעים (נבדק בחישוב) */
   --line: #e6e3d9;
   --line-soft: #efece3;
   --accent: #c96442;
   --accent-soft: #faede7;
+  /* גרסאות לטקסט: צבע ההדגשה נשאר למילוי ולגרפיקה, ולטקסט גוון כהה יותר
+     מאותה משפחה, שעובר 4.5:1 על כל הרקעים של המצב הבהיר. */
+  --accent-ink: #a75337;
+  --archaeology-ink: #816727;
+  --instrumental-ink: #4c6e8b;
   --on-accent: #ffffff;
   /* סוגי ראיה: כתוב = צבע האתר, ארכיאולוגי = אוכרה, מכשירי = כחול-צפחה */
   --texts: #c96442;
@@ -50,9 +55,10 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #1c1b19; --surface: #232220; --surface-2: #2b2926;
-    --ink: #f5f3ee; --ink-2: #a8a59d; --muted: #6e6b64;
+    --ink: #f5f3ee; --ink-2: #a8a59d; --muted: #95938e;
     --line: #34322d; --line-soft: #2a2825;
     --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
+    --accent-ink: #e08a6b; --archaeology-ink: #c9a656; --instrumental-ink: #86a9c4;
     --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42;
     --warn-bg: #33291a; --warn-ink: #e3c47a;
     color-scheme: dark;
@@ -60,9 +66,10 @@
 }
 :root[data-theme="dark"] {
   --bg: #1c1b19; --surface: #232220; --surface-2: #2b2926;
-  --ink: #f5f3ee; --ink-2: #a8a59d; --muted: #6e6b64;
+  --ink: #f5f3ee; --ink-2: #a8a59d; --muted: #95938e;
   --line: #34322d; --line-soft: #2a2825;
   --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
+    --accent-ink: #e08a6b; --archaeology-ink: #c9a656; --instrumental-ink: #86a9c4;
   --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42;
   --warn-bg: #33291a; --warn-ink: #e3c47a;
   color-scheme: dark;
@@ -75,11 +82,11 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--font);
-  font-size: 16.5px;
+  font-size: 1.03125rem;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
 }
-a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+a { color: var(--accent-ink); text-decoration-thickness: 1px; text-underline-offset: 3px; }
 a:hover { text-decoration-thickness: 2px; }
 h1, h2, h3 { font-family: var(--font); color: var(--ink); line-height: 1.2; }
 h1 { font-size: clamp(1.9rem, 5vw, 2.6rem); font-weight: 700; letter-spacing: -.6px; margin: .15em 0 .35em; }
@@ -109,7 +116,7 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
   padding: .3rem .85rem; border-radius: 999px; border: 1px solid transparent;
 }
 .site-nav a:hover { background: var(--surface); border-color: var(--line); }
-.site-nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent); }
+.site-nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent-ink); }
 .theme-btn {
   width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center;
   background: none; border: 0; color: var(--ink-2); cursor: pointer;
@@ -135,9 +142,9 @@ main { max-width: 1080px; margin: 0 auto; padding: 1.2rem 16px 3rem; }
   padding: .12rem .6rem; border-radius: 999px; margin: .15rem 0 0 .25rem;
   background: var(--surface-2); color: var(--ink-2); border: 1px solid var(--line-soft);
 }
-.chip.k-texts { background: var(--accent-soft); color: var(--texts); border-color: transparent; }
-.chip.k-archaeology { color: var(--archaeology); }
-.chip.k-instrumental { color: var(--instrumental); }
+.chip.k-texts { background: var(--accent-soft); color: var(--accent-ink); border-color: transparent; }
+.chip.k-archaeology { color: var(--archaeology-ink); }
+.chip.k-instrumental { color: var(--instrumental-ink); }
 
 /* ===== פס רעידה אחרונה ===== */
 .live-strip {
@@ -147,11 +154,11 @@ main { max-width: 1080px; margin: 0 auto; padding: 1.2rem 16px 3rem; }
 .live-kicker { margin: 0; font-size: .78rem; font-weight: 600; color: var(--ink-2); display: flex; align-items: center; gap: .45rem; }
 .live-main { margin: .15rem 0; font-size: 1.15rem; display: flex; flex-wrap: wrap; gap: .2rem .9rem; align-items: baseline; }
 .live-place { font-weight: 600; letter-spacing: -.3px; }
-.live-mag bdi { font-weight: 700; color: var(--accent); font-size: 1.25rem; letter-spacing: -.4px; }
+.live-mag bdi { font-weight: 700; color: var(--accent-ink); font-size: 1.25rem; letter-spacing: -.4px; }
 .live-ago { color: var(--ink-2); font-size: .95rem; }
 .live-strip .echo { margin: .35rem 0 0; color: var(--ink); }
 .live-source { margin: .45rem 0 0; font-size: .75rem; color: var(--muted); }
-.pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--live); box-shadow: 0 0 0 0 rgba(201,100,66,.55); animation: pulse 2s infinite; }
+.pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--live); box-shadow: 0 0 0 0 rgba(201,100,66,.55); animation: pulse 2s 2; } /* פעמיים ונעצר: תנועה שנמשכת פחות מ-5 שניות (WCAG 2.2.2) */
 @keyframes pulse { 70% { box-shadow: 0 0 0 8px rgba(201,100,66,0); } 100% { box-shadow: 0 0 0 0 rgba(201,100,66,0); } }
 @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
 
@@ -180,7 +187,7 @@ main { max-width: 1080px; margin: 0 auto; padding: 1.2rem 16px 3rem; }
 
 /* ===== דף רעידה ===== */
 .event-header { max-width: var(--measure); }
-.kicker { color: var(--accent); font-weight: 600; font-size: .9rem; margin: 0; }
+.kicker { color: var(--accent-ink); font-weight: 600; font-size: .9rem; margin: 0; }
 .status-tag {
   display: inline-block; background: var(--warn-bg); color: var(--warn-ink);
   font-size: .75rem; font-weight: 600; padding: .1rem .6rem; border-radius: 999px; margin: 0 0 .4rem;
@@ -207,7 +214,7 @@ main { max-width: 1080px; margin: 0 auto; padding: 1.2rem 16px 3rem; }
 .facts .sub { display: block; font-weight: 400; color: var(--ink-2); font-size: .86rem; letter-spacing: 0; }
 .certainty {
   display: inline-block; margin-top: .3rem; font-size: .72rem; font-weight: 600;
-  color: var(--accent); background: var(--accent-soft); border-radius: 999px; padding: .05rem .55rem;
+  color: var(--accent-ink); background: var(--accent-soft); border-radius: 999px; padding: .05rem .55rem;
 }
 .prose { max-width: var(--measure); }
 .prose h2:first-child { margin-top: .4rem; }
@@ -220,7 +227,7 @@ main { max-width: 1080px; margin: 0 auto; padding: 1.2rem 16px 3rem; }
 .prose blockquote p:last-child { margin-bottom: 0; }
 .prose .todo, .empty h2 { color: var(--muted); }
 .sources ul { padding-inline-start: 1.2rem; }
-.sources li { margin-bottom: .3rem; }
+.sources li { margin-bottom: .3rem; overflow-wrap: anywhere; }
 .license { font-size: .8rem; color: var(--muted); }
 .live-list { list-style: none; padding: 0; margin: 0; background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--radius-sm); }
 .live-list li { display: flex; gap: .9rem; flex-wrap: wrap; border-bottom: 1px solid var(--line-soft); padding: .5rem .9rem; }
@@ -273,11 +280,11 @@ section + section { margin-top: 2rem; }
 .era-year { font-size: 11px; fill: var(--muted); }
 .axis { stroke: var(--ink-2); stroke-width: 1.4; }
 .instruments { stroke: var(--instrumental); stroke-width: 1.4; stroke-dasharray: 4 3; }
-.instruments-label { font-size: 11px; fill: var(--instrumental); }
+.instruments-label { font-size: 11px; fill: var(--instrumental-ink); }
 .leader { stroke: var(--line); stroke-width: 1; }
 .label-year { font-size: 11px; fill: var(--muted); }
 .label-title { font-size: 12.5px; font-weight: 600; fill: var(--ink); }
-.tl-label:hover .label-title { fill: var(--accent); }
+.tl-label:hover .label-title { fill: var(--accent-ink); }
 .range { stroke-width: 5; stroke-linecap: round; opacity: .4; }
 .range.k-texts { stroke: var(--texts); }
 .range.k-archaeology { stroke: var(--archaeology); }
@@ -311,7 +318,7 @@ section + section { margin-top: 2rem; }
   padding: .8rem 1.1rem .6rem; font-size: .95rem; line-height: 1.55;
   animation: sheet-in .18s ease-out;
 }
-.source-sheet-label { margin: 0 0 .2rem; font-size: .75rem; font-weight: 600; color: var(--accent); }
+.source-sheet-label { margin: 0 0 .2rem; font-size: .75rem; font-weight: 600; color: var(--accent-ink); }
 .source-sheet-body p { margin: 0 0 .4rem; }
 .source-sheet-body a { overflow-wrap: anywhere; }
 .source-sheet-hint { margin: .2rem 0 0; font-size: .7rem; color: var(--muted); text-align: center; }
@@ -328,7 +335,7 @@ section + section { margin-top: 2rem; }
   padding: .6rem .9rem; color: var(--ink-2); font-size: .92rem; margin: .6rem 0 0;
 }
 .verdict-note strong { color: var(--ink); }
-.event-card.is-misattributed, .event-card.is-doubtful { opacity: .72; border-style: dashed; }
+.event-card.is-misattributed, .event-card.is-doubtful { background: var(--surface-2); border-style: dashed; } /* בלי opacity: היא מורידה את ניגודיות הטקסט מתחת ל-4.5:1 */
 .event-card.is-misattributed::before, .event-card.is-doubtful::before { background: var(--muted); }
 .dot.k-verdict { fill: var(--surface); stroke: var(--muted); stroke-width: 2; stroke-dasharray: 2 2; }
 .dot-center.k-verdict { fill: var(--muted); }
@@ -340,7 +347,7 @@ section + section { margin-top: 2rem; }
 /* תוויות על המפה: שמות המקטעים והכיתוב "מיקום משוער" */
 .leaflet-tooltip.seg-label {
   background: color-mix(in srgb, var(--surface) 85%, transparent); border: 0; box-shadow: none;
-  color: var(--accent); font: 600 .78rem/1.2 Heebo, sans-serif; padding: 1px 5px; white-space: nowrap;
+  color: var(--accent-ink); font: 600 .78rem/1.2 Heebo, sans-serif; padding: 1px 5px; white-space: nowrap;
 }
 /* שמות ערים במפת הבסיס */
 .leaflet-tooltip.city-label {
@@ -375,7 +382,7 @@ section + section { margin-top: 2rem; }
 .chart-dot { fill: var(--quake); fill-opacity: .45; stroke: var(--quake); stroke-width: .5; }
 .chart-band.b0 { fill: var(--accent-soft); }
 .chart-band.b1 { fill: var(--surface-2); }
-.chart-band-label { fill: var(--accent); font-size: 11px; font-weight: 600; }
+.chart-band-label { fill: var(--accent-ink); font-size: 11px; font-weight: 600; }
 .chart-note { font-size: .85rem; margin-top: .4rem; }
 .quake-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .6rem; }
 .quake { background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--radius); padding: .7rem .9rem; scroll-margin-top: 1rem; }
@@ -423,6 +430,32 @@ table.data a.ext { font-size: .82em; }
 .live-bar:hover .lb-more { text-decoration: underline; }
 .lb-kicker { font-weight: 600; color: var(--ink-2); }
 .lb-place { font-weight: 600; }
-.lb-mag { font-weight: 700; color: var(--accent); }
+.lb-mag { font-weight: 700; color: var(--accent-ink); }
 .lb-ago { color: var(--ink-2); }
-.lb-more { margin-inline-start: auto; color: var(--accent); }
+.lb-more { margin-inline-start: auto; color: var(--accent-ink); }
+
+/* ===== דפי ההצהרות: פרטיות ונגישות ===== */
+.legal .lede { font-size: 1.1rem; color: var(--ink); }
+.legal h2 { margin-top: 2rem; }
+.tbl-scroll { overflow-x: auto; margin: 1rem 0; border: 1px solid var(--line); border-radius: var(--radius-sm); }
+.tbl-scroll:focus-visible { outline: 3px solid var(--accent-ink); outline-offset: 2px; }
+.legal-tbl { border-collapse: collapse; width: 100%; font-size: .9rem; }
+.legal-tbl caption { text-align: start; font-weight: 600; padding: .6rem .8rem; }
+.legal-tbl th, .legal-tbl td { text-align: start; vertical-align: top; padding: .5rem .8rem; border-top: 1px solid var(--line); }
+.legal-tbl th { background: var(--surface-2); font-weight: 600; }
+.legal-tbl code, .legal code { direction: ltr; unicode-bidi: isolate; font-size: .85rem; overflow-wrap: anywhere; }
+.datactl { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 1rem; margin: 1rem 0; }
+.datactl .st { margin: 0 0 .8rem; }
+.btn-row { display: flex; flex-wrap: wrap; gap: .5rem; }
+.btn-row button {
+  font: inherit; font-size: .9rem; min-height: 44px; padding: .5rem .9rem; cursor: pointer;
+  background: var(--surface-2); color: var(--ink); border: 1px solid var(--ink-2); border-radius: 8px;
+}
+.btn-row button:hover { border-color: var(--ink); }
+#dv-out pre { direction: ltr; text-align: left; white-space: pre-wrap; overflow-wrap: anywhere; background: var(--surface-2); padding: .8rem; border-radius: 8px; font-size: .85rem; }
+.dv-msg { margin: .8rem 0 0; }
+.note-box { background: var(--surface-2); border-inline-start: 4px solid var(--accent); border-radius: 8px; padding: .8rem 1rem; margin: 1.2rem 0; }
+.legal .updated { color: var(--ink-2); font-size: .9rem; margin-top: 2rem; }
+.legal .contact p { margin: .2rem 0; }
+.footer-links { font-size: .9rem; }
+:focus-visible { outline: 3px solid var(--accent-ink); outline-offset: 2px; }
