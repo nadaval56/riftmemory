@@ -546,6 +546,8 @@ def build(drafts=False):
         meta, body = read_event(path)
         if meta.get("status") != "published" and not (drafts or public_drafts):
             continue
+        # קישורים פנימיים בכתיבה הם "/events/..." ; באתר הם תחת BASE_PATH
+        body = body.replace("](/", f"]({BASE_PATH}/")
         meta["sections"], meta["footnotes"] = split_sections(body)
         slug = meta["slug"]
         write(SITE / slug / "index.html", env.get_template("page.html").render(
