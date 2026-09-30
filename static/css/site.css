@@ -114,32 +114,39 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 .brand-text { display: flex; flex-direction: column; line-height: 1.2; }
 .brand-name { font-weight: 700; font-size: 1.35rem; letter-spacing: -.4px; }
 .brand-sub { font-size: .8rem; color: var(--ink-2); }
-/* הסמל: שני גושים משני צדי העתק, ונחל שחוצה אותם ונקטע בהסטה, כמו בהעתק ים המלח
-   (הגוש המזרחי זז צפונה ביחס למערבי). */
+/* הסמל: מבנה חרב של ארבע לבנים. שלוש עומדות, והרביעית נפלה ושוכבת לידן על הקרקע. */
 .rift-mark { width: 32px; height: 32px; flex: none; overflow: visible; }
 .rift-mark rect { fill: var(--accent); }
-.rift-mark path { fill: none; stroke: var(--bg); stroke-width: 2.4; stroke-linecap: butt; }
 
-/* אנימציה: פחות משתי שניות. רעד קצר, ואז שני הגושים מחליקים זה לצד זה והנחל נקטע.
-   המצב במנוחה הוא הפריים האחרון (fill-mode backwards), כך שבלי תנועה (העדפת מערכת,
-   או "עצירת אנימציות" בתפריט הנגישות) או בלי JS, הסמל פשוט עומד שלם.
+/* אנימציה: פחות משתי שניות. הקיר עומד שלם (הלבנה הרביעית במקומה, מעל השנייה), הכול רועד,
+   והלבנה העליונה נופלת ומתגלגלת לצד. המצב במנוחה הוא הפריים האחרון (fill-mode backwards),
+   כך שבלי תנועה (העדפת מערכת או "עצירת אנימציות") או בלי JS, הסמל פשוט עומד חרב.
    מתנגנת בטעינה, במעבר עכבר, ושוב כשהסמל חוזר למסך או 15 שניות אחרי הפעם הקודמת
-   (static/js/brand-anim.js, אותה לוגיקה כמו באתר העב"מים). אין לולאה ב-CSS. */
-@keyframes rift-shake   { 0%, 100% { transform: none; } 20% { transform: translateX(-.7px); } 40% { transform: translateX(.7px); } 60% { transform: translateX(-.5px); } 80% { transform: translateX(.3px); } }
-@keyframes rift-shake-2 { 0%, 100% { transform: none; } 20% { transform: translateX(-.7px); } 40% { transform: translateX(.7px); } 60% { transform: translateX(-.5px); } 80% { transform: translateX(.3px); } }
-@keyframes rift-slip-w   { 0% { transform: translateY(-2.5px); } 70% { transform: translateY(.4px); } }
-@keyframes rift-slip-w-2 { 0% { transform: translateY(-2.5px); } 70% { transform: translateY(.4px); } }
-@keyframes rift-slip-e   { 0% { transform: translateY(2.5px); } 70% { transform: translateY(-.4px); } }
-@keyframes rift-slip-e-2 { 0% { transform: translateY(2.5px); } 70% { transform: translateY(-.4px); } }
-.rift-all { animation: rift-shake .45s linear .2s; }
-.rift-w { animation: rift-slip-w .6s cubic-bezier(.3,.7,.3,1) .65s backwards; }
-.rift-e { animation: rift-slip-e .6s cubic-bezier(.3,.7,.3,1) .65s backwards; }
+   (static/js/brand-anim.js, אותה לוגיקה כמו באתר העב"מים). אין לולאה ב-CSS.
+   המיקום ההתחלתי של הלבנה הנופלת נכתב יחסית למקומה הסופי (במערכת הצירים המסובבת שלה). */
+@keyframes rift-shake   { 0%, 100% { transform: none; } 15% { transform: translateX(-.8px); } 30% { transform: translateX(.8px); } 45% { transform: translateX(-.7px); } 60% { transform: translateX(.6px); } 75% { transform: translateX(-.4px); } }
+@keyframes rift-shake-2 { 0%, 100% { transform: none; } 15% { transform: translateX(-.8px); } 30% { transform: translateX(.8px); } 45% { transform: translateX(-.7px); } 60% { transform: translateX(.6px); } 75% { transform: translateX(-.4px); } }
+@keyframes rift-fall {
+  0%, 45% { transform: none; }
+  62% { transform: translate(3px, .3px) rotate(-22deg); }
+  82% { transform: translate(9.6px, 7.6px) rotate(-8deg); }
+  91% { transform: translate(10.3px, 7px) rotate(-17deg); }
+  100% { transform: translate(10.5px, 7.35px) rotate(-14deg); }
+}
+@keyframes rift-fall-2 {
+  0%, 45% { transform: none; }
+  62% { transform: translate(3px, .3px) rotate(-22deg); }
+  82% { transform: translate(9.6px, 7.6px) rotate(-8deg); }
+  91% { transform: translate(10.3px, 7px) rotate(-17deg); }
+  100% { transform: translate(10.5px, 7.35px) rotate(-14deg); }
+}
+.rift-all { animation: rift-shake .7s linear .2s; }
+.rift-fall { transform-box: fill-box; transform-origin: 50% 50%; transform: translate(10.5px, 7.35px) rotate(-14deg); animation: rift-fall 1.3s ease-in .2s backwards; }
 /* מעבר עכבר מנגן שוב (שם אחר לאנימציה, כי דפדפן לא מתחיל מחדש אנימציה ששמה לא השתנה).
    רק עכבר אמיתי: בטלפון :hover נתקע אחרי נגיעה. */
 @media (hover: hover) {
   .brand:hover .rift-all { animation-name: rift-shake-2; }
-  .brand:hover .rift-w { animation-name: rift-slip-w-2; }
-  .brand:hover .rift-e { animation-name: rift-slip-e-2; }
+  .brand:hover .rift-fall { animation-name: rift-fall-2; }
 }
 @media (prefers-reduced-motion: reduce) { .rift-mark * { animation: none !important; } }
 /* הלשוניות: פס אחד עדין עם רקע ומסגרת; הלשונית הפעילה מודגשת ברקע ובטקסט בצבע האתר.
@@ -205,7 +212,7 @@ main { max-width: 1080px; margin: 0 auto; padding: 1.2rem 16px 3rem; }
 .live-ago { color: var(--ink-2); font-size: .95rem; }
 .live-strip .echo { margin: .35rem 0 0; color: var(--ink); }
 .live-source { margin: .45rem 0 0; font-size: .75rem; color: var(--muted); }
-.pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--live); box-shadow: 0 0 0 0 rgba(201,100,66,.55); animation: pulse 2s 2; } /* פעמיים ונעצר: תנועה שנמשכת פחות מ-5 שניות (WCAG 2.2.2) */
+.pulse { width: 8px; height: 8px; border-radius: 50%; background: var(--live); box-shadow: 0 0 0 0 rgba(201,100,66,.55); animation: pulse 2s ease-out infinite; } /* פועמת כל הזמן; נעצרת עם כפתור העצירה של הפס (WCAG 2.2.2) ובבקשה לפחות תנועה */
 @keyframes pulse { 70% { box-shadow: 0 0 0 8px rgba(201,100,66,0); } 100% { box-shadow: 0 0 0 0 rgba(201,100,66,0); } }
 @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
 
@@ -566,3 +573,5 @@ html.a11y-still .lt-viewport { overflow-x: auto; mask-image: none; }
 /* תוויות השכבות מתחת למפה בצבע השכבה */
 .tg-dmg strong { color: color-mix(in srgb, var(--map-dmg) 80%, var(--ink)); }
 .star-ref { text-decoration: none; color: var(--accent-ink); margin-inline-start: .15rem; font-weight: 600; }
+.live-ticker.paused .pulse { animation: none; }
+html.a11y-still .pulse { animation: none; }
