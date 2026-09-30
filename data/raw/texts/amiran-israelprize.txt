@@ -1,0 +1,1 @@
+ERROR ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\'cms.education.gov.il\', port=443): Max retries exceeded with url: /EducationCMS/Units/PrasIsrael/TashLamed/DavidAmiran/ (Caused by NameResolutionError("HTTPSConnection(host=\'cms.education.gov.il\', port=443): Failed to resolve \'cms.education.gov.il\' ([Errno -2] Name or service not known)"))'))
