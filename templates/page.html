@@ -5,6 +5,7 @@
 {% block main %}
 <article class="prose page-md">
   <h1>{{ page.title }}</h1>
+  {% if page.status != "published" %}<p class="draft-note">טיוטה: הדף עוד לא עבר את בדיקת נדב.</p>{% endif %}
   {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
   {% for s in page.sections %}
   <section>

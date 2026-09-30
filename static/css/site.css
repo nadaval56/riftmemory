@@ -362,7 +362,7 @@ section + section { margin-top: 2rem; }
 .source-sheet-hint { margin: .2rem 0 0; font-size: .7rem; color: var(--muted); text-align: center; }
 @keyframes sheet-in { from { transform: translateY(12px); opacity: 0; } to { transform: none; opacity: 1; } }
 @media (prefers-reduced-motion: reduce) { .source-sheet-inner { animation: none; } }
-.notes ol li { margin-bottom: .35rem; }
+.notes ol li { margin-bottom: .35rem; overflow-wrap: anywhere; }
 .notes li:target { background: var(--accent-soft); border-radius: 6px; }
 .lg-fault.lg-strong { height: 5px; }
 .lg-fault { width: 22px; height: 3px; border-radius: 2px; background: var(--accent); }
