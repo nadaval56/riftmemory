@@ -21,7 +21,7 @@ const require = createRequire(import.meta.url);
 const BASE = (process.env.BASE || 'http://localhost:8765/riftmemory').replace(/\/$/, '');
 const AXE = fs.readFileSync(process.env.AXE || require.resolve('axe-core/axe.min.js'), 'utf8');
 const PAGES = ['/', '/events/1927-dead-sea/', '/events/1837-safed/', '/events/0749-shviit/', '/recent/',
-               '/instruments/', '/timeline/', '/about/', '/what-is-an-earthquake/', '/privacy/', '/accessibility/', '/404.html'];
+               '/instruments/', '/timeline/', '/about/', '/people/', '/what-is-an-earthquake/', '/privacy/', '/accessibility/', '/404.html'];
 const MODES = [
   { name: 'בהיר', theme: 'light' },
   { name: 'כהה', theme: 'dark' },
