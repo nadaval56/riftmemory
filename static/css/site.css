@@ -462,6 +462,11 @@ section + section { margin-top: 2rem; }
 /* ===== 30 הימים האחרונים ===== */
 .recent .lede { font-size: 1.05rem; }
 .notice { background: var(--accent-soft); border-inline-start: 3px solid var(--accent); border-radius: var(--radius); padding: .6rem .9rem; font-size: .95rem; }
+.page-notice { display: flex; gap: .8rem; align-items: flex-start; margin: 1rem 0 1.4rem; }
+.page-notice p { margin: 0; }
+.warn-icon { flex: none; width: 2.6rem; height: auto; margin-top: .15rem; }
+.warn-tri { fill: #f2c12e; stroke: #1f1e1d; stroke-width: 2.5; stroke-linejoin: round; }
+.warn-wave { fill: none; stroke: #1f1e1d; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; }
 .chart-wrap { background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--radius); padding: .5rem; }
 .chart { width: 100%; height: auto; display: block; font-family: Heebo, sans-serif; }
 .chart-bar { fill: var(--quake); }
