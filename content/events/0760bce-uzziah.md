@@ -56,6 +56,7 @@ sources:
 - label: 'N. N. Ambraseys, "Historical earthquakes in Jerusalem: a methodological discussion", Journal of Seismology 9 (2005), pp. 329–340 (TODO: לבדוק במקור)'
   url: https://link.springer.com/article/10.1007/s10950-005-8183-8
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (קטעים מהדיון ברעידה מובאים ברשומה 14 של NCEI; העמוד טרם אותר)'
+  url: https://doi.org/10.1017/CBO9781139195430
 - label: 'NCEI/WDS (לשעבר NGDC), Global Significant Earthquake Database, NOAA, רשומה 14 ("c. 759 BC"), כולל רשימת ההפניות שלה, נקראה בספטמבר 2026'
   url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/14
 - label: 'Steven A. Austin, Gordon W. Franz and Eric G. Frost, "Amos''s Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C.", International Geology Review 42 (2000), pp. 657–671 (TODO: לבדוק במקור)'
