@@ -114,8 +114,8 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 .brand-text { display: flex; flex-direction: column; line-height: 1.2; }
 .brand-name { font-weight: 700; font-size: 1.35rem; letter-spacing: -.4px; }
 .brand-sub { font-size: .8rem; color: var(--ink-2); }
-/* הסמל: קשת חרבה. שלוש אבנים מכל צד ואבן ראשה; האבן העליונה השמאלית ואבן הראשה נפלו
-   ושוכבות על הקרקע בתוך הקשת. */
+/* הסמל: קשת חרבה. בכל צד שתי אבנים מרובעות זו על זו ואבן שלישית שמתעקלת למרכז, ובראש אבן
+   ראשה גדולה. האבן העליונה השמאלית ואבן הראשה נפלו ושוכבות בתוך הפתח. */
 .rift-mark { width: 32px; height: 32px; flex: none; overflow: visible; }
 .rift-mark path { fill: var(--accent); }
 
@@ -128,32 +128,36 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 @keyframes rift-shake-2 { 0%, 100% { transform: none; } 15% { transform: translateX(-.8px); } 30% { transform: translateX(.8px); } 45% { transform: translateX(-.7px); } 60% { transform: translateX(.6px); } 75% { transform: translateX(-.4px); } }
 @keyframes rift-fall-a {
   0%, 45% { transform: none; }
-  78% { transform: translate(2.2px, 17.2px) rotate(-60deg); }
-  88% { transform: translate(2.4px, 16.2px) rotate(-76deg); }
-  100% { transform: translate(2.36px, 16.6px) rotate(-72deg); }
+  65% { transform: translate(1.08px, 5.14px) rotate(-70deg); }
+  84% { transform: translate(2.69px, 15.19px) rotate(-128deg); }
+  93% { transform: translate(2.69px, 14.29px) rotate(-116deg); }
+  100% { transform: translate(2.69px, 14.69px) rotate(-120deg); }
 }
 @keyframes rift-fall-a-2 {
   0%, 45% { transform: none; }
-  78% { transform: translate(2.2px, 17.2px) rotate(-60deg); }
-  88% { transform: translate(2.4px, 16.2px) rotate(-76deg); }
-  100% { transform: translate(2.36px, 16.6px) rotate(-72deg); }
+  65% { transform: translate(1.08px, 5.14px) rotate(-70deg); }
+  84% { transform: translate(2.69px, 15.19px) rotate(-128deg); }
+  93% { transform: translate(2.69px, 14.29px) rotate(-116deg); }
+  100% { transform: translate(2.69px, 14.69px) rotate(-120deg); }
 }
 @keyframes rift-fall-k {
-  0%, 60% { transform: none; }
-  85% { transform: translate(3.4px, 17.4px) rotate(24deg); }
-  93% { transform: translate(3.7px, 16.8px) rotate(10deg); }
-  100% { transform: translate(3.6px, 16.99px) rotate(14deg); }
+  0%, 58% { transform: none; }
+  74% { transform: translate(1.38px, 7.51px) rotate(80deg); }
+  88% { transform: translate(4.60px, 19.28px) rotate(190deg); }
+  95% { transform: translate(4.60px, 18.48px) rotate(175deg); }
+  100% { transform: translate(4.60px, 18.78px) rotate(180deg); }
 }
 @keyframes rift-fall-k-2 {
-  0%, 60% { transform: none; }
-  85% { transform: translate(3.4px, 17.4px) rotate(24deg); }
-  93% { transform: translate(3.7px, 16.8px) rotate(10deg); }
-  100% { transform: translate(3.6px, 16.99px) rotate(14deg); }
+  0%, 58% { transform: none; }
+  74% { transform: translate(1.38px, 7.51px) rotate(80deg); }
+  88% { transform: translate(4.60px, 19.28px) rotate(190deg); }
+  95% { transform: translate(4.60px, 18.48px) rotate(175deg); }
+  100% { transform: translate(4.60px, 18.78px) rotate(180deg); }
 }
 .rift-all { animation: rift-shake .7s linear .2s; }
-.rift-fall-a, .rift-fall-k { transform-box: fill-box; transform-origin: 50% 50%; }
-.rift-fall-a { transform: translate(2.36px, 16.6px) rotate(-72deg); animation: rift-fall-a 1.3s ease-in .2s backwards; }
-.rift-fall-k { transform: translate(3.6px, 16.99px) rotate(14deg); animation: rift-fall-k 1.7s ease-in .2s backwards; }
+.rift-fall-a, .rift-fall-k { transform-box: fill-box; transform-origin: 50% 50%; stroke: var(--bg); stroke-width: .9; paint-order: stroke; }
+.rift-fall-a { transform: translate(2.69px, 14.69px) rotate(-120deg); animation: rift-fall-a 1.3s ease-in .2s backwards; }
+.rift-fall-k { transform: translate(4.60px, 18.78px) rotate(180deg); animation: rift-fall-k 1.7s ease-in .2s backwards; }
 /* מעבר עכבר מנגן שוב (שם אחר לאנימציה, כי דפדפן לא מתחיל מחדש אנימציה ששמה לא השתנה).
    רק עכבר אמיתי: בטלפון :hover נתקע אחרי נגיעה. */
 @media (hover: hover) {
