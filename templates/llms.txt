@@ -13,6 +13,7 @@ When citing, cite the primary or scholarly source given in the page's footnotes,
 - [Home, live strip and map]({{ site_url }}/)
 - [Earthquakes of the last 30 days]({{ site_url }}/recent/)
 - [What is an earthquake: faults, waves, magnitude vs intensity, the Dead Sea Transform]({{ site_url }}/what-is-an-earthquake/)
+- [Witnesses and researchers: who wrote about the earthquakes, and who studied the sources]({{ site_url }}/people/)
 - [What the instruments see: catalog since 1924]({{ site_url }}/instruments/)
 - [Timeline]({{ site_url }}/timeline/)
 - [About, method and sources]({{ site_url }}/about/)
