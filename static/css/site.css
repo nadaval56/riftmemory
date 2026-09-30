@@ -142,22 +142,22 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 }
 @keyframes rift-fall-k {
   0%, 58% { transform: none; }
-  74% { transform: translate(1.38px, 7.51px) rotate(80deg); }
-  88% { transform: translate(4.60px, 19.28px) rotate(190deg); }
-  95% { transform: translate(4.60px, 18.48px) rotate(175deg); }
-  100% { transform: translate(4.60px, 18.78px) rotate(180deg); }
+  74% { transform: translate(0.09px, 7.51px) rotate(80deg); }
+  88% { transform: translate(0.30px, 19.28px) rotate(190deg); }
+  95% { transform: translate(0.30px, 18.48px) rotate(175deg); }
+  100% { transform: translate(0.30px, 18.78px) rotate(180deg); }
 }
 @keyframes rift-fall-k-2 {
   0%, 58% { transform: none; }
-  74% { transform: translate(1.38px, 7.51px) rotate(80deg); }
-  88% { transform: translate(4.60px, 19.28px) rotate(190deg); }
-  95% { transform: translate(4.60px, 18.48px) rotate(175deg); }
-  100% { transform: translate(4.60px, 18.78px) rotate(180deg); }
+  74% { transform: translate(0.09px, 7.51px) rotate(80deg); }
+  88% { transform: translate(0.30px, 19.28px) rotate(190deg); }
+  95% { transform: translate(0.30px, 18.48px) rotate(175deg); }
+  100% { transform: translate(0.30px, 18.78px) rotate(180deg); }
 }
 .rift-all { animation: rift-shake .7s linear .2s; }
 .rift-fall-a, .rift-fall-k { transform-box: fill-box; transform-origin: 50% 50%; stroke: var(--bg); stroke-width: .9; paint-order: stroke; }
 .rift-fall-a { transform: translate(2.69px, 14.69px) rotate(-120deg); animation: rift-fall-a 1.3s ease-in .2s backwards; }
-.rift-fall-k { transform: translate(4.60px, 18.78px) rotate(180deg); animation: rift-fall-k 1.7s ease-in .2s backwards; }
+.rift-fall-k { transform: translate(0.30px, 18.78px) rotate(180deg); animation: rift-fall-k 1.7s ease-in .2s backwards; }
 /* מעבר עכבר מנגן שוב (שם אחר לאנימציה, כי דפדפן לא מתחיל מחדש אנימציה ששמה לא השתנה).
    רק עכבר אמיתי: בטלפון :hover נתקע אחרי נגיעה. */
 @media (hover: hover) {
