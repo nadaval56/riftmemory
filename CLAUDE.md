@@ -11,7 +11,7 @@
 - Python 3, Jinja2, PyYAML, markdown, requests
 - תוכן: content/events/*.md עם frontmatter (docs/guide.pdf פרק 5.1)
 - פלט: site/ — לא לערוך ידנית
-- Actions: build.yml (push), live.yml (כל שעה), catalog.yml (פעם בחודש: קטלוגים לדף "מכשירי מדידה")
+- Actions: build.yml (push), live.yml (כל שעה), catalog.yml (פעם בחודש: קטלוגים לדף "מכשירי מדידה"), links.yml (פעם בחודש: בדיקת קישורים חיצוניים, issue אם יש שבורים)
 - מפה: Leaflet + OSM. ציר זמן: SVG בזמן בנייה.
 - גופנים: Heebo בלבד, מאוחסן באתר (static/fonts). עיצוב לפי השפה של heb-cal: רקע #f4f2ec, הדגשה #c96442, מצב כהה
 

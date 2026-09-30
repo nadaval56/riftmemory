@@ -7,3 +7,4 @@ research-out/
 .claude/settings.local.json
 .claude/worktrees/
 og-build/
+link-report.md
