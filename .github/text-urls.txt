@@ -1,42 +1,6 @@
-# סבב 20: ביוגרפיות קצרות לדף החוקרים והעדים (נחלת הכלל מלא; השאר בקטעים)
-bio-ambraseys-imperial https://www.imperial.ac.uk/news/118519/nick-ambraseys-rip/ | Ambraseys;born;Athens;professor;died;retire;historical seismology
-bio-ambraseys-obit https://cires1.colorado.edu/~bilham/J_SEISMOL_Obit+Ambraseys.pdf | Ambraseys;born;Athens;Imperial;professor;died;retire;historical;books
-bio-ambraseys-ae https://www.ae-info.org/ae/Member/Ambraseys_Nicholas | Ambraseys;born;professor;Imperial;died
-bio-salamon-gsi http://www.gsi.gov.il/eng/?CategoryID=28&ArticleID=539 | Salamon;Geological Survey;hazard;earthquake;tsunami;PhD
-bio-zohar-haifa https://mzohar.haifa.ac.il/ | Zohar;professor;Haifa;geograph;earthquake;hazard;PhD
-bio-zohar-muchanut https://muchanut.haifa.ac.il/index.php/en/about-eng/first-row/researchers/item/4-motti-zohar-university-of-haifa | Zohar;professor;dissertation;earthquake;Salamon;Rubin
-bio-rubin-huji https://en.geography.huji.ac.il/people/rehav-rubin | Rubin;professor;emeritus;Ph.D;historical geography;cartography
-bio-rubin-site https://en.rehavrubin.huji.ac.il/ | Rubin;professor;emeritus;Ph.D;maps;Jerusalem;books
-bio-amiran-huji-en https://en.geography.huji.ac.il/people/david-amiram-rip | Amiran;Amiram;Kallner;born;Berlin;professor;Atlas;Israel Prize;died
-bio-amiran-huji-he https://geography.huji.ac.il/people/%D7%93%D7%95%D7%93-%D7%A2%D7%9E%D7%99%D7%A8%D7%9F-%D7%96%D7%9C | עמירן;קלנר;נולד;1910;2003;אטלס;פרס ישראל;המחלקה לגאוגרפיה
-bio-karcz-annals https://www.annalsofgeophysics.eu/index.php/annals/article/download/3334/3380/0 | Karcz;Jerusalem;Mailing address;Israel
-bio-eliav-hnet https://networks.h-net.org/node/28655/discussions/144697/obituary-prof-mordechai-eliav | Eliav;born;professor;Bar;emeritus;died;books;Jerusalem
-bio-eliav-biu https://jewish-history.biu.ac.il/en/node/800 | Eliav;professor;emeritus;born;research
-bio-marco-tau https://english.tau.ac.il/profile/shmulikm | Marco;professor;emeritus;geophysics;paleoseismology;Ph.D
-bio-benmenahem-cv https://www.wisdom.weizmann.ac.il/Ari/cv-ari12.pdf | Ben-Menahem;born;Ph.D;Caltech;Weizmann;professor;1928
-bio-benmenahem-esc http://www.esc-web.org/component/content/article/european-seismological-commission/219-ari-ben-menachem.html | Ben-Menahem;Ben-Menachem;born;Weizmann;professor;Caltech;passed;died
-bio-guidoboni-ingv https://data.ingv.it/person/1177 | Guidoboni;INGV;Bologna;historian;storica;sismologia
-bio-guidoboni-ae https://www.ae-info.org/ae/Member/Guidoboni_Emanuela | Guidoboni;born;historian;INGV;SGA;catalogue;head
-bio-guidoboni-cup https://assets.cambridge.org/97805218/37958/frontmatter/9780521837958_frontmatter.pdf | Guidoboni;historian;SGA;Bologna;Comastri;author
-bio-agnon-huji https://en.earth.huji.ac.il/people/amotz-agnon | Agnon;professor;Ph.D;Berkeley;Hebrew University;earthquake;Stanford
-bio-krussell-acor https://acorjordan.org/named-fellowships/russell-fellowship/ | Russell;1950;1992;archaeologist;Petra;ACOR;died
-bio-krussell-photo https://photoarchive.acorjordan.org/kenneth-russell-an-archaeologist-with-a-passion-for-the-power-of-the-question/ | Russell;born;archaeolog;Petra;earthquake;died;Amman
-bio-krussell-news92 https://publications-cdn.acorjordan.org/wp-content/uploads/20250508235229/acor-newsletter-vol-4-1.pdf | Russell;Kenneth;died;born;earthquake;Petra
-bio-josephus-brit https://www.britannica.com/biography/Flavius-Josephus | Josephus;born;died;priest;Jotapata;Vespasian;Jewish War;Antiquities
-bio-josephus-1911 https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Josephus,_Flavius
-bio-eusebius-brit https://www.britannica.com/biography/Eusebius-of-Caesarea | Eusebius;born;died;bishop;Caesarea;Chronicle;Pamphilus
-bio-eusebius-ccel https://www.ccel.org/ccel/pearse/morefathers/files/eusebius_chronicon_02_intro.htm | Eusebius;born;bishop;Caesarea;Chronicle;died
-bio-jerome-brit https://www.britannica.com/biography/Saint-Jerome | Jerome;born;died;Bethlehem;Chronicle;Eusebius;Vulgate
-bio-jerome-1911 https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Jerome,_St
-bio-nasir-brit https://www.britannica.com/biography/Naser-e-Khusraw | Khusraw;born;died;Safar;journey;Egypt;Fatimid;Ismaili
-bio-nasir-iis https://www.iis.ac.uk/scholarly-contributions/nasir-khusraw-a-portrait-of-the-persian-poet-traveller-and-philosopher/ | Khusraw;born;journey;Safarnama;Jerusalem;Egypt;1046
-bio-prussell-dnb https://en.wikisource.org/wiki/Russell,_Patrick_(1727-1805)_(DNB00)
-bio-volney-enc https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/volney-constantin-francois-de-chasseboeuf-comte-de | Volney;born;died;Syria;Egypt;Voyage;1783
-bio-volney-wythe https://wythepedia.wm.edu/index.php/Voyage_en_Syrie_et_en_%C3%89gypte | Volney;Voyage;Syria;1787;Jefferson
-bio-kamenitz-by https://benyehuda.org/author/173 | מנחם מנדל;קאמיניץ;קמניץ;נולד;נפטר;קורות העתים;עלה
-bio-kamenitz-ej https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/baum-menahem-mendel-ben-aaron-kamenetz | Baum;Kamenetz;born;died;Korot;Safed;Jerusalem;1833
-bio-thomson-upenn https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Thomson,+William+M.+(William+McClure),+1806-1894
-bio-calman-jrb https://jewishreviewofbooks.com/articles/2784/ | Calman;Latvia;baptized;London Society;missionary;Jerusalem
-bio-robinson-bas https://library.biblicalarchaeology.org/sidebar/edward-robinson-1794-1863-biblical-geographer/ | Robinson;1794;1863;Smith;1838;Biblical Researches;professor
-bio-robinson-dartmouth https://archives-manuscripts.dartmouth.edu/agents/people/9662 | Robinson;born;died;professor;Palestine;biblical
-bio-guerin-vilnay https://vilnay.kinneret.ac.il/victor-honore-guerin/ | Guérin;גרן;1821;נולד;נפטר;Palestine;ביקר
+# סבב 21: האם ד"ה קלנר-עמירן (1950–1951) וד"ה"ק עמירן (1994) הם דוד עמירן מהאוניברסיטה העברית
+amiran-wiki-he https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%93_%D7%A2%D7%9E%D7%99%D7%A8%D7%9F | קלנר;Kallner;נולד;שמו;עמירן;רעידות
+amiran-wiki-en https://en.wikipedia.org/wiki/David_Amiran | Kallner;born;Amiran;earthquake;Hans
+amiran-israelprize https://cms.education.gov.il/EducationCMS/Units/PrasIsrael/TashLamed/DavidAmiran/ | קלנר;נולד;עמירן;ברלין
+amiran-iej-1994-crossref https://api.crossref.org/works?query.bibliographic=Earthquakes+in+Israel+and+Adjacent+Areas+Macroseismic+Observations+since+100+B.C.E.&rows=3
+amiran-iej-1950-crossref https://api.crossref.org/works?query.bibliographic=Kallner-Amiran+Revised+Earthquake-Catalogue+of+Palestine&rows=3
