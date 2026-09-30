@@ -46,7 +46,7 @@ sources:
   url: https://link.springer.com/article/10.1007/s10950-016-9575-7
 - label: 'Amos Salamon et al., "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
-- label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (TODO: לבדוק במקור)'
+- label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (כפי שמובא אצל Zohar, Salamon and Rubin 2016, נספח C, רשומה 7; הספר עצמו לא נקרא)'
 - label: 'Kenneth W. Russell, "The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D.", BASOR 260 (1985), pp. 37–59 (TODO: לבדוק במקור)'
   url: https://www.journals.uchicago.edu/doi/10.2307/1356863
 - label: 'N. Wechsler, T. K. Rockwell, Y. Klinger, P. Štěpančíková, M. Kanari, S. Marco, A. Agnon, "A Paleoseismic Record of Earthquakes for the Dead Sea Transform Fault between the First and Seventh Centuries C.E.: Nonperiodic Behavior of a Plate Boundary Fault", Bulletin of the Seismological Society of America 104 (3) (2014). נקרא בגרסה המוקדמת (BSSA Early Edition), שעמודיה ממוספרים 1–19'
@@ -75,6 +75,7 @@ review_notes:
 - 'שכתוב לקריאוּת (ספטמבר 2026): הדף מסופר עכשיו כסיפור של טעות זיהוי אפשרית.'
 - 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) Caesarea Maritima Testimonia מס׳ 277 נקרא; הוסר ה-TODO. הוספה ההפניה Jerome, Chronicle 200a-b (מהדורת Helm 1956). פתרון חלקי של אי-ההתאמה בתאריך: במהדורת Helm הידיעה בשנה ה-12 לאדריאנוס, עם האולימפיאדה ה-227; העורכים: 128 לספירה. "שנה 12" של ויקיפדיה מתאימה, "אולימפיאדה 226" לא. הטקסט עודכן. (2) Wechsler ואחרים 2014 נקרא (בגרסה המוקדמת, עמ׳ 1–19); הוסר ה-TODO, והושלמו המחברים וכותרת המשנה. תוקן: לפני, "מצאו סימנים לפעילות סייסמית בצפון הארץ בין 137 ל-206 והציעו לקשור אותם לאירוע". אחרי: קרע פני שטח בעמק בית צידה (CH4-E5, 137–206), שבטבלה 3 מוצב לצד הידיעה על 130, עם ההסבר שלהם שרעידה ממקום אחר אולי הגיעה עד הכנרת או עוררה תזוזה. נוסף שהם קוראים את הידיעה כנוגעת לאמאוס וקיסריה שבארץ. מספרי העמודים בכרך המודפס (1329–1347 לפי הרשימה של נדב) לא אומתו מול הקובץ, ולכן לא נוספו.'
 - 'Wechsler ואחרים (2014) מצאו, לפי זוהר ואחרים 2016, עדות לפעילות סייסמית בצפון הארץ בין 137 ל-206 לספירה, והציעו קשר לאירוע הזה. זוהר ואחרים סבורים שאלה כנראה שתי רעידות נפרדות.'
+- 'סבב מקורות חלופיים 2 (ספטמבר 2026): (1) הטענה שלוד והמבצרים אינם בכרוניקון נשענת עכשיו ישירות על הכרוניקון (jerome-chronicle-part2.txt, עמ׳ [282/283]: "Nicopolis and Caesarea were ruined in an earthquake", בלי ערים נוספות; וכך גם ב-Testimonia 277). לפני: "הם תוספות של ספרות משנית מאוחרת" (מיוחס כולו ל-Caesarea Maritima: A Retrospective). אחרי: "הידיעה שם מזכירה רק את ניקופוליס ואת קיסריה. לוד מוזכרת בספרות משנית מאוחרת"; רק הפרט האחרון נשאר על הספר, שעדיין לא נקרא. (2) התווית של אמברייזיס 2009: הוסר ה-TODO ונכתב במפורש שהספר מובא דרך זוהר ואחרים 2016; שום טענה בדף אינה נשענת עליו ישירות. נשארו פתוחים: ראסל 1985 והקטלוג של ויליאמס (אין להם טקסט בקבצים הגולמיים), ו-Caesarea Maritima: A Retrospective.'
 ---
 
 ## הסיפור
@@ -103,7 +104,7 @@ review_notes:
 
 פרט מעניין מאותו כרוניקון עצמו: במקום אחר הוא מספר שניקופוליס, "שנקראה קודם אמאוס", נוסדה כעיר רק מאוחר יותר, בתחילת המאה השלישית, אחרי שיוליוס אפריקנוס ניהל את השליחות למענה.[^jeromeemmaus]
 
-כל שאר הפרטים שנקשרו לרעידה, כמו נזק בלוד או במבצרים ברחבי הארץ, אינם מופיעים בכרוניקון. הם תוספות של ספרות משנית מאוחרת.[^caesarea]
+כל שאר הפרטים שנקשרו לרעידה, כמו נזק בלוד או במבצרים ברחבי הארץ, אינם מופיעים בכרוניקון.[^jerome][^testimonia] הידיעה שם מזכירה רק את ניקופוליס ואת קיסריה. לוד מוזכרת בספרות משנית מאוחרת.[^caesarea]
 
 ## מה נמצא באדמה
 
