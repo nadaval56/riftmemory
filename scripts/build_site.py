@@ -287,12 +287,21 @@ def make_env():
         untodo=lambda t: TODO_RE.sub("", t or "").strip(),
     )
     env.globals.update(
+        asset=asset_url,
         base=BASE_PATH,
         site_url=SITE_URL,
         site_name=SITE_NAME,
         site_tagline=SITE_TAGLINE,
     )
     return env
+
+
+def asset_url(rel):
+    """כתובת לקובץ ב-static/ עם גרסה לפי התוכן (?v=...), כדי שדפדפן לא ישתמש
+    בגרסה ישנה מהמטמון אחרי עדכון (אחרת HTML חדש רץ עם JS ו-CSS ישנים)."""
+    import hashlib
+    data = (ROOT / "static" / rel).read_bytes()
+    return f"{BASE_PATH}/static/{rel}?v={hashlib.sha1(data).hexdigest()[:8]}"
 
 
 # סימוני עבודה בתוכן (כלל 1-2) נשארים בקובצי content/, אבל הקורא רואה תווית ברורה

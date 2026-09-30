@@ -3,7 +3,7 @@
 {% set title = "30 הימים האחרונים" %}
 {% set description = "כל רעידות האדמה שהמכון הגיאולוגי רשם באזור בחודש האחרון: מתי, איפה, כמה חזקה, באיזה עומק, וכמה רחוק מקו השבר." %}
 {% block head %}
-<link rel="stylesheet" href="{{ base }}/static/vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="{{ asset('vendor/leaflet/leaflet.css') }}">
 {% endblock %}
 {% block main %}
 <article class="recent">
@@ -78,5 +78,5 @@
 {{ source_sheet() }}
 {% endblock %}
 {% block scripts %}
-<script src="{{ base }}/static/vendor/leaflet/leaflet.js" defer></script>
+<script src="{{ asset('vendor/leaflet/leaflet.js') }}" defer></script>
 {% endblock %}

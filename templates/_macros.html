@@ -30,9 +30,9 @@
   {% if data.events or data.live or data.damage %}
   <fieldset class="map-toggles">
     <legend>מה להציג במפה</legend>
-    {% if data.events %}<label class="tg tg-hist"><input type="checkbox" checked data-layer="hist"> <span class="lg lg-hist" aria-hidden="true"></span> <span><strong>רעידות היסטוריות</strong> · מיקום משוער, לפי מחקר. העיגול הגדול מסמן שהמיקום לא מדויק</span></label>{% endif %}
-    {% if data.live %}<label class="tg tg-live"><input type="checkbox" checked data-layer="live"> <span class="lg lg-live" aria-hidden="true"></span> <span><strong>{{ data.live_title or "רעידות אחרונות" }}</strong> · {{ data.live_legend or "30 הימים האחרונים, לפי המכון הגיאולוגי. נמדדו במכשירים" }}</span></label>{% endif %}
-    {% if data.damage %}<label class="tg tg-dmg"><input type="checkbox" checked data-layer="dmg"> <span class="lg lg-dmg" aria-hidden="true"></span> <span><strong>מקומות שנפגעו</strong> · מקום שבו תועד נזק (לא המוקד). לחיצה: מה קרה שם ולפי מי</span></label>{% endif %}
+    {% if data.events %}<label class="tg tg-hist"><input type="checkbox" checked autocomplete="off" data-layer="hist"> <span class="lg lg-hist" aria-hidden="true"></span> <span><strong>רעידות היסטוריות</strong> · מיקום משוער, לפי מחקר. העיגול הגדול מסמן שהמיקום לא מדויק</span></label>{% endif %}
+    {% if data.live %}<label class="tg tg-live"><input type="checkbox" checked autocomplete="off" data-layer="live"> <span class="lg lg-live" aria-hidden="true"></span> <span><strong>{{ data.live_title or "רעידות אחרונות" }}</strong> · {{ data.live_legend or "30 הימים האחרונים, לפי המכון הגיאולוגי. נמדדו במכשירים" }}</span></label>{% endif %}
+    {% if data.damage %}<label class="tg tg-dmg"><input type="checkbox" checked autocomplete="off" data-layer="dmg"> <span class="lg lg-dmg" aria-hidden="true"></span> <span><strong>מקומות שנפגעו</strong> · מקום שבו תועד נזק (לא המוקד). לחיצה: מה קרה שם ולפי מי</span></label>{% endif %}
   </fieldset>
   {% endif %}
   <ul class="map-key">
