@@ -1,3 +1,4 @@
-# סבב 30: עותק בארכיון לקישורים שבורים
-wayback-auth-seisnet https://archive.org/wayback/available?url=geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html
-emsc-fdsn-doc https://www.seismicportal.eu/fdsn-wsevent.html
+# סבב 31: דף הספר של אמברסייס 2009 באתר קיימברידג'
+amb-doi https://doi.org/10.1017/CBO9781139195430
+amb-core-search https://www.cambridge.org/core/search?q=Earthquakes%20in%20the%20Mediterranean%20and%20Middle%20East%20Ambraseys
+amb-crossref https://api.crossref.org/works?query.bibliographic=Ambraseys%20Earthquakes%20in%20the%20Mediterranean%20and%20Middle%20East%20Multidisciplinary%20Study%20of%20Seismicity%20up%20to%201900&rows=3

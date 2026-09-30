@@ -57,6 +57,7 @@ sources:
 - label: 'M. Zohar, A. Salamon, R. Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני'
   url: https://doi.org/10.1007/s10950-016-9575-7
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009, עמ׳ 683–685 (TODO: לבדוק במקור)'
+  url: https://doi.org/10.1017/CBO9781139195430
 - label: 'B. C. Papazachos, P. E. Comninakis, G. F. Karakaisis ועמיתיו, A catalogue of earthquakes in Greece and surrounding area for the period 550BC–1999, University of Thessaloniki, 2000 (TODO: לבדוק במקור)'
   url: https://web.archive.org/web/20250616110409/http://geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html
 - label: 'B. C. Papazachos, "Large seismic faults in the Hellenic arc", Annali di Geofisica 39 (5) (1996), pp. 891–903 (נקרא בגרסת OCR)'

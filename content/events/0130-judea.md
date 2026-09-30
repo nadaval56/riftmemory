@@ -48,6 +48,7 @@ sources:
 - label: 'Amos Salamon et al., "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009 (כפי שמובא אצל Zohar, Salamon and Rubin 2016, נספח C, רשומה 7; הספר עצמו לא נקרא)'
+  url: https://doi.org/10.1017/CBO9781139195430
 - label: 'Kenneth W. Russell, "The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D.", BASOR 260 (1985), pp. 37–59'
   url: https://www.journals.uchicago.edu/doi/10.2307/1356863
 - label: 'N. Wechsler, T. K. Rockwell, Y. Klinger, P. Štěpančíková, M. Kanari, S. Marco, A. Agnon, "A Paleoseismic Record of Earthquakes for the Dead Sea Transform Fault between the First and Seventh Centuries C.E.: Nonperiodic Behavior of a Plate Boundary Fault", Bulletin of the Seismological Society of America 104 (3) (2014). נקרא בגרסה המוקדמת (BSSA Early Edition), שעמודיה ממוספרים 1–19'

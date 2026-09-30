@@ -56,7 +56,7 @@ sources:
 - label: 'S. N. Spyridon (תרגום), "Annals of Palestine, 1821–1841", Journal of the Palestine Oriental Society 18 (1938), pp. 63–132 (כרוניקה של הנזיר ניאופיטוס; נבדק בסריקה)'
   url: https://archive.org/details/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834
 - label: 'N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009, עמ׳ 642–643 (TODO: לבדוק במקור)'
-  url: https://assets.cambridge.org/97805218/72928/index/9780521872928_index.pdf
+  url: https://doi.org/10.1017/CBO9781139195430
 - label: 'R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco, J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", Journal of Geophysical Research 106 (B2) (2001), pp. 2221–2234'
   url: https://doi.org/10.1029/2000JB900313
 - label: 'C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, "Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments", Earth and Planetary Science Letters 222 (2004), pp. 301–314 (TODO: לבדוק במקור)'

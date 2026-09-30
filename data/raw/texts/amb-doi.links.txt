@@ -1,0 +1,471 @@
+https://doi.org/10.1017/CBO9781139195430#maincontent	Skip to main content
+https://doi.org/core/accessibility	Accessibility help
+https://doi.org/10.1017/CBO9781139195430	Cancel
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/10.1017/CBO9781139195430	×
+https://doi.org/10.1017/CBO9781139195430	
+https://doi.org/10.1017/CBO9781139195430	
+https://www.cambridge.org/academic	
+https://www.cambridge.org/academic	
+https://www.cambridge.org/core/register	Register
+https://doi.org/core/login	Log In
+https://doi.org/core/	Logo for Cambridge Core from Cambridge University Press. Click to return to homepage.
+https://doi.org/core/	Logo for Cambridge Core from Cambridge University Press. Click to return to homepage.
+https://doi.org/core/browse-subjects/anthropology	
+https://doi.org/core/browse-subjects/archaeology	
+https://doi.org/core/browse-subjects/area-studies	
+https://doi.org/core/browse-subjects/art	
+https://doi.org/core/browse-subjects/chemistry	
+https://doi.org/core/browse-subjects/classical-studies	
+https://doi.org/core/browse-subjects/computer-science	
+https://doi.org/core/browse-subjects/drama-and-theatre	
+https://doi.org/core/browse-subjects/earth-and-environmental-sciences	
+https://doi.org/core/browse-subjects/economics	
+https://doi.org/core/browse-subjects/education	
+https://doi.org/core/browse-subjects/engineering	
+https://doi.org/core/browse-subjects/english-language-teaching-resources-for-teachers	
+https://doi.org/core/browse-subjects/film-media-mass-ommunication	
+https://doi.org/core/browse-subjects/general-science	
+https://doi.org/core/browse-subjects/geography	
+https://doi.org/core/browse-subjects/history	
+https://doi.org/core/browse-subjects/language-and-linguistics	
+https://doi.org/core/browse-subjects/law	
+https://doi.org/core/browse-subjects/life-sciences	
+https://doi.org/core/browse-subjects/literature	
+https://doi.org/core/browse-subjects/management	
+https://doi.org/core/browse-subjects/materials-science	
+https://doi.org/core/browse-subjects/mathematics	
+https://doi.org/core/browse-subjects/medicine	
+https://doi.org/core/browse-subjects/music	
+https://doi.org/core/browse-subjects/nutrition	
+https://doi.org/core/browse-subjects/philosophy	
+https://doi.org/core/browse-subjects/physics	
+https://doi.org/core/browse-subjects/politics-and-international-relations	
+https://doi.org/core/browse-subjects/psychiatry	
+https://doi.org/core/browse-subjects/psychology	
+https://doi.org/core/browse-subjects/religion	
+https://doi.org/core/browse-subjects/social-science-research-methods	
+https://doi.org/core/browse-subjects/sociology	
+https://doi.org/core/browse-subjects/statistics-and-probability	
+https://doi.org/core/publications/open-access	
+https://doi.org/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc	
+https://doi.org/core/publications/open-access/research-open?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc	
+https://doi.org/core/publications/open-access/hybrid-open-access-journals?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc	
+https://doi.org/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL_ARTICLE	
+https://doi.org/core/publications/open-access/listing?aggs[productTypes][filters]=BOOK&sort=canonical.date:desc	
+https://doi.org/core/publications/elements/published-elements?aggs%5BopenAccess%5D%5Bfilters%5D=7275BA1E84CA769210167A6A66523B47&aggs%5BproductTypes%5D%5Bfilters%5D=ELEMENT&searchWithinIds=ECFD8F5C64F47F3F5A3D395C15B7C493	
+https://doi.org/core/publications/journals	
+https://doi.org/core/publications/journals	
+https://doi.org/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc	
+https://doi.org/core/publications/open-access/research-open?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc	
+https://doi.org/core/publications/open-access/hybrid-open-access-journals?aggs[productTypes][filters]=JOURNAL&statuses=PUBLISHED&sort=titleSort:asc	
+https://doi.org/core/publications/open-access/listing?aggs[productTypes][filters]=JOURNAL_ARTICLE	
+https://doi.org/core/publications/collections/cambridge-forum	
+https://doi.org/core/publications/collections/cambridge-law-reports-collection	
+https://doi.org/core/publications/collections/cambridge-prisms	
+https://doi.org/core/publications/collections/research-directions	
+https://doi.org/core/publications/books	
+https://doi.org/core/publications/open-access/listing?aggs[productTypes][filters]=BOOK&sort=canonical.date:desc	
+https://doi.org/core/publications/books/listing?aggs[productDate][filters]=Last+3+months&aggs[productTypes][filters]=BOOK&sort=canonical.date:desc	
+https://doi.org/core/publications/collections/flip-it-open	
+https://doi.org/core/publications/collections/cambridge-companions	
+https://doi.org/core/publications/collections/cambridge-editions	
+https://doi.org/core/publications/collections/cambridge-histories	
+https://doi.org/core/publications/collections/cambridge-library-collection	
+https://doi.org/core/publications/collections/cambridge-shakespeare	
+https://doi.org/core/publications/collections/cambridgehandbooks	
+https://doi.org/core/publications/collections/dispute-settlement-reports-online	
+https://doi.org/core/publications/collections/flip-it-open	
+https://doi.org/core/publications/collections/hemingway-letters	
+https://doi.org/core/publications/collections/shakespeare-survey	
+https://doi.org/core/publications/collections/stahl-online	
+https://doi.org/core/publications/collections/the-correspondence-of-isaac-newton	
+https://doi.org/core/publications/elements	
+https://doi.org/core/publications/elements/cambridge-elements-series	
+https://doi.org/core/publications/elements/published-elements?aggs%5BopenAccess%5D%5Bfilters%5D=7275BA1E84CA769210167A6A66523B47&aggs%5BproductTypes%5D%5Bfilters%5D=ELEMENT&searchWithinIds=ECFD8F5C64F47F3F5A3D395C15B7C493	
+https://doi.org/core/publications/elements/published-elements?aggs%5BproductTypes%5D%5Bfilters%5D=ELEMENT&aggs%5BproductDate%5D%5Bfilters%5D=Last%203%20months&searchWithinIds=ECFD8F5C64F47F3F5A3D395C15B7C493	
+https://doi.org/core/elements/subject/Anthropology/2E44A5AF2838E017617A26DD79FAEAEE	
+https://doi.org/core/elements/subject/Archaeology/63A50B5368A9F97F8AA2D6AB965B5F4C	
+https://doi.org/core/elements/subject/Classical%20Studies/DDC63B7F5792FE2A95D1FB15F76E3F42	
+https://doi.org/core/elements/subject/Computer%20Science/A57E10708F64FB69CE78C81A5C2A6555	
+https://doi.org/core/elements/subject/Drama,%20Theatre,%20Performance%20Studies/2825E4E39F2D641B36543EE80FB1DEA3	
+https://doi.org/core/elements/subject/Earth%20and%20Environmental%20Sciences/F470FBF5683D93478C7CAE5A30EF9AE8	
+https://doi.org/core/elements/subject/Economics/FA44491F1F55F917C43E9832715B9DE7	
+https://doi.org/core/elements/subject/Education/550D00F8DF590F2598CF7CC0038E24D1	
+https://doi.org/core/elements/subject/Engineering/CCC62FE56DCC1D050CA1340C1CCF46F5	
+https://doi.org/core/elements/subject/Film,%20Media,%20Mass%20Communication/4B91F10E834814A90CE718E7831E492F	
+https://doi.org/core/elements/subject/History/66BE42A30172E280FDE64F8EE2F485B0	
+https://doi.org/core/elements/subject/Language%20and%20Linguistics/140D314098408C26BDF3009F7FF858E9	
+https://doi.org/core/elements/subject/Law/7C9FB6788DD8D7E6696263BC774F4D5B	
+https://doi.org/core/elements/subject/Life%20Sciences/E044EF2F61B601378786E9EDA901B2D5	
+https://doi.org/core/elements/subject/Literature/F2434ADC122145767C6C3B988A8E9BD5	
+https://doi.org/core/elements/subject/Management/0EDCC0540639B06A5669BDEEF50C4CBE	
+https://doi.org/core/elements/subject/Mathematics/FA1467C44B5BD46BB8AA6E58C2252153	
+https://doi.org/core/elements/subject/Medicine/66FF02B2A4F83D9A645001545197F287	
+https://doi.org/core/elements/subject/Music/A370B5604591CB3C7F9AFD892DDF7BD1	
+https://doi.org/core/elements/subject/Philosophy/2D1AC3C0E174F1F1A93F8C7DE19E0FAB	
+https://doi.org/core/elements/subject/Physics%20and%20Astronomy/DBFB610E9FC5E012C011430C0573CC06	
+https://doi.org/core/elements/subject/Politics%20and%20International%20Relations/3BF83347E5E456DAC34F3FABFC8BBF4E	
+https://doi.org/core/elements/subject/Psychology/21B42A72BA3E4CB0E3315E5B1B71B07F	
+https://doi.org/core/elements/subject/Religion/53E51D24FB488962B9364A2C4B45D1C3	
+https://doi.org/core/elements/subject/Sociology/0E2CD53A93003DF17E52D753F6E90683	
+https://doi.org/core/elements/subject/Statistics%20and%20Probability/3150B8B0D1B0B4E8DC17EC9EDFD9CA26	
+https://doi.org/highereducation/	
+https://doi.org/highereducation/services/librarians/title-list	
+https://doi.org/highereducation/search?sortBy=publication_date&aggs=%24productDate%24Last%25206%2520months%3Atrue%26Last%252012%2520months%3Atrue%26Last%25203%2520years%3Atrue%26Over%25203%2520years%3Atrue%3B%3B&event=SE-AU_PREF	
+https://doi.org/core/publications/collections/cambridge-companions	
+https://doi.org/core/publications/collections/cambridge-editions	
+https://doi.org/core/publications/collections/cambridge-histories	
+https://doi.org/core/publications/collections/cambridge-library-collection	
+https://doi.org/core/publications/collections/cambridge-shakespeare	
+https://doi.org/core/publications/collections/cambridgehandbooks	
+https://doi.org/core/publications/collections/dispute-settlement-reports-online	
+https://doi.org/core/publications/collections/flip-it-open	
+https://doi.org/core/publications/collections/hemingway-letters	
+https://doi.org/core/publications/collections/shakespeare-survey	
+https://doi.org/core/publications/collections/stahl-online	
+https://doi.org/core/publications/collections/the-correspondence-of-isaac-newton	
+https://doi.org/core/publications/collections/cambridge-forum	
+https://doi.org/core/publications/collections/cambridge-law-reports-collection	
+https://doi.org/core/publications/collections/cambridge-materials	
+https://doi.org/core/publications/collections/cambridge-prisms	
+https://doi.org/core/publications/collections/series	
+https://doi.org/core/publications/publishing-partners/agenda-publishing	
+https://doi.org/core/publications/publishing-partners/anthem-press	
+https://doi.org/core/publications/publishing-partners/arc-humanities-press	
+https://doi.org/core/publications/publishing-partners/boydell-brewer	
+https://doi.org/core/publications/publishing-partners/bristol-university-press	
+https://doi.org/core/publications/publishing-partners/central-european-university-press	
+https://doi.org/core/publications/publishing-partners/edinburgh-university-press	
+https://doi.org/core/publications/publishing-partners/emirates-center	
+https://doi.org/core/publications/publishing-partners/facet-publishing	
+https://doi.org/core/publications/publishing-partners/foundation-books	
+https://doi.org/core/publications/publishing-partners/gerlach-press	
+https://doi.org/core/publications/publishing-partners/intersentia	
+https://doi.org/core/publications/publishing-partners/iseas	
+https://doi.org/core/publications/publishing-partners/jagiellonian-university-press	
+https://doi.org/core/publications/publishing-partners/manchester-university-press	
+https://doi.org/core/publications/publishing-partners/multilingual-matters	
+https://doi.org/core/publications/publishing-partners/oxbow-books	
+https://doi.org/core/publications/publishing-partners/royal-economic-society	
+https://doi.org/core/publications/publishing-partners/university-adelaide-press	
+https://doi.org/core/publications/publishing-partners/unisa-press	
+https://doi.org/core/publications/publishing-partners/wits-university-press	
+https://doi.org/core/services/about/about	
+https://doi.org/core/services/about/accessibility	
+https://doi.org/core/services/about/crossmark-policy	
+https://doi.org/core/services/about/ethical-standards	
+https://doi.org/core/services/about/environment-and-sustainability	
+https://doi.org/core/services/about/reducing-print	
+https://doi.org/core/services/about/journals-moving-to-online-only	
+https://doi.org/core/services/about/user-guides	
+https://doi.org/core/services/about/user-guides-and-videos	
+https://doi.org/core/services/about/support-videos	
+https://doi.org/core/services/about/training	
+https://corehelp.cambridge.org/	
+https://corehelp.cambridge.org/hc/en-gb/p/contact-information	
+https://corehelp.cambridge.org/hc/en-gb/requests/new	
+https://doi.org/core/services/agents/services-for-agents	
+https://doi.org/core/services/agents/journals-for-agents	
+https://doi.org/core/services/agents/books-for-agents	
+https://doi.org/core/services/agents/price-list	
+https://doi.org/core/services/authors/journals	
+https://doi.org/core/services/authors/journal-publishing-statistics	
+https://doi.org/core/services/authors/corresponding-author	
+https://doi.org/core/services/authors/seeking-permission-to-use-copyrighted-material	
+https://doi.org/core/services/authors/publishing-supplementary-material	
+https://doi.org/core/services/authors/preparing-accessible-materials	
+https://doi.org/core/services/authors/journal-production-faqs	
+https://doi.org/core/services/authors/author-affiliations	
+https://doi.org/core/services/authors/co-reviewing-policy	
+https://doi.org/core/services/authors/anonymising-your-manuscript	
+https://doi.org/core/services/authors/publishing-open-access	
+https://doi.org/core/services/authors/convert-your-article-to-open-access	
+https://doi.org/core/services/authors/publishing-open-access-webinars	
+https://doi.org/core/services/authors/preparing-and-submitting-your-paper	
+https://doi.org/core/services/authors/publication-journey	
+https://doi.org/core/services/authors/digital-author-publishing-agreement-faqs	
+https://doi.org/core/services/authors/author-information-form-faqs	
+https://doi.org/core/services/authors/promoting-your-published-paper	
+https://doi.org/core/services/authors/measuring-impact	
+https://doi.org/core/services/authors/journals-artwork-guide	
+https://doi.org/core/services/authors/using-orcid	
+https://doi.org/core/services/authors/books	
+https://doi.org/core/services/authors/publishing-an-open-access-book	
+https://doi.org/core/services/authors/marketing-your-book	
+https://doi.org/core/services/authors/elements-user-guides	
+https://doi.org/core/services/corporates/commercial-reprints	
+https://doi.org/core/services/corporates/advertising	
+https://doi.org/core/services/corporates/sponsorship	
+https://doi.org/core/services/corporates/book-special-sales	
+https://doi.org/core/services/corporates/contact-us	
+https://doi.org/core/services/editors/journal-development	
+https://doi.org/core/services/editors/peer-review-for-editors	
+https://doi.org/core/services/editors/open-access-for-editors	
+https://doi.org/core/services/editors/policies-and-guidelines	
+https://doi.org/core/services/editors/the-editors-role	
+https://doi.org/core/services/editors/open-research-for-editors	
+https://doi.org/core/services/editors/engagement-and-promotion	
+https://doi.org/core/services/librarians/open-access-for-librarians	
+https://www.cambridge.org/core/services/open-access-policies/read-and-publish-agreements	
+https://doi.org/core/services/librarians/transformative-agreements-faqs	
+https://doi.org/core/services/librarians/evidence-based-acquisition	
+https://doi.org/core/services/librarians/cambridge-libraries-of-the-world-podcast	
+https://doi.org/core/services/librarians/purchasing-models	
+https://doi.org/core/services/librarians/journals-publishing-updates	
+https://doi.org/core/services/librarians/cambridge-frontlist	
+https://doi.org/core/services/librarians/cambridge-journals-digital-archive	
+https://doi.org/core/services/librarians/hot-topics	
+https://doi.org/core/services/librarians/other-digital-products	
+https://doi.org/core/services/librarians/perpetual-access-products	
+https://doi.org/core/services/librarians/price-list	
+https://doi.org/core/services/librarians/developing-country-programme	
+https://doi.org/core/services/librarians/new-content	
+https://doi.org/core/eligibility-checker	
+https://www.cambridge.org/core/services/open-access-policies/read-and-publish-agreements	
+https://www.cambridge.org/core/services/librarians/kbart	
+https://www.cambridge.org/core/services/librarians/marc-records	
+https://doi.org/core/services/librarians/using-marcedit-for-marc-records	
+https://doi.org/core/services/librarians/inbound-openurl-specifications	
+https://doi.org/core/services/librarians/counter-usage-reporting	
+https://doi.org/core/services/librarians/catalogues-and-resources	
+https://doi.org/core/services/librarians/making-the-most-of-your-eba	
+https://doi.org/core/services/librarians/posters	
+https://doi.org/core/services/librarians/leaflets-and-brochures	
+https://doi.org/core/services/librarians/additional-resources	
+https://doi.org/core/services/librarians/find-my-sales-contact	
+https://doi.org/core/services/librarians/training	
+https://doi.org/core/services/librarians/read-and-publish-resources	
+https://doi.org/core/services/peer-review/how-to-peer-review-journal-articles	
+https://doi.org/core/services/peer-review/how-to-peer-review-book-proposals	
+https://doi.org/core/services/peer-review/how-to-peer-review-registered-reports	
+https://doi.org/core/services/peer-review/peer-review-faqs	
+https://doi.org/core/services/peer-review/ethics-in-peer-review	
+https://doi.org/core/services/peer-review/online-peer-review-systems	
+https://doi.org/core/services/peer-review/a-guide-to-publons	
+https://doi.org/core/services/publishing-ethics/publishing-ethics-guidelines-journals	
+https://doi.org/core/services/publishing-ethics/core-editorial-policies-journals	
+https://doi.org/core/services/publishing-ethics/authorship-and-contributorship-journals	
+https://doi.org/core/services/publishing-ethics/affiliations-journals	
+https://doi.org/core/services/publishing-ethics/research-ethics-journals	
+https://doi.org/core/services/publishing-ethics/competing-interests-and-funding-journals	
+https://doi.org/core/services/publishing-ethics/data-and-supporting-evidence-for-journals	
+https://doi.org/core/services/publishing-ethics/misconduct-journals	
+https://doi.org/core/services/publishing-ethics/corrections-retractions-and-removals-journals	
+https://doi.org/core/services/publishing-ethics/versions-and-adaptations-journals	
+https://doi.org/core/services/publishing-ethics/libel-defamation-and-freedom-of-expression	
+https://doi.org/core/services/publishing-ethics/business-ethics-journals	
+https://doi.org/core/services/publishing-ethics/publishing-ethics-guidelines-books	
+https://doi.org/core/services/publishing-ethics/core-editorial-policies-books	
+https://doi.org/core/services/publishing-ethics/authorship-and-contributorship-books	
+https://doi.org/core/services/publishing-ethics/affiliations-books	
+https://doi.org/core/services/publishing-ethics/research-ethics-books	
+https://doi.org/core/services/publishing-ethics/competing-interests-and-funding-books	
+https://doi.org/core/services/publishing-ethics/data-and-supporting-evidence-books	
+https://doi.org/core/services/publishing-ethics/misconduct-books	
+https://doi.org/core/services/publishing-ethics/corrections-retractions-and-removals-books	
+https://doi.org/core/services/publishing-ethics/versions-and-adaptations-books	
+https://doi.org/core/services/publishing-ethics/libel-defamation-and-freedom-of-expression	
+https://doi.org/core/services/publishing-ethics/business-ethics-books	
+https://doi.org/core/services/publishing-partners/publishing-partnerships	
+https://doi.org/core/services/publishing-partners/partner-books	
+https://doi.org/core/services/publishing-partners/ebook-publishing-partnerships	
+https://doi.org/core/services/publishing-partners/journal-publishing-partnerships	
+https://doi.org/core/services/publishing-partners/journals-publishing	
+https://doi.org/core/services/publishing-partners/customer-support	
+https://doi.org/core/services/publishing-partners/membership-services	
+https://doi.org/core/services/publishing-partners/our-team	
+https://doi.org/core/services/open-research-policies/open-research	
+https://doi.org/core/services/open-research-policies/open-access-policies	
+https://doi.org/core/services/open-research-policies/cambridge-university-press-and-plan-s	
+https://doi.org/core/services/open-research-policies/text-and-data-mining	
+https://doi.org/core/services/open-research-policies/preprint-policy	
+https://doi.org/core/services/open-research-policies/social-sharing	
+https://doi.org/core/services/open-research-policies/open-access-journals	
+https://doi.org/core/services/open-research-policies/gold-open-access-journals	
+https://doi.org/core/services/open-research-policies/transformative-journals	
+https://doi.org/core/services/open-research-policies/green-open-access-policy-for-journals	
+https://doi.org/core/services/open-research-policies/transparent-pricing-policy-for-journals	
+https://doi.org/core/services/open-research-policies/open-access-books	
+https://doi.org/core/services/open-research-policies/gold-open-access-books	
+https://doi.org/core/services/open-research-policies/green-open-access-policy-for-books	
+https://doi.org/core/services/open-research-policies/open-access-elements	
+https://doi.org/core/services/open-access-publishing/open-research	
+https://doi.org/core/services/open-access-publishing/open-access-week	
+https://doi.org/core/services/open-access-publishing/open-access	
+https://doi.org/core/services/open-access-publishing/open-access-glossary	
+https://doi.org/core/services/open-access-publishing/open-access-myths	
+https://doi.org/core/services/open-access-publishing/hybrid-open-access-faqs	
+https://doi.org/core/eligibility-checker	
+https://doi.org/core/services/open-access-publishing/open-access-resources	
+https://doi.org/core/services/open-access-publishing/benefits-of-open-access	
+https://doi.org/core/services/open-access-publishing/creative-commons-licenses	
+https://doi.org/core/services/open-access-publishing/funder-policies-and-mandates	
+https://doi.org/core/services/open-access-publishing/article-type-definitions	
+https://doi.org/core/services/open-access-publishing/convert-your-article-to-open-access	
+https://doi.org/core/services/open-research-initiatives/transparency-and-openness	
+https://doi.org/core/services/open-research-initiatives/open-practice-badges	
+https://doi.org/core/services/open-research-initiatives/oa-organisations-initiatives-and-directories	
+https://doi.org/core/services/open-research-initiatives/registered-reports	
+https://doi.org/core/services/open-research-initiatives/annotation-for-transparent-inquiry-ati	
+https://doi.org/core/services/open-research-initiatives/open-access-journal-flips	
+https://doi.org/core/services/open-research-initiatives/oa-journal-flip-faqs	
+https://doi.org/core/services/open-research-initiatives/flip-it-open	
+https://doi.org/core/services/open-research-initiatives/flip-it-open-faqs	
+https://doi.org/core/services/open-access-funding/funding-open-access-publication	
+https://doi.org/core/services/open-access-funding/cambridge-open-equity-initiative	
+https://doi.org/core/services/open-access-funding/completing-a-rightslink-open-access-transaction	
+https://doi.org/core/services/cambridge-open-engage/cambridge-open-engage	
+https://doi.org/core/services/cambridge-open-engage/engage-partner-with-us	
+https://doi.org/core/services/cambridge-open-engage/engage-branded-hubs	
+https://doi.org/core/services/cambridge-open-engage/engage-event-workspaces	
+https://doi.org/core/services/cambridge-open-engage/engage-partner-resources	
+https://doi.org/core/services/cambridge-open-engage/engage-apsa-preprints	
+https://doi.org/core/services/cambridge-open-engage/engage-apsa-preprints-faqs	
+https://doi.org/10.1017/CBO9781139195430	< Back to search results
+https://doi.org/core/	Home
+https://doi.org/core/publications/books	Books
+javascript:void(0);	
+https://doi.org/core/search?filters%5BauthorTerms%5D=Nicholas Ambraseys&eventCode=SE-AU	Nicholas Ambraseys
+https://doi.org/core/search?filters%5BauthorTerms%5D=Nicholas Ambraseys&eventCode=SE-AU	Nicholas Ambraseys
+https://doi.org/10.1017/CBO9781139195430	Check access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	https://doi.org/10.1017/CBO9781139195430
+https://doi.org/core/browse-subjects/earth-and-environmental-sciences	Earth and Environmental Sciences
+https://doi.org/core/browse-subjects/earth-and-environmental-sciences/solid-earth-geophysics	Solid Earth Geophysics
+https://doi.org/core/browse-subjects/archaeology	Archaeology
+https://doi.org/10.1017/CBO9781139195430	Check access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/core/shopping-cart	View cart
+https://www.cambridge.org/core_title/gb/289964	Buy from Cambridge.org
+https://doi.org/core/browse-subjects/earth-and-environmental-sciences	Earth and Environmental Sciences
+https://doi.org/core/browse-subjects/earth-and-environmental-sciences/solid-earth-geophysics	Solid Earth Geophysics
+https://doi.org/core/browse-subjects/archaeology	Archaeology
+https://doi.org/10.1017/CBO9781139195430	
+https://doi.org/10.1017/CBO9781139195430#information	Information
+https://doi.org/10.1017/CBO9781139195430#contents	Contents
+https://doi.org/10.1017/CBO9781139195430#references	References
+https://doi.org/10.1017/CBO9781139195430#metrics	Metrics
+https://doi.org/10.1017/CBO9781139195430#accessibility	Accessibility
+https://doi.org/10.1017/CBO9781139195430	Aa Reduce text
+https://doi.org/10.1017/CBO9781139195430	Aa Enlarge text
+https://doi.org/10.1017/CBO9781139195430	
+https://doi.org/10.1017/CBO9781139195430	Select all
+https://doi.org/10.1017/CBO9781139195430	Deselect all
+https://doi.org/10.1017/CBO9781139195430	View selected items
+https://doi.org/10.1017/CBO9781139195430	Save to my bookmarks
+https://doi.org/10.1017/CBO9781139195430	Export citations
+https://doi.org/10.1017/CBO9781139195430	Download PDF (zip)
+https://doi.org/10.1017/CBO9781139195430	Save to Kindle
+https://doi.org/10.1017/CBO9781139195430	Save to Dropbox
+https://doi.org/10.1017/CBO9781139195430	Save to Google Drive
+https://doi.org/core/help	Find out more about saving content to
+https://doi.org/core/help	Find out more about saving to your Kindle
+https://www.amazon.com/gp/help/customer/display.html/ref=kinw_myk_wl_ln?ie=UTF8&nodeId=200767340#fees	Kindle Personal Document Service
+https://www.amazon.com/gp/help/customer/display.html/ref=kinw_myk_wl_ln?ie=UTF8&nodeId=200767340#fees	service fees apply
+https://doi.org/10.1017/CBO9781139195430	×
+https://doi.org/10.1017/CBO9781139195430	Cancel
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/earthquakes-in-the-mediterranean-and-middle-east/7BB654E7144190276BC21779C4B58528	Earthquakes in the Mediterranean and Middle East - Half title page pp i-ii
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/earthquakes-in-the-mediterranean-and-middle-east/DE8CD8CA3ED8FEB5BCC21B7835D2ADAA	Earthquakes in the Mediterranean and Middle East - Title page pp iii-iii
+https://doi.org/10.1017/CBO9781139195430	A Multidisciplinary Study of Seismicity up to 1900
+https://doi.org/core/search?filters%5BauthorTerms%5D=NICHOLAS AMBRASEYS&eventCode=SE-AU	NICHOLAS AMBRASEYS
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/copyright-page/084BA7C39BC47B6BAC868FD1476E3F05	Copyright page pp iv-iv
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/contents/EE5314E9FEE30CD0A9EFD7821D6CB608	Contents pp v-vi
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/preface/499AD618C4753EABEAB5E3B769849C5D	Preface pp vii-xiv
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/abbreviations/E6E358A98AF76E660DD5F120A70F6DDB	Abbreviations pp xv-xx
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/macroseismic-information/753500C57B3359308F51CBBDE8D58135	1 - Macroseismic information pp 1-12
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/evaluation-of-macroseismic-data/91AC7B6AFC90C8CF9C93319C8E0D31CC	2 - Evaluation of macroseismic data pp 13-59
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/catalogue-of-earthquakes/CA6CE633B49CF2840C1202E5ABA9CF14	3 - Catalogue of earthquakes pp 60-814
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/evaluation-of-instrumental-data/B5B1BA097C17DE03781BF97DF12D54A4	4 - Evaluation of instrumental data pp 815-827
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/longterm-seismicity/698B07628F0A3E86A9816D57DF2572D2	5 - Long-term seismicity pp 828-838
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/future-challenges/AECD48E2F3C5BFC66C0B42615FF5D3BD	6 - Future challenges pp 839-843
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/references/201B1BBA5A05A5A281A2FD03936D3171	References pp 844-900
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/core/books/earthquakes-in-the-mediterranean-and-middle-east/index/40E0583B82D980AFB50DD5A12959DF43	Index pp 901-947
+https://doi.org/10.1017/CBO9781139195430	Get access
+https://doi.org/core/login?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Log in
+https://doi.org/core/register?ref=/core/books/earthquakes-in-the-mediterranean-and-middle-east/304A9BAD11E33AC2D3D828165F7EBF2B	Register
+https://doi.org/10.1017/CBO9781139195430	Export citation
+https://doi.org/10.1017/CBO9781139195430	Full text views help
+https://doi.org/10.1017/CBO9781139195430	Close Full text views help
+https://doi.org/10.1017/CBO9781139195430	Book summary page views help
+https://doi.org/10.1017/CBO9781139195430	Close Book summary page views help
+https://doi.org/	
+https://doi.org/core/services/accessibility	Accessibility
+https://doi.org/core/help/FAQs	Contact & Help
+https://doi.org/core/legal-notices/terms	Legal Notices
+https://withdraw.cambridge.org/hc/en-gb/requests/new	Cancel your order
+https://www.cambridge.org/core/	Cambridge Core
+https://www.cambridge.org/engage/coe/public-dashboard	Cambridge Open Engage
+https://www.cambridge.org/highereducation/	Cambridge Aspire website
+https://www.cambridge.org/core/publications/journals	Journals
+https://www.cambridge.org/core/search?aggs%5BproductTypes%5D%5Bfilters%5D=BOOK	Books
+https://www.cambridge.org/core/publications/elements	Elements
+https://www.cambridge.org/highereducation/search?aggs=%24productTypes%24BOOK%3Atrue%3B%3B	Textbooks
+https://www.cambridge.org/highereducation/search?aggs=%24productTypes%24COURSEWARE%3Atrue%3B%3B	Courseware
+https://www.youtube.com/playlist?list=PLTK8KRW19hUVucVRHbIx73oLKUro8HXt0	
+https://twitter.com/CambridgeCore	
+https://www.facebook.com/CambridgeCore	
+https://www.instagram.com/cambridgeuniversitypress/	
+https://www.linkedin.com/showcase/11096649	
+https://www.cambridge.org/about-us/rights-permissions/	Rights & Permissions
+https://www.cambridge.org/about-us/legal-notices/copyright/	Copyright
+https://www.cambridge.org/about-us/legal-notices/privacy-policy/	Privacy Notice
+https://www.cambridge.org/about-us/legal-notices/terms-use	Terms of Use
+https://www.cambridge.org/about-us/legal-notices/cookies-policy/	Cookies Policy
+https://doi.org/10.1017/CBO9781139195430	Cancel
+https://doi.org/10.1017/CBO9781139195430	Confirm
+https://doi.org/10.1017/CBO9781139195430	×
