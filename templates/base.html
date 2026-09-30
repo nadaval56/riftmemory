@@ -21,13 +21,34 @@
 <meta name="theme-color" content="#1c1b19" media="(prefers-color-scheme: dark)">
 <link rel="preload" href="{{ base }}/static/fonts/heebo-hebrew.woff2" as="font" type="font/woff2" crossorigin>
 <script>
-  // ערכת נושא שנבחרה ידנית (אחרת לפי הגדרת המערכת). לפני הציור, כדי שלא יהבהב.
-  try { var t = localStorage.getItem("riftmemory.theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+  // לפני הציור, כדי שלא יהבהב: ערכת נושא שנבחרה ידנית, והעדפות הנגישות.
+  // שום דבר לא נקרא אם המשתמש ביקש "בלי שמירה מקומית" (privacy.js).
+  window.PRIVACY_CONFIG = { appPrefixes: ['a11y:', 'riftmemory.'], privacyUrl: '{{ base }}/privacy/' };
+  window.A11Y_CONFIG = { privacyUrl: '{{ base }}/privacy/', accessibilityUrl: '{{ base }}/accessibility/' };
+  try {
+    var _p = localStorage.getItem('privacy:v1');
+    if (!_p || JSON.parse(_p).local !== false) {
+      var _r = document.documentElement;
+      var t = localStorage.getItem("riftmemory.theme"); if (t) _r.dataset.theme = t;
+      var _a = localStorage.getItem('a11y:v1');
+      if (_a) {
+        _a = JSON.parse(_a);
+        if (_a.fs) _r.setAttribute('data-fs', _a.fs);
+        if (_a.mode) _r.classList.add('a11y-' + _a.mode);
+        ['links', 'readable', 'spacing', 'still', 'cursor', 'focus']
+          .forEach(function (k) { if (_a[k]) _r.classList.add('a11y-' + k); });
+      }
+    }
+  } catch (e) { /* מצב פרטי או אחסון חסום: הדף נטען כרגיל */ }
 </script>
 {% block head %}{% endblock %}
 <link rel="stylesheet" href="{{ base }}/static/css/site.css">
+<link rel="stylesheet" href="{{ base }}/static/css/a11y.css">
+<script src="{{ base }}/static/js/privacy.js"></script>
+<script src="{{ base }}/static/js/a11y.js" defer></script>
 </head>
 <body>
+<a class="skip-link" href="#main">דלג לתוכן</a>
 {% if drafts %}<div class="draft-banner">תצוגה מקומית, כולל טיוטות. לא לפרסום.</div>
 {% elif public_drafts %}<div class="draft-banner">האתר בבנייה. דפים שמסומנים "טיוטה" עוד לא נבדקו, וייתכנו בהם אי-דיוקים.</div>{% endif %}
 {% if live_bar %}
@@ -56,12 +77,13 @@
     </button>
   </nav>
 </header>
-<main id="main">
+<main id="main" tabindex="-1">
 {% block main %}{% endblock %}
 </main>
 <footer class="site-footer">
   <p>{{ site_name }} · {{ site_tagline }}</p>
   <p>האתר לא עוסק בתחזיות. רעידות קטנות קורות כל הזמן לאורך השבר, ואין להן משמעות חיזויית. <a href="{{ base }}/about/">על השיטה והמקורות</a></p>
+  <p class="footer-links"><a href="{{ base }}/accessibility/">הצהרת נגישות</a> · <a href="{{ base }}/privacy/">מדיניות פרטיות</a></p>
 </footer>
 {% block scripts %}{% endblock %}
 <script src="{{ base }}/static/js/site.js" defer></script>
