@@ -225,9 +225,11 @@
     if (legend) {
       legend.querySelectorAll("input[data-layer]").forEach(function (box) {
         var layer = layers[box.getAttribute("data-layer")];
-        box.addEventListener("change", function () {
+        var sync = function () {
           if (box.checked) map.addLayer(layer); else map.removeLayer(layer);
-        });
+        };
+        box.addEventListener("change", sync);
+        sync(); // דפדפן שמשחזר מצב טופס (חזרה אחורה) עלול להשאיר תיבה לא מסומנת
       });
     }
 

@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% from "_macros.html" import source_sheet %}
+{% set title = page.title %}
+{% set description = page.description %}
+{% block main %}
+<article class="prose page-md">
+  <h1>{{ page.title }}</h1>
+  {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+  {% for s in page.sections %}
+  <section>
+    <h2>{{ s.title }}</h2>
+    {{ s.html | safe }}
+  </section>
+  {% endfor %}
+  {% if page.footnotes %}
+  <section class="notes" id="bibliography" aria-labelledby="notes-h">
+    <h2 id="notes-h">הערות ומקורות</h2>
+    {{ page.footnotes | safe }}
+  </section>
+  {% endif %}
+</article>
+{{ source_sheet() }}
+{% endblock %}

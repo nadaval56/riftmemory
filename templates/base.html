@@ -42,10 +42,10 @@
   } catch (e) { /* מצב פרטי או אחסון חסום: הדף נטען כרגיל */ }
 </script>
 {% block head %}{% endblock %}
-<link rel="stylesheet" href="{{ base }}/static/css/site.css">
-<link rel="stylesheet" href="{{ base }}/static/css/a11y.css">
-<script src="{{ base }}/static/js/privacy.js"></script>
-<script src="{{ base }}/static/js/a11y.js" defer></script>
+<link rel="stylesheet" href="{{ asset('css/site.css') }}">
+<link rel="stylesheet" href="{{ asset('css/a11y.css') }}">
+<script src="{{ asset('js/privacy.js') }}"></script>
+<script src="{{ asset('js/a11y.js') }}" defer></script>
 </head>
 <body>
 <a class="skip-link" href="#main">דלג לתוכן</a>
@@ -86,7 +86,7 @@
   <p class="footer-links"><a href="{{ base }}/accessibility/">הצהרת נגישות</a> · <a href="{{ base }}/privacy/">מדיניות פרטיות</a></p>
 </footer>
 {% block scripts %}{% endblock %}
-<script src="{{ base }}/static/js/site.js" defer></script>
-<script src="{{ base }}/static/js/brand-anim.js" defer></script>
+<script src="{{ asset('js/site.js') }}" defer></script>
+<script src="{{ asset('js/brand-anim.js') }}" defer></script>
 </body>
 </html>

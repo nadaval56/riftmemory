@@ -2,7 +2,7 @@
 {% set description = "שבר ים המלח נקרע שוב ושוב לאורך אלפי שנים. מה קרה בכל אחת מרעידות האדמה הגדולות שתועדו בארץ ישראל, ונתונים עדכניים מרעידות אחרונות." %}
 {% from "_macros.html" import live_line, echo_line, map, event_card %}
 {% block head %}
-<link rel="stylesheet" href="{{ base }}/static/vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="{{ asset('vendor/leaflet/leaflet.css') }}">
 {% endblock %}
 {% block main %}
 {% set by_id = {} %}
@@ -40,5 +40,5 @@
 {% endif %}
 {% endblock %}
 {% block scripts %}
-<script src="{{ base }}/static/vendor/leaflet/leaflet.js" defer></script>
+<script src="{{ asset('vendor/leaflet/leaflet.js') }}" defer></script>
 {% endblock %}
