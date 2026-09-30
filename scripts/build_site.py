@@ -38,7 +38,7 @@ SITE_URL = os.environ.get("SITE_URL", "https://nadaval56.github.io/riftmemory").
 BASE_PATH = os.environ.get("BASE_PATH", "/riftmemory").rstrip("/")
 
 SITE_NAME = "רעידת אדמה"
-SITE_TAGLINE = "רעידות אדמה היסטוריות בשבר הסורי-אפריקאי"
+SITE_TAGLINE = "רעידות אדמה היסטוריות בשבר הסורי-אפריקני"
 
 SEGMENT_NAMES_EXTRA = {echo.DISTANT: "רחוק"}
 

@@ -89,7 +89,6 @@
     <a href="{{ base }}/instruments/"{% if page_path == '/instruments/' %} aria-current="page"{% endif %}>המכשירים</a>
     <a href="{{ base }}/timeline/"{% if page_path == '/timeline/' %} aria-current="page"{% endif %}>ציר הזמן</a>
     <a href="{{ base }}/people/"{% if page_path == '/people/' %} aria-current="page"{% endif %}>עדים וחוקרים</a>
-    <a href="{{ base }}/about/"{% if page_path == '/about/' %} aria-current="page"{% endif %}>על האתר</a>
   </nav>
 </header>
 <main id="main" tabindex="-1">
@@ -98,7 +97,7 @@
 <footer class="site-footer">
   <p>{{ site_name }} · {{ site_tagline }}</p>
   <p>האתר לא עוסק בתחזיות. רעידות קטנות קורות כל הזמן לאורך השבר, ואין להן משמעות חיזויית. <a href="{{ base }}/about/">על השיטה והמקורות</a></p>
-  <p class="footer-links"><a href="{{ base }}/accessibility/">הצהרת נגישות</a> · <a href="{{ base }}/privacy/">מדיניות פרטיות</a></p>
+  <p class="footer-links"><a href="{{ base }}/about/">על האתר ועל המקורות</a> · <a href="{{ base }}/accessibility/">הצהרת נגישות</a> · <a href="{{ base }}/privacy/">מדיניות פרטיות</a></p>
 </footer>
 {% block scripts %}{% endblock %}
 <script src="{{ asset('js/site.js') }}" defer></script>

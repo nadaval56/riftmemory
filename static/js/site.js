@@ -266,12 +266,6 @@
     });
   }
 
-  // בלשוניות: במסך צר הפס נגלל, והלשונית הפעילה נגללת לתוך התצוגה
-  var current = document.querySelector('.site-nav a[aria-current="page"]');
-  if (current && current.parentNode.scrollWidth > current.parentNode.clientWidth) {
-    current.scrollIntoView({ block: "nearest", inline: "center" });
-  }
-
   // מצב כהה/בהיר: מחליף בין שני המצבים, וזוכר את הבחירה בדפדפן בלבד.
   var toggle = document.querySelector("[data-theme-toggle]");
   if (toggle) {
