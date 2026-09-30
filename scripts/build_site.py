@@ -374,8 +374,8 @@ def approx_points(e, focus):
                         source_url=loc.get("source_url"), label=None, perm=True))
     for p in loc.get("proposals") or []:
         out.append(dict(base, lat=p["lat"], lon=p["lon"], label=p["label"],
-                        source=f'{p["label"]}. לפי {loc.get("proposals_source")}',
-                        source_url=loc.get("proposals_source_url"), perm=False))
+                        source=p.get("source") or f'{p["label"]}. לפי {loc.get("proposals_source")}',
+                        source_url=p.get("source_url") or loc.get("proposals_source_url"), perm=False))
     return out
 
 
