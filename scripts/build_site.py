@@ -289,7 +289,9 @@ def instruments_data(segments, segment_names, events):
     after95 = [q for q in nineties if "1995-11-22" <= q["t"][:10] <= "1996-11-22" and q["lat"] < 29.6]
     gsi_rows = gsi["events"] if gsi else []
     return dict(
-        usgs=usgs, gsi=gsi, rows=rows, strongest=strongest, seg_counts=seg_counts,
+        usgs=usgs, gsi=gsi,
+        usgs_fetched=dt.date.fromisoformat(usgs["fetched_at"][:10]).strftime("%-d.%-m.%Y"),
+        gsi_fetched=dt.date.fromisoformat(gsi["fetched_at"][:10]).strftime("%-d.%-m.%Y") if gsi else "", rows=rows, strongest=strongest, seg_counts=seg_counts,
         near_count=len(near), depth10=sum(1 for q in near if q["depth"] == 10), first_year=min(q["year"] for q in rows),
         nineties=len(nineties), after95=len(after95),
         chart_decades=charts.bars(decades, width=420, height=170, title="מספר הרעידות בקטלוג בכל עשור"),
