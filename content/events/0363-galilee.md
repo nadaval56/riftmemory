@@ -66,7 +66,7 @@ sources:
   url: https://link.springer.com/article/10.1007/s10950-016-9575-7
 - label: 'Motti Zohar, Amos Salamon and Rehav Rubin, "Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns", Tectonophysics 696–697 (2017), pp. 1–13'
   url: https://doi.org/10.1016/j.tecto.2016.12.015
-- label: 'Kenneth W. Russell, "The Earthquake of May 19, A.D. 363", BASOR 238 (1980), pp. 47–64 (TODO: לבדוק במקור)'
+- label: 'Kenneth W. Russell, "The Earthquake of May 19, A.D. 363", BASOR 238 (1980), pp. 47–64'
   url: https://www.jstor.org/stable/1356515
 - label: 'Amos Salamon et al., "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
@@ -104,6 +104,7 @@ review_notes:
 - 'בדיקת ציטוטים (ספטמבר 2026): לאיגרת קירילוס ולליבניוס אין טקסט ראשוני ב-data/raw/texts. שני הציטוטים נבדקו מול התרגום האנגלי כפי שהוא מובא אצל Levenson 2013 (עמ׳ 62 ו-66, בקובץ המחקר syriac-363.txt), ונשארו בדף עם הערה גלויה שהם תרגום שלנו מתרגום אנגלי ושהמהדורות עצמן (Brock 1977; Norman 1969) לא נבדקו.'
 - 'שכתוב לקריאוּת (ספטמבר 2026): פתיחה במצבות צוער (השמות לפי ויליאמס, על פי Meimaris ו-Kritikakou 2005), פרטי קטלוג הועברו להערות.'
 - 'נותרו לבדיקה: Safrai 1998 ו-Ferry et al. 2011, שהופיעו בגרסה הקודמת כמקור לשתי הרעידות. Ferry הוסר מהמקורות כי לא נבדק ואין בו צורך: שתי הרעידות מתועדות עכשיו ישירות מהאיגרת, דרך Levenson וזוהר ואחרים.'
+- 'סבב JSTOR (אוקטובר 2026): ראסל 1980 נקרא ב-JSTOR; הוסר ה-TODO. אומת: ראסל היה חבר במשלחת האמריקנית לפטרה בחמש עונות, 1973–1977 (עמ׳ 47), והאיגרת (Harvard Syriac 99) הגיעה אליו דרך ההפניה לפטרה (עמ׳ 48). נוסף משפט על הטענה המרכזית שלו: הרעידות של 362 ו-365 בקטלוג של עמירן הן רעידת 363, וההרס בפטרה, בשכם ובחשבון שיוחס ל-365 שייך לה (עמ׳ 48, 52, 55).'
 - 'סבב מקורות חלופיים 2 (ספטמבר 2026): נקראו מצבות צוער במהדורה הדיגיטלית של IIP (data/raw/texts/iip-zoor0022–0024.txt: טקסט יווני ותרגום אנגלי). אומתו: שלוש המצבות, השמות, "בזמן הרעידה", 28 בארטמיסיוס שנת 258 (לפי העורכים 18 במאי 363). נוספו מאותו מקור: הגילים (40, 15, 38), התואר ארכידיאקון, "ביום הירח" (יום שני) בשתיים מהן, השערת העורכים שסמאכון הוא אביה של אובה, וקביעתם שאלה הכתובות היחידות באזור שמתעדות את הרעידה. [^meimaris] נשאר TODO: בקבצי IIP חסרים פרטי הפרסום, ולכן אי אפשר לקבוע מהם שהם מבוססים על Meimaris ו-Kritikakou. נבדק ללא תוצאה: hadashot-25981.txt הוא דוח עונת 2020 בסוסיתא ואינו עוסק ב-363 או בבזיליקה, ולכן [^eisenberg] נשאר פתוח. לציפורי, לנבוריה ולראסל 1980 אין טקסט בקבצים הגולמיים.'
 ---
 
@@ -153,7 +154,7 @@ Levenson גם פותר סתירה ותיקה. במהדורה המקובלת של
 
 <!-- TODO: מקור. לבדוק בדוח של Meyers, Strange ו-Meyers (1982) ובמאמר של Magness (2010) מה בדיוק נמצא. -->
 
-**אתרים נוספים.** קנת ראסל (1980), שחפר בפטרה, היה מהראשונים שהשתמשו באיגרת כדי לתארך שכבות הרס באתרים רבים.[^levenson67][^russell] חלק מהממצאים שנקשרו לרעידה מאז עדיין מוטלים בספק.[^zoharA] Levenson מזהיר מהבעיה מהצד השני: ארכאולוגים שמתארכים שכבות לפי הרשימה צריכים לדעת על איזה מקור הם נשענים.[^levenson60]
+**אתרים נוספים.** קנת ראסל (1980), שחפר בפטרה, היה מהראשונים שהשתמשו באיגרת כדי לתארך שכבות הרס באתרים רבים.[^levenson67][^russell] הוא טען שהרעידות של 362 ושל 365 בקטלוג של עמירן הן בעצם אותה רעידה של 363, ולכן ייחס לה הרס מאמצע המאה הרביעית שיוחס קודם לרעידה של 365, למשל בפטרה, בשכם ובחשבון.[^russell] חלק מהממצאים שנקשרו לרעידה מאז עדיין מוטלים בספק.[^zoharA] Levenson מזהיר מהבעיה מהצד השני: ארכאולוגים שמתארכים שכבות לפי הרשימה צריכים לדעת על איזה מקור הם נשענים.[^levenson60]
 
 ## מה המדע אומר
 
@@ -204,5 +205,5 @@ Levenson גם פותר סתירה ותיקה. במהדורה המקובלת של
 [^dsqsepphoris]: Williams, "363 CE Cyril Quakes", deadseaquake.info, בפרק "Sepphoris": E. M. Meyers et al. 1992 מייחסים לרעידה חלק מההרס; J. F. Strange et al. 2006 מייחסים חלק גדול ממנו למרד גאלוס. TODO: לבדוק במקור.
 [^dsqnab]: Williams, "363 CE Cyril Quakes", deadseaquake.info, בפרק "en-Nabratein", על פי Meyers et al. 1982, Magness 2010 ו-Meyers and Meyers 2010. TODO: לבדוק במקור.
 [^meyers]: Eric M. Meyers, James F. Strange and Carol L. Meyers, "Second Preliminary Report on the 1981 Excavations at en-Nabratein, Israel", *BASOR* 246 (1982), pp. 35–54. TODO: לבדוק במקור.
-[^russell]: Kenneth W. Russell, "The Earthquake of May 19, A.D. 363", *BASOR* 238 (1980), pp. 47–64. TODO: לבדוק במקור.
+[^russell]: Kenneth W. Russell, ["The Earthquake of May 19, A.D. 363"](https://www.jstor.org/stable/1356515), *BASOR* 238 (1980), pp. 47–64 (נקרא ב-JSTOR). עמ׳ 47: "As a member of the American Expedition to Petra during five seasons of fieldwork from 1973 to 1977", ראסל בחן מחדש את העדויות הכתובות והארכאולוגיות. עמ׳ 48: ההפניה לפטרה (RQM) באיגרת, Harvard Syriac 99 (Brock 1977), היא שהביאה אותו לנושא; ההרס בפטרה יוחס קודם, לפי הקטלוג של עמירן, לרעידה של 365. עמ׳ 52: הפרק "Harvard Syriac 99 and Amiran's 362 and 365 Earthquakes". עמ׳ 55: שכם (בור II, מטבעות עד 363), חשבון ועראק אל-אמיר, "attributed to Amiran's 365 earthquake".
 [^dsq]: Jefferson B. Williams, "363 CE Cyril Quakes", בקטלוג [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/CyrilQuakes.html), בפרק "Ghor-es-Safi (ancient Zoara)" (שם השמות Samakon, Obbe, Siltha ו-Kyra, על פי Meimaris and Kritikakou 2005).
