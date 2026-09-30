@@ -183,6 +183,17 @@ def describe_quakes(quakes, segments, segment_names):
     return quakes
 
 
+def days_summary(days):
+    """תיאור מילולי של גרף הימים, ל-aria-label."""
+    total = sum(n for _, n, _ in days)
+    if not total:
+        return "לא נרשמו רעידות."
+    peak = max(days, key=lambda d: d[1])
+    empty = sum(1 for _, n, _ in days if n == 0)
+    return (f"בסך הכול {total} רעידות. הכי הרבה ביום אחד: {peak[1]}, ב־{peak[0]}. "
+            f"{empty} ימים בלי רעידות. ימין הגרף הוא לפני 30 ימים, שמאלו היום.")
+
+
 def recent_summary(quakes, today, days=30):
     """מספר רעידות לכל יום (מהישן מימין), ולפי טווחי מגניטודה."""
     counts = {}
@@ -201,6 +212,27 @@ def recent_summary(quakes, today, days=30):
 
 
 # --- התקופה המכשירית -------------------------------------------------------
+
+def decades_summary(decades):
+    peak = max(decades, key=lambda d: d[1])
+    total = sum(n for _, n, _ in decades)
+    return (f"בסך הכול {total} רעידות משנות ה־{decades[0][0]} ועד שנות ה־{decades[-1][0]}. "
+            f"הכי הרבה בשנות ה־{peak[0]}: {peak[1]}. ימין הגרף הוא העשור הראשון.")
+
+
+def depth_summary(near, bands):
+    depths = sorted(q["depth"] for q in near if q["depth"] is not None)
+    if not depths:
+        return ""
+    fixed = sum(1 for d in depths if d == 10)
+    per_band = sorted(((sum(1 for q in near if q["depth"] is not None and lo <= q["lat"] <= hi), name)
+                       for lo, hi, name in bands), reverse=True)
+    busiest = f"הכי הרבה רעידות ברצועה של {per_band[0][1]}: {per_band[0][0]}. " if per_band and per_band[0][0] else ""
+    upto20 = sum(1 for d in depths if d <= 20)
+    return (f"{len(depths)} רעידות. {fixed} מהן רשומות בעומק של 10 ק״מ בדיוק, שהוא עומק קבוע כשאין חישוב אמין. "
+            f"{upto20} עד עומק 20 ק״מ; העמוקה ביותר ב־{depths[-1]:g} ק״מ. "
+            f"{busiest}הרעידות החזקות מפורטות בטבלה בהמשך הדף.")
+
 
 def load_catalog(name):
     path = ROOT / "data" / "catalog" / f"{name}.json"
@@ -282,7 +314,8 @@ def instruments_data(segments, segment_names, events):
           f'{q["label"]} · \u2066M{q["mag"]:g}\u2069 · עומק {q["depth"]:g} ק״מ · {q["where"] or ""}' if q["depth"] is not None else "")
          for q in near], (28.3, 34.0), 40, bands=bands,
         x_labels=[(y, f"{y}°") for y in (29, 30, 31, 32, 33)],
-        title="חתך עומק לאורך השבר: עומק המוקד של כל רעידה, מדרום (ימין) לצפון (שמאל)")
+        title="חתך עומק לאורך השבר: עומק המוקד של כל רעידה, מדרום (ימין) לצפון (שמאל)",
+        summary=depth_summary(near, bands))
     strongest = sorted(rows, key=lambda q: -q["mag"])[:12]
     # כמה מהרעידות של שנות ה-90 הן במפרץ אילת בשנה שאחרי 22.11.1995
     nineties = [q for q in rows if 1990 <= q["year"] < 2000]
@@ -294,7 +327,9 @@ def instruments_data(segments, segment_names, events):
         gsi_fetched=dt.date.fromisoformat(gsi["fetched_at"][:10]).strftime("%-d.%-m.%Y") if gsi else "", rows=rows, strongest=strongest, seg_counts=seg_counts,
         near_count=len(near), depth10=sum(1 for q in near if q["depth"] == 10), first_year=min(q["year"] for q in rows),
         nineties=len(nineties), after95=len(after95),
-        chart_decades=charts.bars(decades, width=420, height=170, title="מספר הרעידות בקטלוג בכל עשור"),
+        chart_decades=charts.bars(decades, width=420, height=170, title="מספר הרעידות בקטלוג בכל עשור",
+                                  summary=decades_summary(decades)),
+        table_decades=charts.data_table("מספר הרעידות בקטלוג בכל עשור", ["עשור", "רעידות"], [(d, n) for d, n, _ in decades]),
         chart_section=section,
         chart_segments=charts.hbars(sorted(((s["name_he"], n) for s, n in seg_counts), key=lambda r: -r[1])),
         gsi_count=len(gsi_rows),
@@ -584,7 +619,9 @@ def build(drafts=False):
         by_mag=by_mag,
         strongest=max(live_month["events"], key=lambda q: q["magnitude"], default=None),
         felt=[q for q in live_month["events"] if q.get("felt")],
-        chart_days=charts.bars(days, width=420, height=150, label_every=7, title="מספר הרעידות בכל יום, 30 הימים האחרונים"),
+        chart_days=charts.bars(days, width=420, height=150, label_every=7, title="מספר הרעידות בכל יום, 30 הימים האחרונים",
+                               summary=days_summary(days)),
+        table_days=charts.data_table("מספר הרעידות בכל יום, מהישן לחדש", ["תאריך", "רעידות"], [(d, n) for d, n, _ in days]),
         map_data=map_data([], live_month, segments),
     ))
     pages.append("/recent/")

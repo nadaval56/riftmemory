@@ -473,6 +473,10 @@ section + section { margin-top: 2rem; }
 .chart-band.b1 { fill: var(--surface-2); }
 .chart-band-label { fill: var(--accent-ink); font-size: 11px; font-weight: 600; }
 .chart-note { font-size: .85rem; margin-top: .4rem; }
+.chart-data { margin-top: .4rem; font-size: .9rem; }
+.chart-data summary { cursor: pointer; color: var(--accent-ink); padding: .65rem 0; width: max-content; }
+.chart-data table { margin-top: .3rem; }
+.chart-data caption { text-align: start; color: var(--ink-2); padding-bottom: .3rem; }
 /* חתך העומק: צביטה מקרבת, גלילה אנכית נשארת לדף */
 svg[data-zoom] { touch-action: pan-y; user-select: none; -webkit-user-select: none; }
 svg[data-zoom].is-zoomed { cursor: grab; }

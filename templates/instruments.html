@@ -34,6 +34,7 @@
   <section aria-labelledby="dec-h">
     <h2 id="dec-h">פילוח רעידות לפי עשור</h2>
     <div class="chart-wrap">{{ inst.chart_decades | safe }}</div>
+    {{ inst.table_decades | safe }}
     <p class="chart-note muted">מימין: העשור הראשון בקטלוג. הגרף מראה כמה רעידות נרשמו, לא כמה קרו: רעידה שאף מכשיר לא קלט לא נכנסת לקטלוג.{% if inst.after95 %} בשנות ה־90 נרשמו {{ inst.nineties }} רעידות, ו־{{ inst.after95 }} מהן במפרץ אילת, בשנה שאחרי הרעידה של 22 בנובמבר 1995.{% endif %}</p>
   </section>
 

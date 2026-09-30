@@ -14,14 +14,28 @@ def _t(text):
     return RLM + escape(str(text))
 
 
-def bars(items, width=640, height=160, label_every=1, title=""):
-    """items: רשימת (תווית, ערך, תיאור לריחוף). הראשון מימין."""
+def _label(title, summary):
+    return f"{title}. {summary}" if summary else title
+
+
+def data_table(caption, headers, rows):
+    """הנתונים של גרף כטבלה מקופלת: חלופה לקוראי מסך ולמי שרוצה את המספרים המדויקים."""
+    head = "".join(f"<th scope=\"col\">{escape(h)}</th>" for h in headers)
+    body = "".join("<tr>" + "".join(f"<td>{escape(str(c))}</td>" for c in r) + "</tr>" for r in rows)
+    return (f'<details class="chart-data"><summary>הנתונים בטבלה</summary><div class="table-wrap">'
+            f'<table class="data"><caption>{escape(caption)}</caption><thead><tr>{head}</tr></thead>'
+            f'<tbody>{body}</tbody></table></div></details>')
+
+
+def bars(items, width=640, height=160, label_every=1, title="", summary=""):
+    """items: רשימת (תווית, ערך, תיאור לריחוף). הראשון מימין.
+    summary: מה רואים בגרף, במילים; נכנס ל-aria-label יחד עם הכותרת (לקוראי מסך)."""
     n = len(items) or 1
     top, bottom, side = 16, 26, 4
     ch = height - top - bottom
     peak = max((v for _, v, _ in items), default=0) or 1
     bw = (width - 2 * side) / n
-    out = [f'<svg class="chart chart-bars" viewBox="0 0 {width} {height}" role="img" aria-label="{escape(title)}">']
+    out = [f'<svg class="chart chart-bars" viewBox="0 0 {width} {height}" role="img" aria-label="{escape(_label(title, summary))}">']
     out.append(f'<line class="chart-axis" x1="{side}" x2="{width - side}" y1="{top + ch}" y2="{top + ch}"/>')
     for i, (label, value, tip) in enumerate(items):
         x = width - side - (i + 1) * bw
@@ -41,7 +55,7 @@ def bars(items, width=640, height=160, label_every=1, title=""):
 LABEL_ANGLE = 40  # מעלות. תוויות המקטעים מוטות, כדי שגם מקטעים צרים יקבלו שם קריא
 
 
-def depth_section(points, x_range, depth_max, bands=(), width=420, height=280, title="", x_labels=()):
+def depth_section(points, x_range, depth_max, bands=(), width=420, height=280, title="", x_labels=(), summary=""):
     """חתך עומק. points: (x, depth_km, mag, תיאור ללחיצה). x_range: (ימין, שמאל) בערכי x.
     bands: (x1, x2, תווית) — רצועות רקע, למשל המקטעים. x_labels: (x, תווית).
     הערכים המקוריים נשמרים ב-data-*, כדי ש-site.js יוכל לקרב (צביטה, כפתורים) ולצייר מחדש
@@ -56,7 +70,7 @@ def depth_section(points, x_range, depth_max, bands=(), width=420, height=280, t
     def py(d):
         return top + min(d, depth_max) / depth_max * ch
 
-    out = [f'<svg class="chart chart-depth" viewBox="0 0 {width} {height}" role="img" aria-label="{escape(title)}"'
+    out = [f'<svg class="chart chart-depth" viewBox="0 0 {width} {height}" role="img" aria-label="{escape(_label(title, summary))}"'
            f' data-zoom data-x0="{x_right}" data-x1="{x_left}" data-dmax="{depth_max}"'
            f' data-l="{left_pad}" data-r="{right_pad}" data-t="{top}" data-b="{bottom}" data-w="{width}" data-h="{height}">']
     out.append(f'<defs><clipPath id="depth-clip"><rect x="{left_pad}" y="{top - 6}" width="{cw}" height="{ch + 12}"/></clipPath></defs>')
