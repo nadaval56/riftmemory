@@ -1,0 +1,52 @@
+# פעם בחודש: בדיקת כל הקישורים החיצוניים באתר (scripts/check_links.py).
+# אם יש קישור שבור, נפתח (או מתעדכן) issue בשם "קישורים שבורים", ו-GitHub שולח עליו התראה.
+# קישורים "לא ברורים" (אתרים שחוסמים בוטים וכו') מופיעים בדוח, אבל לא פותחים issue לבדם.
+name: links
+
+on:
+  schedule:
+    - cron: "37 4 2 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: build
+        run: |
+          python scripts/build_events.py
+          python scripts/build_site.py
+      - name: check links
+        id: check
+        continue-on-error: true
+        run: python scripts/check_links.py
+      - name: report
+        run: cat link-report.md >> "$GITHUB_STEP_SUMMARY" || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: link-report
+          path: link-report.md
+      - name: issue
+        if: steps.check.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="קישורים שבורים"
+          num=$(gh issue list --state open --search "in:title $title" --json number --jq '.[0].number')
+          if [ -n "$num" ]; then
+            gh issue edit "$num" --body-file link-report.md
+            gh issue comment "$num" --body "הדוח עודכן בבדיקה של $(date -u +%Y-%m-%d)."
+          else
+            gh issue create --title "$title" --body-file link-report.md
+          fi
