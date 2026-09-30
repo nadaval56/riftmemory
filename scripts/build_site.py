@@ -245,7 +245,9 @@ def instruments_data(segments, segment_names, events):
         if hi > lo:
             bands.append((lo, hi, s["name_he"]))
     section = charts.depth_section(
-        [(q["lat"], q["depth"], q["mag"]) for q in near], (28.3, 34.0), 40, bands=bands,
+        [(q["lat"], q["depth"], q["mag"],
+          f'{q["label"]} · \u2066M{q["mag"]:g}\u2069 · עומק {q["depth"]:g} ק״מ · \u2066{q.get("place") or ""}\u2069' if q["depth"] is not None else "")
+         for q in near], (28.3, 34.0), 40, bands=bands,
         x_labels=[(y, f"{y}°") for y in (29, 30, 31, 32, 33)],
         title="חתך עומק לאורך השבר: עומק המוקד של כל רעידה, מדרום (ימין) לצפון (שמאל)")
     strongest = sorted(rows, key=lambda q: -q["mag"])[:12]
@@ -259,6 +261,7 @@ def instruments_data(segments, segment_names, events):
         nineties=len(nineties), after95=len(after95),
         chart_decades=charts.bars(decades, width=420, height=170, title="מספר הרעידות בקטלוג בכל עשור"),
         chart_section=section,
+        chart_segments=charts.hbars([(s["name_he"], n) for s, n in seg_counts]),
         gsi_count=len(gsi_rows),
         gsi_first=dt.date.fromisoformat(gsi_rows[0]["t"][:10]).strftime("%-d.%-m.%Y") if gsi_rows else None,
         gsi_felt=sum(1 for q in gsi_rows if q.get("felt")),

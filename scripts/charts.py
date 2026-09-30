@@ -27,7 +27,7 @@ def bars(items, width=640, height=160, label_every=1, title=""):
         x = width - side - (i + 1) * bw
         h = ch * value / peak
         y = top + ch - h
-        out.append(f'<g><title>{escape(tip)}</title>'
+        out.append(f'<g class="chart-hit" data-tip="{escape(tip)}"><title>{escape(tip)}</title>'
                    f'<rect class="chart-bar" x="{x + bw * 0.15:.1f}" y="{y:.1f}" width="{bw * 0.7:.1f}" height="{max(h, 0):.1f}" rx="1.5"/>')
         if value:
             out.append(f'<text class="chart-val" x="{x + bw / 2:.1f}" y="{y - 3:.1f}" text-anchor="middle">{value}</text>')
@@ -39,7 +39,7 @@ def bars(items, width=640, height=160, label_every=1, title=""):
 
 
 def depth_section(points, x_range, depth_max, bands=(), width=420, height=240, title="", x_labels=()):
-    """חתך עומק. points: (x, depth_km, mag). x_range: (ימין, שמאל) בערכי x.
+    """חתך עומק. points: (x, depth_km, mag, תיאור ללחיצה). x_range: (ימין, שמאל) בערכי x.
     bands: (x1, x2, תווית) — רצועות רקע, למשל המקטעים. x_labels: (x, תווית)."""
     top, bottom, left_pad, right_pad = 40, 22, 26, 4
     cw, ch = width - left_pad - right_pad, height - top - bottom
@@ -63,10 +63,22 @@ def depth_section(points, x_range, depth_max, bands=(), width=420, height=240, t
         out.append(f'<text class="chart-label" x="{left_pad - 4}" y="{y + 4:.1f}" text-anchor="end" direction="ltr">{d}</text>')
     for x, label in x_labels:
         out.append(f'<text class="chart-label" x="{px(x):.1f}" y="{height - 6}" text-anchor="middle">{_t(label)}</text>')
-    for x, d, m in sorted(points, key=lambda p: p[2]):
+    for x, d, m, tip in sorted(points, key=lambda p: p[2]):
         if d is None:
             continue
         r = max(1.2, (m - 2) * 1.1)
-        out.append(f'<circle class="chart-dot" cx="{px(x):.1f}" cy="{py(d):.1f}" r="{r:.1f}"/>')
+        # לחיצה או נגיעה בנקודה פותחת תווית (static/js/site.js, [data-tip])
+        out.append(f'<circle class="chart-dot chart-hit" cx="{px(x):.1f}" cy="{py(d):.1f}" r="{r:.1f}" data-tip="{escape(tip)}"><title>{escape(tip)}</title></circle>')
     out.append('</svg>')
     return "\n".join(out)
+
+
+def hbars(items, unit=""):
+    """עמודות אופקיות ב-HTML (הטקסט גדל עם הגדרות הקורא). items: (תווית, ערך)."""
+    peak = max((v for _, v in items), default=0) or 1
+    rows = []
+    for label, value in items:
+        rows.append(f'<div class="hb-row"><span class="hb-label">{escape(label)}</span>'
+                    f'<span class="hb-track"><span class="hb-bar" style="width:{100 * value / peak:.1f}%"></span></span>'
+                    f'<span class="hb-val">{value}{escape(unit)}</span></div>')
+    return '<div class="hbars">' + "".join(rows) + "</div>"
