@@ -1,0 +1,115 @@
+SOURCE: https://data.ingv.it/person/1177
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Guidoboni; INGV; Bologna; historian; storica; sismologia)
+
+1 [עמ׳ PDF 1]: SOURCE: https://data.ingv.it/person/1177
+2 [עמ׳ PDF 1]: 
+3 [עמ׳ PDF 1]: 
+4 [עמ׳ PDF 1]: 
+5 [עמ׳ PDF 1]:     GUIDOBONI Emanuela - Persone -
+6 [עמ׳ PDF 1]: 
+7 [עמ׳ PDF 1]: Salta al contenuto
+8 [עמ׳ PDF 1]: 
+9 [עמ׳ PDF 1]: Portale dei dati aperti Open Data Portal
+[...]
+23 [עמ׳ PDF 1]: Guida al sito
+24 [עמ׳ PDF 1]: 
+25 [עמ׳ PDF 1]: Politica dei dati
+26 [עמ׳ PDF 1]: 
+27 [עמ׳ PDF 1]: INGV homepage
+28 [עמ׳ PDF 1]: 
+29 [עמ׳ PDF 1]:  Home
+30 [עמ׳ PDF 1]: 
+31 [עמ׳ PDF 1]: Persone
+32 [עמ׳ PDF 1]: 
+33 [עמ׳ PDF 1]: GUIDOBONI Emanuela
+34 [עמ׳ PDF 1]: 
+35 [עמ׳ PDF 1]:   Organizzazioni
+36 [עמ׳ PDF 1]: 
+37 [עמ׳ PDF 1]:               Istituto Nazionale di Geofisica e Vulcanologia
+[...]
+87 [עמ׳ PDF 1]:               4
+88 [עמ׳ PDF 1]: 
+89 [עמ׳ PDF 1]:     close
+90 [עמ׳ PDF 1]: 
+91 [עמ׳ PDF 1]: GUIDOBONI Emanuela
+92 [עמ׳ PDF 1]: 
+93 [עמ׳ PDF 1]:            | Academia
+94 [עמ׳ PDF 1]:            |
+95 [עמ׳ PDF 1]: 
+96 [עמ׳ PDF 1]:             EmanuelaGuidoboni
+97 [עמ׳ PDF 1]: 
+98 [עמ׳ PDF 1]:            | Earth-Prints
+99 [עמ׳ PDF 1]:            |
+100 [עמ׳ PDF 1]: 
+[...]
+132 [עמ׳ PDF 1]: 
+133 [עמ׳ PDF 1]:            | ResearchGate
+134 [עמ׳ PDF 1]:            |
+135 [עמ׳ PDF 1]: 
+136 [עמ׳ PDF 1]:             Emanuela_Guidoboni
+137 [עמ׳ PDF 1]: 
+138 [עמ׳ PDF 1]:            | ScopusID (Elsevier)
+139 [עמ׳ PDF 1]:            |
+140 [עמ׳ PDF 1]: 
+[...]
+157 [עמ׳ PDF 1]: 4 dataset trovati
+158 [עמ׳ PDF 1]: 
+159 [עמ׳ PDF 1]:   Risultato del Filtro
+160 [עמ׳ PDF 1]: 
+161 [עמ׳ PDF 1]:               CFTILab - laboratorio avanzato di sismologia storica
+162 [עמ׳ PDF 1]: 
+163 [עמ׳ PDF 1]:     Tipo Data Collection
+164 [עמ׳ PDF 1]: 
+165 [עמ׳ PDF 1]:     Classificazione Dati Sismologici e Infrasonici (terrestri e marini)
+[...]
+185 [עמ׳ PDF 1]:         MARIOTTI Dante
+186 [עמ׳ PDF 1]: 
+187 [עמ׳ PDF 1]:         VALENSISE Gianluca
+188 [עמ׳ PDF 1]: 
+189 [עמ׳ PDF 1]:         GUIDOBONI Emanuela
+190 [עמ׳ PDF 1]: 
+191 [עמ׳ PDF 1]: The Advanced Laboratory of Historical Seismology (CFTILab), was designed with two distinct but complementary targets.
+192 [עמ׳ PDF 1]: The first target was to make available to a wide specialist...
+193 [עמ׳ PDF 1]: 
+194 [עמ׳ PDF 1]:               The forgotten vulnerability: A geology- and history-based approach for rankin...
+195 [עמ׳ PDF 1]: 
+[...]
+206 [עמ׳ PDF 1]:         VALENSISE Gianluca
+207 [עמ׳ PDF 1]: 
+208 [עמ׳ PDF 1]:         TARABUSI Gabriele
+209 [עמ׳ PDF 1]: 
+210 [עמ׳ PDF 1]:         GUIDOBONI Emanuela
+211 [עמ׳ PDF 1]: 
+212 [עמ׳ PDF 1]:         FERRARI Graziano
+213 [עמ׳ PDF 1]: 
+214 [עמ׳ PDF 1]: The 2016–2017 Central Italy earthquakes have shown that the local seismic risk is dominated by the extreme vulnerability of the building stock. We attempt to rank the...
+[...]
+247 [עמ׳ PDF 1]:         BARBANO Maria Serafina
+248 [עמ׳ PDF 1]: 
+249 [עמ׳ PDF 1]:         ALBINI Paola
+250 [עמ׳ PDF 1]: 
+251 [עמ׳ PDF 1]:         GUIDOBONI Emanuela
+252 [עמ׳ PDF 1]: 
+253 [עמ׳ PDF 1]:         FERRARI Graziano
+254 [עמ׳ PDF 1]: 
+255 [עמ׳ PDF 1]:         MARIOTTI Dante
+[...]
+274 [עמ׳ PDF 1]:     Aprile 1, 2018, 00:00 (UTC)
+275 [עמ׳ PDF 1]: 
+276 [עמ׳ PDF 1]:     Autori
+277 [עמ׳ PDF 1]: 
+278 [עמ׳ PDF 1]:         GUIDOBONI Emanuela
+279 [עמ׳ PDF 1]: 
+280 [עמ׳ PDF 1]:         FERRARI Graziano
+281 [עמ׳ PDF 1]: 
+282 [עמ׳ PDF 1]:         MARIOTTI Dante
+[...]
+290 [עמ׳ PDF 1]:         VALENSISE Gianluca
+291 [עמ׳ PDF 1]: 
+292 [עמ׳ PDF 1]: The Catalogue lists earthquakes that occurred in Italy between 461 B.C. and 1997, and earthquakes that occurred in the general Mediterranean area between the VIII century b.C....
+293 [עמ׳ PDF 1]: 
+294 [עמ׳ PDF 1]:                             Il portale dei dati aperti dell'INGV è a cura dell'Ufficio Gestione Dati
+295 [עמ׳ PDF 1]: 
+296 [עמ׳ PDF 1]:                             OGC CSW
+297 [עמ׳ PDF 1]: 
+298 [עמ׳ PDF 1]:                         |

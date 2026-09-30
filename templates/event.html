@@ -36,14 +36,14 @@
         {% if e.location.description or e.segment_name %}
         <dt>מיקום</dt>
         <dd>
-          {{ e.location.description or "" }}
+          {{ e.location.description or "" }}{% if e.card_notes.loc %}<sup><a class="footnote-ref" href="#card-loc">{{ e.card_notes.loc }}</a></sup>{% endif %}
           {% if e.segment_name %}<span class="sub">מקטע: {{ e.segment_name }}</span>{% endif %}
         </dd>
         {% endif %}
         {% if e.magnitude | magnitude %}
         <dt>מגניטודה</dt>
         <dd>
-          <bdi>{{ e.magnitude | magnitude }}</bdi>
+          <bdi>{{ e.magnitude | magnitude }}</bdi>{% if e.card_notes.mag %}<sup><a class="footnote-ref" href="#card-mag">{{ e.card_notes.mag }}</a></sup>{% endif %}
           {% if e.magnitude.type %}<span class="sub">{{ e.magnitude.type | mag_type }}</span>{% endif %}
           {% if e.magnitude.basis %}<span class="sub">{{ e.magnitude.basis | mag_basis }}</span>{% endif %}
         </dd>
@@ -55,7 +55,7 @@
         <dt>הרוגים</dt>
         <dd>
           {% if e.impact.deaths is not none %}{{ e.impact.deaths | number }}{% if e.impact.deaths_verified is false %} <span class="unverified">לא מאומת</span>{% endif %}{% endif %}
-          {% if e.impact.deaths_note %}<span class="sub">{{ e.impact.deaths_note }}</span>{% endif %}
+          {% if e.impact.deaths_note %}<span class="sub">{{ e.impact.deaths_note }}{% if e.card_notes.deaths %}<sup><a class="footnote-ref" href="#card-deaths">{{ e.card_notes.deaths }}</a></sup>{% endif %}</span>{% elif e.card_notes.deaths %}{% if e.card_notes.deaths %}<sup><a class="footnote-ref" href="#card-deaths">{{ e.card_notes.deaths }}</a></sup>{% endif %}{% endif %}
         </dd>
         {% endif %}
         {% if e.impact.injured is not none %}

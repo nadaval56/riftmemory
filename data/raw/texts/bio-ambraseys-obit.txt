@@ -1,0 +1,99 @@
+SOURCE: https://cires1.colorado.edu/~bilham/J_SEISMOL_Obit+Ambraseys.pdf
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Ambraseys; born; Athens; Imperial; professor; died; retire; historical; books)
+
+4 [עמ׳ PDF 1]:  OBITUARY
+5 [עמ׳ PDF 1]: 
+6 [עמ׳ PDF 1]: 
+7 [עמ׳ PDF 1]: 
+8 [עמ׳ PDF 1]: Nicholas N. Ambraseys 1929–2012
+9 [עמ׳ PDF 1]: Published online: 25 May 2013
+10 [עמ׳ PDF 1]: # Springer Science+Business Media Dordrecht 2013
+11 [עמ׳ PDF 1]: 
+12 [עמ׳ PDF 1]: 
+13 [עמ׳ PDF 1]: As Editor-in-Chief of JOSE, I am deeply grateful for         the pre-twentieth century catalogue of historical
+14 [עמ׳ PDF 1]: the willingness of Prof. Roger G. Bilham to support          earthquakes and to start afresh with a new cata-
+15 [עמ׳ PDF 1]: the tribute we would like to pay to Prof. Ambraseys in       logue that included only those earthquakes that could
+16 [עמ׳ PDF 1]: this journal.                                                be supported by a meticulous evaluation of contempo-
+17 [עמ׳ PDF 1]:    From my office as secretary general of the European       rary observations. His efforts have established a new
+18 [עמ׳ PDF 1]: Seismological Commission (ESC), I would also like to         discipline—historical seismology—that now has many
+19 [עמ׳ PDF 1]: highlight Prof. Ambraseys’ important contributions to        followers, though few can single-handedly bring the
+20 [עמ׳ PDF 1]: the ESC activities, strengthening the cooperation be-        breadth of knowledge that Ambraseys brought to its
+21 [עמ׳ PDF 1]: tween the ESC and the European Association for               study. He was neither a historian nor a philologist by
+22 [עמ׳ PDF 1]: Earthquake Engineering (EAEE) communities. He was            training, but he used the tools of both, combining them
+23 [עמ׳ PDF 1]: already involved in the activities of the Subcommission      with a gift for languages, his training as a civil engineer
+24 [עמ׳ PDF 1]: on Sea-Waves (later, on Tsunamis) in the early 1960s (he     and his immediate familiarity with the destruction
+25 [עמ׳ PDF 1]: is the author of a summary report presented at the           wrought on cities and coastlines by twentieth century
+26 [עמ׳ PDF 1]: ESC1964 in Budapest), and from 1996 to 2008, he              earthquakes to re-evaluate a 2,500-year history of
+27 [עמ׳ PDF 1]: chaired the joint ESC-EAEE Working Group on Strong           earthquakes in Europe, Asia, and parts of the
+28 [עמ׳ PDF 1]: Motion, which developed the Internet Site for European       Americas and Africa.
+29 [עמ׳ PDF 1]: Strong-motion Data (http://www.isesd.cv.ic.ac.uk),               Historical earthquake catalogues prior to 1960
+30 [עמ׳ PDF 1]: funded by the European Commission and the UK’s               evolved through the addition of newly discovered
+31 [עמ׳ PDF 1]: Engineering and Physical Sciences Research Council,          earthquakes to existing catalogues. New compilations
+32 [עמ׳ PDF 1]: for the free dissemination of strong motion data and         were seldom concerned with the accuracy of existing
+33 [עמ׳ PDF 1]: associated parameters from European, Mediterranean,          entries, and new compilers seldom had the tenacity to
+34 [עמ׳ PDF 1]: and Middle Eastern earthquakes. Since 2008, one of the       investigate whether their additions were already in
+35 [עמ׳ PDF 1]: joint ESC-EAEE activities is the Prof. Nicholas              those catalogues under a different date or location. In
+36 [עמ׳ PDF 1]: Ambraseys Distinguished Lecture Award.                       rare cases when a known bogus earthquake was re-
+37 [עמ׳ PDF 1]:    MGF, EIC                                                  moved from an existing catalogue, it was sometimes
+38 [עמ׳ PDF 1]:                                                              re-inserted by a later compiler unknowingly thinking
+39 [עמ׳ PDF 1]:                                                              the omission to have been an error. The entries in these
+40 [עמ׳ PDF 1]: N. N. Ambraseys: an appreciation                             early catalogues often lacked the quantitative detail to
+41 [עמ׳ PDF 1]:                                                              identify location or magnitude and in particular to assess
+42 [עמ׳ PDF 1]: The world of seismology owes an immense debt to              the credibility of the data used by the compiler.
+43 [עמ׳ PDF 1]: Nicholas Ambraseys who died 29 December 2012. He             Ambraseys’ new catalogues addressed local chronolo-
+44 [עמ׳ PDF 1]: was foremost an earthquake engineer, but his contribu-       gies, inscriptions, travelers’ diaries, administrative re-
+45 [עמ׳ PDF 1]: tions included the quantification of the effects of tsuna-   ports, and critically evaluated histories. His catalogues
+46 [עמ׳ PDF 1]: mi and ground liquefaction; scaling relationships            also included bogus events with a statement why they
+47 [עמ׳ PDF 1]: between perceived intensities, magnitudes, and sur-          must be removed from future consideration. The study
+48 [עמ׳ PDF 1]: face rupture length; and above all the study of              of the source materials for these earthquakes took him to
+49 [עמ׳ PDF 1]: historical earthquakes. Among his earliest contri-           research libraries, university archives, and the base-
+50 [עמ׳ PDF 1]: butions was his perception of the need to discard            ments of learned societies all over the world.
+51 [עמ׳ PDF 2]: 840                                                                                                      J Seismol (2013) 17:839–840
+52 [עמ׳ PDF 2]: 
+53 [עמ׳ PDF 2]:                                                                         cumulative numbers of earthquakes and their magni-
+54 [עמ׳ PDF 2]:                                                                         tude distribution is commonly invoked to characterize
+55 [עמ׳ PDF 2]:                                                                         future seismicity based on a b value slope determined
+56 [עמ׳ PDF 2]:                                                                         from recent instrumental catalogues. Ambraseys’ ob-
+57 [עמ׳ PDF 2]:                                                                         servations question the assumed stationarity of the a
+58 [עמ׳ PDF 2]:                                                                         value, introducing considerable additional uncertainty
+59 [עמ׳ PDF 2]:                                                                         into estimates of future seismic risk.
+60 [עמ׳ PDF 2]:                                                                            Roughly one third of Ambraseys’ 328 articles and 6
+61 [עמ׳ PDF 2]:                                                                         books address engineering seismology issues. In par-
+62 [עמ׳ PDF 2]:                                                                         ticular, his early training in hydraulic engineering led
+63 [עמ׳ PDF 2]:                                                                         him naturally to author a series of important contribu-
+64 [עמ׳ PDF 2]:                                                                         tions on the stability of soils and earth-fill dams under-
+65 [עמ׳ PDF 2]:                                                                         going dynamic shaking. Following a brief (1954–1956)
+66 [עמ׳ PDF 2]:                                                                         appointment in the Technical University of Athens fol-
+67 [עמ׳ PDF 2]:                                                                         lowing his PhD, he joined the faculty in the Department
+68 [עמ׳ PDF 2]: Nicholas Ambraseys, Putney, London, 17 June 2003. A rare picture        of Civil Engineering at Imperial College London, where
+69 [עמ׳ PDF 2]: of Nick at work in his study surrounded floor to ceiling with records   he remained a professor until his retirement in 1994. His
+70 [עמ׳ PDF 2]: of 2,500 years of seismicity in a dozen different languages
+71 [עמ׳ PDF 2]:                                                                         lectures have influenced a generation of young earth-
+72 [עמ׳ PDF 2]:                                                                         quake engineers with his insights into earthquake pro-
+73 [עמ׳ PDF 2]:                                                                         cesses and their effects on structures. During his time
+74 [עמ׳ PDF 2]:    Ambraseys’ historical studies were but part of a                     there, he consulted on the analysis and design of 20
+75 [עמ׳ PDF 2]: much broader consideration of seismicity, faulting,                     major dams, and led more than a dozen post-seismic
+76 [עמ׳ PDF 2]: and seismic hazards. He contributed considerably to                     UNESCO missions. Fully one third of his published
+77 [עמ׳ PDF 2]: our quantification of the changes in seismological                      output occurred after his retirement, and he remained
+78 [עמ׳ PDF 2]: reporting that occurred from the pre-instrumental period                actively creative throughout 2012.
+79 [עמ׳ PDF 2]: (pre-1900) through the time of heterogeneous seismo-                       His five-decade contribution to earthquake studies
+80 [עמ׳ PDF 2]: logical reporting 1900–1960, and subsequently to a                      has been recognized by numerous academic, engineer-
+81 [עמ׳ PDF 2]: uniform global seismic network, which have influenced                   ing, and philanthropic organizations, who have awarded
+[...]
+84 [עמ׳ PDF 2]: recording, has introduced difficulties in relating histori-             lished pages that are themselves a mine of information
+85 [עמ׳ PDF 2]: cal magnitudes to those currently in use, and this in-                  for future studies. He will be remembered by the present
+86 [עמ׳ PDF 2]: fluences the statistical manipulation of catalogues by                  generation of seismologists and engineers for his kind-
+87 [עמ׳ PDF 2]: engineers responsible for calculating future seismic risk.              ness, his humor, and his boundless enthusiasm for earth-
+88 [עמ׳ PDF 2]: Many of Ambraseys’ articles use empirical regression                    quake studies. He was an inspiration to all those who
+89 [עמ׳ PDF 2]: methods to reconcile the different intensity and magni-                 knew him, and he will be sadly missed.
+90 [עמ׳ PDF 2]: tude scales of the past century, providing us, if not a                    A bibliography of his many publications can be found
+91 [עמ׳ PDF 2]: perfect catalogue, the tools with which to qualify our                  at http://www.seismosoc.org/publications/srl/SRL_84/
+92 [עמ׳ PDF 2]: interpretations of this period of change in our evaluation              srl_84-2_bilham-esupp/index.htmland and an expanded
+93 [עמ׳ PDF 2]: of earthquake hazards.                                                  account of his career can be found in Seismological
+94 [עמ׳ PDF 2]:    His recognition, from historical earthquake distri-                  Research Letters, 84(2), 173–176, March/April 2013
+95 [עמ׳ PDF 2]: butions in Turkey, the Middle East, and Greece, that                    (http://srl.geoscienceworld.org/content/84/2/173).
+96 [עמ׳ PDF 2]: long-term fluctuations in seismic productivity have                        Some of his least accessible articles are linked to pdfs at
+97 [עמ׳ PDF 2]: occurred over millennia timescales, has resulted in a                   the following website (http://cires.colorado.edu/~bilham/
+98 [עמ׳ PDF 2]: new awareness in the limitations of the Gutenberg–                      Ambraseys.html)
+99 [עמ׳ PDF 2]: Richter relation. This relationship between the                            RB 2013
+100 [עמ׳ PDF 3]: 
