@@ -35,6 +35,8 @@ class Text(HTMLParser):
             self._skip += 1
         if tag in self.BLOCK:
             self.out.append("\n")
+        if tag in ("td", "th"):
+            self.out.append(" | ")
         if tag == "a":
             self._href = dict(attrs).get("href")
             self._atext = []

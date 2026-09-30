@@ -1,0 +1,3 @@
+SOURCE: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events?minYear=881&maxYear=882
+
+{"items":[{"id":75,"year":881,"month":4,"day":8,"eventValidity":2,"causeCode":0,"numDeposits":0,"country":"ISRAEL","locationName":"ISRAEL AND EGYPTIAN COASTS","regionCode":50,"numRunups":2,"publish":true,"oceanicTsunami":true},{"id":4282,"year":881,"month":5,"day":26,"eventValidity":3,"causeCode":1,"eqMagnitude":7.5,"earthquakeEventId":260,"numDeposits":2,"country":"SPAIN","locationName":"CADIZ","regionCode":73,"latitude":36,"longitude":-8,"numRunups":0,"damageAmountOrderTotal":3,"housesDestroyedAmountOrderTotal":3,"housesDamagedAmountOrderTotal":3,"publish":true,"oceanicTsunami":true}],"page":1,"totalPages":1,"itemsPerPage":200,"totalItems":2}

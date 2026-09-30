@@ -71,6 +71,8 @@ sources:
 - label: 'Amos Salamon et al., "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", Bulletin of the Seismological Society of America 97 (3) (2007), pp. 705–724, הנספח האלקטרוני'
   url: https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/
 - label: 'E. Y. Meimaris and K. I. Kritikakou, Inscriptions from Palaestina Tertia, vol. Ia: The Greek Inscriptions from Ghor es-Safi (Byzantine Zoora), Athens, 2005 (TODO: לבדוק במקור)'
+- label: 'Inscriptions of Israel/Palestine (IIP), Brown University: מצבות צוער ZOOR0022, ZOOR0023, ZOOR0024 (קובצי EpiDoc, טקסט יווני ותרגום אנגלי)'
+  url: https://github.com/Brown-University-Library/iip-texts
 - label: 'Michael Eisenberg, דוח על הבזיליקה בסוסיתא (2021), עמ׳ 171–173, כפי שמובא אצל Williams, deadseaquake.info (TODO: לבדוק במקור ולהשלים פרטים ביבליוגרפיים)'
 - label: 'אוניברסיטת חיפה, "Hippos-Sussita excavation: Silent evidence of the earthquake of 363 CE", ScienceDaily, 23 באוקטובר 2014'
   url: https://www.sciencedaily.com/releases/2014/10/141023100430.htm
@@ -102,11 +104,12 @@ review_notes:
 - 'בדיקת ציטוטים (ספטמבר 2026): לאיגרת קירילוס ולליבניוס אין טקסט ראשוני ב-data/raw/texts. שני הציטוטים נבדקו מול התרגום האנגלי כפי שהוא מובא אצל Levenson 2013 (עמ׳ 62 ו-66, בקובץ המחקר syriac-363.txt), ונשארו בדף עם הערה גלויה שהם תרגום שלנו מתרגום אנגלי ושהמהדורות עצמן (Brock 1977; Norman 1969) לא נבדקו.'
 - 'שכתוב לקריאוּת (ספטמבר 2026): פתיחה במצבות צוער (השמות לפי ויליאמס, על פי Meimaris ו-Kritikakou 2005), פרטי קטלוג הועברו להערות.'
 - 'נותרו לבדיקה: Safrai 1998 ו-Ferry et al. 2011, שהופיעו בגרסה הקודמת כמקור לשתי הרעידות. Ferry הוסר מהמקורות כי לא נבדק ואין בו צורך: שתי הרעידות מתועדות עכשיו ישירות מהאיגרת, דרך Levenson וזוהר ואחרים.'
+- 'סבב מקורות חלופיים 2 (ספטמבר 2026): נקראו מצבות צוער במהדורה הדיגיטלית של IIP (data/raw/texts/iip-zoor0022–0024.txt: טקסט יווני ותרגום אנגלי). אומתו: שלוש המצבות, השמות, "בזמן הרעידה", 28 בארטמיסיוס שנת 258 (לפי העורכים 18 במאי 363). נוספו מאותו מקור: הגילים (40, 15, 38), התואר ארכידיאקון, "ביום הירח" (יום שני) בשתיים מהן, השערת העורכים שסמאכון הוא אביה של אובה, וקביעתם שאלה הכתובות היחידות באזור שמתעדות את הרעידה. [^meimaris] נשאר TODO: בקבצי IIP חסרים פרטי הפרסום, ולכן אי אפשר לקבוע מהם שהם מבוססים על Meimaris ו-Kritikakou. נבדק ללא תוצאה: hadashot-25981.txt הוא דוח עונת 2020 בסוסיתא ואינו עוסק ב-363 או בבזיליקה, ולכן [^eisenberg] נשאר פתוח. לציפורי, לנבוריה ולראסל 1980 אין טקסט בקבצים הגולמיים.'
 ---
 
 ## הסיפור
 
-בצוער, בקצה הדרומי של ים המלח, נמצאו שלוש מצבות יווניות. על אחת נכתב שסמאכון מת ברעידת האדמה. על השנייה, אובה. על השלישית, סילתה וקירה. כולן נושאות אותו תאריך: 28 בחודש ארטמיסיוס, שנת 258 לפרובינקיה ערביה, כלומר 18 במאי 363 לספירה.[^dsq][^meimaris][^zoharA]
+בצוער, בקצה הדרומי של ים המלח, נמצאו שלוש מצבות יווניות. על אחת נכתב שסמאכון מת ברעידת האדמה. על השנייה, אובה. על השלישית, סילתה וקירה. כולן נושאות אותו תאריך: 28 בחודש ארטמיסיוס, שנת 258 לפרובינקיה ערביה, כלומר 18 במאי 363 לספירה.[^dsq][^meimaris][^zoharA][^iip] סמאכון היה ארכידיאקון, ומת בן 40. אובה, בת סמאכון, הייתה בת 15. סילתה, בת ולנטינוס, הייתה בת 38, וקירה הייתה בתה. לפי התרגום במהדורה הדיגיטלית, שתיים מהמצבות מציינות גם שזה היה "ביום הירח", כלומר ביום שני. לפי מחבר הפרסום המקורי, כפי שמובא במהדורה הדיגיטלית, ייתכן שסמאכון הוא אביה של אובה.[^iip]
 
 באותו לילה נפגעה הארץ כולה. היו שתי רעידות, בהפרש של כשש שעות: הראשונה בשעה השלישית של הלילה, השנייה בשעה התשיעית, לפנות בוקר.[^cyril][^zoharA] השנייה הייתה כנראה פחות הרסנית, והיא פגעה בעיקר בצפון.[^zoharA] הערים שנזכרות כנפגעות משתרעות מבניאס בצפון ועד פטרה בדרום, ומהחוף ועד עבר הירדן, מרחק של כ-450 ק״מ.[^zohar978][^cyril][^zohar2017] זו אחת הרעידות הרחבות ביותר שתועדו בארץ בעת העתיקה, והיא מדורגת ברמת האמינות הגבוהה ביותר ברשימה של זוהר, סלמון ורובין (2016).[^zoharA]
 
@@ -134,7 +137,7 @@ review_notes:
 
 Levenson גם פותר סתירה ותיקה. במהדורה המקובלת של הכרוניקה הסורית נראה כאילו הרעידה אירעה ב-27 באייר. לפי קריאה חדשה של כתב היד, היום ה-27 שייך לידיעה הבאה, על הכתרת הקיסר יוביאנוס ב-27 ביוני, והסתירה נעלמת.[^levenson70]
 
-**מקור עצמאי: מצבות צוער.** המצבות מע׳ור א-צאפי, היא צוער הביזנטית, אינן תלויות באיגרת. הן עדות בת-זמנה שהנזק הגיע לפחות עד דרום ים המלח.[^zoharA][^meimaris][^zohar2017]
+**מקור עצמאי: מצבות צוער.** המצבות מע׳ור א-צאפי, היא צוער הביזנטית, אינן תלויות באיגרת. הן עדות בת-זמנה שהנזק הגיע לפחות עד דרום ים המלח.[^zoharA][^meimaris][^zohar2017] לפי עורכי המהדורה הדיגיטלית, עד כמה שידוע אלה הכתובות היחידות באזור שמתעדות את התאריך ואת עצם הרעידה.[^iip]
 
 **הרעידה ובית המקדש.** ההיסטוריונים הכנסייתיים של המאה החמישית מספרים שרעידה ואש עצרו את בניית המקדש. אבל יוחנן כריסוסטומוס, אמיאנוס מרקלינוס ואמברוסיוס, שכתבו עשרים עד שלושים שנה אחרי האירוע, מזכירים רק אש שפרצה מהיסודות, בלי רעידה. לדעת Levenson, ייתכן שהמסורת הנוצרית מיזגה שני אירועים נפרדים: הרעידה שפגעה בערי הארץ, והאש שעצרה את הבנייה.[^levenson79] הקשר בין הרעידה לבין כישלון הבנייה הוא אפוא השערה, לא עובדה.
 
@@ -169,6 +172,7 @@ Levenson גם פותר סתירה ותיקה. במהדורה המקובלת של
 - Kenneth W. Russell, "The Earthquake of May 19, A.D. 363", *Bulletin of the American Schools of Oriental Research* 238 (1980), pp. 47–64.
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985.
 - Motti Zohar, Amos Salamon and Rehav Rubin, "Earthquake damage history in Israel and its close surrounding", *Tectonophysics* 696–697 (2017), pp. 1–13.
+- Inscriptions of Israel/Palestine, Brown University, [iip-texts](https://github.com/Brown-University-Library/iip-texts): ZOOR0022–ZOOR0024.
 - E. Y. Meimaris and K. I. Kritikakou, *Inscriptions from Palaestina Tertia*, vol. Ia: *The Greek Inscriptions from Ghor es-Safi (Byzantine Zoora)*, Athens, 2005.
 - Jefferson B. Williams, "363 CE Cyril Quakes", [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/CyrilQuakes.html).
 
@@ -193,6 +197,7 @@ Levenson גם פותר סתירה ותיקה. במהדורה המקובלת של
 [^zohar2017]: Motti Zohar, Amos Salamon and Rehav Rubin, "Earthquake damage history in Israel and its close surrounding: evaluation of spatial and temporal patterns", *Tectonophysics* 696–697 (2017), pp. 1–13, עמ׳ 1 (תקציר), טבלה 1 בעמ׳ 4, ועמ׳ 6–7.
 [^salamon]: Amos Salamon et al., "Tsunami hazard evaluation of the Eastern Mediterranean: historical analysis and selected modeling", *Bulletin of the Seismological Society of America* 97 (2007), pp. 705–724, [הנספח האלקטרוני](https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/), הרשומה "363 05 18-19, night": Ms 7.4 לפי N. N. Ambraseys, *Geophysical Journal International* 165 (2006), pp. 516–526.
 [^meimaris]: E. Y. Meimaris and K. I. Kritikakou, *Inscriptions from Palaestina Tertia*, vol. Ia, Athens, 2005, כפי שמובא אצל Zohar, Salamon and Rubin 2016 ואצל Williams, deadseaquake.info. TODO: לבדוק במקור.
+[^iip]: Inscriptions of Israel/Palestine (IIP), Brown University Library, מהדורות EpiDoc של [ZOOR0022](https://raw.githubusercontent.com/Brown-University-Library/iip-texts/master/epidoc-files/zoor0022.xml), [ZOOR0023](https://raw.githubusercontent.com/Brown-University-Library/iip-texts/master/epidoc-files/zoor0023.xml) ו-[ZOOR0024](https://raw.githubusercontent.com/Brown-University-Library/iip-texts/master/epidoc-files/zoor0024.xml) (מאגר [iip-texts](https://github.com/Brown-University-Library/iip-texts)). ביוונית (ZOOR0023): "ἐν τῷ σιζμῷ ἔτους σνηʹ μηνὸς Ἀρτεμισίου ηκʹ"; בתרגום שם (ZOOR0024): "who died (at the age) of 40 years during the earthquake, in (the) year 258, on (the) 28th (day) of (the) month Artemisios"; "(He died) on the day of (the) Moon (Monday)". ההמרה ל-18 במאי 363 לפי "the Era of the Province of Arabia" היא של עורכי המהדורה. ההערה על ייחודן של שלוש הכתובות: "the only epigraphical records of the date and occurrence of an earthquake in this region". <!-- ב-ZOOR0024 השנה מתועתקת "μνηʹ", והתרגום שם נותן 258. בקבצים חסר פרט הפרסום ("could not find publication information"), ולכן לא נקבע מהם שהם מבוססים על Meimaris and Kritikakou 2005. -->
 [^eisenberg]: Michael Eisenberg (2021), עמ׳ 171–173, מצוטט אצל Williams, "363 CE Cyril Quakes", deadseaquake.info, בפרק "Hippos Sussita". TODO: לבדוק במקור ולהשלים את הפרטים הביבליוגרפיים.
 [^hippos]: אוניברסיטת חיפה, הודעה לעיתונות על חפירות סוסיתא, [ScienceDaily, 23 באוקטובר 2014](https://www.sciencedaily.com/releases/2014/10/141023100430.htm).
 [^dsqpetra]: Williams, "363 CE Cyril Quakes", deadseaquake.info, בפרק "Petra: ez Zantur", על פי B. Kolb et al. 1998 ו-R. A. Stucky 1990. TODO: לבדוק בדוחות החפירה. <!-- ויליאמס מביא גם את Jones (2021), שמאחר חלק משכבות א-זנטור (אבל לא בהכרח את זו של 363) -->

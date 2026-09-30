@@ -1,0 +1,1001 @@
+SOURCE: https://www.emidius.eu/AHEAD/event/18561012_0245_000
+
+
+
+		AHEAD - 12 October 1856 earthquake - Heraklio
+
+AHEAD European Archive of Historical EArthquake DataEuropean Archive of Historical EArthquake Data
+
+					 Homepage
+
+ Consultazione per studiQuery by data sources
+
+ Consultazione per terremotiQuery by earthquakes
+
+						[logout]
+
+					12 ottobre 1856, 02:4512 October 1856, 02:45Heraklio
+
+						Catalogues
+
+						Studies
+
+						Seismicity
+
+►
+EPICAv1.1
+
+link
+
+					Rovida A., Antonucci A., 2021. EPICA - European PreInstrumental earthquake CAtalogue, version 1.1. Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://doi.org/10.13127/epica.1.1  [link ]
+
+			DataDate
+			1856-10-12 02:45
+
+				Lat, Lon
+				35.600, 25.800
+
+			Epic. uncert. (km)
+			10, 10
+
+			Io
+			 9
+
+			Mw
+
+				 7.70 ± 0.50
+
+			Catalogue
+			DataDate
+			Lat
+			Lon
+			H
+			M
+			Io
+			Reference
+
+					SHEEC
+
+					1856-10-12 02:45
+
+					35.600
+
+					25.800
+
+					--
+
+					Mw 7.70
+
+					9
+
+					Papazachos & P., 2003
+
+					Stucchi M., Rovida A., Gomez Capera A.A., Alexandre P., Camelbeeck T., Demircioglu M.B., Gasperini P., Kouskouna V., Musson R.M.W., Radulian M., Sesetyan K., Vilanova S., Baumont D., Bungum H., Fäh D., Lenhardt W., Makropoulos K., Martinez Solares J.M., Scotti O., Živcic M., Albini P., Batllo J., Papaioannou C., Tatevossian R., Locati M., Meletti C., Viganò D., Giardini D., 2013. The SHARE European Earthquake Catalogue (SHEEC) 1000-1899. Journal of Seismology, 17, 2, 523-544. https://doi.org/10.1007/s10950-012-9335-2
+[link ]  [Other earthquakes from this study ]
+
+							Papazachos B.C., Papazachou C., 2003. The earthquakes of Greece. Ziti publications, Thessaloniki, Greece, 286 pp. (in Greek).
+[link ]
+
+					Papazachos & P., 2003
+
+					1856-10-12 02:45
+
+					35.600
+
+					25.800
+
+					n
+
+					Mw 7.70
+
+					9
+
+					--
+
+					Papazachos B.C., Papazachou C., 2003. The earthquakes of Greece. Ziti publications, Thessaloniki, Greece, 286 pp. (in Greek).
+[link ]  [Other earthquakes from this study ]
+
+					Soysal et al., 1981
+
+					1856-10-12 00:45
+
+					36.250
+
+					28.000
+
+					--
+
+					--
+
+					10
+
+					--
+
+					Soysal H., Sipahioglu S., Kolcak D., Altinok Y., 1981. Turkye ve Cevresinin Tarihsel deprem Katalogu. TUBITAK, Proje no. TBAG 341, Istanbul, 86 pp.
+  [Other earthquakes from this study ]
+
+					Shebalin et al., 1974
+
+					1856-10-12 00:45
+
+					35.500
+
+					26.000
+
+					i
+
+					--
+
+					11
+
+					--
+
+					Shebalin N.V., Karnik V., Hadzievski D. (eds), 1974. Catalogue of earthquakes of the Balkan region. I, UNDP-UNESCO Survey of the seismicity of the Balkan region. Skopje, 600 pp.
+[link ]  [Other earthquakes from this study ]
+
+			 catalogo parametricoparametric catalogue
+
+		Download the parameters from all catalogues as QuakeML
+
+			XML
+
+								Compare MDP sets
+
+							Load MDP from file
+
+							Add another study for comparisonAggiungi altro studio per confronto
+
+abstract   link
+ ►
+Albini, 2020b
+
+					Albini P., 2020. Documenting Earthquakes in the United States of the Ionian Islands, 1815-1864. Seismological Research Letters 91, 5, 2554-2562. https://doi.org/10.1785/0220200056
+
+► Abstract
+
+The seven islands of Corfu, Paxoi, Kephalonia, Ithaca, Lefkada, Zakynthos, and Cythera (Ionian Sea, offshore western Greece) were a British protectorate with the name of “United States of the Ionian Islands” between 1815 and 1864. Although many earthquake studies have already examined the past seismicity of this area, they contain only a few data for a handful of earthquakes, for an area known to be characterized by a high level of seismicity. Against this fragmentary seismological knowledge stands a 50 yr abundant production of local documentary sources of different types and in diverse languages. For this reason and because most of the available sources had not been yet nor systematically looked into in the search for testimonies of earthquake effects, an ad hoc and comprehensive investigation was carried out. The number of records on earthquake effects is huge as well as unexpected, and the quality of the collected records is high. The 147 new macroseismic European Macroseismic Scale 1998 intensity values, accurately assigned on the basis of independent contemporary records only, are presented in the form of timelines of earthquake effects for the main towns of the four islands of Corfu, Kephalonia, Lefkada, and Zakynthos. Besides partially amending the gaps of the knowledge of these 50 yr of seismicity in the Ionian Islands, the great amount of freshly collected data suggests that historical seismological research may effectively contribute to improving the seismic scenarios of past earthquakes in many areas of the world.
+
+► Other earthquakes from this study
+
+					12 ottobre 1856, 14h12 October 1856, 14h
+					Corfu
+
+						► Earthquake description
+
+About 2am two violent earthquakes occurred, lasting nearly 1 1/2 minutes
+
+											►
+
+					1 MDPs
+
+											   Imax 3						EMS-98
+
+								Download
+								KML
+
+								CSV
+
+								XML
+
+link
+ ►
+University of Thessaloniki, 2003
+
+					University of Thessaloniki, 2003. Macroseismic Data used for the compilation of Papazachos and Papazachou (2003) catalogue. In: Online Macroseimic Data of Southern Balkan area.
+
+► Abstract
+
+Within the module NA4: "A Distributed Archive of Historical Earthquake Data" (coordinator of the module Dr. M. Stucchi) of the EU-NERIES project, the "Macroseismic Database of the Southern Balkan area" was compiled on a joint effort of ITSAK (Ch. A. Papaioannou and A.S. Savvaidis), as module Partner, and the Geophysical Laboratory of the University of Thessaloniki (B.C. Papazachos, as principal researcher, and C.B. Papazachos) for the time period 1000-1999. The database is temporarily hosted by the INGV-MI.
+
+The source of the data (macroseismic Intensity Data Points) are:
+
+for the historical (before 1900) earthquakes, the books of Papazachos and Papazachou (1989, 1997, 2003) and
+
+for the earthquakes of the instrumental era, the bulletins of the National Observatory, the books of Papazachos and Papazachou (1989, 1997, 2003) and individual studies.
+
+► Other earthquakes from this study
+
+					12 ottobre 1856, 02:4512 October 1856, 02:45
+					Heraklio
+
+											►
+
+					2 MDPs
+
+											   Imax 9						MM
+
+								Download
+								KML
+
+								CSV
+
+								XML
+
+Studies temporarily added by the userStudi aggiunti temporaneamente dall'utente
+
+Create a seismicity buffer
+
+		- by radius (km, max 500)
+
+		select
+
+		- by drawing a polygon
+
+Locations and Mw from EPICA v1.1 1000-1899
+
+	Download  PNG
+
+		 extra large
+
+		 large
+
+		 medium
+
+		 small
+
+		 very small
+
+		 not determined
+
+		 1000-1300
+
+		 1301-1500
+
+		 1501-1600
+
+		 1601-1750
+
+		 1751-1830
+
+		 1831-1875
+
+		 1876-1899
+
+			 1900-1920
+
+			 1921-1940
+
+			 1941-1960
+
+			 1961-1980
+
+			 1981-2000
+
+			 2001-2014
+
+		Year Mo Da Ho Mi Se
+		Epicentral area
+		NMDP
+		Lat
+		Lon
+		Io
+		Mw
+
+1040 02 02Smyrna238.41627.1378-96.52
+
+1056Izmir and vicinity38.40027.150
+
+1246Chania135.40023.30077.00
+
+1250Galaxidhion138.37722.38496.60
+
+1296 07 17 21Bergama339.08927.432106.91
+
+1300Corinthos37.90022.90076.00
+
+1303 08 08 03 30Crete4035.71725.7978.26
+
+1321Thebes138.31923.31796.53
+
+1366 04 30Rhodos136.43028.23096.75
+
+1384 08 06Mytilene139.10026.55096.65
+
+1389 03 20 12 30Chios438.25826.53896.63
+
+1396Chios138.36726.13375.89
+
+1402 06Xylokastro838.16822.27296.67
+
+1417 08 20Euboea island138.40023.80086.40
+
+1421 01 21Artokosta237.60023.000
+
+1421 09 18Euboea island138.42023.820
+
+1422 04 13 00 10W. Peloponnese536.99321.9588-96.42
+
+1428 05Koroni236.80921.8328-96.42
+
+1456 05 12Athos139.90024.400
+
+1457Hydra137.34823.4669-106.66
+
+1462Nafpactos138.39521.8338-96.42
+
+1463Ios Island236.57625.3505-65.36
+
+1472Palaeokastron239.95925.33486.43
+
+1481 05 03 06 30Rhodos236.20029.000
+
+1481 10 03Rhodes136.43028.2305-65.42
+
+1481 12 18 03Rhodes136.43028.2305-65.36
+
+1481 12 18 05 15Rhodos136.43028.2308-96.42
+
+1493 10 18 14 30Kos736.65427.2126.94
+
+1494 07 01 10 10Crete235.50023.30087.50
+
+1494 07 01 21 10Iraklion135.35025.12055.94
+
+1495 01 05Kalimnos, Leros37.00027.00065.42
+
+1508 05 29Hierapetra1135.02025.72097.13
+
+1513 03 28Rhodos136.43028.2306.21
+
+1513 04 16Zakynthos137.60020.80086.50
+
+1521 08 16Zakynthos137.60020.80086.30
+
+1528Mytilene139.10026.550106.95
+
+1545 03 24Lamia538.88522.3278-96.52
+
+1546Chios138.23026.03075.99
+
+1554 07 07Zakynthos337.78220.8967-86.13
+
+1564 08 12Athos139.90024.70066.40
+
+1565Chios138.36726.1336-75.71
+
+1572 04 12Athos139.90024.60076.40
+
+1577 09 21Balikesir139.65027.88386.28
+
+1580Mynia1038.47122.3297-85.99
+
+1585 06 28 02Athos339.78624.3727.06
+
+1595 09 22Manisa1238.59527.7946-75.83
+
+1595 11 26Crete135.30025.20086.40
+
+1609 04Rhodos336.20029.00097.20
+
+1611Manisa138.61427.4266-75.71
+
+1612 11 08Heraklio135.00023.80087.20
+
+1616Rhodos136.50028.500
+
+1625 05 18Manisa338.61427.4266-76.03
+
+1630 03 09 09Crete135.00023.70097.30
+
+1633 11 05Zakynthos337.78220.8968-96.57
+
+1635Rhodos36.30028.000
+
+1636 02 27 22Mytilene139.23326.2076-75.83
+
+1639Izmir38.40027.200
+
+1642 05 30Koroni136.79621.95786.38
+
+1644Izmir38.40027.200
+
+1646Nazilli437.91328.32286.33
+
+1646 01 15Rethymno135.36724.48365.65
+
+1650 10 09Thera336.41825.4327-86.05
+
+1651 06 08Laodicea237.76829.1768-96.49
+
+1653 02 22Aydin937.88228.17096.73
+
+1654 05 20Izmir138.41627.1377-86.15
+
+1660Rhdos36.20028.00075.82
+
+1660 03Galaxidhion138.37722.38486.28
+
+1662 03 16Zakynthos137.78220.89686.26
+
+1664 06 02Izmir138.41627.1376-75.83
+
+1665 01Heraklio135.90025.00086.80
+
+1667 11Izmir138.41627.13755.64
+
+1672Santorini and Kos36.50025.500
+
+1672 02 14Bozcaada539.81825.7177.05
+
+1673 05 07Heraklio235.90025.40076.80
+
+1674 01 04Chios138.36726.1335-65.36
+
+1674 01 24 03Chios238.36726.13375.97
+
+1676 11 29 18Izmir (W. TURKEY)138.41627.13755.18
+
+1676 11 29 22Izmir (W. TURKEY)138.41627.13755.18
+
+1678 06 13 02Izmir (W. TURKEY)138.41627.13755.18
+
+1678 06 13 06Izmir (W. TURKEY)138.41627.13755.18
+
+1679 07 15Izmir (W. TURKEY)138.41627.13755.18
+
+1680 02 14Izmir238.37327.1027-86.10
+
+1681 01 10Heraklio335.40023.50087.00
+
+1684Chios138.36726.13355.39
+
+1685 09 09Izmir38.40027.150
+
+1687 12 18Izmir38.40027.20065.42
+
+1688 06 05Izmir38.40027.200
+
+1688 07 10 11 45Izmir938.36927.1329-106.82
+
+1688 09 10Balikesir639.65027.88376.61
+
+1690 01 13Izmir138.41627.1376-75.88
+
+1694 03 05 03Izmir238.39226.63555.18
+
+1694 06Chalkida138.46723.60086.23
+
+1700Foca138.67026.75665.59
+
+1702 02 25Denizli337.78329.0839-106.84
+
+1703 02Nafpactos138.39521.83375.94
+
+1705 09 03Athens238.22523.66775.99
+
+1707 06 01Dardanelles440.04226.18865.85
+
+1707 09 13 21 34Thera136.41825.43265.65
+
+1708Izmir (W. TURKEY)138.41627.13755.18
+
+1709 07 03Foca238.67026.7568-96.42
+
+1714 08 07Nafpactos138.39521.83386.26
+
+1717Crete135.90022.90087.00
+
+1717 07 01Izmir138.41627.1375-65.39
+
+1717 11 19Denizli437.78529.1578-96.47
+
+1718Izmir138.41627.1373-44.65
+
+1719 03[Izmir]38.50027.00086.22
+
+1723 08Izmir138.41627.13786.28
+
+1725Corinthos137.93822.93086.18
+
+1726Chalkida138.46723.60075.92
+
+1733 12 23 15Sifnos237.02724.9357-86.25
+
+1735Milos136.70024.37086.31
+
+1738 12 23 05 30Chios138.36726.13355.18
+
+1739 04 04 04 15Foca738.57726.8919-106.79
+
+1740 10 04Thermopyles638.80822.58286.65
+
+1741 01 31 01 15Rhodos736.16028.5007.54
+
+1742 02 21Trikala837.97622.4748-96.57
+
+1742 02 25Zakynthos437.71021.0226.61
+
+1748 05 14 15 30Aigio338.25022.08376.07
+
+1750 06 07Kythira136.14922.98896.75
+
+1751 06 18Samos437.71027.0089-106.69
+
+1752 06Zakynthos237.78220.8967-86.25
+
+1753 03 06Zachole138.07222.39686.21
+
+1754 06 15[Corinth]137.80022.80087.00
+
+1754 07Izmir38.40027.15075.82
+
+1755 02 24Mytilene139.10026.5509-106.78
+
+1756 02 13Rhodos536.30027.50077.50
+
+1756 10 20Nafpactos138.39521.8338-96.52
+
+1758 05Maliakos Gulf138.90022.9006.60
+
+1763 01 13Izmir38.40027.15075.82
+
+1766 09 05Izmir38.41027.20065.42
+
+1767 02 07Chios138.36726.13386.24
+
+1769Desfina138.41722.51786.38
+
+1769 06 27Astros137.40022.71786.28
+
+1769 12Heraklio135.60025.50086.80
+
+1771 08 08Izmir38.40027.20065.42
+
+1771 09 01Kemalpasa538.44227.59196.60
+
+1772 11 24 07 45Foca338.88526.6537-86.15
+
+1773 03 15 08Almyros239.18222.7567-86.15
+
+1775 04 16Corinthos137.93822.93086.23
+
+1776 06 16Izmir38.40027.20086.22
+
+1776 12 05Athos139.80024.60086.70
+
+1778 06 16 18 30Izmir138.41627.1376-76.57
+
+1778 07 03 02 30Izmir438.41627.13796.55
+
+1778 07 05 01 30Izmir138.41627.1377-86.07
+
+1778 10 01 13Izmir138.41627.1376-76.06
+
+1780 10Hierapetra235.02025.7209-106.79
+
+1783 03 09Stemnytsa137.53022.07075.94
+
+1785 02 10 04Patra238.25621.7428-96.42
+
+1785 04 26Izmir38.40027.150
+
+1785 06 24Chalkida138.46723.60086.18
+
+1786 01 30Izmir38.40027.150
+
+1788 10 15Nafplio137.56622.79886.21
+
+1794 06 11Galaxidhion138.37722.384106.89
+
+1796 08Navarino136.90121.67286.33
+
+1798 06 29Kythira136.14922.98886.38
+
+1804 06 08 03Patra238.25621.7428-96.42
+
+1805 07 03 04Chania435.45124.1626.42
+
+1805 09 17Athens137.98323.73375.92
+
+1806 01 23Patra238.25621.7427-86.10
+
+1809 02 07Eskistanbul839.95826.2367-86.28
+
+1810 02 16 22 15Heraklio235.50025.60097.50
+
+1811 06 15Zakynthos237.78220.8966-75.98
+
+1814 01East of Crete35.00026.250
+
+1815 12Hierapetra335.07725.7077-86.25
+
+1817Samos37.75027.00075.82
+
+1817 08 23 06Aigio738.24122.07586.54
+
+1817 10 31 05Izmir238.08727.0576-75.76
+
+1820 03 17Chios138.36726.13375.92
+
+1820 12 29 03 45Zakynthos437.76421.1216.86
+
+1825 01 07Izmir38.40027.200
+
+1826 02 08 20 20Ezine539.78626.34286.33
+
+1826 05 12Lesbos, Izmir39.10026.500
+
+1828 06 15 05Izmir138.41627.13775.96
+
+1829 02 23Izmir38.40027.20065.42
+
+1831 04 03Samos137.75726.97665.65
+
+1831 11 06Nafpactos138.39521.83375.92
+
+1836 08 08Izmir38.40027.15055.02
+
+1837 03 20 09 45Didyma937.42123.32675.99
+
+1839 10 29Izmir38.40027.15065.42
+
+1840 02 23Izmir38.40027.15065.42
+
+1841 11 27Izmir38.40027.200
+
+1842 04 18Mane737.05822.1507-86.21
+
+1842 07 12Isparta, Burdur37.50030.00065.42
+
+1842 10 15Izmir38.40027.20055.02
+
+1843 10 18Chalke436.22027.6208-96.47
+
+1845 02 09Lesbos39.25026.50055.02
+
+1845 06 23Manisa338.60027.50096.70
+
+1845 10 09Lesbos39.30026.30075.82
+
+1845 10 11Lisvori1039.10026.21786.28
+
+1845 12 01Lesbos, Chios, Izmir39.10026.50086.22
+
+1846 03 11Izmir, Lesbos, Samos38.50026.50065.42
+
+1846 03 28 17Heraklio135.80025.00077.20
+
+1846 06 10 02Messene737.05722.032106.78
+
+1846 06 25 10Samos137.75726.9767-86.05
+
+1846 06 25 18Izmir138.41627.13776.30
+
+1846 07 03Samos237.74426.7887-86.07
+
+1847 06 29Aydin - Tire37.85027.80065.42
+
+1848 10 27Aydin37.84027.80055.02
+
+1849Isparta37.75030.550
+
+1850 04 03 03 10Izmir1138.48927.4226-76.14
+
+1850 07 09 06 30Aydin37.80027.80065.42
+
+1850 10 13 09 23Izmir and vicinity38.40027.200
+
+1851 02 28 15Leivesio536.57529.2159-106.79
+
+1852 07 14 04 20Gravia138.66622.43375.92
+
+1852 10 19 03 25Fethiye, Mugla36.60029.10075.82
+
+1853 08 18 08 30Thebes838.31923.3179-106.71
+
+1855 03 02Fethiye, Mugla36.60029.10086.22
+
+1855 12 18 01 20Izmir38.40027.20075.82
+
+1856 10 12 02 45Heraklio35.60025.80097.70
+
+1856 11 25 11 40Chios238.36726.1337-86.13
+
+1857Marmaris36.85028.300
+
+1857 02 12 03Izmir38.40027.20075.82
+
+1858Antalya36.88030.600
+
+1858 02 21 09Corinthos37.87022.88096.50
+
+1858 06 16 06 50Akhisar, Manisa, izmir38.90027.80065.42
+
+1859 09 20Chios, Aegean Sea38.50026.00065.42
+
+1861 12 26 08 28Western Gulf of Corinth7338.20722.12696.69
+
+1862 03 24Rhodos436.40027.40076.30
+
+1862 06 21 05 30Melos136.90024.40087.00
+
+1862 11 03 03Turgutlu1038.50027.7088-96.50
+
+1863 04 22 21 30Rhodos2236.40027.600107.50
+
+1864 10 02Castellorizo236.13329.5846-75.78
+
+1864 10 21Syke839.31923.10565.96
+
+1865 07 23 21 30Molyvos839.43026.25186.60
+
+1865 10 11Samos237.75726.9766-75.78
+
+1865 11 11Chios138.36726.13386.21
+
+1866 01 11Rhodos36.20028.000
+
+1866 01 19Chios, Aegean Sea38.25026.20075.82
+
+1866 01 22 12 30Chios138.36726.13386.24
+
+1866 01 31Thera336.41825.4327-86.08
+
+1866 02 02Chios238.36726.1337-86.15
+
+1866 02 06Kythira136.14922.98886.33
+
+1866 04 25Izmir, selcuk38.40027.20065.42
+
+1867 03 07 18Kloumidados10839.23826.2649-106.85
+
+1867 03 10 09Lesbos39.30026.20075.82
+
+1867 04 11Lesbos, Edremit, Ayvalik39.30026.50075.82
+
+1867 07 22 03Lesbos, Izmir39.30026.20086.22
+
+1867 09 20Maroulia636.72222.42486.49
+
+1868 04 20Rhodos36.00028.000
+
+1868 04 23Lesbos, Çanakkale39.30026.40065.42
+
+1868 05 03Pagondas237.67026.8206-75.78
+
+1868 05 15 04 28Pagondas437.71226.9056-75.71
+
+1868 10 03Skiathos539.06423.4066.30
+
+1869 04 18Syme36.50027.60096.80
+
+1869 12 01 18Marmaris937.03528.3358-96.77
+
+1870 02 22Makri336.51528.75076.07
+
+1870 07 11 03 30Mytilene339.10026.55065.49
+
+1870 08 01 00 41Arachova38.48022.55096.80
+
+1870 08 10 11 10Balikesir, Canakkalr39.90027.30075.82
+
+1871 06 07Marmaris, Sporades Islands36.80028.20075.82
+
+1871 11 07 14Ahmetbeyli537.88727.0886-75.71
+
+1872 02 26Samos37.80026.80065.42
+
+1872 03 06Samos Island37.80026.800
+
+1872 04 07 03Samos37.70026.90065.42
+
+1873 02 01 01Samos738.08727.05775.89
+
+1873 02 01 01 13Samos537.72926.9387-86.16
+
+1873 02 01 23Samos137.75726.97676.49
+
+1873 06 02Nisyros Island, Aegean Sea36.50027.20075.82
+
+1873 07 25Epidauros337.73023.07075.92
+
+1873 10 25Zakynthos937.80421.16776.26
+
+1874 03 18 05Eretria838.42023.80775.54
+
+1874 06 28Samos, Aegean Sea37.80026.800
+
+1874 07 05Lesbos Island, Aegean Sea39.20026.300
+
+1874 11 16Rhodos236.50027.90077.00
+
+1874 11 18 05Izmir and Lesbos39.10026.90075.82
+
+1875 05 03 09Dinar-Afyonkarahisar38.10030.10096.77
+
+1875 05 11Usak38.70029.40075.82
+
+1875 05 11 05Izmir38.40027.20075.82
+
+1875 07 05Samos137.75726.97655.39
+
+1875 07 17Samos Island37.75026.90065.42
+
+1875 08 31Samos37.80026.80065.42
+
+1875 11 01Karaburun338.55926.56785.69
+
+1876 01 01Samos Island, Aegean Sea37.70026.800
+
+1876 06Burdur37.70030.20065.42
+
+1876 06 26Nemea837.84622.77175.85
+
+1877 10 13 08 46Kokkari337.76826.90886.24
+
+1877 10 14 19 35Kokkari237.77426.87475.92
+
+1878 04 09Aydin, Izmir37.85027.85065.42
+
+1880 07 22Tire - Izmir38.10027.80086.22
+
+1880 07 29 04 45Menemen1538.56127.2388-96.23
+
+1880 12Lesbos39.20026.50055.02
+
+1881 04 03 13 35Chios6038.22026.1956.47
+
+1881 04 03 16Chios138.36726.13375.89
+
+1881 04 11 08Chios138.36726.13375.89
+
+1881 04 11 19 15Chios138.36726.13375.89
+
+1881 04 11 19 17Chios138.36726.13375.89
+
+1881 04 12 18 30Chios138.36726.13386.24
+
+1882 03 21Chios38.40026.100
+
+1882 04 01Mesotopos339.07526.1506-75.71
+
+1883 04 08Samos Island, Aegean Sea37.70026.800
+
+1883 10 15 15 30Cesme1638.30026.43296.73
+
+1883 11 01Cesme538.33826.64285.94
+
+1884 01 23Ezine, Canakkale39.80026.30065.42
+
+1884 02 28Urla, Izmir38.40027.00065.42
+
+1884 10Izmir, çesme38.40027.200
+
+1884 12 04Izmir38.40027.20065.42
+
+1885 03 28Messene737.12521.95986.08
+
+1885 06Nazilli, Bozdogan - Aydin37.85028.200
+
+1885 08Alasehir, Manisa38.35028.500
+
+1886 04Denizli37.80029.100
+
+1886 08 27Philiatra19236.98821.4677.17
+
+1886 09 04Ayvalik539.05427.0185.54
+
+1886 11 27 10 05Chios538.34526.2207-86.04
+
+1887 01Denizli and vicinity37.80029.100
+
+1887 07 17 07 45Heraklio135.70025.80077.20
+
+1887 08 06Köycegiz, Mugla, Cine36.90028.70075.82
+
+1887 10 03 22 53Xylokastro938.05322.64786.27
+
+1888 03 15Chios, Aegean Sea38.40026.100
+
+1888 05Chios, Aegean sea - Izmir38.40026.100
+
+1888 09 09 17 15Aigio2038.25022.0728-96.20
+
+1888 10Izmir, Aydin, Odemis - Izmir38.20028.000
+
+1889 10 26 01 19Chidyra3039.19425.9879-106.78
+
+1889 11 03Lesbos39.30026.300
+
+1889 11 21Vatoussa339.22526.05175.89
+
+1890 03 09Kos Island, Aegean sea36.80027.250
+
+1890 04 25Lesbos39.30026.30065.42
+
+1890 06 26Psara338.53325.5676-75.83
+
+1890 12 14 18 25Kusadasi837.85727.2607-86.10
+
+1891 03 26Chios, Aegean Sea38.40026.10065.42
+
+1891 04 07Chios, Aegean Sea38.40026.10044.63
+
+1891 05 11Kythnos937.61924.5386.33
+
+1891 09 18 04Soke237.85027.38486.24
+
+1891 09 28Psara138.53325.56775.89
+
+1891 11 13 23 15Izmir938.45527.3906-75.77
+
+1892 12 27 07Samos137.75726.97675.90
+
+1893 03 12Samos338.06226.55565.80
+
+1893 05 23 22 02Thebes38.31023.25086.20
+
+1894 04 20 18 52Locris-Central Greece9638.60023.209106.77
+
+1894 04 27 21 15Locris-Central Greece6538.71622.959106.91
+
+1895Menemen - Izmir38.60027.100
+
+1895 08 19 12 06Aydin1137.87327.93496.55
+
+1895 11 14Bergama, Izmir39.10027.10086.22
+
+1896 06 26Marmaris and vicinity36.80028.300
+
+1896 10 27Rhodos636.62528.2006-75.88
+
+1896 11 13Aydin37.80027.800
+
+1897 05Marmaris - Mugla and Rhodos36.80028.300
+
+1897 12 05 21 20Gencelli238.87528.25975.89
+
+1897 12 07Gencelli137.95028.66785.96
+
+1897 12 18Denizli137.78329.08386.24
+
+1897 12 19Gencelli137.95028.66775.89
+
+1898 01 29 17Balikesir4139.42228.061106.74
+
+1898 02Aydin37.90028.000
+
+1898 06 02 21 40Tripole237.60022.60077.00
+
+1899 01 22 09 56Kyparissia37.20021.60096.50
+
+1899 09 20 02 22Nazilli937.88028.0838-96.67
+
+1899 12Denizli37.75029.100
+
+Non sono disponibili informazioni relative a tsunami.The is no information about tsunami.
+
+Non sono stati trovati link ad altri database online.No links to other online databases for this earthquake were found.
+
+				Layers
+
+					DEM
+
+						no DEM
+						2D B&W
+						3D B&W
+						3D color
+
+						 EDSF 2013 CSS Planes
+
+						 EDSF 2013 CSS Top
+
+						 EDSF 2013 SZ Contours
+
+						 EDSF 2013 SZ Zones
+
+						 Near Fault Observatories
+
+					 Shadow under intensity points
+
+				Plot a temporary point
+
+						Label
+
+						Lat, Long
+
+						[e.g. 41.895,12.482]
+
+						Symbol
+						 Plot
+

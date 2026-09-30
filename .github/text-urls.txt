@@ -1,4 +1,25 @@
-# סבב 15. מקורות מוגנים שפתוחים לקריאה: רק קטעים (אחרי " | "), עם מספרי עמודים.
-ambon2016 https://humanities.tau.ac.il/sites/humanities.tau.ac.il/files/media_server/all-units/%D7%91%D7%99%D7%AA%20%D7%A1%D7%A4%D7%A8%20%D7%9C%D7%9E%D7%93%D7%A2%D7%99%20%D7%94%D7%99%D7%94%D7%93%D7%95%D7%AA/%D7%A2%D7%91%D7%95%D7%93%D7%95%D7%AA%20%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8%D7%98/%D7%A8%D7%91%D7%A7%D7%94%20%D7%90%D7%9E%D7%91%D7%95%D7%9F-%20%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8%D7%98.pdf | כ"ד בטבת;עזבו לירושלים;סכנה להתחיל;רוב מכריע של הפרושים
-uziel2021-he https://cityofdavid.org.il/wp-content/uploads/2025/11/sefer_keness-22_HE_Uziel.pdf | מלחמה;קומה;קרסו;רעידת אדמה באמצע;עדויות ארכיאולוגיות לרעידת
-migowski2004 https://gfzpublic.gfz.de/rest/items/item_247420_1/component/file_247419/content | 1834;Table 1;Table 2;Ze'elim;Zeelim;disturbed
+# סבב 17: מקורות חלופיים. נחלת הכלל/גישה פתוחה: טקסט מלא. מקורות מוגנים: רק קטעים (אחרי " | ").
+zadok-1927-damage http://zadok.org/research/1927/damage.html
+adiyeke2012 https://dergipark.org.tr/tr/download/article-file/781254 | 538;Rodos;Kerpe;Kaşot;Mısır;İskenderiye;Kahire;toplam;vefat
+ncei-eq-14 https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/14
+ncei-eq-14-refs https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/14/references
+ncei-tsunami-75 https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/75
+ncei-tsunami-75-refs https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/75/references
+austin2000-abs https://api.semanticscholar.org/graph/v1/paper/DOI:10.1080/00206810009465104?fields=title,abstract,year,venue,authors
+regev2024-pmc https://pmc.ncbi.nlm.nih.gov/articles/PMC11087761/ | Uziel;Chalaf;Megalim;capital of Judah
+ibnkathir-460 https://ar.wikisource.org/wiki/البداية_والنهاية/الجزء_الثاني_عشر/ثم_دخلت_سنة_ستين_وأربعمائة
+ferry-egu05 https://meetings.copernicus.org/www.cosis.net/abstracts/EGU05/06136/EGU05-J-06136-1.pdf
+zilberman2005-abs https://ui.adsabs.harvard.edu/abs/2005Tectp.408...79Z/abstract | Avrona;playa;1068;rupture
+nemer2006-abs https://ui.adsabs.harvard.edu/abs/2006JSG....28.1483N/abstract | Roum;1837;episodes
+lewis1999-abs https://api.semanticscholar.org/graph/v1/paper/8fd6474ccc012a42833c0aa85756f42499647ade?fields=title,abstract,year,venue,authors
+schweppe2021-tau https://www.tau.ac.il/~shmulikm/Publications/Schweppe-Slip_Velocities_Ateret-JOSE-2021.pdf | 1759;1202;slip velocit;m/s
+mh-1834-10 https://archive.org/download/sim_missionary-herald_1834-10_30_10/sim_missionary-herald_1834-10_30_10_djvu.txt
+tf-cathedra64 https://files.ybz.org.il/periodicals/Cathedra/64/Article_64.8.pdf | רעש;שביעית;בית שאן;מטבע;שלד;749;131
+iip-zoor0022 https://raw.githubusercontent.com/Brown-University-Library/iip-texts/master/epidoc-files/zoor0022.xml
+iip-zoor0023 https://raw.githubusercontent.com/Brown-University-Library/iip-texts/master/epidoc-files/zoor0023.xml
+iip-zoor0024 https://raw.githubusercontent.com/Brown-University-Library/iip-texts/master/epidoc-files/zoor0024.xml
+gil1994-d https://files.ybz.org.il/periodicals/Cathedra/70/Article_70.4.pdf | רעש;שביעית;748;749;שבט
+gil1994-e https://files.ybz.org.il/periodicals/Cathedra/70/Article_70.5.pdf | רעש;שביעית;748;749;שבט
+gil1994-f https://files.ybz.org.il/periodicals/Cathedra/70/Article_70.6.pdf | רעש;שביעית;748;749;שבט
+hadashot-25981 https://www.hadashot-esi.org.il/Report_Detail_Eng.aspx?id=25981 | earthquake;363;skeleton;basilica;collapse
+archpark-245 http://www.archpark.org.il/article.asp?id=245 | 1033;earthquake;wall;Zion;beams
