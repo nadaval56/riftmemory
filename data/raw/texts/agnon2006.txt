@@ -1,0 +1,76 @@
+SOURCE: https://earth.huji.ac.il/sites/default/files/earth/files/agnon_et_al._2006_breccias_and_paleo-earthquakes.pdf
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: seismite; Lisan; breccia; laminae; earthquake; 50)
+
+3 [עמ׳ PDF 1]: 
+4 [עמ׳ PDF 1]: 
+5 [עמ׳ PDF 1]: Geological Society of America Special Papers
+6 [עמ׳ PDF 1]: 
+7 [עמ׳ PDF 1]: Intraclast breccias in laminated sequences reviewed: Recorders of
+8 [עמ׳ PDF 1]: paleo-earthquakes
+9 [עמ׳ PDF 1]: Amotz Agnon, Claudia Migowski and Shmuel Marco
+10 [עמ׳ PDF 1]: 
+11 [עמ׳ PDF 1]: Geological Society of America Special Papers 2006;401;195-214
+12 [עמ׳ PDF 1]: doi: 10.1130/2006.2401(13)
+[...]
+47 [עמ׳ PDF 2]: 
+48 [עמ׳ PDF 2]: 
+49 [עמ׳ PDF 2]: 
+50 [עמ׳ PDF 2]: 
+51 [עמ׳ PDF 2]:                    Intraclast breccias in laminated sequences reviewed:
+52 [עמ׳ PDF 2]:                               Recorders of paleo-earthquakes
+53 [עמ׳ PDF 2]: 
+54 [עמ׳ PDF 2]:                                                                Amotz Agnon
+55 [עמ׳ PDF 2]:                                 Institute of Earth Sciences, The Hebrew University, Jerusalem 91904, Israel
+56 [עמ׳ PDF 2]: 
+[...]
+62 [עמ׳ PDF 2]: 
+63 [עמ׳ PDF 2]: 
+64 [עמ׳ PDF 2]:                                                                        ABSTRACT
+65 [עמ׳ PDF 2]: 
+66 [עמ׳ PDF 2]:                              Observations of intraclast breccia layers in the Dead Sea basin, formerly termed
+67 [עמ׳ PDF 2]:                         “mixed layers,” provide an exceptionally long and detailed record of past earthquakes
+68 [עמ׳ PDF 2]:                         and define a frontier of paleoseismic research. Multiple studies of these seismites have
+69 [עמ׳ PDF 2]:                         advanced our understanding of the earthquake history of the Dead Sea and of the
+70 [עמ׳ PDF 2]:                         processes that form the intraclast breccias. In this paper, we describe a systematic
+71 [עמ׳ PDF 2]:                         study of intraclast breccia layers in laminated sequences.
+72 [עמ׳ PDF 2]:                              The relationship of intraclast breccia layers to intraformational fault scarps has
+73 [עמ׳ PDF 2]:                         motivated the investigation of these seismites. Geophysical evidence shows that the
+74 [עמ׳ PDF 2]:                         faults extend into the subsurface, supporting their potential association with strong
+75 [עמ׳ PDF 2]:                         earthquakes.
+76 [עמ׳ PDF 2]:                              We define field criteria for the recognition of intraclast breccias, focusing on fea-
+77 [עמ׳ PDF 2]:                         tures diagnostic of a seismic origin. The field criteria stem from our understanding of the
+78 [עמ׳ PDF 2]:                         mechanisms of breccia formation, which include ground acceleration, shearing, lique-
+79 [עמ׳ PDF 2]:                         faction, water escape, fluidization, and resuspension of the originally laminated mud.
+80 [עמ׳ PDF 2]:                              Comparison between a dated record of breccia layer and the record of historical
+81 [עמ׳ PDF 2]:                         earthquakes provides an independent test for a seismic origin. The historical dating
+82 [עמ׳ PDF 2]:                         is significantly more precise and accurate than the radiocarbon dating of breccia lay-
+83 [עמ׳ PDF 2]:                         ers. Yet, assuming that the lamination of the sediments shows an annual cycle, the
+84 [עמ׳ PDF 2]:                         precision of counting laminae may approach the precision of the historical record. A
+85 [עמ׳ PDF 2]:                         similar accuracy is then expected for the intervals between earthquakes. We review
+86 [עמ׳ PDF 2]:                         our work based on counting laminae representing the historical period, mutually cor-
+87 [עמ׳ PDF 2]:                         roborating the seismic origin and the annual lamination.
+88 [עמ׳ PDF 2]:                              The correlation of documented historical earthquakes with individual breccia
+89 [עמ׳ PDF 2]:                         layers provides quantitative estimates for the threshold of ground motion for breccia
+90 [עמ׳ PDF 2]:                         formation in terms of earthquake magnitude and epicentral distance.
+91 [עמ׳ PDF 2]:                              The investigation of breccia layers and the associated historical earthquakes
+92 [עמ׳ PDF 2]:                         has underscored cases in which a breccia layer represents a pair of earthquakes. We
+93 [עמ׳ PDF 2]: 
+94 [עמ׳ PDF 2]: Agnon, A., Migowski, C., and Marco, S., 2006, Intraclast breccias in laminated sequences reviewed: Recorders of paleo-earthquakes, in Enzel, Y., Agnon, A., and
+95 [עמ׳ PDF 2]: Stein, M., eds., New frontiers in Dead Sea paleoenvironmental research: Geological Society of America Special Paper 401, p. 195–214, doi: 10.1130/2006.2401(13).
+96 [עמ׳ PDF 2]: For permission to copy, contact editing@geosociety.org. ©2006 Geological Society of America. All rights reserved.
+97 [עמ׳ PDF 2]: 
+98 [עמ׳ PDF 2]:                                                                              195
+[...]
+100 [עמ׳ PDF 3]: 
+101 [עמ׳ PDF 3]: 
+102 [עמ׳ PDF 3]: 196                                             A. Agnon, C. Migowski, and S. Marco
+103 [עמ׳ PDF 3]: 
+104 [עמ׳ PDF 3]:                     consider the resolution of individual events in records of breccia layers. A thick brec-
+105 [עמ׳ PDF 3]:                     cia layer can account for multiple events, biasing the paleoseismic record. The resolu-
+106 [עמ׳ PDF 3]:                     tion of an interseismic time interval is no better than the ratio between the thickness
+107 [עמ׳ PDF 3]:                     of a breccia layer and the rate of sedimentation.
+108 [עמ׳ PDF 3]:                          We use revised age data for the Lisan Formation and reassess temporal clustering
+109 [עמ׳ PDF 3]:                     of earthquakes during the late Pleistocene. The variation of recurrence interval cor-
+110 [עמ׳ PDF 3]:                     roborates significant clustering. During periods of clustered earthquakes, of order of
+111 [עמ׳ PDF 3]:                     1000–5000 yr, the interseismic interval becomes short, and the resolution diminishes,
+112 [עמ׳ PDF 3]:                     so the peak rate of recurrence may be underestimated.

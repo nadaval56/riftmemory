@@ -1,0 +1,37 @@
+SOURCE: https://pnsn.org/education/seismology/earthquake-waves
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: P wave; S wave; surface; Love; Rayleigh; primary; secondary; faster)
+
+21 [עמ׳ PDF 1]: Earthquake Waves
+22 [עמ׳ PDF 1]: 
+23 [עמ׳ PDF 1]: Earthquake Waves
+24 [עמ׳ PDF 1]: 
+25 [עמ׳ PDF 1]: When faults rupture in an earthquake, they release vibrations that radiate as seismic energy and cause the ground to shake. These vibrations consist of many different types of waves that primarily fall into two broad categories: body waves and surface waves.
+26 [עמ׳ PDF 1]: Body Waves
+27 [עמ׳ PDF 1]: Body waves travel through the body of the Earth. They come in two distinct forms: primary (P) waves and secondary (S) waves. Both P and S waves are generated across a broad spectrum of frequencies. The higher the frequency, the faster the energy from the earthquake attenuates, or dissipates, with distance. Also, due to attenuation and geometrical spreading, locations close to the source of the rupture that caused the earthquake will receive more energy (and shaking) than more distant locations.
+28 [עמ׳ PDF 1]: P Waves
+29 [עמ׳ PDF 1]: P waves are compressional waves that deform the ground in the same direction they are traveling.  Think of a slinky laying on a table and pushing it forwards and backwards to compress the springs. P waves travel faster than other seismic waves, but do not produce much damaging shaking. They can move through any type of material, solid or liquid, and do not weaken with distance (“attenuate”) as rapidly as S waves, so they retain relatively more high frequency energy when they arrive at distant seismic stations.
+30 [עמ׳ PDF 1]: In the ground, P waves travel quite quickly – even 5 or 6 kilometers per second (km/s) depending on the type of rock. Through water, they move at about 1.5 km/s. In the air, P waves take the form of sound waves and therefore move at the speed of sound: 330 meters per second (m/s) at sea level. Some people report hearing an earthquake before they feel shaking; what they are hearing is the P wave, vibrating either the ground or nearby objects. Eventually, they will feel the more obvious shaking from the slower-traveling, later-arriving S waves.
+31 [עמ׳ PDF 1]: A demonstration of how P waves travel through a medium. Videos on this page are from Wolfram unless otherwise noted.
+32 [עמ׳ PDF 1]: S Waves
+33 [עמ׳ PDF 1]: S waves are shear waves that deform the ground perpendicular to their direction of travel. Think of our slinky example but wiggling it side to side. S waves travel more slowly than P waves at about 3 km/s, but they produce more damaging shaking. When S waves deform the ground, they cause lateral or shear (back and forth) forces on structures. Older buildings were constructed primarily to withstand the vertical forces of gravity rather than shear forces, and therefore are more prone to failure during big earthquakes due to the strong lateral loading experienced. Also, S wave amplitudes are bigger than P wave amplitudes. Unlike P waves, S waves are unable to pass through air and liquids such as water or magma. In fact, this is how we know Earth’s outer core is molten – S waves cannot pass through it.
+34 [עמ׳ PDF 1]: A demonstration of how S waves travel through a medium.
+35 [עמ׳ PDF 1]: Surface Waves
+36 [עמ׳ PDF 1]: When body waves reach the surface of the Earth, some of their energy is combined into complex waves that are trapped near and propagate along the surface. These surface waves generally produce lower frequency ground motions and travel more slowly than body waves, but they can have very large amplitudes and cause damaging ground motions. The two types of surface waves are called Rayleigh waves and Love waves. Surface waves from the largest M8+ earthquakes can circumnavigate the earth multiple times and can excite periods (time between peaks) of over 10 minutes!
+37 [עמ׳ PDF 1]: Rayleigh Waves
+38 [עמ׳ PDF 1]: When P and S waves reach the surface of the Earth from below, bouncing off of and interacting with it and each other, interference waves are generated that propagate along the surface. These are called Rayleigh waves, named after British physicist Lord Rayleigh (born John William Strutt). Rayleigh waves produce a long rolling motion along the Earth's surface, much like the motion of a boat on the open sea. They tend to be the largest seismic waves that appear on seismograms from instruments that record low frequencies. Shallow earthquakes produce stronger Rayleigh waves than deep ones.
+39 [עמ׳ PDF 1]: A demonstration of how Rayleigh waves travel through a medium.
+40 [עמ׳ PDF 1]: Love Waves
+41 [עמ׳ PDF 1]: S waves by themselves can also reflect off of and get trapped near Earth's surface because of differences in the speed that waves can travel by depth. These trapped waves are called Love waves, named after British mathematician A. E. H. Love. This type of surface wave has horizontal motion that is perpendicular to the direction the wave is traveling. Love waves travel a little faster than Rayleigh waves.
+42 [עמ׳ PDF 1]: A demonstration of how Love waves travel through a medium.
+43 [עמ׳ PDF 1]: 
+44 [עמ׳ PDF 1]: Contents
+45 [עמ׳ PDF 1]: Body Waves
+46 [עמ׳ PDF 1]: P Waves
+47 [עמ׳ PDF 1]: S Waves
+48 [עמ׳ PDF 1]: Surface Waves
+49 [עמ׳ PDF 1]: Rayleigh Waves
+50 [עמ׳ PDF 1]: Love Waves
+51 [עמ׳ PDF 1]: 
+52 [עמ׳ PDF 1]: EARTHQUAKES
+53 [עמ׳ PDF 1]: Recent Earthquakes
+54 [עמ׳ PDF 1]: Volcanoes
