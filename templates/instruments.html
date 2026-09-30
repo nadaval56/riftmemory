@@ -1,13 +1,13 @@
 {% extends "base.html" %}
 {% from "_macros.html" import map, source_sheet %}
-{% set title = "מה המכשירים רואים" %}
+{% set title = "מכשירי מדידה" %}
 {% set description = "רעידות האדמה באזור השבר מאז שהתחילו למדוד אותן במכשירים: מפה, עומקים לאורך השבר, והרעידות החזקות שנמדדו." %}
 {% block head %}
 <link rel="stylesheet" href="{{ asset('vendor/leaflet/leaflet.css') }}">
 {% endblock %}
 {% block main %}
 <article class="instr-page">
-  <h1>מה המכשירים רואים</h1>
+  <h1>מכשירי מדידה</h1>
   <p class="lede">על הרעידות ההיסטוריות אנחנו יודעים ממכתבים, מכרוניקות ומחפירות. על הרעידות של המאה האחרונה יש גם רישום של מכשירים: סייסמוגרפים קולטים את הגלים, ומהזמן שלוקח לגלים להגיע לכמה תחנות מחשבים איפה הרעידה התחילה.<sup><a class="footnote-ref" href="#i-usgs-sci">1</a></sup></p>
 
   <section aria-labelledby="how-h">
@@ -61,7 +61,7 @@
           <td>{{ q.label }}{% if q.event %}<br><a href="{{ base }}/events/{{ q.event.id }}/">{{ q.event.short_title }}</a>{% endif %}</td>
           <td><bdi dir="ltr">{{ q.mag }}</bdi> <span class="muted">{{ q.mag_type }}</span></td>
           <td>{% if q.depth is not none %}{{ q.depth }} ק״מ{% endif %}</td>
-          <td><a href="#map" data-map-focus="u-{{ q.id }}">הצגה במפה ↑</a><br><a class="muted ext" href="{{ q.url }}" rel="noopener"><bdi dir="ltr">{{ q.place }}</bdi> ↗</a></td>
+          <td>{% if q.where %}{{ q.where }}<br>{% endif %}<a href="#map" data-map-focus="u-{{ q.id }}">הצגה במפה ↑</a> · <a class="muted ext" href="{{ q.url }}" rel="noopener">הרשומה ב־USGS ↗</a></td>
         </tr>
       {% endfor %}
       </tbody>

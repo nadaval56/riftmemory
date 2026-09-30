@@ -309,6 +309,146 @@
   });
   document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") hideTip(); });
 
+  // חתך העומק: זום בצביטה (או בכפתורים), וגרירה לצדדים כשהתרשים מוגדל.
+  // הזום "סמנטי": המיקומים מחושבים מחדש מהערכים שב-data-*, אז הנקודות מתרווחות ולא גדלות.
+  document.querySelectorAll("svg[data-zoom]").forEach(function (svg) {
+    var NS = "http://www.w3.org/2000/svg", ds = svg.dataset;
+    var X0 = +ds.x0, X1 = +ds.x1, DMAX = +ds.dmax, W = +ds.w, H = +ds.h;
+    var L = +ds.l, R = +ds.r, T = +ds.t, B = +ds.b, CW = W - L - R, CH = H - T - B;
+    var MAXK = 12;
+    // התצוגה: טווח x ‏[a, b] (a בצד ימין) וטווח עומק [d0, d1]
+    var v = { a: X0, b: X1, d0: 0, d1: DMAX };
+    var dots = svg.querySelectorAll("circle[data-x]"), rects = svg.querySelectorAll("rect[data-x1]");
+    var labels = svg.querySelectorAll(".cz-bands text"), grid = svg.querySelector(".cz-grid");
+    var ylab = svg.querySelector(".cz-ylabels"), xlab = svg.querySelector(".cz-xlabels");
+    var angle = (labels[0] && /rotate\(([-\d.]+)\)/.exec(labels[0].getAttribute("transform")) || [0, 0])[1];
+    function px(x) { return W - R - (x - v.a) / (v.b - v.a) * CW; }
+    function py(d) { return T + (d - v.d0) / (v.d1 - v.d0) * CH; }
+    function k() { return (X1 - X0) / (v.b - v.a); }
+    function el(name, attrs, text) {
+      var e = document.createElementNS(NS, name);
+      for (var n in attrs) e.setAttribute(n, attrs[n]);
+      if (text != null) e.textContent = text;
+      return e;
+    }
+    function step(span, target) {
+      var raw = span / target, p = Math.pow(10, Math.floor(Math.log10(raw)));
+      return [1, 2, 5, 10].map(function (m) { return m * p; }).find(function (s) { return s >= raw; });
+    }
+    function clamp() {
+      var w = v.b - v.a, h = v.d1 - v.d0;
+      if (v.a < X0) { v.a = X0; v.b = X0 + w; }
+      if (v.b > X1) { v.b = X1; v.a = X1 - w; }
+      if (v.d0 < 0) { v.d0 = 0; v.d1 = h; }
+      if (v.d1 > DMAX) { v.d1 = DMAX; v.d0 = DMAX - h; }
+    }
+    function draw() {
+      hideTip();
+      dots.forEach(function (c) {
+        c.setAttribute("cx", px(+c.dataset.x).toFixed(1));
+        c.setAttribute("cy", py(Math.min(+c.dataset.d, DMAX)).toFixed(1));
+      });
+      rects.forEach(function (r) {
+        var p1 = px(+r.dataset.x1), p2 = px(+r.dataset.x2);
+        r.setAttribute("x", Math.min(p1, p2).toFixed(1)); r.setAttribute("width", Math.abs(p2 - p1).toFixed(1));
+      });
+      // שם המקטע במרכז החלק הנראה של הרצועה; מקטע שיצא מהתצוגה — בלי שם
+      labels.forEach(function (t) {
+        var p1 = Math.max(Math.min(px(+t.dataset.x1), px(+t.dataset.x2)), L);
+        var p2 = Math.min(Math.max(px(+t.dataset.x1), px(+t.dataset.x2)), W - R);
+        t.style.display = p2 - p1 < 6 ? "none" : "";
+        t.setAttribute("transform", "translate(" + ((p1 + p2) / 2).toFixed(1) + "," + (T - 5) + ") rotate(" + angle + ")");
+      });
+      [grid, ylab, xlab].forEach(function (g) { g.textContent = ""; });
+      var sd = step(v.d1 - v.d0, 4);
+      for (var d = Math.ceil(v.d0 / sd - 1e-6) * sd; d <= v.d1 + 1e-9; d += sd) {
+        var y = py(d).toFixed(1), lbl = +d.toFixed(2);
+        grid.appendChild(el("line", { "class": "chart-grid", x1: L, x2: W - R, y1: y, y2: y }));
+        ylab.appendChild(el("text", { "class": "chart-label", x: L - 4, y: +y + 4, "text-anchor": "end", direction: "ltr" }, lbl));
+      }
+      var sx = step(v.b - v.a, 6);
+      for (var x = Math.ceil(v.a / sx - 1e-6) * sx; x <= v.b + 1e-9; x += sx) {
+        var X = px(x);
+        if (X < L + 8 || X > W - R - 8) continue;
+        xlab.appendChild(el("text", { "class": "chart-label", x: X.toFixed(1), y: H - 6, "text-anchor": "middle" }, "‏" + (+x.toFixed(2)) + "°"));
+      }
+      svg.classList.toggle("is-zoomed", k() > 1.01);
+      if (reset) reset.disabled = k() <= 1.01;
+    }
+    // זום סביב נקודה במסך (sx, sy ביחידות ה-SVG)
+    function zoomAt(f, sx, sy) {
+      var nk = Math.min(Math.max(k() * f, 1), MAXK); f = nk / k();
+      var fx = (W - R - sx) / CW, fy = (sy - T) / CH;
+      var cx = v.a + fx * (v.b - v.a), cy = v.d0 + fy * (v.d1 - v.d0);
+      var w = (X1 - X0) / nk, h = DMAX / nk;
+      v.a = cx - fx * w; v.b = v.a + w; v.d0 = cy - fy * h; v.d1 = v.d0 + h;
+      clamp(); draw();
+    }
+    function toSvg(clientX, clientY) {
+      var r = svg.getBoundingClientRect();
+      return [(clientX - r.left) / r.width * W, (clientY - r.top) / r.height * H];
+    }
+    // צביטה ביד אחת או שתיים, גרירה באצבע אחת (רק לצדדים; גלילה אנכית נשארת לדף)
+    var pts = {}, last = null, moved = false;
+    function state() {
+      var ids = Object.keys(pts), p = ids.map(function (i) { return pts[i]; });
+      if (p.length === 1) return { x: p[0][0], y: p[0][1], dist: 0, n: 1 };
+      if (p.length >= 2) return { x: (p[0][0] + p[1][0]) / 2, y: (p[0][1] + p[1][1]) / 2,
+        dist: Math.hypot(p[0][0] - p[1][0], p[0][1] - p[1][1]), n: 2 };
+      return null;
+    }
+    svg.addEventListener("pointerdown", function (ev) {
+      pts[ev.pointerId] = toSvg(ev.clientX, ev.clientY); last = state(); moved = false;
+    });
+    svg.addEventListener("pointermove", function (ev) {
+      if (!pts[ev.pointerId]) return;
+      pts[ev.pointerId] = toSvg(ev.clientX, ev.clientY);
+      var s = state();
+      if (!last || s.n !== last.n) { last = s; return; }
+      if (s.n === 2 && last.dist > 0) {
+        zoomAt(s.dist / last.dist, s.x, s.y); moved = true;
+      }
+      if (k() > 1.01 && (s.n === 2 || ev.pointerType !== "touch" || Math.abs(s.x - last.x) > Math.abs(s.y - last.y))) {
+        var dx = (s.x - last.x) / CW * (v.b - v.a), dy = (s.y - last.y) / CH * (v.d1 - v.d0);
+        if (Math.abs(s.x - last.x) + Math.abs(s.y - last.y) > 0.5) moved = true;
+        v.a += dx; v.b += dx;
+        if (s.n === 2 || ev.pointerType !== "touch") { v.d0 -= dy; v.d1 -= dy; }
+        clamp(); draw();
+      }
+      last = s;
+    });
+    function up(ev) { delete pts[ev.pointerId]; last = state(); }
+    ["pointerup", "pointercancel", "pointerleave"].forEach(function (t) { svg.addEventListener(t, up); });
+    // אחרי גרירה או צביטה לא פותחים תווית
+    svg.addEventListener("click", function (ev) { if (moved) { ev.stopPropagation(); moved = false; } }, true);
+    svg.addEventListener("wheel", function (ev) {
+      if (!ev.ctrlKey && !ev.metaKey) return;  // גלגלת רגילה גוללת את הדף
+      ev.preventDefault();
+      var p = toSvg(ev.clientX, ev.clientY);
+      zoomAt(ev.deltaY < 0 ? 1.25 : 0.8, p[0], p[1]);
+    }, { passive: false });
+    svg.addEventListener("dblclick", function (ev) {
+      var p = toSvg(ev.clientX, ev.clientY); zoomAt(2, p[0], p[1]);
+    });
+    // כפתורים, גם למקלדת ולמי שלא צובט
+    var bar = document.createElement("div");
+    bar.className = "chart-zoom";
+    bar.innerHTML = '<span class="chart-zoom-hint">' +
+      (matchMedia("(pointer: coarse)").matches ? "אפשר לקרב בצביטה" : "לקירוב: לחיצה כפולה או Ctrl וגלגלת") + "</span>" +
+      '<button type="button" data-z="in" aria-label="הגדלה">+</button>' +
+      '<button type="button" data-z="out" aria-label="הקטנה">−</button>' +
+      '<button type="button" data-z="reset">איפוס</button>';
+    svg.parentNode.insertBefore(bar, svg.nextSibling);
+    var reset = bar.querySelector('[data-z="reset"]');
+    bar.addEventListener("click", function (ev) {
+      var b = ev.target.closest("button"); if (!b) return;
+      hideTip();
+      if (b.dataset.z === "reset") { v = { a: X0, b: X1, d0: 0, d1: DMAX }; draw(); }
+      else zoomAt(b.dataset.z === "in" ? 2 : 0.5, L + CW / 2, T);  // אנכית: מפני הקרקע, שם רוב הרעידות
+    });
+    draw();
+  });
+
   // איך מוצאים את מוקד-העל: האנימציה מתנגנת כשהתרשים נכנס למסך, ובכפתור "הפעלה חוזרת"
   var tri = document.querySelector(".tri");
   if (tri) {

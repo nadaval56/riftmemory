@@ -472,6 +472,16 @@ section + section { margin-top: 2rem; }
 .chart-band.b1 { fill: var(--surface-2); }
 .chart-band-label { fill: var(--accent-ink); font-size: 11px; font-weight: 600; }
 .chart-note { font-size: .85rem; margin-top: .4rem; }
+/* חתך העומק: צביטה מקרבת, גלילה אנכית נשארת לדף */
+svg[data-zoom] { touch-action: pan-y; user-select: none; -webkit-user-select: none; }
+svg[data-zoom].is-zoomed { cursor: grab; }
+.chart-zoom { display: flex; align-items: center; gap: .35rem; justify-content: flex-end; margin-top: .3rem; }
+.chart-zoom-hint { margin-inline-end: auto; font-size: .8rem; color: var(--ink-2); }
+.chart-zoom button {
+  min-width: 2.75rem; min-height: 2.75rem; padding: 0 .6rem; font: inherit; font-size: .95rem; line-height: 1;
+  color: var(--ink); background: var(--surface-2); border: 1px solid var(--line); border-radius: var(--radius); cursor: pointer;
+}
+.chart-zoom button:disabled { opacity: .45; cursor: default; }
 .quake-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .6rem; }
 .quake { background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--radius); padding: .7rem .9rem; scroll-margin-top: 1rem; }
 .quake:target { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
@@ -490,7 +500,7 @@ section + section { margin-top: 2rem; }
 .mag-bands li { background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--radius); padding: .35rem .7rem; font-size: .9rem; }
 .mag-bands strong { color: var(--quake); font-size: 1.05rem; margin-inline-end: .2rem; }
 
-/* ===== מה המכשירים רואים ===== */
+/* ===== מכשירי מדידה ===== */
 .table-wrap { overflow-x: auto; }
 table.data { width: 100%; border-collapse: collapse; font-size: .9rem; background: var(--surface); border-radius: var(--radius); }
 table.data th, table.data td { text-align: start; padding: .45rem .6rem; border-bottom: 1px solid var(--line-soft); vertical-align: top; }

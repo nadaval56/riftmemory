@@ -55,7 +55,7 @@ jobs:
         if: contains(steps.task.outputs.tasks, 'gsi-probe')
         run: python scripts/probe_gsi.py
 
-      # קטלוג הרעידות של המכון לאורך שנים (עמוד "מה המכשירים רואים")
+      # קטלוג הרעידות של המכון לאורך שנים (עמוד "מכשירי מדידה")
       - name: catalog
         if: contains(steps.task.outputs.tasks, 'catalog')
         run: python scripts/fetch_catalog.py
