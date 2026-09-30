@@ -27,7 +27,9 @@
 <div class="map" id="{{ id }}" style="height: {{ height }}" data-map='{{ data | tojson | forceescape }}'
      role="region" aria-label="מפה: מקטעי השבר ורעידות"></div>
 <div class="map-legend" data-for="{{ id }}">
-  {% if data.events or data.live or data.damage %}
+  {# מתגים רק כשיש במפה יותר משכבה אחת (בדף 30 הימים יש רק רעידות אחרונות, ומתג יחיד מיותר) #}
+  {% set n_layers = (1 if data.events else 0) + (1 if data.live else 0) + (1 if data.damage else 0) %}
+  {% if n_layers >= 2 %}
   <fieldset class="map-toggles">
     <legend>מה להציג במפה</legend>
     {% if data.events %}<label class="tg tg-hist"><input type="checkbox" checked autocomplete="off" data-layer="hist"> <span class="lg lg-hist" aria-hidden="true"></span> <span><strong>רעידות היסטוריות</strong> · מיקום משוער, לפי מחקר. העיגול הגדול מסמן שהמיקום לא מדויק</span></label>{% endif %}
@@ -36,6 +38,8 @@
   </fieldset>
   {% endif %}
   <ul class="map-key">
+    {% if n_layers < 2 and data.live %}<li><span class="lg lg-live" aria-hidden="true"></span> {{ data.live_title or "רעידות אחרונות" }} · {{ data.live_legend or "30 הימים האחרונים, לפי המכון הגיאולוגי. נמדדו במכשירים" }}</li>{% endif %}
+    {% if n_layers < 2 and data.events %}<li><span class="lg lg-hist" aria-hidden="true"></span> רעידות היסטוריות · מיקום משוער</li>{% endif %}
     <li><span class="lg lg-fault" aria-hidden="true"></span> קו שבר פעיל (העתק). לחיצה על קו מציגה לאיזה מקטע הוא שייך</li>
     {% if data.highlight %}<li><span class="lg lg-fault lg-strong" aria-hidden="true"></span> המקטע של הרעידה הזו</li>{% endif %}
   </ul>

@@ -1,13 +1,13 @@
 {% extends "base.html" %}
 {% from "_macros.html" import map, source_sheet %}
-{% set title = "30 הימים האחרונים" %}
+{% set title = "רעידות ב-30 הימים האחרונים" %}
 {% set description = "כל רעידות האדמה שהמכון הגיאולוגי רשם באזור בחודש האחרון: מתי, איפה, כמה חזקה, באיזה עומק, וכמה רחוק מקו השבר." %}
 {% block head %}
 <link rel="stylesheet" href="{{ asset('vendor/leaflet/leaflet.css') }}">
 {% endblock %}
 {% block main %}
 <article class="recent">
-  <h1>30 הימים האחרונים</h1>
+  <h1>רעידות ב-30 הימים האחרונים</h1>
   <p class="lede">כל הרעידות שהמכון הגיאולוגי רשם באזור בחודש האחרון, מגניטודה 2 ומעלה.<sup><a class="footnote-ref" href="#r-gsi">1</a></sup>
   {% if quakes %}בסך הכול <strong>{{ quakes | length }}</strong> רעידות.
   {% if strongest %}החזקה שבהן: <a href="#{{ strongest.anchor }}"><bdi dir="ltr">M{{ strongest.magnitude }}</bdi>, {{ strongest.label }}</a>.{% endif %}

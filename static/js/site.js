@@ -82,7 +82,7 @@
       texts: css.getPropertyValue("--texts").trim(),
       archaeology: css.getPropertyValue("--archaeology").trim(),
       instrumental: css.getPropertyValue("--instrumental").trim(),
-      live: css.getPropertyValue("--quake").trim(),
+      live: css.getPropertyValue("--map-live").trim(),
       rust: css.getPropertyValue("--accent").trim()
     };
     var bounds = [];
@@ -252,6 +252,24 @@
     }
     if (all.length > 1) map.fitBounds(all, { padding: [24, 24], maxZoom: 9 });
     else if (all.length === 1) map.setView(all[0], 8);
+  }
+
+  // הפס הנע: כפתור עצירה והפעלה (WCAG 2.2.2: תוכן שזז יותר מ-5 שניות צריך דרך לעצור אותו)
+  var ticker = document.querySelector(".live-ticker");
+  if (ticker) {
+    var pause = ticker.querySelector(".lt-pause");
+    pause.addEventListener("click", function () {
+      var paused = ticker.classList.toggle("paused");
+      pause.setAttribute("aria-pressed", paused ? "true" : "false");
+      pause.setAttribute("aria-label", paused ? "הפעלת הפס הנע" : "עצירת הפס הנע");
+      pause.firstElementChild.textContent = paused ? "▶" : "❚❚";
+    });
+  }
+
+  // בלשוניות: במסך צר הפס נגלל, והלשונית הפעילה נגללת לתוך התצוגה
+  var current = document.querySelector('.site-nav a[aria-current="page"]');
+  if (current && current.parentNode.scrollWidth > current.parentNode.clientWidth) {
+    current.scrollIntoView({ block: "nearest", inline: "center" });
   }
 
   // מצב כהה/בהיר: מחליף בין שני המצבים, וזוכר את הבחירה בדפדפן בלבד.
