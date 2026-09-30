@@ -143,21 +143,28 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 }
 @media (prefers-reduced-motion: reduce) { .rift-mark * { animation: none !important; } }
 /* הלשוניות: פס אחד עדין עם רקע ומסגרת; הלשונית הפעילה מודגשת בצבע האתר ובקו תחתון.
-   במסך צר הפס נגלל הצידה במקום להישבר לכמה שורות. */
+   במסך צר: רשת של שתי עמודות, כל הלשוניות גלויות בלי גלילה. */
 .site-nav {
-  order: 3; flex: 1 1 100%; display: flex; gap: .15rem; padding: .25rem;
+  order: 3; flex: 1 1 100%; display: flex; flex-wrap: wrap; gap: .15rem; padding: .25rem;
   background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
-  overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch;
 }
-.site-nav::-webkit-scrollbar { display: none; }
 .site-nav a {
-  flex: none; white-space: nowrap; color: var(--ink-2); text-decoration: none; font-size: .9rem; font-weight: 500;
+  white-space: nowrap; color: var(--ink-2); text-decoration: none; font-size: .9rem; font-weight: 500;
   padding: .4rem .8rem; border-radius: 9px; position: relative;
 }
 .site-nav a:hover { background: var(--surface-2); color: var(--ink); }
 .site-nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent-ink); font-weight: 600; }
 .site-nav a[aria-current="page"]::after {
   content: ""; position: absolute; inset-inline: .8rem; bottom: .15rem; height: 2px; border-radius: 2px; background: var(--accent);
+}
+@media (max-width: 640px) {
+  .site-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; padding: 0; overflow: hidden; background: var(--line); }
+  .site-nav a {
+    display: flex; align-items: center; justify-content: center; text-align: center; white-space: normal;
+    min-height: 44px; padding: .45rem .5rem; border-radius: 0; background: var(--surface); font-size: .86rem; line-height: 1.25;
+  }
+  .site-nav a:hover { background: var(--surface-2); }
+  .site-nav a[aria-current="page"]::after { inset-inline: 30%; bottom: .3rem; }
 }
 .theme-btn {
   width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center;
@@ -560,3 +567,4 @@ html.a11y-still .lt-viewport { overflow-x: auto; mask-image: none; }
 
 /* תוויות השכבות מתחת למפה בצבע השכבה */
 .tg-dmg strong { color: color-mix(in srgb, var(--map-dmg) 80%, var(--ink)); }
+.star-ref { text-decoration: none; color: var(--accent-ink); margin-inline-start: .15rem; font-weight: 600; }

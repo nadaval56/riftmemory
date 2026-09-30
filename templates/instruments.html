@@ -10,9 +10,16 @@
   <h1>מה המכשירים רואים</h1>
   <p class="lede">על הרעידות ההיסטוריות אנחנו יודעים ממכתבים, מכרוניקות ומחפירות. על הרעידות של המאה האחרונה יש גם רישום של מכשירים: סייסמוגרפים קולטים את הגלים, ומהזמן שלוקח לגלים להגיע לכמה תחנות מחשבים איפה הרעידה התחילה.<sup><a class="footnote-ref" href="#i-usgs-sci">1</a></sup> כאן כל מה שנרשם באזור השבר, בלי פרשנות.</p>
 
+  <section aria-labelledby="how-h">
+    <h2 id="how-h">איך סייסמוגרף מודד רעידה</h2>
+    <p>בתוך סייסמומטר תלויה משקולת על קפיץ או על ציר. כשהקרקע זזה, בית המכשיר זז איתה, והמשקולת נוטה להישאר במקומה בגלל ההתמד (אינרציה). חיישנים מודדים כמה זז בית המכשיר ביחס למשקולת, והתנועה היחסית הזו מומרת לאות חשמלי.<sup><a class="footnote-ref" href="#i-earthscope-inside">2</a></sup> סייסמומטר מודרני רושם את תנועת הקרקע בשלושה כיוונים: מעלה-מטה, צפון-דרום ומזרח-מערב.<sup><a class="footnote-ref" href="#i-earthscope-motion">3</a></sup> הרישום נקרא סייסמוגרמה.<sup><a class="footnote-ref" href="#i-usgs-sci-rec">4</a></sup></p>
+    <p>גלי P מגיעים לתחנה ראשונים, וגלי S אחריהם. ככל שהתחנה רחוקה יותר מהרעידה, הפער בין שניהם גדל. מהפער מחשבים את המרחק מהרעידה, אבל לא את הכיוון שלה. סביב התחנה משרטטים על מפה מעגל שהרדיוס שלו הוא המרחק הזה. כשמשרטטים מעגלים כאלה סביב שלוש תחנות, מוקד-העל נמצא בנקודה שבה הם נחתכים.<sup><a class="footnote-ref" href="#i-usgs-sci-loc">5</a></sup><sup><a class="footnote-ref" href="#i-mtu">6</a></sup></p>
+    <p>ג׳ון מילן, מהנדס מכרות בריטי, היה פרופסור לגיאולוגיה בטוקיו. אחרי רעידה ביוקוהמה ב-1880 הוא ועמיתיו ייסדו את החברה הסייסמולוגית של יפן. עד 1892 פיתחו מילן, ג׳יימס יואינג ותומס גריי סייסמוגרף שרשם את התנועה האופקית של הקרקע. המכשיר היה אמין ופשוט מספיק כדי להציב אותו ברחבי העולם, ומילן הקים רשת תחנות שעבדו בו.<sup><a class="footnote-ref" href="#i-milne-dsb">7</a></sup> בישראל מפרסם המכון הגיאולוגי לישראל קטלוג רעידות משלו (ראו <a href="#gsi-h">הרשת הישראלית</a>, למטה).</p>
+  </section>
+
   <section aria-labelledby="map-h">
     <h2 id="map-h">{{ inst.usgs.count }} רעידות מאז {{ inst.first_year }}</h2>
-    <p>כל הרעידות במגניטודה 2.5 ומעלה בקטלוג של המכון הגאולוגי האמריקאי (USGS) באזור שבין מפרץ אילת ללבנון.<sup><a class="footnote-ref" href="#i-usgs">2</a></sup> גודל הנקודה לפי המגניטודה. לחיצה על נקודה פותחת את הרשומה.</p>
+    <p>כל הרעידות במגניטודה 2.5 ומעלה בקטלוג של המכון הגאולוגי האמריקאי (USGS) באזור שבין מפרץ אילת ללבנון.<sup><a class="footnote-ref" href="#i-usgs">8</a></sup> גודל הנקודה לפי המגניטודה. לחיצה על נקודה פותחת את הרשומה.</p>
     {{ map(map_data, id='map', height='480px') }}
   </section>
 
@@ -54,36 +61,29 @@
       </tbody>
     </table>
     </div>
-    <p class="chart-note muted">סוג המגניטודה (mw, mb, ml ועוד) מציין את שיטת החישוב. לכל שיטה טווח גדלים ומרחקים שבו היא מתאימה.<sup><a class="footnote-ref" href="#i-usgs-types">3</a></sup></p>
+    <p class="chart-note muted">סוג המגניטודה (mw, mb, ml ועוד) מציין את שיטת החישוב. לכל שיטה טווח גדלים ומרחקים שבו היא מתאימה.<sup><a class="footnote-ref" href="#i-usgs-types">9</a></sup></p>
   </section>
 
   {% if inst.gsi_count %}
   <section aria-labelledby="gsi-h">
     <h2 id="gsi-h">הרשת הישראלית</h2>
-    <p>המכון הגיאולוגי לישראל מפרסם קטלוג משלו. ה־API של האתר שומר כמה חודשים אחורה: מאז {{ inst.gsi_first }} נרשמו בה {{ inst.gsi_count }} רעידות מקומיות במגניטודה 2.5 ומעלה באזור{% if inst.gsi_felt %}, ו־{{ inst.gsi_felt }} מהן דווחו כמורגשות{% endif %}.<sup><a class="footnote-ref" href="#i-gsi">4</a></sup> הרעידות של החודש האחרון, עם כל הפרטים, נמצאות ב<a href="{{ base }}/recent/">דף 30 הימים</a>.</p>
+    <p>המכון הגיאולוגי לישראל מפרסם קטלוג משלו. ה־API של האתר שומר כמה חודשים אחורה: מאז {{ inst.gsi_first }} נרשמו בה {{ inst.gsi_count }} רעידות מקומיות במגניטודה 2.5 ומעלה באזור{% if inst.gsi_felt %}, ו־{{ inst.gsi_felt }} מהן דווחו כמורגשות{% endif %}.<sup><a class="footnote-ref" href="#i-gsi">10</a></sup> הרעידות של החודש האחרון, עם כל הפרטים, נמצאות ב<a href="{{ base }}/recent/">דף 30 הימים</a>.</p>
   </section>
   {% endif %}
-
-  <section aria-labelledby="how-h">
-    <h2 id="how-h">איך סייסמוגרף מודד רעידה</h2>
-    <p>בתוך סייסמומטר תלויה משקולת על קפיץ או על ציר. כשהקרקע זזה, בית המכשיר זז איתה, והמשקולת נוטה להישאר במקומה בגלל ההתמד (אינרציה). חיישנים מודדים כמה זז בית המכשיר ביחס למשקולת, והתנועה היחסית הזו מומרת לאות חשמלי.<sup><a class="footnote-ref" href="#i-earthscope-inside">5</a></sup> סייסמומטר מודרני רושם את תנועת הקרקע בשלושה כיוונים: מעלה-מטה, צפון-דרום ומזרח-מערב.<sup><a class="footnote-ref" href="#i-earthscope-motion">6</a></sup> הרישום נקרא סייסמוגרמה.<sup><a class="footnote-ref" href="#i-usgs-sci-rec">7</a></sup></p>
-    <p>גלי P מגיעים לתחנה ראשונים, וגלי S אחריהם. ככל שהתחנה רחוקה יותר מהרעידה, הפער בין שניהם גדל. מהפער מחשבים את המרחק מהרעידה, אבל לא את הכיוון שלה. סביב התחנה משרטטים על מפה מעגל שהרדיוס שלו הוא המרחק הזה. כשמשרטטים מעגלים כאלה סביב שלוש תחנות, מוקד-העל נמצא בנקודה שבה הם נחתכים.<sup><a class="footnote-ref" href="#i-usgs-sci-loc">8</a></sup><sup><a class="footnote-ref" href="#i-mtu">9</a></sup></p>
-    <p>ג׳ון מילן, מהנדס מכרות בריטי, היה פרופסור לגיאולוגיה בטוקיו. אחרי רעידה ביוקוהמה ב-1880 הוא ועמיתיו ייסדו את החברה הסייסמולוגית של יפן. עד 1892 פיתחו מילן, ג׳יימס יואינג ותומס גריי סייסמוגרף שרשם את התנועה האופקית של הקרקע. המכשיר היה אמין ופשוט מספיק כדי להציב אותו ברחבי העולם, ומילן הקים רשת תחנות שעבדו בו.<sup><a class="footnote-ref" href="#i-milne-dsb">10</a></sup> בישראל מפרסם המכון הגיאולוגי לישראל קטלוג רעידות משלו (ראו <a href="#gsi-h">הרשת הישראלית</a>).</p>
-  </section>
 
   <section class="sources" id="bibliography">
     <h2>מקורות</h2>
     <div class="footnote"><ol>
       <li id="i-usgs-sci">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes" rel="noopener">The Science of Earthquakes</a>.</li>
-      <li id="i-usgs">USGS, <a href="https://earthquake.usgs.gov/earthquakes/search/" rel="noopener">ANSS Comprehensive Earthquake Catalog (ComCat)</a>, נמשך {{ inst.usgs.fetched_at[:10] }}: מגניטודה 2.5 ומעלה, 28–34.8 צפון, 33.8–37 מזרח. נחלת הכלל.</li>
-      <li id="i-usgs-types">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/magnitude-types" rel="noopener">Magnitude Types</a>.</li>
-      <li id="i-gsi">המכון הגיאולוגי לישראל, <a href="https://eq.gsi.gov.il/heb/earthquake/lastEarthquakes.php" rel="noopener">רעידות אדמה</a>, ה־API של האתר, נמשך {{ inst.gsi.fetched_at[:10] if inst.gsi else "" }}.</li>
       <li id="i-earthscope-inside">EarthScope Consortium, "Seismometers", <a href="https://www.earthscope.org/what-is/seismology/seismometers/" rel="noopener">https://www.earthscope.org/what-is/seismology/seismometers/</a>, סעיף "What's inside a Seismometer?".</li>
       <li id="i-earthscope-motion">EarthScope Consortium, "Seismometers", <a href="https://www.earthscope.org/what-is/seismology/seismometers/" rel="noopener">https://www.earthscope.org/what-is/seismology/seismometers/</a>, סעיף "How Seismometers Measure Motion".</li>
       <li id="i-usgs-sci-rec">המכון הגיאולוגי האמריקני (USGS), "The Science of Earthquakes", <a href="https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes" rel="noopener">https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes</a>, סעיף "How are earthquakes recorded?".</li>
       <li id="i-usgs-sci-loc">המכון הגיאולוגי האמריקני (USGS), "The Science of Earthquakes", <a href="https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes" rel="noopener">https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes</a>, סעיף "How can scientists tell where the earthquake happened?".</li>
       <li id="i-mtu">האוניברסיטה הטכנולוגית של מישיגן (Michigan Technological University), UPSeis, "How Can I Locate the Earthquake Epicenter?", <a href="https://www.mtu.edu/geo/community/seismology/learn/earthquake-epicenter/" rel="noopener">https://www.mtu.edu/geo/community/seismology/learn/earthquake-epicenter/</a>, סעיפים "Finding the Distance to the Epicenter" ו-"Finding the Epicenter".</li>
       <li id="i-milne-dsb">K. E. Bullen, "Milne, John", <em>Complete Dictionary of Scientific Biography</em>, דרך Encyclopedia.com, <a href="https://www.encyclopedia.com/people/science-and-technology/geology-and-oceanography-biographies/john-milne" rel="noopener">https://www.encyclopedia.com/people/science-and-technology/geology-and-oceanography-biographies/john-milne</a>, פסקאות 2–3 ו-5. שמות יואינג וגריי והשנה 1880 גם בערך של Gale באותו עמוד.</li>
+      <li id="i-usgs">USGS, <a href="https://earthquake.usgs.gov/earthquakes/search/" rel="noopener">ANSS Comprehensive Earthquake Catalog (ComCat)</a>, נמשך {{ inst.usgs.fetched_at[:10] }}: מגניטודה 2.5 ומעלה, 28–34.8 צפון, 33.8–37 מזרח. נחלת הכלל.</li>
+      <li id="i-usgs-types">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/magnitude-types" rel="noopener">Magnitude Types</a>.</li>
+      <li id="i-gsi">המכון הגיאולוגי לישראל, <a href="https://eq.gsi.gov.il/heb/earthquake/lastEarthquakes.php" rel="noopener">רעידות אדמה</a>, ה־API של האתר, נמשך {{ inst.gsi.fetched_at[:10] if inst.gsi else "" }}.</li>
     </ol></div>
   </section>
 </article>
