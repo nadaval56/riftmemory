@@ -1,7 +1,75 @@
 {
-  "fetched_at": "2026-09-30T13:50:42Z",
+  "fetched_at": "2026-09-30T15:25:15Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-09-29T15:31:03Z",
+      "lat": 34.6378,
+      "lon": 34.3208,
+      "depth_km": 28.0,
+      "magnitude": 2.9,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20260929_0000218",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-29T09:33:28Z",
+      "lat": 34.4365,
+      "lon": 33.4179,
+      "depth_km": 14.0,
+      "magnitude": 2.3,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20260929_0000334",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-29T05:41:24Z",
+      "lat": 35.4582,
+      "lon": 35.298,
+      "depth_km": 6.2,
+      "magnitude": 3.0,
+      "mag_type": "ml",
+      "place_he": "ליד חוף סוריה",
+      "place": "Near The Coast Of Syria",
+      "source_id": "20260929_0000062",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-24T11:50:54Z",
+      "lat": 35.9575,
+      "lon": 36.5942,
+      "depth_km": 22.2,
+      "magnitude": 2.0,
+      "mag_type": "ml",
+      "place_he": "סוריה",
+      "place": "Syria",
+      "source_id": "20260924_0000170",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-09-23T21:59:23Z",
       "lat": 32.0235,
@@ -933,5 +1001,9 @@
         "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     }
-  ]
+  ],
+  "supplement": {
+    "source": "emsc",
+    "since": "2026-09-23T21:59:23Z"
+  }
 }
