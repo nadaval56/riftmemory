@@ -114,39 +114,52 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 .brand-text { display: flex; flex-direction: column; line-height: 1.2; }
 .brand-name { font-weight: 700; font-size: 1.35rem; letter-spacing: -.4px; }
 .brand-sub { font-size: .8rem; color: var(--ink-2); }
-/* הסמל: מבנה חרב של ארבע לבנים. שלוש עומדות, והרביעית נפלה ושוכבת לידן על הקרקע. */
+/* הסמל: קשת חרבה. שלוש אבנים מכל צד ואבן ראשה; האבן העליונה השמאלית ואבן הראשה נפלו
+   ושוכבות על הקרקע בתוך הקשת. */
 .rift-mark { width: 32px; height: 32px; flex: none; overflow: visible; }
-.rift-mark rect { fill: var(--accent); }
+.rift-mark path { fill: var(--accent); }
 
-/* אנימציה: פחות משתי שניות. הקיר עומד שלם (הלבנה הרביעית במקומה, מעל השנייה), הכול רועד,
-   והלבנה העליונה נופלת ומתגלגלת לצד. המצב במנוחה הוא הפריים האחרון (fill-mode backwards),
-   כך שבלי תנועה (העדפת מערכת או "עצירת אנימציות") או בלי JS, הסמל פשוט עומד חרב.
+/* אנימציה: פחות משתי שניות. הקשת שלמה, הכול רועד, האבן העליונה השמאלית נופלת,
+   ואחריה אבן הראשה. המצב במנוחה הוא הפריים האחרון (fill-mode backwards), כך שבלי תנועה
+   (העדפת מערכת או "עצירת אנימציות") או בלי JS, הסמל עומד חרב.
    מתנגנת בטעינה, במעבר עכבר, ושוב כשהסמל חוזר למסך או 15 שניות אחרי הפעם הקודמת
-   (static/js/brand-anim.js, אותה לוגיקה כמו באתר העב"מים). אין לולאה ב-CSS.
-   המיקום ההתחלתי של הלבנה הנופלת נכתב יחסית למקומה הסופי (במערכת הצירים המסובבת שלה). */
+   (static/js/brand-anim.js, אותה לוגיקה כמו באתר העב"מים). אין לולאה ב-CSS. */
 @keyframes rift-shake   { 0%, 100% { transform: none; } 15% { transform: translateX(-.8px); } 30% { transform: translateX(.8px); } 45% { transform: translateX(-.7px); } 60% { transform: translateX(.6px); } 75% { transform: translateX(-.4px); } }
 @keyframes rift-shake-2 { 0%, 100% { transform: none; } 15% { transform: translateX(-.8px); } 30% { transform: translateX(.8px); } 45% { transform: translateX(-.7px); } 60% { transform: translateX(.6px); } 75% { transform: translateX(-.4px); } }
-@keyframes rift-fall {
+@keyframes rift-fall-a {
   0%, 45% { transform: none; }
-  62% { transform: translate(3px, .3px) rotate(-22deg); }
-  82% { transform: translate(9.6px, 7.6px) rotate(-8deg); }
-  91% { transform: translate(10.3px, 7px) rotate(-17deg); }
-  100% { transform: translate(10.5px, 7.35px) rotate(-14deg); }
+  78% { transform: translate(2.2px, 17.2px) rotate(-60deg); }
+  88% { transform: translate(2.4px, 16.2px) rotate(-76deg); }
+  100% { transform: translate(2.36px, 16.6px) rotate(-72deg); }
 }
-@keyframes rift-fall-2 {
+@keyframes rift-fall-a-2 {
   0%, 45% { transform: none; }
-  62% { transform: translate(3px, .3px) rotate(-22deg); }
-  82% { transform: translate(9.6px, 7.6px) rotate(-8deg); }
-  91% { transform: translate(10.3px, 7px) rotate(-17deg); }
-  100% { transform: translate(10.5px, 7.35px) rotate(-14deg); }
+  78% { transform: translate(2.2px, 17.2px) rotate(-60deg); }
+  88% { transform: translate(2.4px, 16.2px) rotate(-76deg); }
+  100% { transform: translate(2.36px, 16.6px) rotate(-72deg); }
+}
+@keyframes rift-fall-k {
+  0%, 60% { transform: none; }
+  85% { transform: translate(3.4px, 17.4px) rotate(24deg); }
+  93% { transform: translate(3.7px, 16.8px) rotate(10deg); }
+  100% { transform: translate(3.6px, 16.99px) rotate(14deg); }
+}
+@keyframes rift-fall-k-2 {
+  0%, 60% { transform: none; }
+  85% { transform: translate(3.4px, 17.4px) rotate(24deg); }
+  93% { transform: translate(3.7px, 16.8px) rotate(10deg); }
+  100% { transform: translate(3.6px, 16.99px) rotate(14deg); }
 }
 .rift-all { animation: rift-shake .7s linear .2s; }
-.rift-fall { transform-box: fill-box; transform-origin: 50% 50%; transform: translate(10.5px, 7.35px) rotate(-14deg); animation: rift-fall 1.3s ease-in .2s backwards; }
+.rift-fall-a, .rift-fall-k { transform-box: fill-box; transform-origin: 50% 50%; }
+.rift-fall-a { transform: translate(2.36px, 16.6px) rotate(-72deg); animation: rift-fall-a 1.3s ease-in .2s backwards; }
+.rift-fall-k { transform: translate(3.6px, 16.99px) rotate(14deg); animation: rift-fall-k 1.7s ease-in .2s backwards; }
 /* מעבר עכבר מנגן שוב (שם אחר לאנימציה, כי דפדפן לא מתחיל מחדש אנימציה ששמה לא השתנה).
    רק עכבר אמיתי: בטלפון :hover נתקע אחרי נגיעה. */
 @media (hover: hover) {
   .brand:hover .rift-all { animation-name: rift-shake-2; }
-  .brand:hover .rift-fall { animation-name: rift-fall-2; }
+  .brand:hover .rift-fall-a { animation-name: rift-fall-a-2; }
+  .brand:hover .rift-fall-k { animation-name: rift-fall-k-2; }
 }
 @media (prefers-reduced-motion: reduce) { .rift-mark * { animation: none !important; } }
 /* הלשוניות: פס אחד עדין עם רקע ומסגרת; הלשונית הפעילה מודגשת ברקע ובטקסט בצבע האתר.
