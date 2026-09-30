@@ -1,0 +1,153 @@
+SOURCE: https://earthquake.usgs.gov/data/comcat/data-eventterms.php
+
+
+
+  GeoJSON Summary Format
+
+    Jump to Navigation
+
+GeoJSON Summary Format
+
+Description
+
+      GeoJSON is a format for encoding a variety of geographic data structures.
+      A GeoJSON object may represent a geometry, a feature, or a collection of
+      features. GeoJSON uses the
+      JSON standard.
+      The GeoJSONP feed uses the same JSON response, but the GeoJSONP response
+      is wrapped inside the function call, eqfeed_callback. See the
+      GeoJSON site
+      for more information.
+
+      This feed adheres to the USGS Earthquakes
+      Feed Life Cycle Policy.
+
+Usage
+
+      GeoJSON is intended to be used as a programatic interface for
+      applications.
+
+Output
+    {
+  type: "FeatureCollection",
+  metadata: {
+    generated: Long Integer,
+    url: String,
+    title: String,
+    api: String,
+    count: Integer,
+    status: Integer
+  },
+  bbox: [
+    minimum longitude,
+    minimum latitude,
+    minimum depth,
+    maximum longitude,
+    maximum latitude,
+    maximum depth
+  ],
+  features: [
+    {
+      type: "Feature",
+      properties: {
+        mag: Decimal,
+        place: String,
+        time: Long Integer,
+        updated: Long Integer,
+        tz: Integer,
+        url: String,
+        detail: String,
+        felt:Integer,
+        cdi: Decimal,
+        mmi: Decimal,
+        alert: String,
+        status: String,
+        tsunami: Integer,
+        sig:Integer,
+        net: String,
+        code: String,
+        ids: String,
+        sources: String,
+        types: String,
+        nst: Integer,
+        dmin: Decimal,
+        rms: Decimal,
+        gap: Decimal,
+        magType: String,
+        type: String
+      },
+      geometry: {
+        type: "Point",
+        coordinates: [
+          longitude,
+          latitude,
+          depth
+        ]
+      },
+      id: String
+    },
+    …
+  ]
+}
+
+Feeds
+
+Past HourUpdated every minute.
+
+Significant Earthquakes
+
+M4.5+ Earthquakes
+
+M2.5+ Earthquakes
+
+M1.0+ Earthquakes
+
+All Earthquakes
+
+Past DayUpdated every minute.
+
+Significant Earthquakes
+
+M4.5+ Earthquakes
+
+M2.5+ Earthquakes
+
+M1.0+ Earthquakes
+
+All Earthquakes
+
+Past 7 DaysUpdated every minute.
+
+Significant Earthquakes
+
+M4.5+ Earthquakes
+
+M2.5+ Earthquakes
+
+M1.0+ Earthquakes
+
+All Earthquakes
+
+Past 30 DaysUpdated every minute.
+
+Significant Earthquakes
+
+M4.5+ Earthquakes
+
+M2.5+ Earthquakes
+
+M1.0+ Earthquakes
+
+All Earthquakes
+
+Questions or comments? Facebook Twitter Google Email
+
+Feeds and Notifications
+Real-time NotificationsEarthquake Notification ServiceTweet Earthquake Dispatch
+Real-time FeedsATOMKMLSpreadsheetQuakeMLGeoJSON SummaryGeoJSON Detail
+For DevelopersAPI Documentation - EQ CatalogChange LogFeed Lifecycle PolicyDeveloper's CornerWeb ServicesMailing List-AnnouncementsMailing List-Forum/Questions
+HomeEarthquakesHazardsScienceProductsMonitoringEducationDataMapsMultimediaPublicationsWeb ToolsSoftwareNewsConnectPartnersAbout
+
+      Search
+
+  Legal
