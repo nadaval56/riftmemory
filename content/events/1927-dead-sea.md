@@ -101,6 +101,8 @@ sources:
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_בארץ_ישראל_(1927)
 - label: 'לקריאה נוספת: ויקיפדיה האנגלית, 1927 Jericho earthquake'
   url: https://en.wikipedia.org/wiki/1927_Jericho_earthquake
+- label: 'D. H. K. Amiran, E. Arieh, T. Turcotte, "Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E.", Israel Exploration Journal 44 (1994), pp. 260–305'
+  url: https://www.jstor.org/stable/27926357
 status: published
 reviewed_by: נדב
 review_notes:
@@ -123,6 +125,7 @@ review_notes:
 - 'סבב JSTOR (אוקטובר 2026): קלנר-עמירן נקרא במקור ב-JSTOR (IEJ 1, 1950–1951, הערך על 1927 בעמ׳ 234–236), במקום התעתיק ב-zadok.org. אומתו מילה במילה "Total casualties" (עמ׳ 234), ער-ראם "Nearly ruined" ועצירת הירדן ל-21½ שעות (עמ׳ 236). תוקן: (1) בטבלאות המקוריות אין שורת סיכום (1,026 בתים, 250 הרוגים, 405 פצועים היו בתעתיק). סכום השורות במקור, בחשבון שלנו, הוא בדיוק 250 הרוגים ו-405 פצועים, כולל טבלת עבר הירדן, ולכן המספרים נשארו ומוצגים כחשבון שלנו. (2) שכם: "נפצעו 100, ונהרסו או נפגעו קשה כ-300 בתים" הפך ל"יותר מ-100" ו"כ-300 בתים קרסו בחלקה הדרומי של העיר". (3) ריינה: "נהרסו או נפגעו קשה 160 בתים" הפך ל"ניזוקו 160 מתוך 200 בתים", ונוסף שהממשלה בנתה כפר חדש. (4) השנה: IEJ כרך 1, 1950–1951; המחבר כותב שהרשימה עודכנה עד 1951. המקור והקישור הוחלפו ל-JSTOR.'
 - 'הדף נכתב מחדש לקריאות: פתיחה בשעה 15:04, פרק נפרד על הנזק שלא התחלק לפי המרחק, שמות חוקרים ורשימות עברו להערות.'
 - 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) זוהר ומרקו 2012 נקרא במלואו; הוסר ה-TODO. תוקן: לפני, "מחקר מ-2012 הגיע לאותו אזור [כמו 1993] בשיטה אחרת". אחרי: התוצאה שלהם נמצאת בין שתי ההצעות, כ-35 ק"מ צפונית למוקד של אבני ועמיתיו 2002 וכ-25 ק"מ דרומית למוקד ליד גשר אדם, והם כותבים במפורש שאינם מכריעים ביניהן (עמ׳ 23–25). תוקן: המרחק של כ-50 ק"מ דרומה מיוחס אצלם לאבני ועמיתיו 2002, לא למחקר מ-1993 (עמ׳ 20); הוא הועבר. תוקן: ההצעה ליד גשר אדם יוחסה ל"מכוני מחקר באירופה" (דרך ויקיפדיה); אצל זוהר ומרקו היא של בן-מנחם ועמיתיו 1976 ושל ורד ושטרים 1977. נוסף מה שזוהר ומרקו מספרים על הטעות שזיהו אבני ועמיתיו (פרשנות שגויה של סייסמוגרמות) ועל טווח ההרוגים 250–500. (2) ISC-GEM: נקרא רק דף המבוא. נתוני האירוע (Mw 6.3, עומק 15 ק"מ) עדיין לא נבדקו; הכינוי "גרסה 2.0, 2015 (1900–2009)" הוסר מהתווית, כי הקטלוג מכסה כיום את 1904–2021. (3) Willis 1928: זוהר ומרקו נותנים עמ׳ 72–103, כמו זוהר ועמיתיו 2014; המאמר עצמו לא נבדק. (4) החלטה לנדב: זוהר ומרקו מביאים קואורדינטות לשלוש ההצעות (ראו הערה נסתרת בפרק "מה המדע אומר"). location.lat/lon נשארו null.'
+- 'סבב JSTOR 2 (אוקטובר 2026): עמירן, אריה וטורקוטה 1994 נקרא ב-JSTOR. הטווח 250–500 הרוגים ו-400–700 פצועים אומת בקטלוג עצמו (עמ׳ 277).'
 ---
 
 ## הסיפור
@@ -217,7 +220,7 @@ review_notes:
 [^zohar14-920]: Zohar, Rubin and Salamon 2014, עמ׳ 920–921, בהפניה ל-Avni 1999.
 [^zohar14-refs]: Zohar, Rubin and Salamon 2014, רשימת המקורות, עמ׳ 922: B. Willis, "To the acting High Commissioner Lt-Col. G.S Symes", 1927; B. Willis, "Earthquakes in the Holy Land", *BSSA* 18 (1928), pp. 72–103.
 [^zohar14-refs-press]: Zohar, Rubin and Salamon 2014, רשימת המקורות: "The earthquake", *Doar Hayom*, 12 July 1927; "The earthquake in Eretz Israel", *Davar*, 12 ו-13 July 1927; "The earthquake in Eretz Israel", *Haaretz*, 12 July 1927; "The earthquake in Palestine", *Times*, 15 July 1927.
-[^zm12-19]: Zohar and Marco 2012, עמ׳ 19, בהפניה ל-Amiran et al. 1994 ול-Avni 1999: "Estimations of casualties range between 250–500 death and 400–700 injuries".
+[^zm12-19]: Zohar and Marco 2012, עמ׳ 19, בהפניה ל-Amiran et al. 1994 ול-Avni 1999: "Estimations of casualties range between 250–500 death and 400–700 injuries". הטווח אומת ב-Amiran, Arieh and Turcotte 1994, עמ׳ 277 (נקרא ב-JSTOR): "Total casualties in Palestine and Jordan: 250-500 people killed, 400-700 injured", עם הפניה לפרטים אצל קלנר-עמירן, עמ׳ 235–236.
 [^zohar16]: M. Zohar, A. Salamon and R. Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", *Journal of Seismology* 20 (2016), pp. 971–985, טבלה 3, עמ׳ 979. שם: ML 6.2 (Shapira, Avni and Nur 1993; Ben-Menahem et al. 1976), 6.3 (Migowski et al. 2004), בממוצע 6.25.
 [^zohar16s]: Zohar, Salamon and Rubin 2016, נספח אלקטרוני, נספח A, רשומה 71, עמ׳ 15, בהפניה ל-Ken-Tor et al. 2001 ול-Migowski et al. 2004. שם גם: "כ-300 נפגעים".
 [^zohar17-3]: M. Zohar, A. Salamon and R. Rubin, *Tectonophysics* 696–697 (2017), pp. 1–13, עמ׳ 3 וטבלה 1 (עמ׳ 5).

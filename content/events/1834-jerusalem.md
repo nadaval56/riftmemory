@@ -66,6 +66,8 @@ sources:
   url: https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל
 - label: 'לקריאה נוספת: ויקיפדיה האנגלית, 1834 Jerusalem earthquake'
   url: https://en.wikipedia.org/wiki/1834_Jerusalem_earthquake
+- label: 'D. H. K. Amiran, E. Arieh, T. Turcotte, "Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E.", Israel Exploration Journal 44 (1994), pp. 260–305'
+  url: https://www.jstor.org/stable/27926357
 status: published
 reviewed_by: נדב
 review_notes:
@@ -83,6 +85,7 @@ review_notes:
 - 'אימות מקורות (ספטמבר 2026, קבצים מנדב): Ken-Tor ועמיתיו 2001 נקרא במלואו; הוסר ה-TODO, והושלמו המחברים, הגיליון (B2) וה-DOI. אומת שהשכבה בצאלים נקשרה ל-1834 (שכבה G, עמ׳ 2231), ונוסף שהזיהוי מותנה בפרשנות של שכבת האגם שמעליה. נוספו מהמאמר, כסיכום משני לפי עמירן ועמיתיו 1994 ובן-מנחם 1991: נזק לכנסיות, לצריחים ולחומה בירושלים ולמנזרים בבית לחם, "נהרגו רבים" בבית לחם (בניגוד ל"אין דיווח על נפגעים" אצל זוהר ועמיתיו; שתי העמדות מוצגות), גושי האספלט בים המלח (עכשיו עם מקור משני; מקור בן התקופה עדיין TODO), וההצעה שהמוקד היה מדרום לאגן ים המלח. Spyridon, אמברייזיס 2009, מיגובסקי ו-deadseaquake.info לא נקראו.'
 - 'סבב מקורות חלופיים (ספטמבר 2026, באישור נדב): הכרוניקה של ניאופיטוס (ספירידון 1938) נמשכה ונקראה. אומתו המשך (שלוש שניות), הנזק בכנסיית הקבר, בירושלים, בבית לחם ובמר סבא, והשעה (שש בבוקר). התאריך אצלו: יום ראשון, 13 במאי. תוקן: ניאופיטוס ישב בירושלים, לא במר סבא; הלחימה נפסקה רק לרגע. time_local נשאר null בגלל המחלוקת.'
 - 'סבב JSTOR (אוקטובר 2026): נוסף קלנר-עמירן 1950–1951 (עמ׳ 230, נקרא ב-JSTOR): "23.5. 06.00", עם הפניה לניקולייסון על 26.5, ותיקון מפורש ל-26 במאי בחלק השני (IEJ 2, 1952, עמ׳ 65). כך נמצא מקור ה-23 במאי שבהערה הנסתרת. השעה 06:00 אצלו נוספה לפסקת השעה; התיאור שלו לירושלים מפנה לאותו עמוד בניאופיטוס (45, עמ׳ 92), ולכן אינו עדות עצמאית.'
+- 'סבב JSTOR 2 (אוקטובר 2026): עמירן, אריה וטורקוטה 1994 נקרא ב-JSTOR. הקטלוג שעליו נשענים קן-תור ועמיתיו נקרא ישירות (עמ׳ 272–273). נוספו הפרטים שלו על בית לחם וירושלים; "נהרגו רבים" מיוחס שם למקור אחד (83).'
 ---
 
 ## הסיפור
@@ -97,7 +100,7 @@ review_notes:
 
 הנזק נרשם בירושלים ובבית לחם, במנזר מר סבא ובאזור ים המלח. דיווחים על נזק הגיעו גם מיפו ומקיסריה שבחוף, וממידבא ומאום א-רצאץ שבעבר הירדן.[^zohar16]
 
-על הרוגים אין ברשימה של זוהר ועמיתיו שום דיווח.[^zohar16] לעומת זאת, קן-תור ועמיתיו, בהסתמך על הקטלוג של עמירן ועמיתיו (1994), כותבים שבבית לחם נפגעו כמה מנזרים ונהרגו רבים, ושבירושלים נפגעו כמה כנסיות וצריחים וחומת העיר.[^kentor-2231] הנזק היה, כנראה, קל מזה של רעידת 1927.[^salamon07-notes]
+על הרוגים אין ברשימה של זוהר ועמיתיו שום דיווח.[^zohar16] לעומת זאת, קן-תור ועמיתיו, בהסתמך על הקטלוג של עמירן ועמיתיו (1994), כותבים שבבית לחם נפגעו כמה מנזרים ונהרגו רבים, ושבירושלים נפגעו כמה כנסיות וצריחים וחומת העיר.[^kentor-2231] בקטלוג עצמו מדובר בנזק רב למנזרים הלטיני, הארמני והיווני-אורתודוקסי בבית לחם, והידיעה שנהרגו שם רבים מובאת בשם מקור אחד. בירושלים נפגעו לפיו כיפת כנסיית הקבר, חומת העיר, בתים ובורות מים, וקרסו צריח בעיר, צריח בהר הזיתים וכיפת מסגד העלייה.[^aat] הנזק היה, כנראה, קל מזה של רעידת 1927.[^salamon07-notes]
 
 <!-- הוסר: ויקיפדיה האנגלית (דרך תוצאות חיפוש) כתבה שהלחימה נפסקה לכמה ימים; אצל ניאופיטוס היא התחדשה למחרת. הטענה שמוסלמים בעיר ראו ברעידה תגובה לגיוס לא נמצאה אצלו, ולא הוחזרה. -->
 
@@ -159,3 +162,4 @@ review_notes:
 [^kamenitz]: מנחם מנדל מקמניץ, *קורות העתים לישורון בארץ ישראל*, וילנה תקצ"ט (1839), [בפרויקט בן-יהודה](https://benyehuda.org/read/2695). הציטוט מהנוסח שם. ההמרה של ט"ו באייר תקצ"ד ל-24 במאי 1834 שלנו. על עלייתו: "בעת באי לארץ הקדושה בשנת תקצ"ג בחודש אלול", שם.
 [^robinson-518]: E. Robinson and E. Smith, *Biblical Researches in Palestine*, בוסטון 1841, כרך 1, עמ׳ 518 ([סריקה של פרינסטון ב-Internet Archive](https://archive.org/details/biblicalresearch01robi), OCR): "related that after the earthquake of 1834, a large quantity of asphaltum was cast upon the shore near the southwest part of the sea"; "My companion also remembered, that in that year a large amount had been purchased by the Frank merchants at Beirut"; "Except in those two years, the Sheikh of the Jehalin, a man fifty years old, had never known of bitumen appearing in the sea".
 [^kallner]: D. H. Kallner-Amiran, ["A Revised Earthquake-Catalogue of Palestine"](https://www.jstor.org/stable/27924451), *Israel Exploration Journal* 1 (1950–1951), עמ׳ 223–246, בעמ׳ 230 (נקרא ב-JSTOR): "1834 23.5. 06.00", עם ההערה "(26.5. Nicolayson, *PEFQSt*, 1911, p. 85)". התיאור של ירושלים שם מפנה לניאופיטוס (הפניה 45, S. N. Spyridon, "Annals of Palestine, 1821–1841", 1938, עמ׳ 92), וה-"many people were killed" בבית לחם ל-Macalister 1918 (הפניה 44). בחלק השני, *IEJ* 2 (1952), עמ׳ 65, הוא מתקן במפורש ל-26 במאי.
+[^aat]: D. H. K. Amiran, E. Arieh and T. Turcotte, ["Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E."](https://www.jstor.org/stable/27926357), *Israel Exploration Journal* 44 (1994), pp. 260–305 (נקרא ב-JSTOR), עמ׳ 272–273, הרשומה על 1834: "Bethlehem: much damage to the Latin, Armenian and Greek Orthodox monasteries (82). According to (83), many people were killed."; "Jerusalem: several churches damaged, including the cupola of the Holy Sepulchre. Damage to the city wall, many houses and cisterns"; "A minaret in the city and one on the Mount of Olives collapsed, as did the cupola of the Ascension"; "Large blocks of asphalt floated on Dead Sea".

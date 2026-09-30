@@ -59,6 +59,8 @@ sources:
   url: https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html
 - label: 'לקריאה נוספת: ויקיפדיה העברית, רעידת האדמה ביהודה (130)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(130)
+- label: 'D. H. K. Amiran, E. Arieh, T. Turcotte, "Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E.", Israel Exploration Journal 44 (1994), pp. 260–305'
+  url: https://www.jstor.org/stable/27926357
 verdict: misattributed
 status: published
 reviewed_by: נדב
@@ -77,6 +79,7 @@ review_notes:
 - 'Wechsler ואחרים (2014) מצאו, לפי זוהר ואחרים 2016, עדות לפעילות סייסמית בצפון הארץ בין 137 ל-206 לספירה, והציעו קשר לאירוע הזה. זוהר ואחרים סבורים שאלה כנראה שתי רעידות נפרדות.'
 - 'סבב מקורות חלופיים 2 (ספטמבר 2026): (1) הטענה שלוד והמבצרים אינם בכרוניקון נשענת עכשיו ישירות על הכרוניקון (jerome-chronicle-part2.txt, עמ׳ [282/283]: "Nicopolis and Caesarea were ruined in an earthquake", בלי ערים נוספות; וכך גם ב-Testimonia 277). לפני: "הם תוספות של ספרות משנית מאוחרת" (מיוחס כולו ל-Caesarea Maritima: A Retrospective). אחרי: "הידיעה שם מזכירה רק את ניקופוליס ואת קיסריה. לוד מוזכרת בספרות משנית מאוחרת"; רק הפרט האחרון נשאר על הספר, שעדיין לא נקרא. (2) התווית של אמברייזיס 2009: הוסר ה-TODO ונכתב במפורש שהספר מובא דרך זוהר ואחרים 2016; שום טענה בדף אינה נשענת עליו ישירות. נשארו פתוחים: ראסל 1985 והקטלוג של ויליאמס (אין להם טקסט בקבצים הגולמיים), ו-Caesarea Maritima: A Retrospective.'
 - 'סבב JSTOR (אוקטובר 2026): ראסל 1985 נקרא ב-JSTOR (עמ׳ 39–41); הוסר ה-TODO. תוקן: לפני, לפי הקטלוג של ויליאמס, "ראסל הציע שהתאריך שגוי: אם מחליפים את שנות אדריאנוס בשנות טראיאנוס מגיעים ל-111 או 112". אחרי: במאמר אין החלפה כזו ואין 111 או 112. ראסל מביא את ההצעה של אמברייזיס (פונטוס), ומייחס נזק ארכאולוגי מתחילת המאה השנייה, מקיסריה עד חשבון ומג׳רש עד פטרה, לרעידה אחת בערך ב-113 או 114, בלי מטבעות של אדריאנוס, עם ההקדשות לטראיאנוס בפטרה (114) ובג׳רש (115). ההפניה ל-deadseaquake.info הוסרה מהמשפט.'
+- 'סבב JSTOR 2 (אוקטובר 2026): עמירן, אריה וטורקוטה 1994 נקרא ב-JSTOR. הרשומה על 130 (עמ׳ 265): "Caesarea: severe damage. Lod, Emmaus (''Imwas): strong". כך נמצא מקור קטלוגי ללוד; מוצג כקטלוג מאוחר, לא כעדות.'
 ---
 
 ## הסיפור
@@ -85,7 +88,7 @@ review_notes:
 
 השורה הזו הגיעה אלינו בעיבוד הלטיני של הירונימוס, מסוף המאה הרביעית, כמאתיים וחמישים שנה אחרי האירוע.[^testimonia] אין בה שום פרט נוסף: לא הרוגים, לא נזק מסוים, ולא ציון של הארץ שבה שוכנות הערים.[^jerome]
 
-במשך שנים היא נקראה כעדות על ארץ ישראל, ונכנסה לקטלוגים של רעידות בארץ. כך, למשל, נרשמו בהם "נזק חמור בקיסריה", ונזק בקיסריה ובאמאוס.[^salamon]
+במשך שנים היא נקראה כעדות על ארץ ישראל, ונכנסה לקטלוגים של רעידות בארץ. כך, למשל, בקטלוג של עמירן, אריה וטורקוטה (1994) נרשמו נזק חמור בקיסריה ורעידה חזקה בלוד ובאמאוס.[^aat] קטלוגים אחרים רשמו נזק בקיסריה ובאמאוס.[^salamon]
 
 אבל באימפריה הרומית היו כמה ערים בשם קיסריה וכמה בשם ניקופוליס. המחקר העדכני מציע קריאה אחרת: זו אכן הייתה רעידה אמיתית, אבל כנראה באסיה הקטנה. זוהר, סלמון ורובין (2016) מסווגים אותה ברשימה מיוחדת, של רעידות אמינות שיוחסו בטעות לארץ ישראל.[^zoharC] לפי מה שידוע היום, ייתכן מאוד שבשנים האלה לא הייתה רעידה בקיסריה ובאמאוס כלל.
 
@@ -105,7 +108,7 @@ review_notes:
 
 פרט מעניין מאותו כרוניקון עצמו: במקום אחר הוא מספר שניקופוליס, "שנקראה קודם אמאוס", נוסדה כעיר רק מאוחר יותר, בתחילת המאה השלישית, אחרי שיוליוס אפריקנוס ניהל את השליחות למענה.[^jeromeemmaus]
 
-כל שאר הפרטים שנקשרו לרעידה, כמו נזק בלוד או במבצרים ברחבי הארץ, אינם מופיעים בכרוניקון.[^jerome][^testimonia] הידיעה שם מזכירה רק את ניקופוליס ואת קיסריה. לוד מוזכרת בספרות משנית מאוחרת.[^caesarea]
+כל שאר הפרטים שנקשרו לרעידה, כמו נזק בלוד או במבצרים ברחבי הארץ, אינם מופיעים בכרוניקון.[^jerome][^testimonia] הידיעה שם מזכירה רק את ניקופוליס ואת קיסריה. לוד מופיעה רק בקטלוגים ובספרות משנית מאוחרים, למשל אצל עמירן, אריה וטורקוטה (1994).[^aat][^caesarea]
 
 ## מה נמצא באדמה
 
@@ -148,3 +151,4 @@ review_notes:
 [^russell]: Kenneth W. Russell, ["The Earthquake Chronology of Palestine and Northwest Arabia from the 2nd through the Mid-8th Century A.D."](https://www.jstor.org/stable/1356863), *BASOR* 260 (1985), pp. 37–59 (נקרא ב-JSTOR). טבלה 1, עמ׳ 39: "c. 113-114", "Archaeologically attested from Caesarea through Hesban, and from Jerash through Petra". עמ׳ 40: הידיעה של אוסביוס ("Nicopolis and Caesarea collapsed from an earthquake"), שבמהדורת Migne יש לה תאריך שוליים 130 והיא עומדת בסוף האולימפיאדה ה-226 (125–128), ואליאס מנציבין, שמתארך ל-126/7; ההצעה של אמברייזיס ("1985, personal communication") על ניאוקיסריה (ניקסר) וניקופוליס (סושהרי) בפונטוס. עמ׳ 40–41: רשימת האתרים, "no coins of Hadrian have yet been reported in association with these destructions", וההקדשות לטראיאנוס בפטרה ("late in 114") ובג'רש ("early in 115"), "after a disastrous earthquake in 113 or 114".
 [^dsq]: Jefferson B. Williams, "Eusebius Mystery Quake", בקטלוג [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html). TODO: לבדוק במקור. <!-- לפי תוצאות חיפוש -->
 [^caesarea]: *Caesarea Maritima: A Retrospective after Two Millennia*, עמ׳ 23 (שם מוזכרת לוד). TODO: לבדוק במקור. <!-- הגיע דרך ויקיפדיה העברית -->
+[^aat]: D. H. K. Amiran, E. Arieh and T. Turcotte, ["Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E."](https://www.jstor.org/stable/27926357), *Israel Exploration Journal* 44 (1994), pp. 260–305 (נקרא ב-JSTOR), עמ׳ 265, הרשומה "130 (128, according to R and W)": "Palestine, Caesarea: severe damage. Lod, Emmaus ('Imwas): strong."

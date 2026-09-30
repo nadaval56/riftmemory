@@ -66,6 +66,8 @@ sources:
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(31_לפנה"ס)
 - label: 'לקריאה נוספת: ויקיפדיה האנגלית, 31 BC Judea earthquake'
   url: https://en.wikipedia.org/wiki/31_BC_Judea_earthquake
+- label: 'D. H. K. Amiran, E. Arieh, T. Turcotte, "Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E.", Israel Exploration Journal 44 (1994), pp. 260–305'
+  url: https://www.jstor.org/stable/27926357
 status: published
 reviewed_by: נדב
 review_notes:
@@ -84,6 +86,7 @@ review_notes:
 - 'אימות מקורות (ספטמבר 2026, קבצים מנדב): (1) Ken-Tor ועמיתיו 2001 נקרא במלואו; הוסר ה-TODO. אומת: שכבה B בטרסת צאלים, 50 לפנה״ס עד 230 לספירה (טבלה 2, עמ׳ 2227), שנמצאת גם בדלתת נחל דרגה. תוקן: לפני, "החוקרים שתיארכו אותה דיווחו גם על קרע אפשרי לאורך העתק יריחו". אחרי: הם מביאים קרע ליד יריחו שחוקרים קודמים (Reches and Hoexter 1981) קשרו לרעידה, ומסיקים שהמוקד היה על העתק יריחו, "trusting the extensive historical records, despite their antiquity" (עמ׳ 2229). (2) Kagan ועמיתיו 2011 נקרא במלואו; הוסר ה-TODO. אומת ה-7.2 (עמ׳ 17–18), עם תיקון: לא "המקטע הדרומי של בקעת הירדן" אלא מקטע בקעת הירדן, 110 ק"מ, בהנחה שהקרע ליד יריחו שייך לרעידה ("tentatively"). נוסף: השכבה של 31 לפנה״ס מופיעה בשלושת האתרים באגן (עמ׳ 1, 11). ההפניה ל-deadseaquake.info בשביל הערך הזה הוסרה. (3) Wechsler ועמיתיו 2014 נקרא (גרסה מוקדמת); הוסר ה-TODO. תוקן: לפני, האירוע (392 לפנה״ס עד 91 לספירה) הוצג בפסקה על ים המלח, כמתאים "גם לרעידה אחרת שלא תועדה". אחרי: זה קרע בעמק בית צידה, מצפון לכנרת, והמועמדים האחרים הם רעידות מתועדות מ-92 לפנה״ס ומאמצע המאה השנייה לפנה״ס (עמ׳ 14–15, טבלה 3). (4) Karcz 2004, Karcz and Kafri 1978 ו-Williams ועמיתיו 2012 לא נקראו; הטקסט המלא של Karcz עדיין לא הגיע.'
 - 'אימות מקורות, סבב שני (ספטמבר 2026): Karcz 2004 נקרא במלואו (פרק 6, עמ׳ 774–778); הוסר ה-TODO מהתווית ומההערה [^karcz], ונוספו עמודים. אומתו: 6 עד 6.5 (עמ׳ 778); ארבעת הנימוקים לחשד בהיקף הנזק (עמ׳ 774–775); הספרות החיצונית, התלמוד והמגילות (עמ׳ 776–777); מלאלאס (עמ׳ 775–776); קומראן (עמ׳ 777–778). תוקן: לפני, "מקורות יהודיים קדומים הגדילו את עוצמתן של רעידות". אחרי: לפי קרץ, חוקרים השתמשו במקורות יהודיים כדי לייחס לרעידות עוצמה גבוהה (התקציר: "use and misuse of local Judaic sources"). תוקן: לפני, "רוב החיפוש לא העלה ממצאים". אחרי: "קלושה במקרה הטוב", עם הפרטים (מצדה, עינות צוקים, עין בוקק). תוקן: לפני, טבריה נוסדה "בשנות העשרים של המאה הראשונה". אחרי: ב-18 לספירה, כלשון קרץ. נוספו: עמדת קרץ נגד הזיהוי של סלמיס עם קפריסין, סקר המכ"ם בקומראן, וקריאתו את "יהודה" כממלכת יהודה המצומצמת, מול ההצעה של זוהר ועמיתיו למוקד צפוני יותר.'
 - 'סבב מקורות חלופיים 2 (ספטמבר 2026): הוסר ה-TODO מ-Karcz and Kafri 1978. Karcz 2004, עמ׳ 778 (data/raw/texts/karcz2004.txt) מונה את המאמר בין אלה שייחסו את הנזק בקומראן ל-"static geotechnical instability effects", כמו שמסכמים זוהר ואחרים 2016. המאמר עצמו לא נקרא, וזה מצוין בהערה. Williams ועמיתיו 2012 (שכבת 31 לפנה״ס כנקודת ייחוס) נשאר TODO: אין בקבצים הגולמיים מקור שאומר זאת.'
+- 'סבב JSTOR 2 (אוקטובר 2026): עמירן, אריה וטורקוטה 1994 נקרא ב-JSTOR. הרשומה על 31 לפנה״ס (עמ׳ 265) נוספה לפסקה על ירושלים והגליל. נפתר ה-TODO הנסתר על קבר יאסון: הוא מופיע שם. התאריך 2 בספטמבר אומת אצלם ישירות.'
 ---
 
 ## הסיפור
@@ -112,9 +115,9 @@ review_notes:
 
 ## מה נמצא באדמה
 
-**ירושלים והגליל.** קטלוגים ישנים ייחסו לרעידה נזק בירושלים ובגליל. אמברייזיס (2009) דחה את שני הייחוסים.[^zoharA]
+**ירושלים והגליל.** קטלוגים ישנים ייחסו לרעידה נזק בירושלים ובגליל. הקטלוג של עמירן, אריה וטורקוטה (1994), למשל, רושם אותה ב-2 בספטמבר 31 לפנה"ס, כרעידה חמורה בגליל וביהודה, כותב ש"קבר יאסון" בירושלים נהרס, ומונה נזק גם באזור יריחו, בקומראן ובמצדה.[^aat] אמברייזיס (2009) דחה את הייחוסים לירושלים ולגליל.[^zoharA]
 
-<!-- TODO: הערך הכללי "רעידת אדמה" בוויקיפדיה העברית מזכיר, בלי מקור, הרס של קבר יאסון בירושלים. לבדוק אם זה מופיע אצל Amiran ואחרים 1994 או במקור אחר. -->
+<!-- נפתר (סבב JSTOR 2, אוקטובר 2026): קבר יאסון מופיע אצל Amiran, Arieh and Turcotte 1994, עמ' 265, בהפניה למקור 11 שלהם. -->
 
 **קומראן.** בחורבת קומראן תוארו סדק שחוצה את אחד המקוואות, תקרה שקרסה ונזק למגדל. יש שקשרו אותם לרעידה שמתאר יוסף בן מתתיהו,[^zoharA][^karcz] ויש שהטילו ספק בפירוש הסייסמי.[^zoharA][^karczkafri] לפי קרץ, כל אחד מרכיבי העדות הזו התברר כלא חד-משמעי: את הנזק אפשר לייחס לחוסר יציבות של הקרקע והמבנים, לקריסה מאוחרת, או לידי אדם בשנים הסוערות שבין 67 ל-37 לפנה״ס בערך. סקר מכ"ם חודר קרקע שערכו קרץ וא. בק ב-1995 לא מצא לאורך "קו ההעתק" שבאתר תזוזה גדולה מכושר ההפרדה של הסקר.[^karcz]
 
@@ -168,3 +171,4 @@ review_notes:
 [^kagan]: E. Kagan, M. Stein, A. Agnon and F. Neumann, "Intrabasin paleoearthquake and quiescence correlation of the late Holocene Dead Sea", *Journal of Geophysical Research* 116 (2011), B04311, עמ׳ 17–18 (מתוך 27), סעיף 55: "The magnitudes of 31 B.C. and 749 A.D. are set at 7.2 assuming similarity in rupture length, both reported to have ruptured 110-km-long Jordan Valley segment"; "we tentatively adopt the identification of the surface rupture with the 31 B.C. event".
 [^kagan-11]: Kagan, Stein, Agnon and Neumann 2011, התקציר (עמ׳ 1) וסעיפים 40–41 (עמ׳ 11): "Seismites that appear in all three sites (termed here intrabasin seismites (IBS)): Mid-2nd century and 31 B.C. and 33, 419, 551, 749, 1202/1212, 1293, and 1927 A.D."; טבלה 4 שם.
 [^williams]: Jefferson B. Williams, Markus J. Schwab and Achim Brauer, "An early first-century earthquake in the Dead Sea", *International Geology Review* 54 (2012), pp. 1219–1228. TODO: לבדוק במקור. <!-- לפי התקציר -->
+[^aat]: D. H. K. Amiran, E. Arieh and T. Turcotte, ["Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E."](https://www.jstor.org/stable/27926357), *Israel Exploration Journal* 44 (1994), pp. 260–305 (נקרא ב-JSTOR), עמ׳ 265, הרשומה "31 B.C.E., Sept. 2": "Intensity possibly MMS X"; "Severe in Galilee and Judaea"; לפי יוספוס נהרגו ביהודה 30,000 איש; "'Jason's Tomb' in Jerusalem was destroyed (11)"; "Jericho area (12), structural damage at Kh. Qumran, the Dead Sea (13) and Masada".
