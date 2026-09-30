@@ -1,0 +1,47 @@
+SOURCE: https://id.loc.gov/authorities/names/n87804841.marcxml.xml
+
+
+  00944cz  a2200217n  4500
+  n87804841
+  DLC
+  20250804225004.4
+  870129n| azannaabn          |b aaa
+
+    n  87804841
+
+    DLC
+    eng
+    rda
+    DLC
+    DLC
+    OCoLC
+
+    Amiran, David H. K.,
+    1910-
+
+    Amiran, D. H. K.
+    (David H. K.),
+    1910-
+
+    nna
+    Amiran, David H.,
+    1910-
+
+    עמירן, דוד
+
+    עמירן, דוד,
+    0191־
+
+    Machine-derived non-Latin script reference project.
+
+    Non-Latin script references not evaluated.
+
+    nuc86-64467: Intl. Geographical Congress (23rd : Moscow, R.S.F.S.R.). Geography in Israel, 1976
+    (hdg. on InU rept.: Amiran, David H., 1910- ; usage: D.H.K. Amiran)
+
+    LC data base, 1/29/87
+    (hdg.: Amiran, David H., 1910- ; usage: David H.K. Amiran; D.H.K. Amiran)
+
+    Sefer Daṿid ʻAmiran, 1991:
+    added t.p. (David Amiran)
+
