@@ -42,7 +42,10 @@
   --instrumental: #4f7391;
   --live: #c96442;
   --map-water: #e1e7ea; /* מים במפת הבסיס */
-  --quake: #3f607a; /* רעידות חיות על המפה: כחול, כדי לא להתבלבל עם קווי השבר */
+  --quake: #3f607a; /* רעידות חיות, בטקסט ובגרפים: כחול, כדי לא להתבלבל עם קווי השבר */
+  /* צבעי המפה: שלושה סוגי סימון, שלושה צבעים שונים (בנוסף לצורות השונות) */
+  --map-live: #1f6fc5;  /* רעידה אחרונה: כחול עז */
+  --map-dmg: #8a4fa3;   /* מקום שנפגע: סגול */
   --warn-bg: #fbf3dc;
   --warn-ink: #7a5a10;
   --radius: 16px;
@@ -59,7 +62,7 @@
     --line: #34322d; --line-soft: #2a2825;
     --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
     --accent-ink: #e08a6b; --archaeology-ink: #c9a656; --instrumental-ink: #86a9c4;
-    --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42;
+    --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42; --map-live: #6aa9ee; --map-dmg: #c69ade;
     --warn-bg: #33291a; --warn-ink: #e3c47a;
     color-scheme: dark;
   }
@@ -70,7 +73,7 @@
   --line: #34322d; --line-soft: #2a2825;
   --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
     --accent-ink: #e08a6b; --archaeology-ink: #c9a656; --instrumental-ink: #86a9c4;
-  --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42;
+  --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42; --map-live: #6aa9ee; --map-dmg: #c69ade;
   --warn-bg: #33291a; --warn-ink: #e3c47a;
   color-scheme: dark;
 }
@@ -103,12 +106,14 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 
 /* ===== סרגל עליון ===== */
 .site-header {
-  max-width: 1080px; margin: 0 auto; padding: .9rem 16px;
-  display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+  max-width: 1080px; margin: 0 auto; padding: .9rem 16px .75rem;
+  display: flex; align-items: center; justify-content: space-between; gap: .7rem 1rem; flex-wrap: wrap;
   border-bottom: 1px solid var(--line-soft);
 }
-.brand { display: flex; align-items: center; gap: .55rem; text-decoration: none; color: var(--ink); }
-.brand span { font-weight: 700; font-size: 1.35rem; letter-spacing: -.5px; }
+.brand { display: flex; align-items: center; gap: .6rem; text-decoration: none; color: var(--ink); }
+.brand-text { display: flex; flex-direction: column; line-height: 1.2; }
+.brand-name { font-weight: 700; font-size: 1.35rem; letter-spacing: -.4px; }
+.brand-sub { font-size: .8rem; color: var(--ink-2); }
 /* הסמל: שני גושים משני צדי העתק, ונחל שחוצה אותם ונקטע בהסטה, כמו בהעתק ים המלח
    (הגוש המזרחי זז צפונה ביחס למערבי). */
 .rift-mark { width: 32px; height: 32px; flex: none; overflow: visible; }
@@ -137,13 +142,23 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
   .brand:hover .rift-e { animation-name: rift-slip-e-2; }
 }
 @media (prefers-reduced-motion: reduce) { .rift-mark * { animation: none !important; } }
-.site-nav { display: flex; align-items: center; gap: .35rem; flex-wrap: wrap; }
-.site-nav a {
-  color: var(--ink-2); text-decoration: none; font-size: .9rem; font-weight: 500;
-  padding: .3rem .85rem; border-radius: 999px; border: 1px solid transparent;
+/* הלשוניות: פס אחד עדין עם רקע ומסגרת; הלשונית הפעילה מודגשת בצבע האתר ובקו תחתון.
+   במסך צר הפס נגלל הצידה במקום להישבר לכמה שורות. */
+.site-nav {
+  order: 3; flex: 1 1 100%; display: flex; gap: .15rem; padding: .25rem;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch;
 }
-.site-nav a:hover { background: var(--surface); border-color: var(--line); }
-.site-nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent-ink); }
+.site-nav::-webkit-scrollbar { display: none; }
+.site-nav a {
+  flex: none; white-space: nowrap; color: var(--ink-2); text-decoration: none; font-size: .9rem; font-weight: 500;
+  padding: .4rem .8rem; border-radius: 9px; position: relative;
+}
+.site-nav a:hover { background: var(--surface-2); color: var(--ink); }
+.site-nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent-ink); font-weight: 600; }
+.site-nav a[aria-current="page"]::after {
+  content: ""; position: absolute; inset-inline: .8rem; bottom: .15rem; height: 2px; border-radius: 2px; background: var(--accent);
+}
 .theme-btn {
   width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center;
   background: none; border: 0; color: var(--ink-2); cursor: pointer;
@@ -289,7 +304,7 @@ section + section { margin-top: 2rem; }
 .tg-live strong { color: var(--instrumental-ink); }
 .tg-hist strong { color: var(--accent-ink); }
 .lg { display: inline-block; width: 11px; height: 11px; border-radius: 50%; vertical-align: middle; margin-inline-end: .3rem; }
-.lg-live { background: var(--quake); width: 12px; height: 12px; box-shadow: 0 0 0 1.5px var(--surface), 0 0 0 2.5px var(--quake); }
+.lg-live { background: var(--map-live); width: 12px; height: 12px; box-shadow: 0 0 0 1.5px var(--surface), 0 0 0 2.5px var(--map-live); }
 .lg-hist { width: 18px; height: 18px; background: color-mix(in srgb, var(--accent) 18%, transparent); border: 1.5px dashed var(--accent); position: relative; }
 .lg-hist::after { content: ""; position: absolute; inset: 5px; border-radius: 50%; background: var(--accent); }
 .lg-seg { border-radius: 3px; background: color-mix(in srgb, var(--accent) 18%, transparent); border: 1px dashed var(--accent); }
@@ -450,9 +465,9 @@ table.data td:nth-child(2), table.data td:nth-child(3) { white-space: nowrap; }
 /* מקומות שנפגעו */
 /* המרקר עצמו שקוף וגדול (אזור הלחיצה), והריבוע שרואים הוא ::before במרכזו */
 .dmg { background: none; border: 0; display: grid; place-items: center; }
-.dmg::before { content: ""; width: 8px; height: 8px; box-sizing: border-box; background: var(--ink-2); border: 1px solid var(--surface); opacity: .85; border-radius: 2px; transform: rotate(45deg); box-shadow: 0 0 0 .5px var(--ink-2); }
-.dmg.doubtful::before { background: var(--surface); border: 1.5px dashed var(--ink-2); }
-.lg-dmg { width: 9px; height: 9px; border-radius: 2px; transform: rotate(45deg); background: var(--ink-2); }
+.dmg::before { content: ""; width: 9px; height: 9px; box-sizing: border-box; background: var(--map-dmg); border: 1px solid var(--surface); border-radius: 2px; transform: rotate(45deg); box-shadow: 0 0 0 .5px var(--map-dmg); }
+.dmg.doubtful::before { background: var(--surface); border: 1.5px dashed var(--map-dmg); }
+.lg-dmg { width: 10px; height: 10px; border-radius: 2px; transform: rotate(45deg); background: var(--map-dmg); }
 .dmg-entry { margin-top: .35rem; }
 
 /* סוג הרעידה בראש החלון שנפתח במפה */
@@ -460,7 +475,7 @@ table.data td:nth-child(2), table.data td:nth-child(3) { white-space: nowrap; }
 .pop-hist { color: var(--accent-ink); background: var(--accent-soft); }
 .pop-live { color: var(--instrumental-ink); background: color-mix(in srgb, var(--quake) 14%, var(--surface)); }
 /* הרעידה האחרונה ביותר: טבעת שמתרחבת פעמיים ונעצרת */
-.live-ring { border-radius: 50%; border: 2px solid var(--quake); animation: live-ring 1.6s ease-out 3; opacity: 0; }
+.live-ring { border-radius: 50%; border: 2px solid var(--map-live); animation: live-ring 1.6s ease-out 3; opacity: 0; }
 @keyframes live-ring { from { transform: scale(.3); opacity: .9; } to { transform: scale(1); opacity: 0; } }
 @media (prefers-reduced-motion: reduce) { .live-ring { animation: none; opacity: .6; } }
 html.a11y-still .live-ring { opacity: .6; }
@@ -468,12 +483,43 @@ html.a11y-still .live-ring { opacity: .6; }
 table.data a.ext { font-size: .82em; }
 
 /* ===== הפס החי בראש כל דף ===== */
-.live-bar {
-  display: flex; flex-wrap: wrap; align-items: center; gap: .15rem .6rem;
-  padding: .45rem 1rem; background: var(--accent-soft); color: var(--ink);
-  font-size: .88rem; text-decoration: none; border-bottom: 1px solid var(--line-soft);
+/* הפס הנע: 5 הרעידות האחרונות. בעברית הטקסט נכנס משמאל וזז ימינה, כך שתחילת כל שורה נראית קודם. */
+.live-ticker {
+  display: flex; align-items: center; gap: .6rem; padding: 0 0 0 .4rem;
+  background: var(--accent-soft); border-bottom: 1px solid var(--line-soft); font-size: .88rem;
 }
-.live-bar:hover .lb-more { text-decoration: underline; }
+.lt-head {
+  flex: none; display: flex; align-items: center; gap: .45rem; padding: .5rem 1rem;
+  font-weight: 700; color: var(--accent-ink); text-decoration: none; background: var(--accent-soft);
+  position: relative; z-index: 1; box-shadow: -8px 0 10px -4px var(--accent-soft);
+}
+.lt-head:hover { text-decoration: underline; }
+.lt-viewport { flex: 1; overflow: hidden; min-width: 0;
+  mask-image: linear-gradient(to left, transparent 0, #000 24px, #000 calc(100% - 24px), transparent 100%); }
+.lt-track { display: flex; width: max-content; animation: lt-move 45s linear infinite; }
+.lt-list { display: flex; list-style: none; margin: 0; padding: 0; }
+.lt-list li { flex: none; }
+.lt-list a { display: flex; align-items: baseline; gap: .45rem; padding: .5rem 1.1rem; color: var(--ink); text-decoration: none; border-inline-start: 1px solid color-mix(in srgb, var(--accent) 25%, transparent); }
+.lt-list a:hover .lt-place { text-decoration: underline; }
+.lt-place { font-weight: 600; }
+.lt-mag { font-weight: 700; color: var(--accent-ink); }
+.lt-ago { color: var(--ink-2); }
+@keyframes lt-move { from { transform: translateX(0); } to { transform: translateX(50%); } }
+.live-ticker:hover .lt-track, .live-ticker:focus-within .lt-track, .live-ticker.paused .lt-track { animation-play-state: paused; }
+.lt-pause {
+  flex: none; width: 30px; height: 30px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface);
+  color: var(--ink-2); font-size: .6rem; cursor: pointer; display: grid; place-items: center;
+}
+.live-ticker.paused .lt-pause span { font-size: .8rem; }
+/* בלי תנועה: רשימה אחת רגילה שנגללת ביד, בלי העותק השני ובלי כפתור */
+@media (prefers-reduced-motion: reduce) {
+  .lt-track { animation: none; }
+  .lt-list[aria-hidden] , .lt-pause { display: none; }
+  .lt-viewport { overflow-x: auto; mask-image: none; }
+}
+html.a11y-still .lt-track { animation: none; }
+html.a11y-still .lt-list[aria-hidden], html.a11y-still .lt-pause { display: none; }
+html.a11y-still .lt-viewport { overflow-x: auto; mask-image: none; }
 .lb-kicker { font-weight: 600; color: var(--ink-2); }
 .lb-place { font-weight: 600; }
 .lb-mag { font-weight: 700; color: var(--accent-ink); }
@@ -511,3 +557,6 @@ table.data a.ext { font-size: .82em; }
 }
 .page-md h3 + p > em:only-child { font-style: normal; font-weight: 500; color: var(--ink); font-size: 1.14em; line-height: 1.6; }
 .page-md h3 { margin-top: 2.2rem; }
+
+/* תוויות השכבות מתחת למפה בצבע השכבה */
+.tg-dmg strong { color: color-mix(in srgb, var(--map-dmg) 80%, var(--ink)); }

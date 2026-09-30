@@ -37,8 +37,8 @@ TZ = ZoneInfo("Asia/Jerusalem")
 SITE_URL = os.environ.get("SITE_URL", "https://nadaval56.github.io/riftmemory").rstrip("/")
 BASE_PATH = os.environ.get("BASE_PATH", "/riftmemory").rstrip("/")
 
-SITE_NAME = "השבר"
-SITE_TAGLINE = "רעידות האדמה בארץ ישראל: 3,000 שנות היסטוריה, ופס חי מהסייסמוגרפים"
+SITE_NAME = "רעידת אדמה"
+SITE_TAGLINE = "רעידות אדמה היסטוריות בשבר הסורי-אפריקאי"
 
 SEGMENT_NAMES_EXTRA = {echo.DISTANT: "רחוק"}
 
@@ -489,7 +489,7 @@ def build(drafts=False):
     latest_quake = live["events"][0] if live["events"] else None
     # הבאנר "האתר בבנייה" רק כשיש באמת דף טיוטה באתר
     common = dict(drafts=drafts, public_drafts=public_drafts and any(e["status"] != "published" for e in events), built_at=now, segment_names=segment_names,
-                  live_bar=latest_quake, live_bar_by_id={e["id"]: e for e in events})
+                  live_bar=latest_quake, live_ticker=live["events"][:5], live_bar_by_id={e["id"]: e for e in events})
 
     if SITE.exists():
         shutil.rmtree(SITE)

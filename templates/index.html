@@ -9,7 +9,7 @@
 {% for e in events %}{% set _ = by_id.update({e.id: e}) %}{% endfor %}
 
 <section class="hero">
-  <h1>השבר זוכר</h1>
+  <h1>השבר הסורי-אפריקאי</h1>
   <p class="lede">שבר ים המלח נקרע שוב ושוב לאורך אלפי שנים, ולפעמים באותם מקטעים. כאן אפשר לקרוא מה קרה בכל אחת מרעידות האדמה הגדולות שתועדו בארץ, ולצפות בנתונים עדכניים מרעידות אחרונות שתועדו.</p>
 </section>
 
@@ -29,7 +29,7 @@
 
 {% if events %}
 <section class="all-events" aria-labelledby="all-h">
-  <h2 id="all-h">כל הרעידות באתר</h2>
+  <h2 id="all-h">רעידות היסטוריות בארץ ישראל</h2>
   <div class="event-cards">
     {% for e in events %}{{ event_card(e, base) }}{% endfor %}
   </div>
