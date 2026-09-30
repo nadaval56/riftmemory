@@ -1,7 +1,6 @@
-# סבב 24: עומק ברירת מחדל של 10 ק"מ ב-USGS; שמות מקומות בעברית (ויקיפדיה, langlinks)
-usgs-eventterms https://earthquake.usgs.gov/data/comcat/data-eventterms.php
-usgs-faq-depth10 https://www.usgs.gov/faqs/why-are-so-many-earthquakes-located-depth-10-km
-usgs-faq-depth0 https://www.usgs.gov/faqs/what-does-it-mean-earthquake-occurred-a-depth-0-km-how-can-earthquake-have-negative-depth
-usgs-glossary-depth https://earthquake.usgs.gov/learn/glossary/?term=depth
-wiki-places-he-1 https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=langlinks|coordinates&lllang=he&lllimit=500&titles=Anjar,%20Lebanon|Adir,%20Jordan|Fasayil|Al-Jafr|Al-Jiftlik|Al-Karamah|Al-Mazar%20al-Janubi|Al-Qasr,%20Jordan|Al-Quwayra|Aqaba|Ar-Rabba|Ar-Ramtha|Arad,%20Israel|Shoubak|Ashdod|Atlit|Ayia%20Napa|Zabadani|Baabda|Bardala|Batroun|Bsharri|Bhamdoun|Busaira|Dahab|Dimona|Eilat|El%20Tor,%20Egypt|Giv'at%20Avni|Habbouch|Haifa|Jasim|Jayrud|Byblos|Jericho|Jounieh|Kafr%20Dan|Kafr%20Misr|Karmei%20Yosef|Rosh%20HaNikra%20(kibbutz)|Madaba|Ma'an|Metula|Mitzpe%20Yeriho|Migdal,%20Israel|Mitzpe%20Ramon|Nabatieh|Nuweiba|Perivolia
-wiki-places-he-2 https://en.wikipedia.org/w/api.php?action=query&format=json&formatversion=2&redirects=1&prop=langlinks|coordinates&lllang=he&lllimit=500&titles=Protaras|Ras%20Beirut|Rekhasim|Ghor%20as-Safi|Saint%20Catherine,%20Egypt|Sde%20Nehemia|Sdot%20Yam|Sharm%20El%20Sheikh|Sidon|Tabuk,%20Saudi%20Arabia|Tayibe|Tala%20Bay|Tell%20Kalakh|Tiberias|Tripoli,%20Lebanon|Tyre,%20Lebanon|Wadi%20Musa|Xylofagou|Yabroud|Yarqa|Zahle|Za'atara|Ein%20Qiniyye|Ein%20Bokek|Al-Khinzira|At-Tayyiba,%20Jordan|Kafr%20Dan|Nabatieh%20Tahta|Perivolia,%20Larnaca
+# סבב 25: עומק ברירת מחדל ב-USGS (תיעוד ComCat, שאלות נפוצות)
+usgs-comcat-doc https://earthquake.usgs.gov/data/comcat/index.php
+usgs-comcat-depth https://earthquake.usgs.gov/data/comcat/index.php#depth
+usgs-faq-depth0 https://www.usgs.gov/faqs/what-does-it-mean-earthquake-occurred-a-depth-0-km-how-can-earthquake-have-a-negative-depth
+usgs-eventpage-terms https://earthquake.usgs.gov/earthquakes/eventpage/terms.php
+usgs-faq-list-eq https://www.usgs.gov/programs/earthquake-hazards/faqs-category
