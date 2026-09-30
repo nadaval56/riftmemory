@@ -8,7 +8,7 @@ status: draft
 review_notes:
 - 'נכתב בספטמבר 2026. כל משפט נבדק מול הטקסטים שנמשכו ב-data/raw/texts/bio-*.txt, או מול הערות השוליים בדפי הרעידות באתר (אז ההפניה היא לדף באתר). ממתין לאישור נדב.'
 - 'עמוס סלמון: הדף של המכון הגיאולוגי לא נמשך (שגיאת SSL). נכתב רק מה שהאתר עצמו מראה, כלומר המאמרים שלו שבשימוש. אין שיוך מוסדי ואין תחום. אם נמצא דף צוות עדכני (למשל ב-gov.il), להוסיף.'
-- 'קלנר-עמירן ועמירן: לא מצאתי בטקסטים שנמשכו מקור שאומר ש-D. H. Kallner-Amiran (1950–1951) ו-D. H. K. Amiran (1994) הם אותו אדם, או שמדובר בדוד עמירן מהאוניברסיטה העברית. לכן יש שני ערכים נפרדים, רק עם החיבורים. הביוגרפיה של דוד עמירן מדף הזיכרון של האוניברסיטה העברית (1910–2003, נולד בברלין, הקים את המחלקה לגאוגרפיה, פרס ישראל 1977) נמשכה אבל לא נכנסה. אם יימשך מקור שמקשר (הספד ב-IEJ, רשומת ספרייה), לאחד את הערכים ולהוסיף אותה.'
+- 'עמירן (סבב משיכה 22–23): ספריית הקונגרס מזהה את D. H. K. Amiran עם דוד עמירן יליד 1910; הערכים אוחדו. הזיהוי עם D. H. Kallner-Amiran (1950–1951) עדיין לא נמצא במקור, ומוצג כסביר ולא כוודאי. TODO: למצוא מקור (למשל הספד או רשומת הספרייה הלאומית).'
 - 'יעקב קרץ: אין מקור ביוגרפי. נכתב רק מה שעולה מהמאמר שלו מ-2004 (התואר ד"ר ועיר המגורים, ירושלים, מכתובת המחבר) ומהשימוש בו באתר. לא נכתבה כתובת הרחוב.'
 - 'מוטי זהר: באתר של מרכז המוכנות לחירום הוא מתואר כמרצה בכיר, ובאתר האישי שלו כפרופסור. הדף הולך לפי האתר האישי, שנראה חדש יותר. לא נכתב תואר, רק השיוך.'
 - 'תאריכים שהושמטו בגלל סתירה: יום מותו של אמברייזיס (28 בדצמבר לפי אימפריאל קולג׳ ו-Academia Europaea, 29 בדצמבר לפי ההספד ב-Journal of Seismology; נשארה רק השנה). שנת מותו של יוסף בן מתתיהו (הבריטניקה של 1911: אולי 95 או מאוחר יותר; ההקדמה ב-CCEL: בערך 100). שנת מותו של קלמן (1889 לפי אליאב 1996, 1890 לפי Jewish Review of Books). שנת לידתו של פטריק ראסל (1726 או 1727, לפי הלוח הישן והחדש).'
@@ -42,13 +42,13 @@ review_notes:
 
 בדף [צפת 1837](/events/1837-safed/) מובאים ממאמר שלו מ-1997 מספרי ההרוגים לפי הדיווחים הרשמיים ושעת הרעידה.[^s-amb97] את עמדותיו מהספר של 2009 מביאים כמה דפים, למשל [הרעש בימי עוזיהו](/events/0760bce-uzziah/),[^s-amb09] ומאמר שכתב עם מואפק ברזנגי משמש בדף [צפת והלבנון 1759](/events/1759-galilee-lebanon/).[^s-ab89]
 
-### ד. ה. קלנר-עמירן (D. H. Kallner-Amiran)
+### דוד עמירן (D. H. K. Amiran)
 
-בשם הזה חתום "קטלוג מתוקן של רעידות האדמה בארץ ישראל", שהתפרסם בכרך הראשון של Israel Exploration Journal בשנים 1950–1951.[^s-kallner] האתר מביא ממנו תאריכים, שעות ותיאורי נזק בדפים [בקעת הירדן 1033](/events/1033-jordan-valley/), [צפת והלבנון 1759](/events/1759-galilee-lebanon/), [ירושלים 1834](/events/1834-jerusalem/) ו[יריחו 1927](/events/1927-dead-sea/).[^s-kallner]
+דוד עמירן (1910–2003) נולד בברלין ולמד גאוגרפיה בגרמניה ובשווייץ. ב-1935 עלה לארץ, ואחרי מלחמת העצמאות הקים את המחלקה לגאוגרפיה באוניברסיטה העברית ועמד בראשה שנים רבות. ב-1977 היה הראשון שזכה בפרס ישראל בגאוגרפיה.[^amiran-huji] ספריית הקונגרס מזהה את המחבר שחותם "D. H. K. Amiran" עם דוד עמירן, יליד 1910.[^amiran-loc]
 
-### ד. ה. ק. עמירן (D. H. K. Amiran)
+בשם הזה, עם א. אריה וט. טורקוטה, פורסם ב-1994 ב-Israel Exploration Journal קטלוג של השפעות רעידות האדמה בארץ ובסביבתה מאז 100 לפנה"ס. האתר מצטט אותו ברוב דפי הרעידות, מ[יהודה 31 לפנה"ס](/events/0031bce-judea/) ועד [יריחו 1927](/events/1927-dead-sea/).[^s-aat]
 
-עמירן פרסם ב-1994, עם א. אריה וט. טורקוטה, קטלוג של תצפיות על השפעות רעידות בארץ ובסביבתה מאז 100 לפנה"ס, גם הוא ב-Israel Exploration Journal.[^s-aat] האתר מצטט אותו ברוב דפי הרעידות, מ[יהודה 31 לפנה"ס](/events/0031bce-judea/) ועד [יריחו 1927](/events/1927-dead-sea/).[^s-aat]
+**הקטלוג מ-1950–1951.** "קטלוג מתוקן של רעידות האדמה בארץ ישראל", שהתפרסם בכרך הראשון של אותו כתב עת, חתום בידי מחבר אחד, D. H. Kallner-Amiran. האתר מביא ממנו תאריכים, שעות ותיאורי נזק בדפים [בקעת הירדן 1033](/events/1033-jordan-valley/), [צפת והלבנון 1759](/events/1759-galilee-lebanon/), [ירושלים 1834](/events/1834-jerusalem/) ו[יריחו 1927](/events/1927-dead-sea/).[^s-kallner] ראשי התיבות וכתב העת זהים, וסביר שזה אותו אדם בשמו הקודם. אבל עדיין לא מצאנו מקור שקובע זאת במפורש, ולכן הזיהוי לא ודאי.
 
 ### יעקב קרץ (Iaakov Karcz)
 
@@ -156,8 +156,10 @@ review_notes:
 [^s-amb97]: השבר, "רעידת האדמה בצפת (1837)", /events/1837-safed/, הערות ambraseys-929 ו-ambraseys-933: N. N. Ambraseys, "The earthquake of 1 January 1837 in Southern Lebanon and Northern Israel", *Annali di Geofisica* 40(4) (1997).
 [^s-amb09]: השבר, "הרעש בימי עוזיהו", /events/0760bce-uzziah/, הערה ambraseys2009: N. N. Ambraseys, *Earthquakes in the Mediterranean and Middle East*, Cambridge University Press, 2009.
 [^s-ab89]: השבר, "רעידות האדמה בצפון ארץ ישראל ובלבנון (1759)", /events/1759-galilee-lebanon/, הערה ab89: N. N. Ambraseys and M. Barazangi, *Journal of Geophysical Research* 94 (B4) (1989).
-[^s-kallner]: השבר, "רעידת האדמה בבקעת הירדן (1033)", /events/1033-jordan-valley/, הערה amiran: D. H. Kallner-Amiran, "A Revised Earthquake-Catalogue of Palestine", *Israel Exploration Journal* 1 (1950–1951), עמ׳ 223–246; וכן הערות kallner בדפי 1759, 1834 ו-1927.
+[^amiran-huji]: האוניברסיטה העברית בירושלים, המחלקה למדע המרחב, "פרופ' דוד עמירן ז"ל", <https://geography.huji.ac.il/people/%D7%93%D7%95%D7%93-%D7%A2%D7%9E%D7%99%D7%A8%D7%9F-%D7%96%D7%9C>.
+[^amiran-loc]: Library of Congress Name Authority File, "Amiran, David H. K., 1910-", <https://id.loc.gov/authorities/names/n87804841.html> (צורות השם: "Amiran, D. H. K. (David H. K.), 1910-"; "עמירן, דוד").
 [^s-aat]: השבר, "רעידת האדמה ביהודה (31 לפנה"ס)", /events/0031bce-judea/, הערה aat: D. H. K. Amiran, E. Arieh and T. Turcotte, "Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E.", *Israel Exploration Journal* 44 (1994), עמ׳ 260–305; וכן הערות aat בדפי 130, 1033, 1068, 1834, 1837 ו-1927.
+[^s-kallner]: השבר, "רעידת האדמה בבקעת הירדן (1033)", /events/1033-jordan-valley/, הערה amiran: D. H. Kallner-Amiran, "A Revised Earthquake-Catalogue of Palestine", *Israel Exploration Journal* 1 (1950–1951), עמ׳ 223–246; וכן הערות kallner בדפי 1759, 1834 ו-1927.
 [^karcz-annals]: Iaakov Karcz, "Implications of some early Jewish sources for estimates of earthquake hazard in the Holy Land", *Annals of Geophysics* 47 (2004), <https://www.annalsofgeophysics.eu/index.php/annals/article/download/3334/3380/0>, שורת המחבר, התקציר וכתובת המחבר, עמ׳ 1 [עמ׳ PDF 1].
 [^s-karcz31]: השבר, "רעידת האדמה ביהודה (31 לפנה"ס)", /events/0031bce-judea/, הערה karcz-778: Karcz 2004, עמ׳ 778.
 [^s-karcz749]: השבר, "רעש שביעית", /events/0749-shviit/, הערה karcz-779: Karcz 2004, עמ׳ 778–779.

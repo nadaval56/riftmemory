@@ -1,0 +1,56 @@
+https://id.loc.gov/search/?q=Amiran%2C+David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames#skip_menu	skip navigation
+https://loc.gov	Library of Congress
+https://loc.gov/discover/	Discover
+https://loc.gov/services-and-programs/	Services
+https://loc.gov/visit/	Visit
+https://loc.gov/education/	Education
+https://loc.gov/connect/	Connect
+https://loc.gov/about/	About
+http://ask.loc.gov/	Ask a Librarian
+https://loc.gov/help/	Help
+https://loc.gov/contact/	Contact
+https://catalog.loc.gov/	Search Online Catalog
+http://copyright.gov/	Copyright.gov
+https://www.congress.gov/	Congress.gov
+https://www.loc.gov	The Library of Congress
+https://id.loc.gov/	Linked Data Service
+https://id.loc.gov/search/?q=Amiran%2C%20David	Name Authority Remove
+https://id.loc.gov/search/?q=Amiran, David	Name Authority
+https://id.loc.gov/search/?q=rdftype:Authority&q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	Authority 1
+https://id.loc.gov/search/?q=rdftype:Name&q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	Name 1
+https://id.loc.gov/search/?q=rdftype:PersonalName&q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	Personal Name 1
+https://id.loc.gov/search/?q=rdftype:SimpleType&q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	Simple Type 1
+https://id.loc.gov/search/?q=memberOf:http://id.loc.gov/authorities/names/collection_LCNAF&q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	Names - General 1
+https://id.loc.gov/search/?q=memberOf:http://id.loc.gov/authorities/names/collection_NamesAuthorizedHeadings&q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	Names - Authorized 1
+https://id.loc.gov/search/?q=cdatefacet:1980s&q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	1980s 1
+https://id.loc.gov/search/?q=mdatefacet:2020s&q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	2020s 1
+https://id.loc.gov/search/	RESET
+https://id.loc.gov/search/?q=Amiran%2C%20David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames&start=1&count=200&sortfield=label	ALPHA SORT
+https://id.loc.gov/search/?q=Amiran%2C+David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	
+https://id.loc.gov/search/?q=Amiran%2C+David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	
+https://id.loc.gov/authorities/names/n87804841	Amiran, David H. K., 1910- | עמירן, דוד
+https://id.loc.gov/search/?q=Amiran%2C+David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	
+https://id.loc.gov/search/?q=Amiran%2C+David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames	
+https://id.loc.gov/techcenter/searching.html	assistance with your search
+https://loc.gov/connect/	Follow Us
+https://loc.gov/subscribe/	
+https://www.facebook.com/libraryofcongress/	
+https://www.twitter.com/librarycongress	
+https://www.youtube.com/libraryofcongress/	
+https://www.pinterest.com/LibraryCongress/	
+https://www.flickr.com/photos/library_of_congress/	
+https://instagram.com/librarycongress/	
+https://itunes.apple.com/us/artist/library-of-congress/id1280713133?mt=2	
+https://www.research.net/r/libraryofcongress?site=homepage	Take our survey External
+https://loc.gov/accessibility/	Accessibility
+https://loc.gov/legal/	Legal
+https://loc.gov/about/office-of-the-inspector-general/	Inspector General
+https://loc.gov/legal/standard-disclaimer-for-external-links/	External Link Disclaimer
+https://www.usa.gov/	USA.gov
+https://loc.gov/careers/	Careers
+https://loc.gov/contact/	Contact
+http://www.loc.gov/pressroom/	Media
+http://www.loc.gov/philanthropy/index.php	Donate
+http://library-of-congress-shop.myshopify.com/	Shop
+https://www.congress.gov/	Congress.gov
+http://copyright.gov	United States Copyright Office

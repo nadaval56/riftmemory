@@ -1,0 +1,154 @@
+SOURCE: https://id.loc.gov/search/?q=Amiran%2C+David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames
+
+
+
+    Search - LC Linked Data Service: Authorities and Vocabularies | Library of Congress
+
+  skip navigation
+
+Library of Congress
+Search
+
+		      Linked Data Services
+		      Everything at Loc.gov
+		      Audio Recordings
+		      Books/Printed Material
+		      Films, Videos
+		      Legislation
+		      Manuscripts/Mixed Material
+		      Maps
+		      Notated Music
+		      Newspapers
+		      Periodicals
+		      Personal Narratives
+		      Photos, Prints, Drawings
+		      Software, E-Resources
+		      Archived Web Sites
+		      Web Pages
+		      3D Objects
+
+Suggestions enabled.
+
+		  Search
+
+		Search toggle
+menu
+
+Discover
+
+Services
+
+Visit
+
+Education
+
+Connect
+
+About
+
+Ask a Librarian
+
+Help
+
+Contact
+
+Search Online Catalog
+
+Copyright.gov
+
+Congress.gov
+
+The Library of Congress > Linked Data Service
+
+Refined by:
+Name Authority  Remove
+
+Refine your results
+Scheme
+
+Name Authority
+
+Type
+
+Authority1
+
+Name1
+
+Personal Name1
+
+Simple Type1
+
+Collection
+
+Names - General1
+
+Names - Authorized1
+
+Created Date
+
+1980s1
+
+Modified Date
+
+2020s1
+
+GO RESET ALPHA SORT
+
+Results: 1-1 of 1
+ 1
+
+		   |
+		   | Label
+		   | Dataset
+		   | Type
+		   | Subdivision
+		   | Identifier
+
+		     | 1.
+		     | Amiran, David H. K., 1910- | עמירן, דוד
+
+		     | LC Name Authority File (LCNAF)
+
+		     | PersonalName
+SimpleType
+Name
+Authority
+		     |
+		     | n87804841
+
+		     |
+		     | Amiran, D. H. K. (David H. K.), 1910- ; Amiran, David H., 1910- ; עמירן, דוד ; עמירן, דוד, 0191־ ; Amiran, David H., 1910-
+
+Results: 1-1 of 1
+ 1
+
+                    Do you need assistance with your search?
+
+Follow Us
+
+Take our survey External
+
+Accessibility
+
+Legal
+
+Inspector General
+
+External Link Disclaimer
+
+USA.gov
+
+Careers
+
+Contact
+
+Media
+
+Donate
+
+Shop
+
+Congress.gov
+
+United States Copyright Office
+
