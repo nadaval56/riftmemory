@@ -1,0 +1,105 @@
+https://earthquake.usgs.gov/	
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#site-sectionnav	Jump to Navigation
+http://www.json.org/	JSON standard
+http://www.geojson.org/	GeoJSON site
+https://earthquake.usgs.gov/earthquakes/feed/policy.php	Feed Life Cycle Policy
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#metadata_generated	generated
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#metadata_url	url
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#metadata_title	title
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#metadata_api	api
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#metadata_count	count
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#metadata_status	status
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#longitude	minimum longitude
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#latitude	minimum latitude
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#depth	minimum depth
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#longitude	maximum longitude
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#latitude	maximum latitude
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#depth	maximum depth
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#mag	mag
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#place	place
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#time	time
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#updated	updated
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#tz	tz
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#url	url
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#detail	detail
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#felt	felt
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#cdi	cdi
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#mmi	mmi
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#alert	alert
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#status	status
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#tsunami	tsunami
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#sig	sig
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#net	net
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#code	code
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#ids	ids
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#sources	sources
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#types	types
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#nst	nst
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#dmin	dmin
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#rms	rms
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#gap	gap
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#magType	magType
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#type	type
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#longitude	longitude
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#latitude	latitude
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#depth	depth
+https://earthquake.usgs.gov/data/comcat/data-eventterms.php#id	id
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_hour.geojson	Significant Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_hour.geojson	M4.5+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_hour.geojson	M2.5+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_hour.geojson	M1.0+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson	All Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.geojson	Significant Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson	M4.5+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson	M2.5+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_day.geojson	M1.0+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson	All Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson	Significant Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson	M4.5+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.geojson	M2.5+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_week.geojson	M1.0+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson	All Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson	Significant Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_month.geojson	M4.5+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.geojson	M2.5+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/1.0_month.geojson	M1.0+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson	All Earthquakes
+mailto:gs-haz_dev_team_group@usgs.gov?subject=EHP%20Website%20Email%20	Questions or comments?
+https://www.facebook.com/sharer.php?u=https%3A%2F%2F	Facebook
+https://twitter.com/intent/tweet?url=https%3A%2F%2F&text=USGS%20%7C%20GeoJSON+Summary+Format	Twitter
+https://plusone.google.com/_/+1/confirm?url=https%3A%2F%2F	Google
+mailto:?to=&subject=GeoJSON+Summary+Format&body=https%3A%2F%2F	Email
+https://earthquake.usgs.gov/earthquakes/feed/	Feeds and Notifications
+https://earthquake.usgs.gov/ens/	Earthquake Notification Service
+https://twitter.com/usgsted	Tweet Earthquake Dispatch
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/atom.php	ATOM
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/kml.php	KML
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php	Spreadsheet
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/quakeml.php	QuakeML
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php	GeoJSON Summary
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson_detail.php	GeoJSON Detail
+https://earthquake.usgs.gov/fdsnws/event/1/	API Documentation - EQ Catalog
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/changelog.php	Change Log
+https://earthquake.usgs.gov/earthquakes/feed/policy.php	Feed Lifecycle Policy
+https://github.com/usgs/devcorner	Developer's Corner
+https://earthquake.usgs.gov/ws/	Web Services
+https://geohazards.usgs.gov/mailman/listinfo/realtime-feeds	Mailing List-Announcements
+https://geohazards.usgs.gov/mailman/listinfo/realtime-feed-users	Mailing List-Forum/Questions
+https://earthquake.usgs.gov	Home
+https://www.usgs.gov/programs/earthquake-hazards/earthquakes	Earthquakes
+https://www.usgs.gov/programs/earthquake-hazards/hazards	Hazards
+https://www.usgs.gov/programs/earthquake-hazards/science	Science
+https://www.usgs.gov/programs/earthquake-hazards/products	Products
+https://www.usgs.gov/programs/earthquake-hazards/monitoring	Monitoring
+https://www.usgs.gov/programs/earthquake-hazards/education	Education
+https://www.usgs.gov/programs/earthquake-hazards/data	Data
+https://www.usgs.gov/programs/earthquake-hazards/maps	Maps
+https://www.usgs.gov/programs/earthquake-hazards/multimedia	Multimedia
+https://www.usgs.gov/programs/earthquake-hazards/publications	Publications
+https://www.usgs.gov/programs/earthquake-hazards/tools	Web Tools
+https://www.usgs.gov/programs/earthquake-hazards/software	Software
+https://www.usgs.gov/programs/earthquake-hazards/news	News
+https://www.usgs.gov/programs/earthquake-hazards/connect	Connect
+https://www.usgs.gov/programs/earthquake-hazards/partners	Partners
+https://www.usgs.gov/programs/earthquake-hazards/about	About
+https://www.usgs.gov/policies-and-notices	Legal

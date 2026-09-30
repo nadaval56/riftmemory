@@ -1,3 +1,3 @@
-# סבב 23: רשומת השם של דוד עמירן בספריית הקונגרס (שמות קודמים, מקורות)
-amiran-loc-record https://id.loc.gov/authorities/names/n87804841.html
-amiran-loc-marc https://id.loc.gov/authorities/names/n87804841.marcxml.xml
+# סבב 26: למה כל כך הרבה רעידות בעומק 10 ק"מ (USGS)
+usgs-faq-depth10km https://www.usgs.gov/faqs/why-do-so-many-earthquakes-occur-depth-10km
+usgs-faq-what-depth https://www.usgs.gov/faqs/what-depth-do-earthquakes-occur-what-significance-depth

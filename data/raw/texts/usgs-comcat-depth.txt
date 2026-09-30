@@ -1,0 +1,302 @@
+SOURCE: https://earthquake.usgs.gov/data/comcat/index.php#depth
+
+
+
+    ANSS Comprehensive Earthquake Catalog (ComCat)
+
+    Skip to main content
+
+An official website of the United States government
+
+Here’s how you know
+
+            Here’s how you know
+
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+
+Secure .gov websites use HTTPS
+A lock or https:// means you’ve safely connected to the .gov website.
+
+                  Search
+
+              Menu
+
+          Earthquake Hazards Program
+
+            Earthquakes
+
+            Data & Tools
+
+            Monitoring
+
+            Education
+
+          Latest Earthquakes
+
+          Close
+
+              Search
+
+Overview
+Contribute Data
+Access Data
+Catalog Data
+Availability
+Products
+Catalogs
+Contributors
+References
+
+              Earthquakes
+
+            Latest Earthquakes
+
+            Search The Earthquake Catalog
+
+            Today in Earthquake History
+
+            Earthquake Information By Region
+
+               (external link)
+
+            Historical Earthquake Lists And Statistics
+
+            Significant And Historic Earthquakes
+
+            Significant Earthquakes By Year
+
+            Worldwide Magnitude 6+ Earthquakes
+
+            Worldwide Magnitude 7+ Earthquakes
+
+            Worldwide Magnitude 8+ Earthquakes
+
+            Deleted Earthquakes
+
+            Real-Time Notifications & Feeds
+
+            Earthquake Scenarios
+
+            Scenario Catalog
+
+            Scenario Contributors
+
+            Related Exercises
+
+              Data & Tools
+
+            Earthquake Data Products
+
+            Origin
+
+            Phase Data
+
+            Focal Mechanism
+
+            Moment Tensor
+
+            Finite-Fault Models
+
+            ShakeMap
+
+            PAGER
+
+            Did You Feel It?
+
+            Ground-Failure Estimates
+
+            Event Sequence
+
+            Operational Aftershock Forecasts
+
+            ShakeAlert
+
+            Common Alerting Protocol (CAP)
+
+            Event Poster
+
+            Tectonic Summary
+
+            General Header
+
+            GeoServe
+
+            Nearby Cities
+
+            Significance
+
+            Link Products
+
+            Text Products
+
+            Associate
+
+            Disassociate
+
+            Trump
+
+            Comprehensive Earthquake Catalog (ComCat)
+
+            Overview
+
+            Contribute Data
+
+            Access Data
+
+            Catalog Data
+
+            Availability
+
+            Products
+
+            Catalogs
+
+            Contributors
+
+            References
+
+            Real-Time Notifications & Feeds
+
+            Earthquake Notification Service (ENS)
+
+               (external link)
+
+            Developer Resources & Software
+
+            Web APIs
+
+            ComCat Event Timeline
+
+            Product Distribution Layer (PDL)
+
+               (external link)
+
+            PDL Documentation
+
+               (external link)
+
+            Libcomcat For Python Developers
+
+               (external link)
+
+            Earthquake Hazards Program Software Catalog
+
+               (external link)
+
+            ComCat Event Timeline Source Code
+
+               (external link)
+
+            Rupture Directivity
+
+            What Is Directivity?
+
+            Rupture Direction and Velocity Methods
+
+            Northern California Results
+
+              Monitoring
+
+            Station Maps, Status, And Heliplots
+
+            Two-Color EDM
+
+            Geodolite Data
+
+              Education
+
+            Earthquake Topics
+
+            Activities And Media
+
+            Listen To Earthquakes
+
+            Ground-Shaking Simulations
+
+            Interactive Geologic Maps
+
+            The Parkfield Earthquake Experiment
+
+          Latest Earthquakes
+
+                          Home
+
+                          Data & Tools
+
+                          Comprehensive Earthquake Catalog (ComCat)
+
+ANSS Comprehensive Earthquake Catalog (ComCat)
+
+  The ANSS Comprehensive Earthquake Catalog (ComCat) contains earthquake
+  source parameters and related products contributed by seismic networks
+  around the world.
+
+  Search The Catalog
+  View Latest Earthquakes
+
+Explore ComCat
+
+Contribute Data
+
+Use the Product Distribution Layer (PDL) to contribute earthquake data and products to USGS real-time systems and ComCat.
+
+Access Earthquake Data
+
+      Choose an interactive search, web service, real-time feed, notification
+      service, or developer tool.
+
+Data Availability
+
+Review catalog date ranges by contributing seismic network.
+
+Data Products
+
+Learn how earthquake products are associated, versioned, and preferred.
+
+Explore Catalog Sources
+
+      See the authoritative and historical catalogs that contribute events to
+      ComCat, including their time periods and geographic regions.
+
+Browse Real-Time Contributors
+
+      Find the seismic networks and agencies that contribute real-time event
+      parameters and products.
+
+Contribute Or Receive Earthquake Data
+
+    Organizations can use the
+    Product Distribution Layer (PDL)
+    to send products to and receive products from the USGS.
+
+            Return to top
+
+U.S. Geological Survey
+
+Policies and Notices
+
+Accessibility
+
+Site Map
+
+Contact USGS
+
+usgs.gov
+
+An official website of the U.S. Department of the Interior
+
+About DOI
+
+Accessibility statement
+
+FOIA requests
+
+No FEAR Act data
+
+Office of the Inspector General
+
+Privacy policy
+
+Looking for U.S. government information and services?  Visit USA.gov
+

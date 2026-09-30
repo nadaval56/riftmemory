@@ -1,0 +1,125 @@
+https://earthquake.usgs.gov/data/comcat/index.php#main-content	Skip to main content
+https://www.usgs.gov/	
+https://earthquake.usgs.gov/earthquakes/	Earthquakes
+https://earthquake.usgs.gov/data/	Data & Tools
+https://earthquake.usgs.gov/monitoring/	Monitoring
+https://earthquake.usgs.gov/education/	Education
+https://earthquake.usgs.gov/earthquakes/map/	Latest Earthquakes
+https://earthquake.usgs.gov/data/catalog/	Overview
+https://earthquake.usgs.gov/data/catalog/contribute/	Contribute Data
+https://earthquake.usgs.gov/data/catalog/access/	Access Data
+https://earthquake.usgs.gov/data/catalog/data/	Catalog Data
+https://earthquake.usgs.gov/data/catalog/availability.php	Availability
+https://earthquake.usgs.gov/data/catalog/products.php	Products
+https://earthquake.usgs.gov/data/catalog/catalogs/	Catalogs
+https://earthquake.usgs.gov/data/catalog/contributors/	Contributors
+https://earthquake.usgs.gov/data/catalog/references.php	References
+https://earthquake.usgs.gov/earthquakes/	Earthquakes
+https://earthquake.usgs.gov/earthquakes/map/	Latest Earthquakes
+https://earthquake.usgs.gov/earthquakes/search/	Search The Earthquake Catalog
+https://earthquake.usgs.gov/learn/today/	Today in Earthquake History
+https://www.usgs.gov/programs/earthquake-hazards/information-region	Earthquake Information By Region    (external link)
+https://earthquake.usgs.gov/earthquakes/statistics/	Historical Earthquake Lists And Statistics
+https://earthquake.usgs.gov/earthquakes/statistics/events/	Significant And Historic Earthquakes
+https://earthquake.usgs.gov/earthquakes/statistics/significant.php	Significant Earthquakes By Year
+https://earthquake.usgs.gov/earthquakes/statistics/m6-world.php	Worldwide Magnitude 6+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/statistics/m7-world.php	Worldwide Magnitude 7+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/statistics/m8-world.php	Worldwide Magnitude 8+ Earthquakes
+https://earthquake.usgs.gov/earthquakes/statistics/deleted.php	Deleted Earthquakes
+https://earthquake.usgs.gov/earthquakes/feed/	Real-Time Notifications & Feeds
+https://earthquake.usgs.gov/scenarios/	Earthquake Scenarios
+https://earthquake.usgs.gov/scenarios/catalog/	Scenario Catalog
+https://earthquake.usgs.gov/scenarios/contributor/	Scenario Contributors
+https://earthquake.usgs.gov/scenarios/related/	Related Exercises
+https://earthquake.usgs.gov/data/	Data & Tools
+https://earthquake.usgs.gov/data/products/	Earthquake Data Products
+https://earthquake.usgs.gov/data/products/#origin	Origin
+https://earthquake.usgs.gov/data/products/#phase-data	Phase Data
+https://earthquake.usgs.gov/data/products/#focal-mechanism	Focal Mechanism
+https://earthquake.usgs.gov/data/products/#moment-tensor	Moment Tensor
+https://earthquake.usgs.gov/data/products/#finite-fault	Finite-Fault Models
+https://earthquake.usgs.gov/data/products/#shakemap	ShakeMap
+https://earthquake.usgs.gov/data/products/#pager	PAGER
+https://earthquake.usgs.gov/data/products/#dyfi	Did You Feel It?
+https://earthquake.usgs.gov/data/products/#ground-failure	Ground-Failure Estimates
+https://earthquake.usgs.gov/data/products/#event-sequence	Event Sequence
+https://earthquake.usgs.gov/data/products/#oaf	Operational Aftershock Forecasts
+https://earthquake.usgs.gov/data/products/#shake-alert	ShakeAlert
+https://earthquake.usgs.gov/data/products/#cap	Common Alerting Protocol (CAP)
+https://earthquake.usgs.gov/data/products/#poster	Event Poster
+https://earthquake.usgs.gov/data/products/#tectonic-summary	Tectonic Summary
+https://earthquake.usgs.gov/data/products/#general-header	General Header
+https://earthquake.usgs.gov/data/products/#geoserve	GeoServe
+https://earthquake.usgs.gov/data/products/#nearby-cities	Nearby Cities
+https://earthquake.usgs.gov/data/products/#significance	Significance
+https://earthquake.usgs.gov/data/products/#link-products	Link Products
+https://earthquake.usgs.gov/data/products/#text-products	Text Products
+https://earthquake.usgs.gov/data/products/#associate	Associate
+https://earthquake.usgs.gov/data/products/#disassociate	Disassociate
+https://earthquake.usgs.gov/data/products/#trump	Trump
+https://earthquake.usgs.gov/data/catalog/	Comprehensive Earthquake Catalog (ComCat)
+https://earthquake.usgs.gov/data/catalog/	Overview
+https://earthquake.usgs.gov/data/catalog/contribute/	Contribute Data
+https://earthquake.usgs.gov/data/catalog/access/	Access Data
+https://earthquake.usgs.gov/data/catalog/data/	Catalog Data
+https://earthquake.usgs.gov/data/catalog/availability.php	Availability
+https://earthquake.usgs.gov/data/catalog/products.php	Products
+https://earthquake.usgs.gov/data/catalog/catalogs/	Catalogs
+https://earthquake.usgs.gov/data/catalog/contributors/	Contributors
+https://earthquake.usgs.gov/data/catalog/references.php	References
+https://earthquake.usgs.gov/earthquakes/feed/	Real-Time Notifications & Feeds
+https://earthquake.usgs.gov/ens/	Earthquake Notification Service (ENS)    (external link)
+https://earthquake.usgs.gov/data/software/	Developer Resources & Software
+https://earthquake.usgs.gov/data/web-services/	Web APIs
+https://earthquake.usgs.gov/data/timeline/	ComCat Event Timeline
+https://code.usgs.gov/ghsc/hazdev/pdl	Product Distribution Layer (PDL)    (external link)
+https://ghsc.code-pages.usgs.gov/hazdev/pdl/	PDL Documentation    (external link)
+https://code.usgs.gov/ghsc/esi/libcomcat-python	Libcomcat For Python Developers    (external link)
+https://www.usgs.gov/programs/earthquake-hazards/software	Earthquake Hazards Program Software Catalog    (external link)
+https://code.usgs.gov/ghsc/hazdev/comcat-timeline	ComCat Event Timeline Source Code    (external link)
+https://earthquake.usgs.gov/data/rupture/	Rupture Directivity
+https://earthquake.usgs.gov/data/rupture/directivity.php	What Is Directivity?
+https://earthquake.usgs.gov/data/rupture/details.php	Rupture Direction and Velocity Methods
+https://earthquake.usgs.gov/data/rupture/bssa.php	Northern California Results
+https://earthquake.usgs.gov/monitoring/	Monitoring
+https://earthquake.usgs.gov/monitoring/operations/	Station Maps, Status, And Heliplots
+https://earthquake.usgs.gov/monitoring/deformation/edm/	Two-Color EDM
+https://earthquake.usgs.gov/monitoring/deformation/geodolite/	Geodolite Data
+https://earthquake.usgs.gov/education/	Education
+https://earthquake.usgs.gov/education/	Earthquake Topics
+https://earthquake.usgs.gov/learn/activities/	Activities And Media
+https://earthquake.usgs.gov/education/listen/	Listen To Earthquakes
+https://earthquake.usgs.gov/education/shakingsimulations/	Ground-Shaking Simulations
+https://earthquake.usgs.gov/education/geologicmaps/	Interactive Geologic Maps
+https://earthquake.usgs.gov/learn/parkfield/	The Parkfield Earthquake Experiment
+https://earthquake.usgs.gov/earthquakes/map/	Latest Earthquakes
+https://earthquake.usgs.gov/	Home
+https://earthquake.usgs.gov/data/	Data & Tools
+https://earthquake.usgs.gov/earthquakes/search/	Search The Catalog
+https://earthquake.usgs.gov/earthquakes/map/	View Latest Earthquakes
+https://earthquake.usgs.gov/data/catalog/contribute/	Contribute Data
+https://earthquake.usgs.gov/data/comcat/access.php	Access Earthquake Data
+https://earthquake.usgs.gov/data/comcat/availability.php	Data Availability
+https://earthquake.usgs.gov/data/comcat/products.php	Data Products
+https://earthquake.usgs.gov/data/comcat/catalog/	Explore Catalog Sources
+https://earthquake.usgs.gov/data/comcat/contributor/	Browse Real-Time Contributors
+https://code.usgs.gov/ghsc/hazdev/pdl	Product Distribution Layer (PDL)
+https://www.usgs.gov/policies-and-notices	Policies and Notices
+https://www.usgs.gov/accessibility-and-us-geological-survey	Accessibility
+https://www.usgs.gov/sitemap	Site Map
+https://answers.usgs.gov/	Contact USGS
+https://www.facebook.com/usgeologicalsurvey	
+https://twitter.com/usgs	
+https://www.youtube.com/usgs	
+https://www.instagram.com/usgs	
+https://www.flickr.com/photos/usgeologicalsurvey	
+https://github.com/usgs	
+https://www.doi.gov/	
+https://www.doi.gov/	U.S. Department of the Interior
+https://www.doi.gov/about	About DOI
+https://www.doi.gov/accessibility	Accessibility statement
+https://www.doi.gov/foia	FOIA requests
+https://www.doi.gov/pmb/eeo/no-fear-act	No FEAR Act data
+https://www.doioig.gov/	Office of the Inspector General
+https://www.doi.gov/privacy	Privacy policy
+https://www.usa.gov/	Visit USA.gov

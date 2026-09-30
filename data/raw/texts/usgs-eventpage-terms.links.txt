@@ -1,0 +1,3 @@
+https://earthquake.usgs.gov/earthquakes/feed/	
+https://angular.io/guide/browser-support	view supported browsers
+https://earthquake.usgs.gov/earthquakes/feed/	Real-time Notifications, Feeds, and Web Services
