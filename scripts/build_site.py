@@ -28,7 +28,7 @@ import echo
 import fmt
 import charts
 import timeline
-from build_events import load_events
+from build_events import load_events, read_event
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
@@ -530,6 +530,19 @@ def build(drafts=False):
         svg_v=timeline.vertical(events, BASE_PATH),
     ))
     pages.append("/timeline/")
+
+    # דפים כלליים מ-content/pages/*.md (למשל "מה זו רעידת אדמה"). כל דף: frontmatter עם
+    # slug, title, description ו-lede, וגוף Markdown עם כותרות ## והערות שוליים.
+    for path in sorted((ROOT / "content" / "pages").glob("*.md")):
+        meta, body = read_event(path)
+        if meta.get("status") != "published" and not (drafts or public_drafts):
+            continue
+        meta["sections"], meta["footnotes"] = split_sections(body)
+        slug = meta["slug"]
+        write(SITE / slug / "index.html", env.get_template("page.html").render(
+            **common, page_path=f"/{slug}/", page=meta, noindex=meta.get("status") != "published"))
+        if meta.get("status") == "published":
+            pages.append(f"/{slug}/")
 
     # על האתר
     write(SITE / "about" / "index.html", env.get_template("about.html").render(
