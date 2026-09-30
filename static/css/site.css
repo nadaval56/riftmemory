@@ -109,7 +109,34 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 }
 .brand { display: flex; align-items: center; gap: .55rem; text-decoration: none; color: var(--ink); }
 .brand span { font-weight: 700; font-size: 1.35rem; letter-spacing: -.5px; }
-.brand-mark { width: 44px; height: 16px; fill: none; stroke: var(--accent); stroke-width: 2.2; stroke-linejoin: round; stroke-linecap: round; }
+/* הסמל: שני גושים משני צדי העתק, ונחל שחוצה אותם ונקטע בהסטה, כמו בהעתק ים המלח
+   (הגוש המזרחי זז צפונה ביחס למערבי). */
+.rift-mark { width: 32px; height: 32px; flex: none; overflow: visible; }
+.rift-mark rect { fill: var(--accent); }
+.rift-mark path { fill: none; stroke: var(--bg); stroke-width: 2.4; stroke-linecap: butt; }
+
+/* אנימציה: פחות משתי שניות. רעד קצר, ואז שני הגושים מחליקים זה לצד זה והנחל נקטע.
+   המצב במנוחה הוא הפריים האחרון (fill-mode backwards), כך שבלי תנועה (העדפת מערכת,
+   או "עצירת אנימציות" בתפריט הנגישות) או בלי JS, הסמל פשוט עומד שלם.
+   מתנגנת בטעינה, במעבר עכבר, ושוב כשהסמל חוזר למסך או 15 שניות אחרי הפעם הקודמת
+   (static/js/brand-anim.js, אותה לוגיקה כמו באתר העב"מים). אין לולאה ב-CSS. */
+@keyframes rift-shake   { 0%, 100% { transform: none; } 20% { transform: translateX(-.7px); } 40% { transform: translateX(.7px); } 60% { transform: translateX(-.5px); } 80% { transform: translateX(.3px); } }
+@keyframes rift-shake-2 { 0%, 100% { transform: none; } 20% { transform: translateX(-.7px); } 40% { transform: translateX(.7px); } 60% { transform: translateX(-.5px); } 80% { transform: translateX(.3px); } }
+@keyframes rift-slip-w   { 0% { transform: translateY(-2.5px); } 70% { transform: translateY(.4px); } }
+@keyframes rift-slip-w-2 { 0% { transform: translateY(-2.5px); } 70% { transform: translateY(.4px); } }
+@keyframes rift-slip-e   { 0% { transform: translateY(2.5px); } 70% { transform: translateY(-.4px); } }
+@keyframes rift-slip-e-2 { 0% { transform: translateY(2.5px); } 70% { transform: translateY(-.4px); } }
+.rift-all { animation: rift-shake .45s linear .2s; }
+.rift-w { animation: rift-slip-w .6s cubic-bezier(.3,.7,.3,1) .65s backwards; }
+.rift-e { animation: rift-slip-e .6s cubic-bezier(.3,.7,.3,1) .65s backwards; }
+/* מעבר עכבר מנגן שוב (שם אחר לאנימציה, כי דפדפן לא מתחיל מחדש אנימציה ששמה לא השתנה).
+   רק עכבר אמיתי: בטלפון :hover נתקע אחרי נגיעה. */
+@media (hover: hover) {
+  .brand:hover .rift-all { animation-name: rift-shake-2; }
+  .brand:hover .rift-w { animation-name: rift-slip-w-2; }
+  .brand:hover .rift-e { animation-name: rift-slip-e-2; }
+}
+@media (prefers-reduced-motion: reduce) { .rift-mark * { animation: none !important; } }
 .site-nav { display: flex; align-items: center; gap: .35rem; flex-wrap: wrap; }
 .site-nav a {
   color: var(--ink-2); text-decoration: none; font-size: .9rem; font-weight: 500;
@@ -246,12 +273,23 @@ section + section { margin-top: 2rem; }
 /* Leaflet מחשב מיקום של תוויות וחלונות לפי כיוון שמאל-לימין. הטקסט שבתוכם חוזר ל-RTL. */
 .map.leaflet-container { direction: ltr; background: var(--surface-2); }
 .map .leaflet-tooltip, .map .leaflet-popup-content, .map .leaflet-control-attribution { direction: rtl; }
-.map-legend, .timeline-legend {
+.map-key, .timeline-legend {
   list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .35rem 1.1rem;
   font-size: .8rem; color: var(--ink-2);
 }
+.map-key { margin: .5rem 0 0; }
+/* המתגים שמתחת למפה: כל שכבה בשורה משלה, עם הסמל שלה, ואזור לחיצה נוח לאצבע */
+.map-legend { margin-top: .6rem; }
+.map-toggles { border: 1px solid var(--line-soft); border-radius: var(--radius-sm); background: var(--surface); margin: 0; padding: .35rem .7rem .45rem; display: grid; gap: .1rem; }
+.map-toggles legend { font-size: .8rem; font-weight: 600; color: var(--ink-2); padding: 0 .3rem; }
+.tg { display: flex; align-items: center; gap: .55rem; min-height: 44px; font-size: .86rem; color: var(--ink-2); cursor: pointer; line-height: 1.4; }
+.tg strong { color: var(--ink); font-weight: 600; }
+.tg input { width: 20px; height: 20px; margin: 0; flex: none; accent-color: var(--accent); cursor: pointer; }
+.tg .lg { flex: none; margin: 0; }
+.tg-live strong { color: var(--instrumental-ink); }
+.tg-hist strong { color: var(--accent-ink); }
 .lg { display: inline-block; width: 11px; height: 11px; border-radius: 50%; vertical-align: middle; margin-inline-end: .3rem; }
-.lg-live { background: var(--quake); width: 8px; height: 8px; opacity: .8; }
+.lg-live { background: var(--quake); width: 12px; height: 12px; box-shadow: 0 0 0 1.5px var(--surface), 0 0 0 2.5px var(--quake); }
 .lg-hist { width: 18px; height: 18px; background: color-mix(in srgb, var(--accent) 18%, transparent); border: 1.5px dashed var(--accent); position: relative; }
 .lg-hist::after { content: ""; position: absolute; inset: 5px; border-radius: 50%; background: var(--accent); }
 .lg-seg { border-radius: 3px; background: color-mix(in srgb, var(--accent) 18%, transparent); border: 1px dashed var(--accent); }
@@ -410,14 +448,22 @@ table.data th { color: var(--ink-2); font-weight: 600; }
 table.data td:nth-child(2), table.data td:nth-child(3) { white-space: nowrap; }
 
 /* מקומות שנפגעו */
-.dmg { background: var(--ink-2); border: 1px solid var(--surface); opacity: .85; border-radius: 2px; transform: rotate(45deg); box-shadow: 0 0 0 .5px var(--ink-2); }
-.dmg.doubtful { background: var(--surface); border: 1.5px dashed var(--ink-2); }
+/* המרקר עצמו שקוף וגדול (אזור הלחיצה), והריבוע שרואים הוא ::before במרכזו */
+.dmg { background: none; border: 0; display: grid; place-items: center; }
+.dmg::before { content: ""; width: 8px; height: 8px; box-sizing: border-box; background: var(--ink-2); border: 1px solid var(--surface); opacity: .85; border-radius: 2px; transform: rotate(45deg); box-shadow: 0 0 0 .5px var(--ink-2); }
+.dmg.doubtful::before { background: var(--surface); border: 1.5px dashed var(--ink-2); }
 .lg-dmg { width: 9px; height: 9px; border-radius: 2px; transform: rotate(45deg); background: var(--ink-2); }
 .dmg-entry { margin-top: .35rem; }
 
-/* מתג השכבות במפה */
-.map .leaflet-control-layers { direction: rtl; font: .8rem Heebo, sans-serif; background: var(--surface); color: var(--ink); border: 1px solid var(--line); box-shadow: none; }
-.map .leaflet-control-layers label { display: flex; align-items: center; gap: .3rem; }
+/* סוג הרעידה בראש החלון שנפתח במפה */
+.pop-kind { display: block; width: fit-content; font-size: .72rem; font-weight: 600; border-radius: 999px; padding: 0 .5rem; margin-bottom: .25rem; }
+.pop-hist { color: var(--accent-ink); background: var(--accent-soft); }
+.pop-live { color: var(--instrumental-ink); background: color-mix(in srgb, var(--quake) 14%, var(--surface)); }
+/* הרעידה האחרונה ביותר: טבעת שמתרחבת פעמיים ונעצרת */
+.live-ring { border-radius: 50%; border: 2px solid var(--quake); animation: live-ring 1.6s ease-out 3; opacity: 0; }
+@keyframes live-ring { from { transform: scale(.3); opacity: .9; } to { transform: scale(1); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .live-ring { animation: none; opacity: .6; } }
+html.a11y-still .live-ring { opacity: .6; }
 .quake-links { margin: .35rem 0 0; font-size: .88rem; }
 table.data a.ext { font-size: .82em; }
 

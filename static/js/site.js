@@ -35,12 +35,23 @@
   function initMap(el) {
     var data = JSON.parse(el.dataset.map);
     var map = L.map(el, { scrollWheelZoom: false, minZoom: 5, maxZoom: 10 }).setView([31.8, 35.2], 7);
+    // אזורי לחיצה: מתחת לכל נקודה וקו יש צורה שקופה וגדולה יותר עם אותו חלון, כך שלחיצה
+    // קרובה מספיקה. באצבע (מסך מגע) האזור גדול יותר, כי אי אפשר לכוון בדיוק של עכבר.
+    var coarse = window.matchMedia && window.matchMedia("(pointer: coarse)").matches;
+    var HIT = coarse ? 16 : 9;
+    function hitDot(latlng, popup, layer) {
+      return L.circleMarker(latlng, { radius: HIT, stroke: false, fill: true, fillOpacity: 0 }).bindPopup(popup).addTo(layer);
+    }
     var css = getComputedStyle(document.documentElement);
 
     // מפת בסיס מקומית (Natural Earth, נחלת הכלל): ים, אגמים, נהרות ושמות ערים.
     // בלי שרת אריחים חיצוני: CARTO דורש מפתח, ו-OSM מסמן שטחים צבאיים בוורוד.
     map.createPane("base").style.zIndex = 200;
     map.createPane("cities").style.zIndex = 250;
+    // סדר השכבות, מלמטה למעלה: קווי השבר, המקומות שנפגעו, הרעידות (היסטוריות ואחרונות).
+    // כך לחיצה ליד מקום שנפגע פותחת אותו ולא את הקו שעובר לידו, והרעידות לא נבלעות במקומות.
+    map.createPane("faults").style.zIndex = 380;
+    map.createPane("damage").style.zIndex = 390;
     map.attributionControl.setPrefix(false);
     map.attributionControl.addAttribution('<a href="https://leafletjs.com">Leaflet</a> · <a href="https://www.naturalearthdata.com">Natural Earth</a>');
     fetch(data.basemap).then(function (r) { return r.json(); }).then(function (b) {
@@ -103,7 +114,8 @@
       var strong = data.highlight === s.id;
       s.lines.forEach(function (line) {
         var latlngs = line.map(function (c) { return [c[1], c[0]]; });
-        L.polyline(latlngs, {
+        var fault = L.polyline(latlngs, {
+          pane: "faults",
           color: colors.rust, weight: strong ? 5 : dim ? 2 : 3, opacity: dim ? 0.35 : 0.9,
           dashArray: s.draft ? "6 5" : null
         })
@@ -114,6 +126,7 @@
             }).join(" · ") + "</div>" : "") +
             '<div class="src">מקור הקו: GEM Global Active Faults, מודל EMME</div></div>')
           .addTo(map);
+        L.polyline(latlngs, { pane: "faults", opacity: 0, weight: HIT * 1.4 }).bindPopup(fault.getPopup().getContent()).addTo(map);
         latlngs.forEach(function (p) { faultBounds.push(p); if (strong) segBounds.push(p); });
         lines.push(latlngs);
         latlngs.forEach(function (p) { lo = Math.min(lo, p[0]); hi = Math.max(hi, p[0]); });
@@ -134,37 +147,53 @@
       }
     });
 
+    // שכבות נפרדות, כדי שאפשר יהיה להציג ולהסתיר כל אחת מתחת למפה
+    var layers = { live: L.layerGroup().addTo(map), hist: L.layerGroup().addTo(map), dmg: L.layerGroup().addTo(map) };
+    var surface = css.getPropertyValue("--surface").trim();
+
+    // רעידות אחרונות (מדידה): נקודה כחולה מלאה עם מסגרת בהירה. הצבע והצורה שונים מהרעידות ההיסטוריות
+    // (עיגול מקווקו בצבע השבר), והחלון שנפתח מתחיל בתווית "רעידה אחרונה".
+    var newest = null;
     data.live.forEach(function (q) {
+      var hit = data.dot_scale ? null : hitDot([q.lat, q.lon], "", layers.live);
       var m = L.circleMarker([q.lat, q.lon], {
-        radius: data.dot_scale ? Math.max(2, (q.mag - 2) * data.dot_scale) : Math.max(3, q.mag * 1.6),
-        color: colors.live, weight: data.dot_scale ? 0.5 : 1, fillOpacity: data.dot_scale ? 0.35 : 0.6
-      }).bindPopup('<div class="map-popup"><strong>' + esc(q.label) + '</strong><br><bdi dir="ltr">M' + q.mag + "</bdi>" +
+        radius: data.dot_scale ? Math.max(2, (q.mag - 2) * data.dot_scale) : Math.max(4, q.mag * 1.8),
+        color: data.dot_scale ? colors.live : surface, weight: data.dot_scale ? 0.5 : 1.5,
+        fillColor: colors.live, fillOpacity: data.dot_scale ? 0.35 : 0.85
+      }).bindPopup('<div class="map-popup"><span class="pop-kind pop-live">' + esc(data.live_kind || "רעידה אחרונה · נמדדה במכשירים") + "</span>" +
+        "<strong>" + esc(q.label) + '</strong><br><bdi dir="ltr">M' + q.mag + "</bdi>" +
         (q.depth != null ? " · עומק " + q.depth + " ק״מ" : "") +
         '<div class="src">' + esc(q.local || ago(q.time_utc) || "") + "</div>" +
         (q.url ? '<div class="src"><a href="' + q.url + '"' + (q.url.indexOf("http") === 0 ? ' rel="noopener"' : "") + ">" +
           (q.url.indexOf("http") === 0 ? "הרשומה בקטלוג USGS ↗" : "לכל הפרטים ←") + "</a></div>" : "") + "</div>")
-        .addTo(map);
+        .addTo(layers.live);
+      if (hit) hit.setPopupContent(m.getPopup().getContent());
       if (q.key) focusable[q.key] = m;
       bounds.push([q.lat, q.lon]);
+      if (!data.dot_scale && q.time_utc && (!newest || q.time_utc > newest.time_utc)) newest = q;
     });
+    // הרעידה האחרונה ביותר: טבעת שמתרחבת פעמיים ונעצרת (בלי תנועה אם הקורא ביקש פחות תנועה)
+    if (newest) {
+      L.marker([newest.lat, newest.lon], {
+        icon: L.divIcon({ className: "live-ring", iconSize: [34, 34] }), interactive: false, keyboard: false
+      }).addTo(layers.live);
+    }
 
     // מקומות שנפגעו: המקומות שהדפים מתארים בהם נזק (לא מוקדים). ריבוע קטן, ובלחיצה: מה קרה שם ובאיזו רעידה.
     var dmgBounds = [];
-    var dmgLayer = L.layerGroup();
+    var dmgLayer = layers.dmg;
     if (data.damage && data.damage.length) {
       map.attributionControl.addAttribution('<a href="https://www.geonames.org">GeoNames</a>');
-      dmgLayer.addTo(map);
-      // מתג להצגה ולהסתרה של המקומות שנפגעו
-      L.control.layers(null, { "מקומות שנפגעו": dmgLayer }, { collapsed: false, position: "topleft" }).addTo(map);
     }
     (data.damage || []).forEach(function (d) {
-      var icon = L.divIcon({ className: "dmg" + (d.doubtful ? " doubtful" : ""), iconSize: [8, 8] });
+      // הריבוע שרואים קטן, אבל אזור הלחיצה סביבו גדול (ב-CSS: .dmg::before הוא הריבוע)
+      var icon = L.divIcon({ className: "dmg" + (d.doubtful ? " doubtful" : ""), iconSize: coarse ? [30, 30] : [18, 18] });
       var html = '<div class="map-popup"><strong>' + esc(d.name) + "</strong>" + d.entries.map(function (x) {
         return '<div class="dmg-entry"><a href="' + x.url + '">' + esc(x.title) + "</a>" +
           (x.place !== d.name ? " (" + esc(x.place) + ")" : "") + ": " + esc(x.what) +
           '<div class="src">' + esc(x.status) + "</div></div>";
       }).join("") + "</div>";
-      L.marker([d.lat, d.lon], { icon: icon, keyboard: false }).bindPopup(html).addTo(dmgLayer);
+      L.marker([d.lat, d.lon], { icon: icon, keyboard: false, pane: "damage" }).bindPopup(html).addTo(dmgLayer);
       dmgBounds.push([d.lat, d.lon]);
     });
 
@@ -172,7 +201,7 @@
     // והחלון שנפתח בלחיצה אומר לפי איזה חוקר נקבע המיקום ומפנה לביבליוגרפיה בדף הרעידה.
     var hist = [];
     data.events.forEach(function (e) {
-      var popup = '<div class="map-popup"><a href="' + e.url + '"><strong>' + esc(e.title) + "</strong></a><br>" + esc(e.year) +
+      var popup = '<div class="map-popup"><span class="pop-kind pop-hist">רעידה היסטורית</span><a href="' + e.url + '"><strong>' + esc(e.title) + "</strong></a><br>" + esc(e.year) +
         "<br><strong>" + (e.label ? "הצעה אחת למוקד (מיקום משוער)" : "מיקום משוער") + "</strong>" +
         (e.source ? '<div class="src">לפי: ' + (e.source_url
           ? '<a href="' + esc(e.source_url) + '" rel="noopener">' + esc(e.source) + "</a>"
@@ -181,14 +210,26 @@
       var area = L.circle([e.lat, e.lon], {
         radius: e.label ? 12000 : 30000, color: colors.rust, weight: 1.5, dashArray: "4 4",
         fillColor: colors.rust, fillOpacity: 0.15
-      }).bindPopup(popup).addTo(map);
+      }).bindPopup(popup).addTo(layers.hist);
+      hitDot([e.lat, e.lon], popup, layers.hist);
       L.circleMarker([e.lat, e.lon], {
-        radius: 4, stroke: false, fillColor: colors.rust, fillOpacity: 1
-      }).bindPopup(popup).addTo(map);
+        radius: 5.5, color: surface, weight: 2, fillColor: colors.rust, fillOpacity: 1
+      }).bindPopup(popup).addTo(layers.hist);
       area.bindTooltip(e.label ? "הצעה: " + esc(e.label) : "מיקום משוער · " + esc(e.year),
         { permanent: e.perm !== false, direction: "right", offset: [12, 0], className: "approx-label" });
       hist.push([e.lat, e.lon]);
     });
+
+    // המתגים שמתחת למפה (בתבנית: _macros.html): כל אחד מציג או מסתיר שכבה אחת
+    var legend = document.querySelector('.map-legend[data-for="' + el.id + '"]');
+    if (legend) {
+      legend.querySelectorAll("input[data-layer]").forEach(function (box) {
+        var layer = layers[box.getAttribute("data-layer")];
+        box.addEventListener("change", function () {
+          if (box.checked) map.addLayer(layer); else map.removeLayer(layer);
+        });
+      });
+    }
 
     // תמיד רואים את כל קו השבר בארץ, ובנוסף את הרעידות הקרובות שעל המפה.
     // רעידות רחוקות (כרתים, סוריה) נשארות על המפה אבל לא מרחיקות את המבט מהארץ,

@@ -63,7 +63,7 @@
 {% endif %}
 <header class="site-header">
   <a class="brand" href="{{ base }}/">
-    <svg class="brand-mark" viewBox="0 0 64 24" aria-hidden="true"><path d="M0 14 C10 12 18 16 26 13 L30 4 L34 21 L37 11 C46 14 54 12 64 13"/></svg>
+    <svg class="rift-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><g class="rift-all"><g class="rift-w"><rect x="4" y="7.5" width="11" height="22" rx="2.5"/><path d="M4 20.5h11"/></g><g class="rift-e"><rect x="17" y="2.5" width="11" height="22" rx="2.5"/><path d="M17 15.5h11"/></g></g></svg>
     <span>{{ site_name }}</span>
   </a>
   <nav class="site-nav" aria-label="ניווט ראשי">
@@ -87,5 +87,6 @@
 </footer>
 {% block scripts %}{% endblock %}
 <script src="{{ base }}/static/js/site.js" defer></script>
+<script src="{{ base }}/static/js/brand-anim.js" defer></script>
 </body>
 </html>

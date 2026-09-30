@@ -3,7 +3,7 @@
 {% set title = e.title %}
 {% set og_type = "article" %}
 {% set noindex = e.status != "published" %}
-{% set description = "רעידת אדמה, " ~ (e | year_label) ~ (". " ~ e.location.description if e.location.description else "") %}
+{% set description = e.meta_description or ("רעידת אדמה, " ~ (e | year_label) ~ (". " ~ e.location.description if e.location.description else "")) %}
 {% block head %}
 <link rel="stylesheet" href="{{ base }}/static/vendor/leaflet/leaflet.css">
 {% endblock %}

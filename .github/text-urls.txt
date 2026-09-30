@@ -1,4 +1,17 @@
-# סבב 18: תקצירים (מטא-נתונים פתוחים)
-aldersons2014-crossref https://api.crossref.org/works/10.1007/978-94-017-8872-4_3
-lewis1999-s2 https://api.semanticscholar.org/graph/v1/paper/8fd6474ccc012a42833c0aa85756f42499647ade?fields=title,abstract,year,venue,externalIds
-aldersons2014-s2 https://api.semanticscholar.org/graph/v1/paper/DOI:10.1007/978-94-017-8872-4_3?fields=title,abstract,year,venue
+usgs-science-eq https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes
+usgs-faq-mag-int https://www.usgs.gov/faqs/what-difference-between-magnitude-and-intensity-what-modified-mercalli-intensity-scale
+usgs-mmi https://www.usgs.gov/programs/earthquake-hazards/modified-mercalli-intensity-scale
+usgs-mag-types https://www.usgs.gov/programs/earthquake-hazards/magnitude-types
+usgs-mag-energy https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity
+pnsn-waves https://pnsn.org/education/seismology/earthquake-waves | P wave;S wave;surface;Love;Rayleigh;primary;secondary;faster
+pnsn-mag-int https://pnsn.org/education/seismology/magnitude-intensity | magnitude;intensity;Mercalli;energy
+mtu-epicenter https://www.mtu.edu/geo/community/seismology/learn/earthquake-epicenter/ | S-P;three;distance;triangulat;epicenter;arrival
+earthscope-seismometers https://www.earthscope.org/what-is/seismology/seismometers/ | mass;inertia;seismogram;record;frame;ground
+seis-insight-seismometer https://www.seis-insight.eu/en/public-2/planetary-seismology/how-a-seismometer-works | mass;inertia;pendulum;frame
+milne-encyclopedia https://www.encyclopedia.com/people/science-and-technology/geology-and-oceanography-biographies/john-milne | seismograph;pendulum;Japan;1880;Ewing;Gray;Tokyo;horizontal
+gfz-ems98 https://www.gfz.de/en/section/seismic-hazard-and-risk-dynamics/data-products-services/ems-98-european-macroseismic-scale | EMS-98;twelve;12;degree;intensity;damage
+gsi-network https://eq.gsi.gov.il/en/network/seismicNetwork.php | station;network;seismic;Survey;accelerometer
+ucsb-rebound https://projects.eri.ucsb.edu/understanding-v2006/elastic/intro-rebound.html | Reid;elastic;rebound;1906;strain;stress
+sadeh2012 https://faculty.fiu.edu/~swdowins/publications/Sadeh-et-al-JGR-2012.pdf | mm/yr;slip rate;left-lateral;Dead Sea;Arabia;Sinai
+agnon2006 https://earth.huji.ac.il/sites/default/files/earth/files/agnon_et_al._2006_breccias_and_paleo-earthquakes.pdf | seismite;Lisan;breccia;laminae;earthquake;50
+usgs-seismograph-faq https://www.usgs.gov/faqs/how-are-earthquakes-detected-located-and-measured | seismograph;seismometer;located;measured;stations

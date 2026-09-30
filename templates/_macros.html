@@ -26,13 +26,20 @@
 {% macro map(data, id='map', height='420px') %}
 <div class="map" id="{{ id }}" style="height: {{ height }}" data-map='{{ data | tojson | forceescape }}'
      role="region" aria-label="מפה: מקטעי השבר ורעידות"></div>
-<ul class="map-legend">
-  <li><span class="lg lg-fault"></span> קו שבר פעיל (העתק). לחיצה על קו מציגה לאיזה מקטע הוא שייך</li>
-  {% if data.highlight %}<li><span class="lg lg-fault lg-strong"></span> המקטע של הרעידה הזו</li>{% endif %}
-  {% if data.damage %}<li><span class="lg lg-dmg"></span> מקום שבו תועד נזק (לא המוקד). לחיצה: מה קרה שם ולפי מי</li>{% endif %}
-  {% if data.events %}<li><span class="lg lg-hist"></span> מיקום משוער של רעידה היסטורית, לפי מחקר. העיגול הגדול מסמן שהמיקום לא מדויק</li>{% endif %}
-  {% if data.live %}<li><span class="lg lg-live"></span> {{ data.live_legend or "רעידות מהחודש האחרון (המכון הגיאולוגי)" }}</li>{% endif %}
-</ul>
+<div class="map-legend" data-for="{{ id }}">
+  {% if data.events or data.live or data.damage %}
+  <fieldset class="map-toggles">
+    <legend>מה להציג במפה</legend>
+    {% if data.events %}<label class="tg tg-hist"><input type="checkbox" checked data-layer="hist"> <span class="lg lg-hist" aria-hidden="true"></span> <span><strong>רעידות היסטוריות</strong> · מיקום משוער, לפי מחקר. העיגול הגדול מסמן שהמיקום לא מדויק</span></label>{% endif %}
+    {% if data.live %}<label class="tg tg-live"><input type="checkbox" checked data-layer="live"> <span class="lg lg-live" aria-hidden="true"></span> <span><strong>{{ data.live_title or "רעידות אחרונות" }}</strong> · {{ data.live_legend or "30 הימים האחרונים, לפי המכון הגיאולוגי. נמדדו במכשירים" }}</span></label>{% endif %}
+    {% if data.damage %}<label class="tg tg-dmg"><input type="checkbox" checked data-layer="dmg"> <span class="lg lg-dmg" aria-hidden="true"></span> <span><strong>מקומות שנפגעו</strong> · מקום שבו תועד נזק (לא המוקד). לחיצה: מה קרה שם ולפי מי</span></label>{% endif %}
+  </fieldset>
+  {% endif %}
+  <ul class="map-key">
+    <li><span class="lg lg-fault" aria-hidden="true"></span> קו שבר פעיל (העתק). לחיצה על קו מציגה לאיזה מקטע הוא שייך</li>
+    {% if data.highlight %}<li><span class="lg lg-fault lg-strong" aria-hidden="true"></span> המקטע של הרעידה הזו</li>{% endif %}
+  </ul>
+</div>
 <p class="note">מה רואים: השבר הסורי-אפריקני הוא לא קו אחד אלא כמה קווי שבר (העתקים) שעוברים לאורך הערבה, ים המלח, בקעת הירדן והכינרת. כל קו על המפה הוא העתק פעיל, כפי שמופה במאגר GEM Global Active Faults, לפי מודל EMME (רישיון CC BY-SA 4.0). את הקווים חילקנו לחמישה מקטעים, ושם המקטע כתוב על המפה.{% if data.segments | selectattr("draft") | list %} קו מקווקו: שיוך המקטע טרם אושר.{% endif %}</p>
 {% endmacro %}
 

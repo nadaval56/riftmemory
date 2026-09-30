@@ -111,6 +111,7 @@ def check_site(problems, warnings):
         problems.append("site/ לא קיים. להריץ קודם build_site.py")
         return
     pages = sorted(SITE.rglob("*.html"))
+    seen_desc = {}
     for f in pages:
         rel = f.relative_to(SITE)
         html = f.read_text(encoding="utf-8")
@@ -131,6 +132,11 @@ def check_site(problems, warnings):
                 problems.append(f"{rel}: קישור שבור: {href}")
 
         if rel.name != "404.html":
+            # תיאור מטא ייחודי לכל דף (לא התיאור הכללי של האתר, ולא תיאור של דף אחר)
+            desc = p.meta.get("description", "")
+            if desc and desc in seen_desc:
+                warnings.append(f"{rel}: אותו description כמו {seen_desc[desc]}")
+            seen_desc.setdefault(desc, rel)
             for key in ("description", "canonical", "og:title", "og:description", "og:url", "og:image"):
                 if not p.meta.get(key):
                     problems.append(f"{rel}: חסר {key}")

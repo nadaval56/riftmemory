@@ -2,6 +2,7 @@
 id: 0363-galilee
 title: רעידות האדמה בגליל (363)
 short_title: הגליל 363
+meta_description: 'רעידות האדמה של 18 במאי 363: המצבות מצוער, איגרת קירילוס ורשימת הערים שנפגעו, ומה ידוע על מיקומן.'
 wikipedia_title: רעידות האדמה בגליל (363)
 wikipedia_pageid: 1670338
 wikidata: Q5518608

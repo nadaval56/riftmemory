@@ -2,6 +2,7 @@
 id: 0749-shviit
 title: רעש שביעית
 short_title: רעש שביעית
+meta_description: 'רעש שביעית, רעידת האדמה של אמצע המאה ה-8: צום הרעש מגניזת קהיר, ההריסות בבית שאן ובטבריה, והוויכוח על התאריך ועל מספר הרעידות.'
 wikipedia_title: רעש שביעית
 wikipedia_pageid: 468697
 wikidata: Q2920370
