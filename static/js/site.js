@@ -433,9 +433,7 @@
     // כפתורים, גם למקלדת ולמי שלא צובט
     var bar = document.createElement("div");
     bar.className = "chart-zoom";
-    bar.innerHTML = '<span class="chart-zoom-hint">' +
-      (matchMedia("(pointer: coarse)").matches ? "אפשר לקרב בצביטה" : "לקירוב: לחיצה כפולה או Ctrl וגלגלת") + "</span>" +
-      '<button type="button" data-z="in" aria-label="הגדלה">+</button>' +
+    bar.innerHTML = '<button type="button" data-z="in" aria-label="הגדלה">+</button>' +
       '<button type="button" data-z="out" aria-label="הקטנה">−</button>' +
       '<button type="button" data-z="reset">איפוס</button>';
     svg.parentNode.insertBefore(bar, svg.nextSibling);
