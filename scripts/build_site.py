@@ -79,6 +79,36 @@ def split_sections(body):
     return sections, notes
 
 
+# כרטיס העובדות מציג שורה קצרה. הפירוט (מי העריך מה, ובאיזה מקור) עובר להערה ממוספרת
+# בסוף רשימת ההערות של הדף, ונפתח בחלון הצף כמו כל הערה אחרת.
+CARD_DETAILS = [
+    ("loc", lambda e: e["location"].get("description_detail")),
+    ("mag", lambda e: (e.get("magnitude") or {}).get("note")),
+    ("deaths", lambda e: (e.get("impact") or {}).get("deaths_detail")),
+]
+
+
+def card_notes(e):
+    """מוסיף להערות של הדף את פירוט השדות בכרטיס; מחזיר {שדה: מספר ההערה}."""
+    refs = {}
+    n = e["footnotes"].count("<li id=")
+    items = []
+    for key, get in CARD_DETAILS:
+        text = get(e)
+        if not text:
+            continue
+        n += 1
+        refs[key] = n
+        html = markdown.markdown(text).removeprefix("<p>").removesuffix("</p>")
+        items.append(f'<li id="card-{key}">{html}</li>')
+    if items:
+        if "</ol>" in e["footnotes"]:
+            e["footnotes"] = e["footnotes"].replace("</ol>", "\n".join(items) + "\n</ol>", 1)
+        else:
+            e["footnotes"] = '<div class="footnote"><ol>' + "\n".join(items) + "</ol></div>"
+    return refs
+
+
 def evidence_kind(e):
     """הראיה החזקה ביותר, לצבע בציר הזמן ובמפה."""
     ev = e.get("evidence") or {}
@@ -443,6 +473,7 @@ def build(drafts=False):
     by_id = {e["id"]: e for e in events}
     for e in events:
         e["sections"], e["footnotes"] = split_sections(e["body"])
+        e["card_notes"] = card_notes(e)
         e["kind"] = evidence_kind(e)
         e["has_wikipedia"] = any("wikipedia.org" in (s.get("url") or "") for s in e.get("sources") or [])
         seg = e["location"].get("segment")
