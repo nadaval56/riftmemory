@@ -175,7 +175,9 @@ def check_damage(problems):
     for p in json.loads(places.read_text(encoding="utf-8")):
         path = ROOT / "content" / "events" / f"{p['event']}.md"
         text = pages.setdefault(p["event"], path.read_text(encoding="utf-8") if path.exists() else "")
-        if p["page_sentence"] not in text:
+        # המשפט צריך להופיע בגוף הדף שהקורא רואה: לא ב-frontmatter (review_notes) ולא בהערה מוסתרת
+        body = re.sub(r"<!--.*?-->", "", text.split("\n---\n", 1)[-1], flags=re.S)
+        if p["page_sentence"] not in body:
             problems.append(f"places.json: המשפט על {p['place_en']} ({p['event']}) לא נמצא בדף")
         for fn in p["footnotes"]:
             if f"[^{fn}]:" not in text:
