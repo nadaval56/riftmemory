@@ -1,29 +1,1123 @@
-HTTP 404
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
-<head>
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer', 'GTM-KWRSKS');</script>
-  <!-- End Google Tag Manager -->
+SOURCE: https://www.usgs.gov/faqs/what-does-it-mean-earthquake-occurred-a-depth-0-km-how-can-earthquake-have-a-negative-depth
 
-  <meta charset="utf-8">
-<meta name="description" content="We provide science about the natural hazards that threaten lives and livelihoods; the water, energy, minerals, and other natural resources we rely on; the health of our ecosystems and environment; and the impacts of climate and land-use change. Our scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.">
-<link rel="canonical" href="https://www.usgs.gov/node/281242">
-<meta property="og:site_name" content="USGS">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://www.usgs.gov/">
-<meta property="og:title" content="Error 404">
-<meta property="og:image" content="https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/teaser/public/thumbnails/image/Thumbnail__WesternFountain_20211002.JPG?itok=8X2IVHrU">
-<meta property="og:image:alt" content="Lava fountains from the western fissure vent in the Halema&lsquo;uma&lsquo;u crater wall">
-<meta name="Generator" content="Drupal 11 (https://www.drupal.org)">
-<meta name="MobileOptimized" content="width">
-<meta name="HandheldFriendly" content="true">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" href="/themes/custom/usgs_tantalum/favicon.ico" type="image/vnd.microsoft.icon">
 
-    <title>Page not found</title>
-    <link rel="manifest" href="/themes/custom/usgs_tantalum/manifes
+
+    What does it mean that the earthquake occurred at a depth of 0 km? How can an earthquake have a negative depth; that would mean it’s in the air. What is the geoid, and what does it have to do with earthquake depth? | U.S. Geological Survey
+
+  Skip to main content
+
+An official website of the United States government
+
+Here's how you know
+
+          Here's how you know
+
+              Official websites use .gov
+
+              A .gov website belongs to an official government organization in the United States.
+
+              Secure .gov websites use HTTPS
+
+              A lock () or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+U.S. Geological Survey
+
+        Science
+
+                                                                                            Science Explorer
+
+                                                                      Biology
+
+                                                                      Climate
+
+                                                                      Coasts
+
+                                                                      Energy
+
+                                                                      Environmental Health
+
+                                                                      Geology
+
+                                                                      Information Systems
+
+                                                                      Maps and Mapping
+
+                                                                      Minerals
+
+                                                                      Methods and Analysis
+
+                                                                      Natural Hazards
+
+                                                                      Ocean
+
+                                                                      Planetary Science
+
+                                                                      Science Technology
+
+                                                                      Water
+
+                                                                                            Mission Areas
+
+                                                                      Core Science Systems
+
+                                                                      Ecosystems
+
+                                                                      Geology, Energy, and Minerals
+
+                                                                      Natural Hazards
+
+                                                                      Water Resources
+
+                                                                                            Programs
+
+                                                                                            Regions
+
+                                                                      Northeast Region
+
+                                                                      Southeast Region
+
+                                                                      Midcontinent Region
+
+                                                                      Rocky Mountain Region
+
+                                                                      Southwest Region
+
+                                                                      Alaska Region
+
+                                                                      Northwest-Pacific Islands Region
+
+                                                                                            Science Centers
+
+                                                                                            Observatories
+
+                                                                                            Laboratories
+
+                                                                                            Frequently Asked Questions
+
+                                                                                            Educational Resources
+
+                                                                                            Special Topics
+
+        Products
+
+                                                                                            Data
+
+                                                                      Data Management
+
+                                                                      Data Releases
+
+                                                                      Real-time Data
+
+                                                                      All Data
+
+                                                                                            Maps
+
+                                                                      Geologic Maps
+
+                                                                      Map Releases
+
+                                                                      Topographic (Topo) Maps
+
+                                                                      Volcanic Maps
+
+                                                                      All Maps
+
+                                                                                            Multimedia Gallery
+
+                                                                      Audio
+
+                                                                      Images
+
+                                                                      Stereograms
+
+                                                                      Videos
+
+                                                                      Webcams
+
+                                                                      All Multimedia
+
+                                                                                            Publications
+
+                                                                                            Web Tools
+
+                                                                      Alert and Notification Services
+
+                                                                      APIs
+
+                                                                      Data Access Tools
+
+                                                                      Data Analysis Tools
+
+                                                                      Data Visualizations
+
+                                                                      Interactive Maps
+
+                                                                      All Web Tools
+
+                                                                                            Software
+
+                                                                                            U.S. Board on Geographic Names
+
+                                                                                            The National Map
+
+                                                                                            USGS Library
+
+                                                                                            USGS Store
+
+                                                                                            Park Passes
+
+        News
+
+                                                                                            News Releases
+
+                                                                      National News Releases
+
+                                                                      State News Releases
+
+                                                                      All News Releases
+
+                                                                                            Featured Stories
+
+                                                                                            Science Snippets
+
+                                                                                            Technical Announcements
+
+                                                                                            Media Contacts
+
+        Connect
+
+                                                                                            Headquarters
+
+                                                                      12201 Sunrise Valley Drive  Reston, VA 20192
+
+                                                                                            Locations
+
+                                                                                            Staff Profiles
+
+                                                                                            Social Media
+
+                                                                                            Careers
+
+                                                                                            Contact Us
+
+                                                                      Email
+
+                                                                      USGS Store 1-888-275-8747
+
+        About
+
+                                                                                            About Us
+
+                                                                      Who We Are
+
+                                                                      Our History
+
+                                                                      Past Directors
+
+                                                                                            Survey Manual
+
+                                                                                            Key Officials
+
+                                                                      Organizational Chart
+
+                                                                                            Organization
+
+                                                                      Mission Areas
+
+                                                                      Programs
+
+                                                                      Regions
+
+                                                                      Science Centers
+
+                                                                      Observatories
+
+                                                                      Laboratories
+
+                                                                      Science Support Offices
+
+                                                                                            Congressional
+
+                                                                      Statements
+
+                                                                      Contacts
+
+                                                                                            Budget
+
+                                                                                            Careers and Employees
+
+                                                                                            Office of Civil Rights
+
+                                                                                            Doing Business
+
+                                                                      Acquisition and Financial Assistance
+
+                                                                                            Emergency Management
+
+ Facebook
+
+ Twitter
+
+ Linkedin
+
+ Digg
+
+ Reddit
+
+ Pinterest
+
+ Email
+
+Frequently Asked Questions
+
+Label
+
+        Menu
+
+Label
+
+      Close
+
+U.S. Geological Survey
+
+        Science
+
+                                                                                            Science Explorer
+
+                                                                                            Mission Areas
+
+                                                                                            Programs
+
+                                                                                            Regions
+
+                                                                                            Science Centers
+
+                                                                                            Observatories
+
+                                                                                            Laboratories
+
+                                                                                            Frequently Asked Questions
+
+                                                                                            Educational Resources
+
+                                                                                            Special Topics
+
+        Products
+
+                                                                                            Data
+
+                                                                                            Maps
+
+                                                                                            Multimedia Gallery
+
+                                                                                            Publications
+
+                                                                                            Web Tools
+
+                                                                                            Software
+
+                                                                                            U.S. Board on Geographic Names
+
+                                                                                            The National Map
+
+                                                                                            USGS Library
+
+                                                                                            USGS Store
+
+                                                                                            Park Passes
+
+        News
+
+                                                                                            News Releases
+
+                                                                                            Featured Stories
+
+                                                                                            Science Snippets
+
+                                                                                            Technical Announcements
+
+                                                                                            Media Contacts
+
+        Connect
+
+                                                                                            Headquarters
+
+                                                                                            Locations
+
+                                                                                            Staff Profiles
+
+                                                                                            Social Media
+
+                                                                                            Careers
+
+                                                                                            Contact Us
+
+        About
+
+                                                                                            About Us
+
+                                                                                            Survey Manual
+
+                                                                                            Key Officials
+
+                                                                                            Organization
+
+                                                                                            Congressional
+
+                                                                                            Budget
+
+                                                                                            Careers and Employees
+
+                                                                                            Office of Civil Rights
+
+                                                                                            Doing Business
+
+                                                                                            Emergency Management
+
+        Latest Earthquakes
+
+      Share Social Media
+
+ Facebook
+
+ Twitter
+
+ Linkedin
+
+ Digg
+
+ Reddit
+
+ Pinterest
+
+ Email
+
+Breadcrumb
+
+                                            Frequently Asked Questions
+
+                                            Methods and Analysis
+
+                                            Natural Hazards
+
+          What does it mean that the earthquake occurred at a depth of 0 km? How can an earthquake have a negative depth; that would mean it’s in the air. What is the geoid, and what does it have to do with earthquake depth?
+
+An earthquake cannot physically occur at a depth of 0 km or -1km (above the surface of the earth). In order for an earthquake to occur, two blocks of crust must slip past one another, and it is impossible for this to happen at or above the surface of the earth. So why do we report that the earthquake occurred at a depth of 0 km or event as a negative depth sometimes?
+First of all, the depth of an earthquake is usually the most difficult part of its location to nail down with great accuracy. Since most earthquakes are deep within the crust, an error of +/- 1 or 2 km is irrelevant; in other words, it is a small error when the depth is something like 13 km. If the earthquake depth is relatively shallow, however, it becomes more of an issue. A negative depth can sometimes be an artifact of the poor resolution for a shallow event.
+For quarry blasts that are recorded by the seismic network, the depth is fixed at 0 km since we can never determine a precise depth for these, but we know they are very close to the surface.
+Sometimes, because of the density of the seismic network and the close proximity of the seismic stations to an earthquake epicenter, we are able to determine a very precise depth. When the earthquake depth is very shallow, it can be reported as a negative depth.
+The USGS National Earthquake Information Center uses the World Geodetic System of 1984 (WGS84) geoid as a reference from which earthquake depths are calculated. But other seismic networks may use WGS84, mean sea-level, or the average elevation of the seismic stations that provided arrival-time data for the earthquake location. The choice of reference depth is dependent on the method used to locate the earthquake, which varies by seismic network.
+Since the Comprehensive Earthquake Catalog (ComCat) includes data from many different seismic networks, the process for determining the depth is different for different events. The depth is the least-constrained parameter in the earthquake location, and the error bars are generally larger than the variation due to different depth determination methods.
+Learn more: Volcano Watch--Why do some earthquakes have negative depths?
+
+Related
+
+                Multimedia
+
+                Publications
+
+                News
+
+                FAQ
+
+Label
+
+    List
+
+    Grid
+
+  Epicenter Hypocenter Diagram
+
+Epicenter Hypocenter Diagram
+
+              December 31, 2021
+
+Epicenter Hypocenter Diagram
+Epicenter Hypocenter Diagram
+  Epicenter Hypocenter Diagram
+
+Diagram showing the epicenter and hypocenter.
+
+The epicenter is the point on the earth's surface vertically above the hypocenter (or focus), point in the crust where a seismic rupture begins.
+
+By
+
+Earthquake Hazards, Earthquake Hazards, Geologic Hazards Science Center
+
+                December 31, 2021
+
+Epicenter Hypocenter Diagram
+Epicenter Hypocenter Diagram
+
+Epicenter Hypocenter Diagram
+Epicenter Hypocenter Diagram
+
+Diagram showing the epicenter and hypocenter.
+
+The epicenter is the point on the earth's surface vertically above the hypocenter (or focus), point in the crust where a seismic rupture begins.
+
+By
+
+Earthquake Hazards, Earthquake Hazards, Geologic Hazards Science Center
+
+      Items per page
+
+                  6
+                        12
+
+Label
+
+            December 13, 2012
+
+          United States Geological Survey (USGS) Natural Hazards Response
+
+                United States Geological Survey (USGS) Natural Hazards Response
+
+  The primary goal of U.S. Geological Survey (USGS) Natural Hazards Response is to ensure that the disaster response community has access to timely, accurate, and relevant geospatial products, imagery, and services during and after an emergency event. To accomplish this goal, products and services provided by the National Geospatial Program (NGP) and Land Remote Sensing (LRS) Program serve...
+
+Authors
+
+Rynn M. Lamb, Brenda K. Jones
+
+By
+
+Earth Resources Observation and Science (EROS) Center, Emergency Operations Portal
+
+            June 15, 2011
+
+          The Global Seismographic Network
+
+                The Global Seismographic Network
+
+  No abstract available.
+
+Authors
+
+Lind S. Gee, William S. Leith
+
+By
+
+Natural Hazards Mission Area, Earthquake Hazards Program, Geologic Hazards Science Center
+
+            February 10, 2006
+
+          Earthquake hazards: A national threat
+
+                Earthquake hazards: A national threat
+
+  Earthquakes are one of the most costly natural hazards faced by the Nation, posing a significant risk to 75 million Americans in 39 States. The risks that earthquakes pose to society, including death, injury, and economic loss, can be greatly reduced by (1) better planning, construction, and mitigation practices before earthquakes happen, and (2) providing critical and timely information...
+
+Authors
+
+Water Resources Division U.S. Geological Survey
+
+            March 1, 2003
+
+          The USGS Earthquake Hazards Program - investing in a safer future
+
+                The USGS Earthquake Hazards Program - investing in a safer future
+
+  No abstract available.
+
+Authors
+
+John R. Filson, Jill McCarthy, William L. Ellsworth, Mary Lou Zoback, Peter H. Stauffer, James W. Hendley
+
+            July 1, 2000
+
+          ANSS-Advanced National Seismic System
+
+                ANSS-Advanced National Seismic System
+
+  No abstract available.
+
+Authors
+
+Harley M. Benz, John Filson, Walter Arabasz, Lind Gee, Lisa Wald
+
+            January 1, 1997
+
+          Monitoring earthquakes across the United States
+
+                Monitoring earthquakes across the United States
+
+  No abstract available.
+
+Authors
+
+Ray P. Buland, Harley Mitchell Benz, William M. Brown
+
+            January 1, 1997
+
+          Taking the Earth's pulse
+
+                Taking the Earth's pulse
+
+  During the past 35 years, scientists have developed a vast network of seismometers that record earthquakes, volcanic eruptions, and nuclear explosions throughout the world. Seismographic data support disaster response, scientific research, and global security. With this network, the United States maintains world leadership in monitoring the greatest natural and technological events that...
+
+Authors
+
+Robert L. Woodward, Harly M. Benz, William M. Brown
+
+By
+
+Natural Hazards Mission Area, Earthquake Hazards Program, Geologic Hazards Science Center
+
+      Items per page
+
+                  6
+                        12
+
+Label
+
+      Updated USGS Earthquake Monitoring Strategy Released
+
+  May 25, 2017
+
+  Updated USGS Earthquake Monitoring Strategy Released
+
+The USGS Earthquake Hazards Program recently released a new strategic plan for earthquake monitoring entitled the “Advanced National Seismic System –...
+
+    Read Article
+
+      Items per page
+
+                  6
+                        12
+
+Label
+
+          How are earthquakes recorded? How are earthquakes measured? How is the magnitude of an earthquake determined?
+
+                How are earthquakes recorded? How are earthquakes measured? How is the magnitude of an earthquake determined?
+
+Earthquakes are recorded by a seismographic network. Each seismic station in the network measures the movement of the ground at that site. The slip of one block of rock over another in an earthquake releases energy that makes the ground vibrate. That vibration pushes the adjoining piece of ground and causes it to vibrate, and thus the energy travels out from the earthquake hypocenter in a wave...
+
+      How are earthquakes recorded? How are earthquakes measured? How is the magnitude of an earthquake determined?
+
+  How are earthquakes recorded? How are earthquakes measured? How is the magnitude of an earthquake determined?
+
+Earthquakes are recorded by a seismographic network. Each seismic station in the network measures the movement of the ground at that site. The slip of one block of rock over another in an earthquake releases energy that makes the ground vibrate. That vibration pushes the adjoining piece of ground and causes it to vibrate, and thus the energy travels out from the earthquake hypocenter in a wave...
+
+    Learn More
+
+          Moment magnitude, Richter scale - what are the different magnitude scales, and why are there so many?
+
+                Moment magnitude, Richter scale - what are the different magnitude scales, and why are there so many?
+
+Earthquake size, as measured by the Richter Scale is a well known, but not well understood, concept. The idea of a logarithmic earthquake magnitude scale was first developed by Charles Richter in the 1930's for measuring the size of earthquakes occurring in southern California using relatively high-frequency data from nearby seismograph stations. This magnitude scale was referred to as ML, with...
+
+      Moment magnitude, Richter scale - what are the different magnitude scales, and why are there so many?
+
+  Moment magnitude, Richter scale - what are the different magnitude scales, and why are there so many?
+
+Earthquake size, as measured by the Richter Scale is a well known, but not well understood, concept. The idea of a logarithmic earthquake magnitude scale was first developed by Charles Richter in the 1930's for measuring the size of earthquakes occurring in southern California using relatively high-frequency data from nearby seismograph stations. This magnitude scale was referred to as ML, with...
+
+    Learn More
+
+          What is the difference between earthquake magnitude and earthquake intensity? What is the Modified Mercalli Intensity Scale?
+
+                What is the difference between earthquake magnitude and earthquake intensity? What is the Modified Mercalli Intensity Scale?
+
+Magnitude scales, like the moment magnitude, measure the size of the earthquake at its source. An earthquake has one magnitude. The magnitude does not depend on where the measurement is made. Often, several slightly different magnitudes are reported for an earthquake. This happens because the relation between the seismic measurements and the magnitude is complex and different procedures will often...
+
+      What is the difference between earthquake magnitude and earthquake intensity? What is the Modified Mercalli Intensity Scale?
+
+  What is the difference between earthquake magnitude and earthquake intensity? What is the Modified Mercalli Intensity Scale?
+
+Magnitude scales, like the moment magnitude, measure the size of the earthquake at its source. An earthquake has one magnitude. The magnitude does not depend on where the measurement is made. Often, several slightly different magnitudes are reported for an earthquake. This happens because the relation between the seismic measurements and the magnitude is complex and different procedures will often...
+
+    Learn More
+
+          How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?
+
+                How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?
+
+For earthquakes that occurred between about 1890 (when modern seismographs came into use) and 1935 when Charles Richter developed the magnitude scale, people went back to the old records and compared the seismograms from those days with similar records for later earthquakes. For earthquakes prior to about 1890, magnitudes have been estimated by looking at the physical effects (such as amount of...
+
+      How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?
+
+  How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?
+
+For earthquakes that occurred between about 1890 (when modern seismographs came into use) and 1935 when Charles Richter developed the magnitude scale, people went back to the old records and compared the seismograms from those days with similar records for later earthquakes. For earthquakes prior to about 1890, magnitudes have been estimated by looking at the physical effects (such as amount of...
+
+    Learn More
+
+          How do seismologists locate an earthquake?
+
+                How do seismologists locate an earthquake?
+
+When an earthquake occurs, one of the first questions is "where was it?" The location may tell us what fault it was on and where damage (if any) most likely occurred. Unfortunately, Earth is not transparent and we can't just see or photograph the earthquake disturbance like meteorologists can photograph clouds. When an earthquake occurs, it generates an expanding wavefront from the earthquake...
+
+      How do seismologists locate an earthquake?
+
+  How do seismologists locate an earthquake?
+
+When an earthquake occurs, one of the first questions is "where was it?" The location may tell us what fault it was on and where damage (if any) most likely occurred. Unfortunately, Earth is not transparent and we can't just see or photograph the earthquake disturbance like meteorologists can photograph clouds. When an earthquake occurs, it generates an expanding wavefront from the earthquake...
+
+    Learn More
+
+          What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?
+
+                What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?
+
+The duration of an earthquake is related to its magnitude but not in a perfectly strict sense. There are two ways to think about the duration of an earthquake. The first is the length of time it takes for the fault to rupture and the second is the length of time shaking is felt at any given point (e.g. when someone says "I felt it shake for 10 seconds" they are making a statement about the...
+
+      What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?
+
+  What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?
+
+The duration of an earthquake is related to its magnitude but not in a perfectly strict sense. There are two ways to think about the duration of an earthquake. The first is the length of time it takes for the fault to rupture and the second is the length of time shaking is felt at any given point (e.g. when someone says "I felt it shake for 10 seconds" they are making a statement about the...
+
+    Learn More
+
+          How can an earthquake have a negative magnitude?
+
+                How can an earthquake have a negative magnitude?
+
+Magnitude calculations are based on a logarithmic scale, so a ten-fold drop in amplitude decreases the magnitude by 1. If an amplitude of 20 millimetres as measured on a seismic signal corresponds to a magnitude 2 earthquake, then: 10 times less (2 millimetres) corresponds to a magnitude of 1; 100 times less (0.2 millimetres) corresponds to magnitude 0; 1000 times less (0.02 millimetres)...
+
+      How can an earthquake have a negative magnitude?
+
+  How can an earthquake have a negative magnitude?
+
+Magnitude calculations are based on a logarithmic scale, so a ten-fold drop in amplitude decreases the magnitude by 1. If an amplitude of 20 millimetres as measured on a seismic signal corresponds to a magnitude 2 earthquake, then: 10 times less (2 millimetres) corresponds to a magnitude of 1; 100 times less (0.2 millimetres) corresponds to magnitude 0; 1000 times less (0.02 millimetres)...
+
+    Learn More
+
+          Seismometers, seismographs, seismograms - what's the difference? How do they work?
+
+                Seismometers, seismographs, seismograms - what's the difference? How do they work?
+
+A seismometer is the internal part of the seismograph, which may be a pendulum or a mass mounted on a spring; however, it is often used synonymously with "seismograph". Seismographs are instruments used to record the motion of the ground during an earthquake. They are installed in the ground throughout the world and operated as part of a seismographic network. The earliest "seismoscope" was...
+
+      Seismometers, seismographs, seismograms - what's the difference? How do they work?
+
+  Seismometers, seismographs, seismograms - what's the difference? How do they work?
+
+A seismometer is the internal part of the seismograph, which may be a pendulum or a mass mounted on a spring; however, it is often used synonymously with "seismograph". Seismographs are instruments used to record the motion of the ground during an earthquake. They are installed in the ground throughout the world and operated as part of a seismographic network. The earliest "seismoscope" was...
+
+    Learn More
+
+          How can I make my own seismometer?
+
+                How can I make my own seismometer?
+
+It is relatively easy to acquire the necessary materials and build your own seismometer. The links here are to various sources with information on how to build a seismometer. They range from very simple and inexpensive to sophisticated and pricey. Model Seismograph - Classroom Demonstration Build your own Seismograph Station Build Your Own Seismograph Amateur Seismology Homebuilt Seismograph FAQ
+
+      How can I make my own seismometer?
+
+  How can I make my own seismometer?
+
+It is relatively easy to acquire the necessary materials and build your own seismometer. The links here are to various sources with information on how to build a seismometer. They range from very simple and inexpensive to sophisticated and pricey. Model Seismograph - Classroom Demonstration Build your own Seismograph Station Build Your Own Seismograph Amateur Seismology Homebuilt Seismograph FAQ
+
+    Learn More
+
+          What was the first instrument that actually recorded an earthquake?
+
+                What was the first instrument that actually recorded an earthquake?
+
+The earliest seismoscope was invented by the Chinese philosopher Chang Heng in A.D. 132. This was a large urn on the outside of which were eight dragon heads facing the eight principal directions of the compass. Below each dragon head was a toad with its mouth opened toward the dragon. When an earthquake occurred, one or more of the eight dragon-mouths would release a ball into the open mouth of...
+
+      What was the first instrument that actually recorded an earthquake?
+
+  What was the first instrument that actually recorded an earthquake?
+
+The earliest seismoscope was invented by the Chinese philosopher Chang Heng in A.D. 132. This was a large urn on the outside of which were eight dragon heads facing the eight principal directions of the compass. Below each dragon head was a toad with its mouth opened toward the dragon. When an earthquake occurred, one or more of the eight dragon-mouths would release a ball into the open mouth of...
+
+    Learn More
+
+          What is a Geoid? Why do we use it and where does its shape come from?
+
+                What is a Geoid? Why do we use it and where does its shape come from?
+
+A geoid is the irregular-shaped “ball” that scientists use to more accurately calculate depths of earthquakes, or any other deep object beneath the earth’s surface. Currently, we use the “WGS84” version (World Geodetic System of 1984). If Earth were a perfect sphere, calculations of depth and distances would be easy because we know the equations for those calculations on a sphere. However, the...
+
+      What is a Geoid? Why do we use it and where does its shape come from?
+
+  What is a Geoid? Why do we use it and where does its shape come from?
+
+A geoid is the irregular-shaped “ball” that scientists use to more accurately calculate depths of earthquakes, or any other deep object beneath the earth’s surface. Currently, we use the “WGS84” version (World Geodetic System of 1984). If Earth were a perfect sphere, calculations of depth and distances would be easy because we know the equations for those calculations on a sphere. However, the...
+
+    Learn More
+
+Related
+
+              Multimedia
+
+Label
+
+    List
+
+    Grid
+
+  Epicenter Hypocenter Diagram
+
+Epicenter Hypocenter Diagram
+
+              December 31, 2021
+
+Epicenter Hypocenter Diagram
+Epicenter Hypocenter Diagram
+  Epicenter Hypocenter Diagram
+
+Diagram showing the epicenter and hypocenter.
+
+The epicenter is the point on the earth's surface vertically above the hypocenter (or focus), point in the crust where a seismic rupture begins.
+
+By
+
+Earthquake Hazards, Earthquake Hazards, Geologic Hazards Science Center
+
+                December 31, 2021
+
+Epicenter Hypocenter Diagram
+Epicenter Hypocenter Diagram
+
+Epicenter Hypocenter Diagram
+Epicenter Hypocenter Diagram
+
+Diagram showing the epicenter and hypocenter.
+
+The epicenter is the point on the earth's surface vertically above the hypocenter (or focus), point in the crust where a seismic rupture begins.
+
+By
+
+Earthquake Hazards, Earthquake Hazards, Geologic Hazards Science Center
+
+              Publications
+
+      Items per page
+
+                  6
+                        12
+
+Label
+
+            December 13, 2012
+
+          United States Geological Survey (USGS) Natural Hazards Response
+
+                United States Geological Survey (USGS) Natural Hazards Response
+
+  The primary goal of U.S. Geological Survey (USGS) Natural Hazards Response is to ensure that the disaster response community has access to timely, accurate, and relevant geospatial products, imagery, and services during and after an emergency event. To accomplish this goal, products and services provided by the National Geospatial Program (NGP) and Land Remote Sensing (LRS) Program serve...
+
+Authors
+
+Rynn M. Lamb, Brenda K. Jones
+
+By
+
+Earth Resources Observation and Science (EROS) Center, Emergency Operations Portal
+
+            June 15, 2011
+
+          The Global Seismographic Network
+
+                The Global Seismographic Network
+
+  No abstract available.
+
+Authors
+
+Lind S. Gee, William S. Leith
+
+By
+
+Natural Hazards Mission Area, Earthquake Hazards Program, Geologic Hazards Science Center
+
+            February 10, 2006
+
+          Earthquake hazards: A national threat
+
+                Earthquake hazards: A national threat
+
+  Earthquakes are one of the most costly natural hazards faced by the Nation, posing a significant risk to 75 million Americans in 39 States. The risks that earthquakes pose to society, including death, injury, and economic loss, can be greatly reduced by (1) better planning, construction, and mitigation practices before earthquakes happen, and (2) providing critical and timely information...
+
+Authors
+
+Water Resources Division U.S. Geological Survey
+
+            March 1, 2003
+
+          The USGS Earthquake Hazards Program - investing in a safer future
+
+                The USGS Earthquake Hazards Program - investing in a safer future
+
+  No abstract available.
+
+Authors
+
+John R. Filson, Jill McCarthy, William L. Ellsworth, Mary Lou Zoback, Peter H. Stauffer, James W. Hendley
+
+            July 1, 2000
+
+          ANSS-Advanced National Seismic System
+
+                ANSS-Advanced National Seismic System
+
+  No abstract available.
+
+Authors
+
+Harley M. Benz, John Filson, Walter Arabasz, Lind Gee, Lisa Wald
+
+            January 1, 1997
+
+          Monitoring earthquakes across the United States
+
+                Monitoring earthquakes across the United States
+
+  No abstract available.
+
+Authors
+
+Ray P. Buland, Harley Mitchell Benz, William M. Brown
+
+            January 1, 1997
+
+          Taking the Earth's pulse
+
+                Taking the Earth's pulse
+
+  During the past 35 years, scientists have developed a vast network of seismometers that record earthquakes, volcanic eruptions, and nuclear explosions throughout the world. Seismographic data support disaster response, scientific research, and global security. With this network, the United States maintains world leadership in monitoring the greatest natural and technological events that...
+
+Authors
+
+Robert L. Woodward, Harly M. Benz, William M. Brown
+
+By
+
+Natural Hazards Mission Area, Earthquake Hazards Program, Geologic Hazards Science Center
+
+              News
+
+      Items per page
+
+                  6
+                        12
+
+Label
+
+      Updated USGS Earthquake Monitoring Strategy Released
+
+  May 25, 2017
+
+  Updated USGS Earthquake Monitoring Strategy Released
+
+The USGS Earthquake Hazards Program recently released a new strategic plan for earthquake monitoring entitled the “Advanced National Seismic System –...
+
+    Read Article
+
+              FAQ
+
+      Items per page
+
+                  6
+                        12
+
+Label
+
+          How are earthquakes recorded? How are earthquakes measured? How is the magnitude of an earthquake determined?
+
+                How are earthquakes recorded? How are earthquakes measured? How is the magnitude of an earthquake determined?
+
+Earthquakes are recorded by a seismographic network. Each seismic station in the network measures the movement of the ground at that site. The slip of one block of rock over another in an earthquake releases energy that makes the ground vibrate. That vibration pushes the adjoining piece of ground and causes it to vibrate, and thus the energy travels out from the earthquake hypocenter in a wave...
+
+      How are earthquakes recorded? How are earthquakes measured? How is the magnitude of an earthquake determined?
+
+  How are earthquakes recorded? How are earthquakes measured? How is the magnitude of an earthquake determined?
+
+Earthquakes are recorded by a seismographic network. Each seismic station in the network measures the movement of the ground at that site. The slip of one block of rock over another in an earthquake releases energy that makes the ground vibrate. That vibration pushes the adjoining piece of ground and causes it to vibrate, and thus the energy travels out from the earthquake hypocenter in a wave...
+
+    Learn More
+
+          Moment magnitude, Richter scale - what are the different magnitude scales, and why are there so many?
+
+                Moment magnitude, Richter scale - what are the different magnitude scales, and why are there so many?
+
+Earthquake size, as measured by the Richter Scale is a well known, but not well understood, concept. The idea of a logarithmic earthquake magnitude scale was first developed by Charles Richter in the 1930's for measuring the size of earthquakes occurring in southern California using relatively high-frequency data from nearby seismograph stations. This magnitude scale was referred to as ML, with...
+
+      Moment magnitude, Richter scale - what are the different magnitude scales, and why are there so many?
+
+  Moment magnitude, Richter scale - what are the different magnitude scales, and why are there so many?
+
+Earthquake size, as measured by the Richter Scale is a well known, but not well understood, concept. The idea of a logarithmic earthquake magnitude scale was first developed by Charles Richter in the 1930's for measuring the size of earthquakes occurring in southern California using relatively high-frequency data from nearby seismograph stations. This magnitude scale was referred to as ML, with...
+
+    Learn More
+
+          What is the difference between earthquake magnitude and earthquake intensity? What is the Modified Mercalli Intensity Scale?
+
+                What is the difference between earthquake magnitude and earthquake intensity? What is the Modified Mercalli Intensity Scale?
+
+Magnitude scales, like the moment magnitude, measure the size of the earthquake at its source. An earthquake has one magnitude. The magnitude does not depend on where the measurement is made. Often, several slightly different magnitudes are reported for an earthquake. This happens because the relation between the seismic measurements and the magnitude is complex and different procedures will often...
+
+      What is the difference between earthquake magnitude and earthquake intensity? What is the Modified Mercalli Intensity Scale?
+
+  What is the difference between earthquake magnitude and earthquake intensity? What is the Modified Mercalli Intensity Scale?
+
+Magnitude scales, like the moment magnitude, measure the size of the earthquake at its source. An earthquake has one magnitude. The magnitude does not depend on where the measurement is made. Often, several slightly different magnitudes are reported for an earthquake. This happens because the relation between the seismic measurements and the magnitude is complex and different procedures will often...
+
+    Learn More
+
+          How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?
+
+                How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?
+
+For earthquakes that occurred between about 1890 (when modern seismographs came into use) and 1935 when Charles Richter developed the magnitude scale, people went back to the old records and compared the seismograms from those days with similar records for later earthquakes. For earthquakes prior to about 1890, magnitudes have been estimated by looking at the physical effects (such as amount of...
+
+      How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?
+
+  How do you determine the magnitude for an earthquake that occurred prior to the creation of the magnitude scale?
+
+For earthquakes that occurred between about 1890 (when modern seismographs came into use) and 1935 when Charles Richter developed the magnitude scale, people went back to the old records and compared the seismograms from those days with similar records for later earthquakes. For earthquakes prior to about 1890, magnitudes have been estimated by looking at the physical effects (such as amount of...
+
+    Learn More
+
+          How do seismologists locate an earthquake?
+
+                How do seismologists locate an earthquake?
+
+When an earthquake occurs, one of the first questions is "where was it?" The location may tell us what fault it was on and where damage (if any) most likely occurred. Unfortunately, Earth is not transparent and we can't just see or photograph the earthquake disturbance like meteorologists can photograph clouds. When an earthquake occurs, it generates an expanding wavefront from the earthquake...
+
+      How do seismologists locate an earthquake?
+
+  How do seismologists locate an earthquake?
+
+When an earthquake occurs, one of the first questions is "where was it?" The location may tell us what fault it was on and where damage (if any) most likely occurred. Unfortunately, Earth is not transparent and we can't just see or photograph the earthquake disturbance like meteorologists can photograph clouds. When an earthquake occurs, it generates an expanding wavefront from the earthquake...
+
+    Learn More
+
+          What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?
+
+                What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?
+
+The duration of an earthquake is related to its magnitude but not in a perfectly strict sense. There are two ways to think about the duration of an earthquake. The first is the length of time it takes for the fault to rupture and the second is the length of time shaking is felt at any given point (e.g. when someone says "I felt it shake for 10 seconds" they are making a statement about the...
+
+      What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?
+
+  What was the duration of the earthquake? Why don't you report the duration of each earthquake? How does the duration affect the magnitude?
+
+The duration of an earthquake is related to its magnitude but not in a perfectly strict sense. There are two ways to think about the duration of an earthquake. The first is the length of time it takes for the fault to rupture and the second is the length of time shaking is felt at any given point (e.g. when someone says "I felt it shake for 10 seconds" they are making a statement about the...
+
+    Learn More
+
+          How can an earthquake have a negative magnitude?
+
+                How can an earthquake have a negative magnitude?
+
+Magnitude calculations are based on a logarithmic scale, so a ten-fold drop in amplitude decreases the magnitude by 1. If an amplitude of 20 millimetres as measured on a seismic signal corresponds to a magnitude 2 earthquake, then: 10 times less (2 millimetres) corresponds to a magnitude of 1; 100 times less (0.2 millimetres) corresponds to magnitude 0; 1000 times less (0.02 millimetres)...
+
+      How can an earthquake have a negative magnitude?
+
+  How can an earthquake have a negative magnitude?
+
+Magnitude calculations are based on a logarithmic scale, so a ten-fold drop in amplitude decreases the magnitude by 1. If an amplitude of 20 millimetres as measured on a seismic signal corresponds to a magnitude 2 earthquake, then: 10 times less (2 millimetres) corresponds to a magnitude of 1; 100 times less (0.2 millimetres) corresponds to magnitude 0; 1000 times less (0.02 millimetres)...
+
+    Learn More
+
+          Seismometers, seismographs, seismograms - what's the difference? How do they work?
+
+                Seismometers, seismographs, seismograms - what's the difference? How do they work?
+
+A seismometer is the internal part of the seismograph, which may be a pendulum or a mass mounted on a spring; however, it is often used synonymously with "seismograph". Seismographs are instruments used to record the motion of the ground during an earthquake. They are installed in the ground throughout the world and operated as part of a seismographic network. The earliest "seismoscope" was...
+
+      Seismometers, seismographs, seismograms - what's the difference? How do they work?
+
+  Seismometers, seismographs, seismograms - what's the difference? How do they work?
+
+A seismometer is the internal part of the seismograph, which may be a pendulum or a mass mounted on a spring; however, it is often used synonymously with "seismograph". Seismographs are instruments used to record the motion of the ground during an earthquake. They are installed in the ground throughout the world and operated as part of a seismographic network. The earliest "seismoscope" was...
+
+    Learn More
+
+          How can I make my own seismometer?
+
+                How can I make my own seismometer?
+
+It is relatively easy to acquire the necessary materials and build your own seismometer. The links here are to various sources with information on how to build a seismometer. They range from very simple and inexpensive to sophisticated and pricey. Model Seismograph - Classroom Demonstration Build your own Seismograph Station Build Your Own Seismograph Amateur Seismology Homebuilt Seismograph FAQ
+
+      How can I make my own seismometer?
+
+  How can I make my own seismometer?
+
+It is relatively easy to acquire the necessary materials and build your own seismometer. The links here are to various sources with information on how to build a seismometer. They range from very simple and inexpensive to sophisticated and pricey. Model Seismograph - Classroom Demonstration Build your own Seismograph Station Build Your Own Seismograph Amateur Seismology Homebuilt Seismograph FAQ
+
+    Learn More
+
+          What was the first instrument that actually recorded an earthquake?
+
+                What was the first instrument that actually recorded an earthquake?
+
+The earliest seismoscope was invented by the Chinese philosopher Chang Heng in A.D. 132. This was a large urn on the outside of which were eight dragon heads facing the eight principal directions of the compass. Below each dragon head was a toad with its mouth opened toward the dragon. When an earthquake occurred, one or more of the eight dragon-mouths would release a ball into the open mouth of...
+
+      What was the first instrument that actually recorded an earthquake?
+
+  What was the first instrument that actually recorded an earthquake?
+
+The earliest seismoscope was invented by the Chinese philosopher Chang Heng in A.D. 132. This was a large urn on the outside of which were eight dragon heads facing the eight principal directions of the compass. Below each dragon head was a toad with its mouth opened toward the dragon. When an earthquake occurred, one or more of the eight dragon-mouths would release a ball into the open mouth of...
+
+    Learn More
+
+          What is a Geoid? Why do we use it and where does its shape come from?
+
+                What is a Geoid? Why do we use it and where does its shape come from?
+
+A geoid is the irregular-shaped “ball” that scientists use to more accurately calculate depths of earthquakes, or any other deep object beneath the earth’s surface. Currently, we use the “WGS84” version (World Geodetic System of 1984). If Earth were a perfect sphere, calculations of depth and distances would be easy because we know the equations for those calculations on a sphere. However, the...
+
+      What is a Geoid? Why do we use it and where does its shape come from?
+
+  What is a Geoid? Why do we use it and where does its shape come from?
+
+A geoid is the irregular-shaped “ball” that scientists use to more accurately calculate depths of earthquakes, or any other deep object beneath the earth’s surface. Currently, we use the “WGS84” version (World Geodetic System of 1984). If Earth were a perfect sphere, calculations of depth and distances would be easy because we know the equations for those calculations on a sphere. However, the...
+
+    Learn More
+
+Explore Search
+
+Methods and Analyses
+Natural Hazards
+earthquakes
+Measuring Earthquakes
+Methods and Analysis
+View All
+
+        Updated Date: April 1, 2024
+
+    Back to Top
+
+          Accessibility
+
+          FOIA
+
+          Site Policies
+
+          Privacy Policy
+
+          Site Map
+
+          DOI and USGS link policies apply
+
+          No FEAR Act
+
+          USA.gov
+
+          Vulnerability Disclosure
+
+          Careers and Employment
+
+          Doing Business
+
+          Emergency Management
+
+          Office of Civil Rights
+
+                  U.S. Geological Survey
+
+                  U.S. Department of the Interior
+
+Contact USGS
+
+                    answers.usgs.gov
+
+    Was this page helpful?
+
