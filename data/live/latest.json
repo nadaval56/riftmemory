@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T15:25:15Z",
+  "fetched_at": "2026-09-30T19:26:56Z",
   "source": "gsi",
   "events": [
     {
@@ -978,27 +978,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-08-31T16:58:09Z",
-      "lat": 29.134,
-      "lon": 34.7821,
-      "depth_km": 3.3,
-      "magnitude": 2.4,
-      "mag_type": null,
-      "place_he": "מפרץ אילת",
-      "place": "Elat-Deep",
-      "source_id": "gsi_loc_2026rghg",
-      "loc_unc_km": 6.0,
-      "depth_unc_km": 2.7,
-      "felt": null,
-      "segment": "arava",
-      "echo": {
-        "event_ids": [
-          "1068-near-east"
-        ],
-        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     }
   ],
