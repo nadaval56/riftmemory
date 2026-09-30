@@ -1,0 +1,77 @@
+SOURCE: https://mzohar.haifa.ac.il/
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: Zohar; professor; Haifa; geograph; earthquake; hazard; PhD)
+
+1 [עמ׳ PDF 1]: SOURCE: https://mzohar.haifa.ac.il/
+2 [עמ׳ PDF 1]: 
+3 [עמ׳ PDF 1]: 
+4 [עמ׳ PDF 1]: 
+5 [עמ׳ PDF 1]: 	Prof. Motti Zohar
+6 [עמ׳ PDF 1]: 
+7 [עמ׳ PDF 1]: 		Skip to content
+8 [עמ׳ PDF 1]: 
+9 [עמ׳ PDF 1]: 					Search
+[...]
+115 [עמ׳ PDF 1]: Coordinate Converter
+116 [עמ׳ PDF 1]: 
+117 [עמ׳ PDF 1]: Solid Angle & 3D Visibility
+118 [עמ׳ PDF 1]: 
+119 [עמ׳ PDF 1]: Prof. Motti Zohar
+120 [עמ׳ PDF 1]: 
+121 [עמ׳ PDF 1]: School of Environmental Sciences
+122 [עמ׳ PDF 1]: Geography, Environmental Sciences & GIScience (Geographical Information Sciences)
+123 [עמ׳ PDF 1]: 
+124 [עמ׳ PDF 1]: 										Phone: 04-8240444
+125 [עמ׳ PDF 1]: 
+126 [עמ׳ PDF 1]: 										Fax: 04-8249605
+127 [עמ׳ PDF 1]: 
+128 [עמ׳ PDF 1]: 										Email: motti.zohar@univ.haifa.ac.il
+129 [עמ׳ PDF 1]: 
+130 [עמ׳ PDF 1]: 										Google maps
+131 [עמ׳ PDF 1]: 
+132 [עמ׳ PDF 1]: Biography
+133 [עמ׳ PDF 1]: 
+134 [עמ׳ PDF 1]: Motti Zohar is a geographer and GIScientist whose research lies at the intersection of Geography, Environmental Sciences & GIScience (Geographic Information Science). His research seeks to understand how geographical processes shape interactions between people and the environment across space and time. To address these questions, he develops GIScience methodologies integrating historical records, environmental data, Earth Observation, GeoAI, and spatial data science to generate new insights into environmental change, historical landscapes, and natural hazards. He leads the GIScience Environmental Lab and serves as Head of the Spatial Data Science Program. His research combines methodological innovation with interdisciplinary collaboration, bringing together geography, environmental science, geospatial technologies and digital approaches to address complex environmental and societal challenges.
+135 [עמ׳ PDF 1]: He is affiliated with several national and international research initiatives, including the IGU Commission on Geographical Information Science, the Climate and Environmental Sustainability Center, the National Knowledge & Research Center for Emergency Readiness, and the Chaikin Chair for Geostrategy. He serves as a member of the editorial board of the ISPRS International Journal of Geo-Information and has served as a guest editor for several special issues. Through these academic roles, he contributes to advancing geospatial research and its applications to environmental science, disaster resilience and historical and societal challenges
+136 [עמ׳ PDF 1]: Professor Zohar received his BA from the Hebrew University of Jerusalem, his MA from Tel Aviv University, and his PhD in Geography from the Hebrew University of Jerusalem, where his dissertation examined patterns of historical earthquake damage in the Levant. He subsequently held a postdoctoral fellowship at Freie Universität Berlin, applying advanced geospatial methodologies to environmental research. Alongside his research, Professor Zohar teaches and supervises undergraduate, master’s, doctoral, and postdoctoral researchers while collaborating with academic institutions, governmental agencies and industry partners on projects involving geospatial technologies, environmental analysis and spatial decisions.
+137 [עמ׳ PDF 1]: Before entering academia, Professor Zohar worked in the software industry as a GIS systems analyst and project manager, designing and implementing enterprise geospatial systems and contributing to technology startups. This professional background continues to inform his research through a strong emphasis on methodological innovation, computational thinking and the practical applications.
+138 [עמ׳ PDF 1]: 
+139 [עמ׳ PDF 1]: Research Interests
+140 [עמ׳ PDF 1]: 
+141 [עמ׳ PDF 1]: Geography, Environmental Sciences & GIScience
+142 [עמ׳ PDF 1]: Advancing the integration of Geography, Environmental Sciences and GIScience to better understand the interactions between people and their environments across space and time. This interdisciplinary perspective provides the conceptual foundation for my research and supports the development of innovative approaches to complex geographical and environmental questions.
+143 [עמ׳ PDF 1]: Human-environment systems & Environmental reconstruction
+144 [עמ׳ PDF 1]: Investigating the reciprocal relationships between societies and the environment by reconstructing past landscapes, environmental conditions, and historical processes. My research integrates historical sources, environmental evidence, Earth Observation, and spatial analysis to improve our understanding of long-term environmental change, natural hazards and the evolution of human–environment systems.
+145 [עמ׳ PDF 1]: GIScience methodologies & Geospatial innovation
+146 [עמ׳ PDF 1]: Developing next-generation GIScience methodologies that combine spatial data science, GeoAI, Earth Observation, and advanced geospatial analytics. My work focuses on integrating heterogeneous spatial, historical, and environmental datasets to generate new spatial knowledge and support interdisciplinary research, environmental decision-making and the practical application of geospatial science.
+147 [עמ׳ PDF 1]:  For additional info visit:      OrcId    |     Google scholar   |   ResearchGate   |   Linkedin   |   Facebook   |   Twitter (X)   |    YouTube
+148 [עמ׳ PDF 1]: 
+149 [עמ׳ PDF 1]: Featured Project: earthquake-db
+150 [עמ׳ PDF 1]: 
+151 [עמ׳ PDF 1]: earthquake-db is an open geospatial research platform documenting historical earthquake damage and environmental effects associated with the Dead Sea Transform activity. The interactive map on the right integrates various types of evidence into a spatial framework for research, exploration & visualization.
+152 [עמ׳ PDF 1]: Highlights
+153 [עמ׳ PDF 1]: Open geospatial research database
+154 [עמ׳ PDF 1]: Interactive GIS-based visualization
+155 [עמ׳ PDF 1]: Records of earthquakes, damage & environmental effects
+156 [עמ׳ PDF 1]: Standardized spatial data model
+157 [עמ׳ PDF 1]: The project is available on GitHub, while the archived dataset and versioned releases are permanently preserved on Zenodo.
+158 [עמ׳ PDF 1]: For items of damage & environmental effects see the digital collection at the Younes and Soraya Nazarian Library
+159 [עמ׳ PDF 1]: 
+160 [עמ׳ PDF 1]: Prof. Motti Zohar
+161 [עמ׳ PDF 1]: University of Haifa – School of Environmental Sciences
+162 [עמ׳ PDF 1]: Environmental Sciences & Geospatial Information Sciences
+163 [עמ׳ PDF 1]: Rabin complex, room 8009, 199 Aba Khoushy Ave.
+164 [עמ׳ PDF 1]: Mount Carmel, Haifa, Israel, POB: 3338, Zip Code:  3103301
+165 [עמ׳ PDF 1]: 
+166 [עמ׳ PDF 1]: 										Phone: 04-8240444
+167 [עמ׳ PDF 1]: 
+168 [עמ׳ PDF 1]: 										Fax: 04-8249605
+169 [עמ׳ PDF 1]: 
+170 [עמ׳ PDF 1]: 										Skype: zoharmot
+171 [עמ׳ PDF 1]: 
+172 [עמ׳ PDF 1]: 										 Google maps
+173 [עמ׳ PDF 1]: 
+174 [עמ׳ PDF 1]: 										Email: motti.zohar@univ.haifa.ac.il
+175 [עמ׳ PDF 1]: 
+176 [עמ׳ PDF 1]: אתר זה עושה שימוש שימוש בקבצי עוגיות (COOKIES) וטכנולוגיות מעקב לצורך תפעולו התקין ואבטחתו וגם למטרות נוספות כמו שיפור חווית הגלישה, ניתוח נתונים סטטיסטיים פרסום מותאם אישית או מבוסס העדפות. אנו לא נתקין באמצעות האתר על מכשירך עוגיות וטכנולוגיות מעקב נוספות שאינן הכרחיים לתפעול הטכני של האתר ללא הסכמתך. למידע נוסף אנא עיין בחלק "נתונים שאינם מידע אישי אשר אנו אוספים באתר" במדיניות הפרטיות שלנו.
+177 [עמ׳ PDF 1]: 
+178 [עמ׳ PDF 1]: "This website uses cookies and tracking technologies for its proper functioning and security, as well as for additional purposes such as improving your browsing experience, statistical data analysis, and personalized or preference-based advertising. We will not install on your device any cookies or tracking technologies that are not strictly necessary for the technical operation of the site without your consent. For more information, please refer to the section “Non-Personal Data we Collect" in our privacy policyOkNo

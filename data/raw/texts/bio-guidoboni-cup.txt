@@ -1,0 +1,1 @@
+ERROR ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='assets.cambridge.org', port=443): Max retries exceeded with url: /97805218/37958/frontmatter/9780521837958_frontmatter.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='assets.cambridge.org', port=443) at 0x7fb0872e1e10>, 'Connection to assets.cambridge.org timed out. (connect timeout=60)'))"))
