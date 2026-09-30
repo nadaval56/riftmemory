@@ -266,6 +266,17 @@
     });
   }
 
+  // הלשונית של הדף הנוכחי מסומנת כבר בבנייה (aria-current). גיבוי לכתובות שונות של אותו דף,
+  // למשל /riftmemory בלי לוכסן או /riftmemory/index.html: מסמנים לפי הנתיב.
+  var nav = document.querySelector(".site-nav");
+  if (nav && !nav.querySelector('[aria-current="page"]')) {
+    var norm = function (u) { return u.replace(/index\.html$/, "").replace(/\/?$/, "/"); };
+    var here = norm(location.pathname);
+    nav.querySelectorAll("a").forEach(function (a) {
+      if (norm(new URL(a.href, location.href).pathname) === here) a.setAttribute("aria-current", "page");
+    });
+  }
+
   // מצב כהה/בהיר: מחליף בין שני המצבים, וזוכר את הבחירה בדפדפן בלבד.
   var toggle = document.querySelector("[data-theme-toggle]");
   if (toggle) {

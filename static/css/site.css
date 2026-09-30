@@ -142,7 +142,7 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
   .brand:hover .rift-e { animation-name: rift-slip-e-2; }
 }
 @media (prefers-reduced-motion: reduce) { .rift-mark * { animation: none !important; } }
-/* הלשוניות: פס אחד עדין עם רקע ומסגרת; הלשונית הפעילה מודגשת בצבע האתר ובקו תחתון.
+/* הלשוניות: פס אחד עדין עם רקע ומסגרת; הלשונית הפעילה מודגשת ברקע ובטקסט בצבע האתר.
    במסך צר: רשת של שתי עמודות, כל הלשוניות גלויות בלי גלילה. */
 .site-nav {
   order: 3; flex: 1 1 100%; display: flex; flex-wrap: wrap; gap: .15rem; padding: .25rem;
@@ -154,9 +154,6 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 }
 .site-nav a:hover { background: var(--surface-2); color: var(--ink); }
 .site-nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent-ink); font-weight: 600; }
-.site-nav a[aria-current="page"]::after {
-  content: ""; position: absolute; inset-inline: .8rem; bottom: .15rem; height: 2px; border-radius: 2px; background: var(--accent);
-}
 @media (max-width: 640px) {
   .site-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; padding: 0; overflow: hidden; background: var(--line); }
   .site-nav a {
@@ -164,7 +161,8 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
     min-height: 44px; padding: .45rem .5rem; border-radius: 0; background: var(--surface); font-size: .86rem; line-height: 1.25;
   }
   .site-nav a:hover { background: var(--surface-2); }
-  .site-nav a[aria-current="page"]::after { inset-inline: 30%; bottom: .3rem; }
+  /* מספר אי-זוגי של לשוניות: האחרונה על כל הרוחב, בלי תא ריק */
+  .site-nav a:last-child:nth-child(odd) { grid-column: 1 / -1; }
 }
 .theme-btn {
   width: 34px; height: 34px; border-radius: 10px; display: grid; place-items: center;
