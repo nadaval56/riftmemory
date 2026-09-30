@@ -1,5 +1,5 @@
-# סבב 27: בדיקה שהנתונים החיים מעודכנים (20.9–30.9)
-gsi-live-check-m2 https://eq.gsi.gov.il/api/earthquakes/?startDate=2026-09-20T00:00:00.000Z&endDate=2026-09-30T23:59:00.000Z&minMagnitude=2
-gsi-live-check-m0 https://eq.gsi.gov.il/api/earthquakes/?startDate=2026-09-20T00:00:00.000Z&endDate=2026-09-30T23:59:00.000Z&minMagnitude=0
-emsc-live-check https://www.seismicportal.eu/fdsnws/event/1/query?format=text&start=2026-09-20T00:00:00&end=2026-09-30T23:59:00&minlat=27&maxlat=36&minlon=32&maxlon=38&minmag=1.5&orderby=time
-usgs-live-check https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2026-09-20&endtime=2026-10-01&minlatitude=27&maxlatitude=36&minlongitude=32&maxlongitude=38&minmagnitude=2
+# סבב 29: מילון מונחים (USGS, נחלת הכלל)
+usgs-eq-glossary https://www.usgs.gov/glossary/earthquake-hazards-program
+usgs-eq-glossary-p2 https://www.usgs.gov/glossary/earthquake-hazards-program?page=1
+usgs-eq-glossary-p3 https://www.usgs.gov/glossary/earthquake-hazards-program?page=2
+usgs-eq-glossary-p4 https://www.usgs.gov/glossary/earthquake-hazards-program?page=3
