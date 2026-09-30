@@ -60,12 +60,14 @@ sources:
 - label: 'C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, "Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments", Earth and Planetary Science Letters 222 (2004), pp. 301–314 (TODO: לבדוק במקור)'
 - label: 'D. H. Kallner-Amiran, "A Revised Earthquake-Catalogue of Palestine", Israel Exploration Journal 1 (1950–1951), עמ׳ 223–246 (הערך על 1834: עמ׳ 230)'
   url: https://www.jstor.org/stable/27924451
-- label: '"1834 CE Fellahin Revolt Quake", deadseaquake.info (TODO: לבדוק במקור)'
+- label: 'Jefferson B. Williams, "1834 CE Fellahin Revolt Quake", deadseaquake.info (נקרא באוקטובר 2026)'
   url: https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html
 - label: 'לקריאה נוספת: ויקיפדיה, רעידת אדמה, הפסקה "רעידות אדמה בולטות בארץ ישראל"'
   url: https://he.wikipedia.org/wiki/רעידת_אדמה#רעידות_אדמה_בולטות_בארץ_ישראל
 - label: 'לקריאה נוספת: ויקיפדיה האנגלית, 1834 Jerusalem earthquake'
   url: https://en.wikipedia.org/wiki/1834_Jerusalem_earthquake
+- label: 'D. H. K. Amiran, E. Arieh, T. Turcotte, "Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E.", Israel Exploration Journal 44 (1994), pp. 260–305'
+  url: https://www.jstor.org/stable/27926357
 status: published
 reviewed_by: נדב
 review_notes:
@@ -83,6 +85,7 @@ review_notes:
 - 'אימות מקורות (ספטמבר 2026, קבצים מנדב): Ken-Tor ועמיתיו 2001 נקרא במלואו; הוסר ה-TODO, והושלמו המחברים, הגיליון (B2) וה-DOI. אומת שהשכבה בצאלים נקשרה ל-1834 (שכבה G, עמ׳ 2231), ונוסף שהזיהוי מותנה בפרשנות של שכבת האגם שמעליה. נוספו מהמאמר, כסיכום משני לפי עמירן ועמיתיו 1994 ובן-מנחם 1991: נזק לכנסיות, לצריחים ולחומה בירושלים ולמנזרים בבית לחם, "נהרגו רבים" בבית לחם (בניגוד ל"אין דיווח על נפגעים" אצל זוהר ועמיתיו; שתי העמדות מוצגות), גושי האספלט בים המלח (עכשיו עם מקור משני; מקור בן התקופה עדיין TODO), וההצעה שהמוקד היה מדרום לאגן ים המלח. Spyridon, אמברייזיס 2009, מיגובסקי ו-deadseaquake.info לא נקראו.'
 - 'סבב מקורות חלופיים (ספטמבר 2026, באישור נדב): הכרוניקה של ניאופיטוס (ספירידון 1938) נמשכה ונקראה. אומתו המשך (שלוש שניות), הנזק בכנסיית הקבר, בירושלים, בבית לחם ובמר סבא, והשעה (שש בבוקר). התאריך אצלו: יום ראשון, 13 במאי. תוקן: ניאופיטוס ישב בירושלים, לא במר סבא; הלחימה נפסקה רק לרגע. time_local נשאר null בגלל המחלוקת.'
 - 'סבב JSTOR (אוקטובר 2026): נוסף קלנר-עמירן 1950–1951 (עמ׳ 230, נקרא ב-JSTOR): "23.5. 06.00", עם הפניה לניקולייסון על 26.5, ותיקון מפורש ל-26 במאי בחלק השני (IEJ 2, 1952, עמ׳ 65). כך נמצא מקור ה-23 במאי שבהערה הנסתרת. השעה 06:00 אצלו נוספה לפסקת השעה; התיאור שלו לירושלים מפנה לאותו עמוד בניאופיטוס (45, עמ׳ 92), ולכן אינו עדות עצמאית.'
+- 'סבב JSTOR 2 (אוקטובר 2026): עמירן, אריה וטורקוטה 1994 נקרא ב-JSTOR. הקטלוג שעליו נשענים קן-תור ועמיתיו נקרא ישירות (עמ׳ 272–273). נוספו הפרטים שלו על בית לחם וירושלים; "נהרגו רבים" מיוחס שם למקור אחד (83).'
 ---
 
 ## הסיפור
@@ -97,7 +100,7 @@ review_notes:
 
 הנזק נרשם בירושלים ובבית לחם, במנזר מר סבא ובאזור ים המלח. דיווחים על נזק הגיעו גם מיפו ומקיסריה שבחוף, וממידבא ומאום א-רצאץ שבעבר הירדן.[^zohar16]
 
-על הרוגים אין ברשימה של זוהר ועמיתיו שום דיווח.[^zohar16] לעומת זאת, קן-תור ועמיתיו, בהסתמך על הקטלוג של עמירן ועמיתיו (1994), כותבים שבבית לחם נפגעו כמה מנזרים ונהרגו רבים, ושבירושלים נפגעו כמה כנסיות וצריחים וחומת העיר.[^kentor-2231] הנזק היה, כנראה, קל מזה של רעידת 1927.[^salamon07-notes]
+על הרוגים אין ברשימה של זוהר ועמיתיו שום דיווח.[^zohar16] לעומת זאת, קן-תור ועמיתיו, בהסתמך על הקטלוג של עמירן ועמיתיו (1994), כותבים שבבית לחם נפגעו כמה מנזרים ונהרגו רבים, ושבירושלים נפגעו כמה כנסיות וצריחים וחומת העיר.[^kentor-2231] בקטלוג עצמו מדובר בנזק רב למנזרים הלטיני, הארמני והיווני-אורתודוקסי בבית לחם, והידיעה שנהרגו שם רבים מובאת בשם מקור אחד. בירושלים נפגעו לפיו כיפת כנסיית הקבר, חומת העיר, בתים ובורות מים, וקרסו צריח בעיר, צריח בהר הזיתים וכיפת מסגד העלייה.[^aat] הנזק היה, כנראה, קל מזה של רעידת 1927.[^salamon07-notes]
 
 <!-- הוסר: ויקיפדיה האנגלית (דרך תוצאות חיפוש) כתבה שהלחימה נפסקה לכמה ימים; אצל ניאופיטוס היא התחדשה למחרת. הטענה שמוסלמים בעיר ראו ברעידה תגובה לגיוס לא נמצאה אצלו, ולא הוחזרה. -->
 
@@ -120,7 +123,7 @@ review_notes:
 
 **נוסע וולשי.** נוסע בן התקופה, ששמו לא ידוע, תיאר בתים רבים שנהרסו בירושלים, קטע של חומת העיר שנפל ליד הר הבית, ומנזר בבית לחם שלא היה ראוי עוד למגורים. כך לפי סיכום באתר deadseaquake.info.[^dsq]
 
-<!-- הפרטים על ניאופיטוס אומתו מול התרגום של ספירידון (1938). TODO: לאמת ציטוט: הפרטים על הנוסע הוולשי הם סיכום של deadseaquake.info. -->
+<!-- הפרטים על ניאופיטוס אומתו מול התרגום של ספירידון (1938). TODO: לאמת ציטוט: הפרטים על הנוסע הוולשי הם סיכום של deadseaquake.info (נבדק שם באוקטובר 2026; המכתב עצמו, ומקום פרסומו, לא נמצאו). -->
 <!-- סבב מקורות חלופיים 2 (ספטמבר 2026): חוברת אוקטובר 1834 של Missionary Herald (data/raw/texts/mh-1834-10.txt) נבדקה, ואין בה אזכור של הרעידה או של מכתב הנוסע הוולשי. הקובץ data/raw/texts/migowski2004.txt הוא בפועל קטעים מ-Heidbach and Ben-Avraham, EPSL 257 (2007), ולא ממיגובסקי ועמיתיו 2004; בטבלה 1 שם 1834 מופיעה עם 6.3. לכן לא נסגרו ה-TODO על מיגובסקי, על אמברייזיס 2009 ועל deadseaquake.info. -->
 
 **אספלט בים המלח.** קן-תור ועמיתיו מביאים, בהסתמך על בן-מנחם (1991), שאחרי הרעידה הופיעו על פני ים המלח גושי אספלט גדולים.[^kentor-2231] עדות קרובה לזמן מביא אדוארד רובינסון, שסייר לאורך ים המלח ב-1838. שייחים של שבטי התעאמרה והג׳האלין סיפרו לו שאחרי הרעש של 1834 נפלטה לחוף, סמוך לחלקו הדרום-מערבי של הים, כמות גדולה של אספלט, ובני הג׳האלין הביאו כשישים קנטאר ממנו לשוק. חברו למסע, אלי סמית׳, זכר שבאותה שנה קנו הסוחרים האירופאים בביירות כמות גדולה של אספלט. לפי השייח של הג׳האלין, מלבד 1834 ו-1837 לא ראה מימיו אספלט צף בים, ולא שמע על כך מאבותיו.[^robinson-518]
@@ -155,7 +158,8 @@ review_notes:
 [^kentor-2231]: R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco and J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", *Journal of Geophysical Research* 106 (B2) (2001), pp. 2221–2234, עמ׳ 2231, סעיף 6.1.6 (שכבות G ו-H; תיאור הנזק לפי Amiran et al. 1994 ו-Ben-Menahem 1991: "At Bethlehem, several monasteries were damaged and many people were killed"; "Large blocks of asphalt appeared on the Dead Sea"; "the epicenter was likely south of the Dead Sea basin"), וכן עמ׳ 2233.
 [^spyridon]: S. N. Spyridon (תרגום), "Annals of Palestine, 1821–1841", *Journal of the Palestine Oriental Society* 18 (1938), pp. 63–132 ([סריקה ב-Internet Archive](https://archive.org/details/AnnalsOfPalestine1821to1841SpyridonRecountsTheEarthquakeOf1834)). על המחבר, בהקדמה (עמ׳ 63): "a translation of a part of a manuscript by the Monk Neophytos"; "he came to Jerusalem from Cyprus in 1801".
 [^spyridon-92]: Spyridon 1938, עמ׳ 92–93 והערות שם ("The wall of the Church was cracked near where the Armenians celebrate"): "At six o'clock on Sunday morning, May 13th, there was an earthquake. It lasted but three seconds, but it was so violent that the dome of the Catholicon was cracked in seven places and all the plaster fell off"; "A minaret fell in Jerusalem, and another one on the Mount of Olives, as did the dome of the Shrine of the Ascension"; "The fellaheen got frightened at the earthquake and stopped firing for the moment, but the next day they began again".
-[^dsq]: "[1834 CE Fellahin Revolt Quake](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html)", deadseaquake.info. השעה שם: שש בבוקר. TODO: לבדוק במקור. <!-- הגיע דרך תוצאות חיפוש, לא מקריאת הדף -->
+[^dsq]: "[1834 CE Fellahin Revolt Quake](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html)", deadseaquake.info (הדף נקרא באוקטובר 2026). בכותרת: "6 am 26 May 1834 CE", לפי ניאופיטוס אחרי המרה ללוח הגרגוריאני. על מכתב הנוסע הוולשי (16 ביולי 1834, "English translated from Welsh"), בציטוטים שם: "destroyed many houses, and levelled to the earth that part of the city wall which passes the temple of the Muhammadans"; "The monastery of Bethlehem was rendered uninhabitable"; "For ten days earthquakes continued to rock the city". הפרסום המקורי של המכתב אינו מצוין בדף.
 [^kamenitz]: מנחם מנדל מקמניץ, *קורות העתים לישורון בארץ ישראל*, וילנה תקצ"ט (1839), [בפרויקט בן-יהודה](https://benyehuda.org/read/2695). הציטוט מהנוסח שם. ההמרה של ט"ו באייר תקצ"ד ל-24 במאי 1834 שלנו. על עלייתו: "בעת באי לארץ הקדושה בשנת תקצ"ג בחודש אלול", שם.
 [^robinson-518]: E. Robinson and E. Smith, *Biblical Researches in Palestine*, בוסטון 1841, כרך 1, עמ׳ 518 ([סריקה של פרינסטון ב-Internet Archive](https://archive.org/details/biblicalresearch01robi), OCR): "related that after the earthquake of 1834, a large quantity of asphaltum was cast upon the shore near the southwest part of the sea"; "My companion also remembered, that in that year a large amount had been purchased by the Frank merchants at Beirut"; "Except in those two years, the Sheikh of the Jehalin, a man fifty years old, had never known of bitumen appearing in the sea".
 [^kallner]: D. H. Kallner-Amiran, ["A Revised Earthquake-Catalogue of Palestine"](https://www.jstor.org/stable/27924451), *Israel Exploration Journal* 1 (1950–1951), עמ׳ 223–246, בעמ׳ 230 (נקרא ב-JSTOR): "1834 23.5. 06.00", עם ההערה "(26.5. Nicolayson, *PEFQSt*, 1911, p. 85)". התיאור של ירושלים שם מפנה לניאופיטוס (הפניה 45, S. N. Spyridon, "Annals of Palestine, 1821–1841", 1938, עמ׳ 92), וה-"many people were killed" בבית לחם ל-Macalister 1918 (הפניה 44). בחלק השני, *IEJ* 2 (1952), עמ׳ 65, הוא מתקן במפורש ל-26 במאי.
+[^aat]: D. H. K. Amiran, E. Arieh and T. Turcotte, ["Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E."](https://www.jstor.org/stable/27926357), *Israel Exploration Journal* 44 (1994), pp. 260–305 (נקרא ב-JSTOR), עמ׳ 272–273, הרשומה על 1834: "Bethlehem: much damage to the Latin, Armenian and Greek Orthodox monasteries (82). According to (83), many people were killed."; "Jerusalem: several churches damaged, including the cupola of the Holy Sepulchre. Damage to the city wall, many houses and cisterns"; "A minaret in the city and one on the Mount of Olives collapsed, as did the cupola of the Ascension"; "Large blocks of asphalt floated on Dead Sea".
