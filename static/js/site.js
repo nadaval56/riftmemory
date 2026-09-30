@@ -277,6 +277,49 @@
     });
   }
 
+  // גרפים: לחיצה (או נגיעה) על נקודה או עמודה פותחת תווית. נקודות קטנות: הקרובה ביותר
+  // בטווח של כמה פיקסלים, כדי שאפשר יהיה לפגוע בה גם באצבע.
+  var tip = null, tipOn = null;
+  function hideTip() { if (tip) tip.remove(); tip = null; if (tipOn) tipOn.classList.remove("is-on"); tipOn = null; }
+  document.addEventListener("click", function (ev) {
+    var svg = ev.target.closest && ev.target.closest("svg.chart");
+    if (!svg) { hideTip(); return; }
+    var hit = ev.target.closest("[data-tip]");
+    if (!hit) {
+      var best = null, bestD = 18;
+      svg.querySelectorAll("circle[data-tip]").forEach(function (c) {
+        var r = c.getBoundingClientRect(), d = Math.hypot(r.left + r.width / 2 - ev.clientX, r.top + r.height / 2 - ev.clientY);
+        if (d < bestD) { bestD = d; best = c; }
+      });
+      hit = best;
+    }
+    hideTip();
+    if (!hit || !hit.getAttribute("data-tip")) return;
+    var box = hit.getBoundingClientRect();
+    tip = document.createElement("div");
+    tip.className = "chart-tip"; tip.setAttribute("role", "status");
+    tip.textContent = hit.getAttribute("data-tip");
+    document.body.appendChild(tip);
+    var x = box.left + box.width / 2 + window.scrollX, y = box.top + window.scrollY;
+    var half = tip.offsetWidth / 2, maxX = document.documentElement.clientWidth - 8 + window.scrollX;
+    x = Math.min(Math.max(x, half + 8 + window.scrollX), maxX - half);
+    tip.style.left = (x - tip.offsetWidth) + "px"; tip.style.top = y + "px";
+    tip.style.transform = "translate(50%, calc(-100% - 8px))";
+    if (hit.classList.contains("chart-dot")) { hit.classList.add("is-on"); tipOn = hit; }
+  });
+  document.addEventListener("keydown", function (ev) { if (ev.key === "Escape") hideTip(); });
+
+  // איך מוצאים את מוקד-העל: האנימציה מתנגנת כשהתרשים נכנס למסך, ובכפתור "הפעלה חוזרת"
+  var tri = document.querySelector(".tri");
+  if (tri) {
+    var play = function () { tri.classList.remove("play"); void tri.offsetWidth; tri.classList.add("play"); };
+    if ("IntersectionObserver" in window) {
+      var io = new IntersectionObserver(function (es) { if (es[0].isIntersecting) { play(); io.disconnect(); } }, { threshold: 0.5 });
+      io.observe(tri);
+    }
+    tri.querySelector(".tri-replay").addEventListener("click", play);
+  }
+
   // מצב כהה/בהיר: מחליף בין שני המצבים, וזוכר את הבחירה בדפדפן בלבד.
   var toggle = document.querySelector("[data-theme-toggle]");
   if (toggle) {
