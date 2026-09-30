@@ -506,4 +506,8 @@ table.data a.ext { font-size: .82em; }
 .footer-links { font-size: .9rem; }
 :focus-visible { outline: 3px solid var(--accent-ink); outline-offset: 2px; }
 /* דף עדים וחוקרים: הפתיח הסיפורי של כל ערך (בטקסט: *...*) בלי הטיה מלאכותית, בולט מעט */
-.page-md h3 + p > em:only-child { font-style: normal; font-weight: 500; color: var(--ink); font-size: 1.05em; }
+.page-md h3 + p:has(> em:only-child) {
+  border-inline-start: 3px solid var(--accent); padding: .1rem .9rem .15rem 0; margin: .4rem 0 1rem;
+}
+.page-md h3 + p > em:only-child { font-style: normal; font-weight: 500; color: var(--ink); font-size: 1.14em; line-height: 1.6; }
+.page-md h3 { margin-top: 2.2rem; }
