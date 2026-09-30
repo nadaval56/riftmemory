@@ -1,0 +1,7 @@
+https://viaf.org/en	VIAF
+https://www.oclc.org/	Hosted by OCLC
+https://policies.oclc.org/en/privacy/privacy-statement.html	Privacy policy
+https://policies.oclc.org/en/privacy/cookie-statement.html	Cookie Notice
+https://viaf.org/cdn-cgi/l/email-protection#37555e55545f565950527758545b5419584550084442555d5254430a617e767117515252535556545c	Send us a comment.
+https://www.oclc.org/viaf	About VIAF
+https://viaf.org/en/viaf/data	About the dataset

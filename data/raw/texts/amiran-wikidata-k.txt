@@ -1,0 +1,3 @@
+SOURCE: https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Kallner-Amiran&language=en&format=json
+
+{"searchinfo":{"search":"Kallner-Amiran"},"search":[],"success":1}
