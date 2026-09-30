@@ -1,0 +1,15 @@
+https://www.fdsn.org/webservices/	FDSN WS-EVENT specification
+https://www.emsc-csem.org/Files/epos/specifications/Specs_fdsnevent-WS.pdf	this document
+https://creativecommons.org/licenses/by/4.0/	Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://www.seismicportal.eu/terms.html	terms and conditions
+https://www.ics-c.epos-eu.org/	EPOS platform
+https://www.seismicportal.eu/fdsnws/event/1/docs	docs
+https://www.seismicportal.eu/fdsnws/event/1/redoc	redoc
+https://github.com/EMSC-CSEM/webservices101	use cases
+https://github.com/EMSC-CSEM/Hands-on-Session	Hands-on-Sessions
+https://www.seismicportal.eu/fdsnws/event/1/openapi.json	openapi.json
+https://www.openapis.org/	OpenAPI
+https://www.w3.org/submissions/wadl/	WADL
+https://www.seismicportal.eu/fdsnws/event/1/application.wadl	application.wadl
+https://www.emsc-csem.org	EMSC
+https://www.seismicportal.eu/terms.html	Terms of Use and Disclaimers

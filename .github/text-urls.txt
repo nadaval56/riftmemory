@@ -1,5 +1,3 @@
-# סבב 29: מילון מונחים (USGS, נחלת הכלל)
-usgs-eq-glossary https://www.usgs.gov/glossary/earthquake-hazards-program
-usgs-eq-glossary-p2 https://www.usgs.gov/glossary/earthquake-hazards-program?page=1
-usgs-eq-glossary-p3 https://www.usgs.gov/glossary/earthquake-hazards-program?page=2
-usgs-eq-glossary-p4 https://www.usgs.gov/glossary/earthquake-hazards-program?page=3
+# סבב 30: עותק בארכיון לקישורים שבורים
+wayback-auth-seisnet https://archive.org/wayback/available?url=geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html
+emsc-fdsn-doc https://www.seismicportal.eu/fdsn-wsevent.html

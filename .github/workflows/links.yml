@@ -50,3 +50,12 @@ jobs:
           else
             gh issue create --title "$title" --body-file link-report.md
           fi
+      - name: close issue
+        if: steps.check.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          num=$(gh issue list --state open --search "in:title קישורים שבורים" --json number --jq '.[0].number')
+          if [ -n "$num" ]; then
+            gh issue close "$num" --comment "בבדיקה של $(date -u +%Y-%m-%d) לא נמצאו קישורים שבורים."
+          fi

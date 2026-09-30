@@ -9,6 +9,7 @@
 """
 
 import concurrent.futures as cf
+import html
 import re
 import socket
 import sys
@@ -32,7 +33,7 @@ def collect():
     for path in sorted(SITE.rglob("*.html")):
         page = "/" + str(path.relative_to(SITE)).removesuffix("index.html")
         for url in HREF.findall(path.read_text(encoding="utf-8")):
-            url = url.replace("&amp;", "&").split("#")[0]
+            url = html.unescape(url).split("#")[0]
             if urlparse(url).hostname in SKIP_HOSTS:
                 continue
             found.setdefault(url, [])

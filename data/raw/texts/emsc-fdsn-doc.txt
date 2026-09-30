@@ -1,0 +1,105 @@
+SOURCE: https://www.seismicportal.eu/fdsn-wsevent.html
+
+
+
+    SeismicPortal - FDSN Event web service
+
+FDSN WS-EVENT API demonstration
+
+This HTTP web service implements the FDSN WS-EVENT specification and provides access to the EMSC event catalogue. Event information can include all origins and all arrivals if requested. Output formats can be Quakeml, json or text (csv). A full description of the data products and the specifications of the web service are in  this document.
+
+This webpage will help you to learn to construct request urls for use in shell scripts (for example with curl or wget) or any programming language that provides http client connections.
+
+The data provided by this service is distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. For further information, see our terms and conditions. This service is also integrated into the EPOS platform.
+
+Automatically generated documentation can be found at docs or redoc. Tutorials are also available on the EMSC github account for use cases (python/shell/notebook) or in the form of Hands-on-Sessions (using python).
+
+The API is described using openapi.json based on the OpenAPI specification. Other (older) frameworks can automatically generate bindings from a WADL description file that is available as application.wadl.
+
+				 | Group | Parameter | Abbrevation | Value | Default | Minimum | Maximum | Type | Units
+
+				 | time constraints
+
+				 |  | starttime | start |  | [Any] | [Any valid time] | [Any valid time] | Time | UTC
+
+				 |  | endtime | end |  | [Any] | [Any valid time] | [Any valid time] | Time | UTC
+
+				 | geographics constraints
+
+				 |  | box area constraints
+
+				 |  | minlatitude | minlat |  | -90.0 | -90.0 | 90.0 | float | degrees
+
+				 |  | maxlatitude | maxlat |  | 90.0 | -90.0 | 90.0 | float | degrees
+
+				 |  | minlongitude | minlon |  | -180.0 | -360.0 | 360.0 | float | degrees
+
+				 |  | maxlongitude | maxlon |  | 180.0 | -360.0 | 360.0 | float | degrees
+
+				 |  | circle constraints
+
+				 |  | latitude | lat |  | 0.0 | -90.0 | 90.0 | float | degrees
+
+				 |  | longitude | lon |  | 0.0 | -180.0 | 180.0 | float | degrees
+
+				 |  | minradius |  |  | 0.0 | 0.0 | 180.0 | float | degrees
+
+				 |  | maxradius |  |  | 180.0 | 0.0 | 180.0 | float | degrees
+
+				 | output control
+
+				 |  | format |  |  | xml | xml, text, json | string |
+
+				 |  | nodata |  |  | xml | 204 or 404 | string |
+
+				 | other parameters
+
+				 |  | mindepth |  |  | [Any] | [Any] | [ANY] | float | kilometers
+
+				 |  | maxdepth |  |  | [Any] | [Any] | [ANY] | float | kilometers
+
+				 |  | minmagnitude | minmag |  | [Any] | [Any] | [ANY] | float |
+
+				 |  | maxmagnitude | maxmag |  | [Any] | [Any] | [ANY] | float |
+
+				 |  | magnitudetype | magtype |  | [Any] |  |  | string |
+
+				 |  | includeallorigins |  |  | FALSE |  |  | boolean |
+
+				 |  | includearrivals |  |  | FALSE |  |  | boolean |
+
+				 |  | eventid
+  (seismicportal id) |  |  | [Any] |  |  | string |
+
+				 |  | evid
+  (EMSC website id) |  |  | [Any] |  |  | string |
+
+				 |  | limit |  |  | 20000 | 1 |  | integer |
+
+				 |  | offset |  |  | 1 | 1 |  | integer |
+
+				 |  | orderby |  |  | time | time, time-asc, magnitude, magnitude-asc | integer |
+
+				 |  | contributor |  |  | [Any] |  |  | string |
+
+				 |  | catalog |  |  | [Any] | EMSC-RTS, EMSC-EMB | string |
+
+				 |  | updatedafter |  |  |  |  |  | time | UTC
+
+		Generated URL : {{serverName}}{{baseFDSNUrl}}?{{params}}
+		Call the Web Service Loading data
+
+Raw Result :
+	{{erreur}}
+	{{result}}
+
+Notes:
+
+The FDSN server was updated (2023-03) to a more modern framework and the maximum number of events per request has increased to 20000. There may be small disparities with the previous server that require adjustments to your requests, for instance around the formats of times, please contact us if there are problems with the new server.
+
+Update 2023-07: minlongitude/minlon and maxlongitude/maxlon now range between -360° and 360° intelligently wrapping at ±180°. It is considered that the minlon parameter defines the western limit while the maxlon parameter defines the eastern limit.
+
+Update 2026-06: various improvements to the service's metadata were implemented.
+
+		Copyright © 2014 EMSC    Terms of Use and Disclaimers
+
