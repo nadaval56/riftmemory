@@ -173,13 +173,59 @@ def fetch_emsc(start, end):
         p = f["properties"]
         if p.get("evtype") not in (None, "ke") or p.get("mag") is None:
             continue
-        place = (p.get("flynn_region") or "").title() or None
+        region = (p.get("flynn_region") or "").strip().upper()
         out.append(record(parse_time(p["time"]), p["lat"], p["lon"], p.get("depth"),
-                          p["mag"], p.get("magtype"), place=place, source_id=p.get("unid")))
+                          p["mag"], p.get("magtype"), place=region.title() or None,
+                          place_he=EMSC_REGIONS_HE.get(region), source_id=p.get("unid")))
     return out
 
 
 SOURCES = [("gsi", fetch_gsi), ("usgs", fetch_usgs), ("emsc", fetch_emsc)]
+
+# כשהמכון עונה אבל לא פרסם כלום זמן רב (למשל בספטמבר 2026: אין רעידות אחרי 24.9, בזמן ש-EMSC
+# רשם כמה באזור), משלימים מ-EMSC רק את התקופה שאחרי הרעידה האחרונה של המכון. הרעידות
+# האלה מסומנות provider="emsc", והאתר מציג שהן לפי EMSC ועוד לא פורסמו במכון.
+STALE_AFTER = dt.timedelta(days=2)
+SUPPLEMENT_MARGIN = dt.timedelta(minutes=5)  # שלא נכפיל רעידה שהמכון כבר פרסם
+
+EMSC_REGIONS_HE = {
+    "CYPRUS REGION": "אזור קפריסין",
+    "EASTERN MEDITERRANEAN SEA": "מזרח הים התיכון",
+    "NEAR THE COAST OF SYRIA": "ליד חוף סוריה",
+    "SYRIA": "סוריה",
+    "LEBANON": "לבנון",
+    "LEBANON-SYRIA BORDER REGION": "אזור הגבול בין לבנון לסוריה",
+    "ISRAEL": "ישראל",
+    "DEAD SEA REGION": "אזור ים המלח",
+    "JORDAN": "ירדן",
+    "ISRAEL-JORDAN BORDER REGION": "אזור הגבול בין ישראל לירדן",
+    "GULF OF AQABA": "מפרץ אילת",
+    "SINAI, EGYPT": "סיני",
+    "EGYPT": "מצרים",
+    "NORTHERN RED SEA": "צפון ים סוף",
+    "WESTERN SAUDI ARABIA": "מערב ערב הסעודית",
+    "NORTHWESTERN SAUDI ARABIA": "צפון-מערב ערב הסעודית",
+    "TURKEY-SYRIA BORDER REGION": "אזור הגבול בין טורקיה לסוריה",
+    "CENTRAL TURKEY": "מרכז טורקיה",
+    "SOUTHERN TURKEY": "דרום טורקיה",
+}
+
+
+def supplement_from_emsc(events, end):
+    """רעידות מ-EMSC אחרי הרעידה האחרונה של המכון, אם היא ישנה מ-STALE_AFTER."""
+    last = max((parse_time(q["time_utc"]) for q in events), default=end - dt.timedelta(days=DAYS))
+    if end - last < STALE_AFTER:
+        return [], None
+    try:
+        extra = fetch_emsc(last + SUPPLEMENT_MARGIN, end)
+    except Exception as exc:  # noqa: BLE001 — בלי השלמה, ממשיכים עם המכון בלבד
+        print(f"emsc supplement: failed: {exc!r}")
+        return [], None
+    extra = [q for q in extra if in_box(q["lat"], q["lon"]) and q["magnitude"] >= MIN_MAG]
+    for q in extra:
+        q["provider"] = "emsc"
+    print(f"gsi: last event {iso_z(last)}; emsc supplement: {len(extra)} events")
+    return extra, iso_z(last)
 
 
 def main():
@@ -195,6 +241,10 @@ def main():
         except Exception as exc:  # noqa: BLE001 — כל כשל עובר למקור הבא
             print(f"{name}: failed: {exc!r}")
             continue
+        supplement_since = None
+        if name == "gsi":
+            extra, supplement_since = supplement_from_emsc(events, end)
+            events += extra
         events.sort(key=lambda q: q["time_utc"], reverse=True)
         events = events[:MAX_EVENTS]
         # segment ו-echo מחושבים כאן לפי הרעידות שפורסמו, ומחושבים מחדש בזמן הבנייה
@@ -202,6 +252,8 @@ def main():
         published = [e for e in load_events() if e["status"] == "published"]
         echo.annotate(events, published, echo.load_segments())
         latest = {"fetched_at": iso_z(end), "source": name, "events": events}
+        if supplement_since:
+            latest["supplement"] = {"source": "emsc", "since": supplement_since}
         OUT.write_text(json.dumps(latest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"{name}: saved {len(events)} events")
         return

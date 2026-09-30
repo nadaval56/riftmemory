@@ -578,6 +578,7 @@ def build(drafts=False):
         **common,
         page_path="/recent/",
         live=live,
+        supplement_since=(lambda t: f"{t.day}.{t.month}")(dt.datetime.fromisoformat(live["supplement"]["since"].replace("Z", "+00:00")).astimezone(TZ)) if live.get("supplement") else None,
         quakes=live_month["events"],
         by_id=by_id,
         by_mag=by_mag,
