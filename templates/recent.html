@@ -13,6 +13,9 @@
   {% if strongest %}החזקה שבהן: <a href="#{{ strongest.anchor }}"><bdi dir="ltr">M{{ strongest.magnitude }}</bdi>, {{ strongest.label }}</a>.{% endif %}
   {% if felt %}{{ felt | length }} מהן דווחו כמורגשות.{% endif %}{% endif %}</p>
   <p class="muted">עודכן <time datetime="{{ live.fetched_at }}" data-relative>{{ live.fetched_at }}</time>.</p>
+  {% if live.supplement %}
+  <p class="notice">המכון הגיאולוגי לא פרסם רעידות באזור מאז {{ supplement_since }}. רעידות מאז מוצגות לפי <a href="https://www.seismicportal.eu/" rel="noopener">EMSC</a>, המרכז הסייסמולוגי האירופי-ים תיכוני, ומסומנות ככאלה. הן עוד לא פורסמו במכון, והמיקום והמגניטודה שלהן עשויים להשתנות.</p>
+  {% endif %}
 
   {% if quakes %}
   <section aria-labelledby="days-h">
@@ -45,6 +48,7 @@
           {% if q.fault_km is not none %}<div><dt>מקו השבר הקרוב</dt><dd>
             {% if q.fault_km < 1 %}פחות מק״מ{% else %}כ־{{ q.fault_km }} ק״מ{% endif %}{% if q.fault_km <= 50 and q.fault_seg %} (מקטע {{ q.fault_seg }}){% endif %}</dd></div>{% endif %}
           {% if q.felt %}<div><dt>הורגשה</dt><dd>כן, לפי המכון</dd></div>{% endif %}
+          {% if q.provider == "emsc" %}<div><dt>מקור</dt><dd>EMSC, טרם פורסם במכון</dd></div>{% endif %}
         </dl>
         <p class="quake-links"><a href="#map" data-map-focus="{{ q.anchor }}">הצגה במפה ↑</a></p>
         {% if q.echo and q.echo.text %}
