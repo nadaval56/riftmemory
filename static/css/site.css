@@ -638,6 +638,8 @@ html.a11y-still .pulse { animation: none; }
 .tri-st path { fill: var(--ink); }
 .tri-st text, .tri-epi text { fill: var(--ink-2); font-size: 12px; font-family: var(--font); }
 .tri-epi text { fill: var(--accent-ink); font-weight: 700; }
+/* רקע מאחורי הטקסט, כדי שקווי המעגלים לא יחצו אותו */
+.tri-st text, .tri-epi text { paint-order: stroke; stroke: var(--surface); stroke-width: 4px; stroke-linejoin: round; }
 .tri-epi-dot { fill: var(--accent); stroke: var(--surface); stroke-width: 2; }
 .tri-epi-pulse { fill: none; stroke: var(--accent); stroke-width: 2; opacity: 0; transform-box: fill-box; transform-origin: 50% 50%; }
 .tri-replay { font: inherit; font-size: .82rem; color: var(--accent-ink); background: none; border: 1px solid var(--line); border-radius: 999px; padding: .1rem .7rem; margin-inline-start: .4rem; cursor: pointer; }
