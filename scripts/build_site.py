@@ -217,8 +217,14 @@ def instruments_data(segments, segment_names, events):
     for q in usgs["events"]:
         t = dt.datetime.fromisoformat(q["t"].replace("Z", "+00:00"))
         seg, dist = echo.nearest_segment(q["lat"], q["lon"], segments)
+        near_seg = seg is not None and dist <= echo.SEGMENT_KM
+        # שם המקום של USGS מגיע עם "?" במקום אותיות מסוימות (Mi?pé Yeri?o), ולכן בעברית: לפי המקטע הקרוב
+        where = None
+        if seg is not None:
+            name = segment_names.get(seg["id"]) or seg.get("name_he")
+            where = name if near_seg else f"כ־{round(dist)} ק״מ מקו השבר ({name})"
         rows.append(dict(q, time=t, year=t.year, fault_km=round(dist), label=t.astimezone(TZ).strftime("%-d.%-m.%Y"),
-                         seg=seg["id"] if seg is not None and dist <= echo.SEGMENT_KM else None))
+                         seg=seg["id"] if near_seg else None, where=where))
     # רעידה היסטורית באתר מאותו יום (למשל 1927)
     by_date = {}
     for e in events:
@@ -246,7 +252,7 @@ def instruments_data(segments, segment_names, events):
             bands.append((lo, hi, s["name_he"]))
     section = charts.depth_section(
         [(q["lat"], q["depth"], q["mag"],
-          f'{q["label"]} · \u2066M{q["mag"]:g}\u2069 · עומק {q["depth"]:g} ק״מ · \u2066{q.get("place") or ""}\u2069' if q["depth"] is not None else "")
+          f'{q["label"]} · \u2066M{q["mag"]:g}\u2069 · עומק {q["depth"]:g} ק״מ · {q["where"] or ""}' if q["depth"] is not None else "")
          for q in near], (28.3, 34.0), 40, bands=bands,
         x_labels=[(y, f"{y}°") for y in (29, 30, 31, 32, 33)],
         title="חתך עומק לאורך השבר: עומק המוקד של כל רעידה, מדרום (ימין) לצפון (שמאל)")
@@ -267,7 +273,7 @@ def instruments_data(segments, segment_names, events):
         gsi_felt=sum(1 for q in gsi_rows if q.get("felt")),
         map_live=[dict(lat=q["lat"], lon=q["lon"], magnitude=q["mag"], time_utc=q["t"],
                        label=q["time"].astimezone(TZ).strftime("%-d.%-m.%Y"), depth_km=q["depth"],
-                       local=q.get("place"), anchor=None, url=q.get("url"), key="u-" + q["id"])
+                       local=q["where"], anchor=None, url=q.get("url"), key="u-" + q["id"])
                   for q in rows],
     )
 
@@ -553,7 +559,7 @@ def build(drafts=False):
     ))
     pages.append("/recent/")
 
-    # מה המכשירים רואים
+    # מכשירי מדידה
     inst = instruments_data(segments, segment_names, events)
     if inst:
         write(SITE / "instruments" / "index.html", env.get_template("instruments.html").render(
