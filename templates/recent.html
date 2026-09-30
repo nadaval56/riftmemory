@@ -13,6 +13,7 @@
   {% if strongest %}החזקה שבהן: <a href="#{{ strongest.anchor }}"><bdi dir="ltr">M{{ strongest.magnitude }}</bdi>, {{ strongest.label }}</a>.{% endif %}
   {% if felt %}{{ felt | length }} מהן דווחו כמורגשות.{% endif %}{% endif %}</p>
   <p class="muted">עודכן <time datetime="{{ live.fetched_at }}" data-relative>{{ live.fetched_at }}</time>.</p>
+  <p class="safety-link"><a href="{{ base }}/earthquake-safety/">מה עושים ברעידת אדמה: ההנחיות של פיקוד העורף</a></p>
   {% if live.supplement %}
   <p class="notice">המכון הגיאולוגי לא פרסם רעידות באזור מאז {{ supplement_since }}. רעידות מאז מוצגות לפי <a href="https://www.seismicportal.eu/" rel="noopener">EMSC</a>, המרכז הסייסמולוגי האירופי-ים תיכוני, ומסומנות ככאלה. הן עוד לא פורסמו במכון, והמיקום והמגניטודה שלהן עשויים להשתנות.</p>
   {% endif %}
