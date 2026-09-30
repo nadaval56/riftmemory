@@ -207,24 +207,51 @@ def load_catalog(name):
     return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
 
 
+PLACE_RE = re.compile(r"^(\d+) km ([NSEW]{1,3}) of (.+), ([^,]+)$")
+
+
+def usgs_place_he(place, names):
+    """ "21 km SE of Mi?pé Yeri?o, Israel" -> "21 ק״מ דרומית-מזרחית למצפה יריחו, ישראל".
+    None אם אין תרגום לשם (אז מוצג המקטע הקרוב)."""
+    if not place:
+        return None
+    if place in names["regions"]:
+        return names["regions"][place]
+    m = PLACE_RE.match(place)
+    if not m:
+        return None
+    km, direction, town, country = m.groups()
+    town_he, dir_he = names["places"].get(town), names["directions"].get(direction)
+    if not town_he or not dir_he:
+        return None
+    country_he = names["countries"].get(country)
+    return f"{km} ק״מ {dir_he} ל{town_he}" + (f", {country_he}" if country_he else "")
+
+
 def instruments_data(segments, segment_names, events):
     """מה נרשם במכשירים: קטלוג USGS מ-1900, וקטלוג המכון לחודשים האחרונים."""
     usgs = load_catalog("usgs")
     gsi = load_catalog("gsi")
     if not usgs:
         return None
+    names = json.loads((ROOT / "data" / "place_names_he.json").read_text(encoding="utf-8"))
+    missing = set()
     rows = []
     for q in usgs["events"]:
         t = dt.datetime.fromisoformat(q["t"].replace("Z", "+00:00"))
         seg, dist = echo.nearest_segment(q["lat"], q["lon"], segments)
         near_seg = seg is not None and dist <= echo.SEGMENT_KM
-        # שם המקום של USGS מגיע עם "?" במקום אותיות מסוימות (Mi?pé Yeri?o), ולכן בעברית: לפי המקטע הקרוב
-        where = None
-        if seg is not None:
-            name = segment_names.get(seg["id"]) or seg.get("name_he")
-            where = name if near_seg else f"כ־{round(dist)} ק״מ מקו השבר ({name})"
+        where = usgs_place_he(q.get("place"), names)
+        if where is None:
+            if q.get("place"):
+                missing.add(q["place"])
+            if seg is not None:
+                name = segment_names.get(seg["id"]) or seg.get("name_he")
+                where = name if near_seg else f"כ־{round(dist)} ק״מ מקו השבר ({name})"
         rows.append(dict(q, time=t, year=t.year, fault_km=round(dist), label=t.astimezone(TZ).strftime("%-d.%-m.%Y"),
                          seg=seg["id"] if near_seg else None, where=where))
+    for place in sorted(missing):
+        print(f"אזהרה: אין שם בעברית ל-USGS place {place!r} (data/place_names_he.json)")
     # רעידה היסטורית באתר מאותו יום (למשל 1927)
     by_date = {}
     for e in events:
@@ -267,7 +294,7 @@ def instruments_data(segments, segment_names, events):
         nineties=len(nineties), after95=len(after95),
         chart_decades=charts.bars(decades, width=420, height=170, title="מספר הרעידות בקטלוג בכל עשור"),
         chart_section=section,
-        chart_segments=charts.hbars([(s["name_he"], n) for s, n in seg_counts]),
+        chart_segments=charts.hbars(sorted(((s["name_he"], n) for s, n in seg_counts), key=lambda r: -r[1])),
         gsi_count=len(gsi_rows),
         gsi_first=dt.date.fromisoformat(gsi_rows[0]["t"][:10]).strftime("%-d.%-m.%Y") if gsi_rows else None,
         gsi_felt=sum(1 for q in gsi_rows if q.get("felt")),
