@@ -1,6 +1,8 @@
-# סבב 21: האם ד"ה קלנר-עמירן (1950–1951) וד"ה"ק עמירן (1994) הם דוד עמירן מהאוניברסיטה העברית
-amiran-wiki-he https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%93_%D7%A2%D7%9E%D7%99%D7%A8%D7%9F | קלנר;Kallner;נולד;שמו;עמירן;רעידות
-amiran-wiki-en https://en.wikipedia.org/wiki/David_Amiran | Kallner;born;Amiran;earthquake;Hans
-amiran-israelprize https://cms.education.gov.il/EducationCMS/Units/PrasIsrael/TashLamed/DavidAmiran/ | קלנר;נולד;עמירן;ברלין
-amiran-iej-1994-crossref https://api.crossref.org/works?query.bibliographic=Earthquakes+in+Israel+and+Adjacent+Areas+Macroseismic+Observations+since+100+B.C.E.&rows=3
-amiran-iej-1950-crossref https://api.crossref.org/works?query.bibliographic=Kallner-Amiran+Revised+Earthquake-Catalogue+of+Palestine&rows=3
+# סבב 22: זהות קלנר-עמירן / עמירן בקטלוגי ספריות (רשומות שם)
+amiran-openlibrary https://openlibrary.org/search/authors.json?q=Amiran
+amiran-openlibrary-k https://openlibrary.org/search/authors.json?q=Kallner
+amiran-loc https://id.loc.gov/search/?q=Amiran%2C+David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames
+amiran-wikidata https://www.wikidata.org/w/api.php?action=wbsearchentities&search=David%20Amiran&language=en&format=json
+amiran-wikidata-k https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Kallner-Amiran&language=en&format=json
+amiran-viaf https://viaf.org/viaf/search?query=local.personalNames%20all%20%22Amiran%20David%22&httpAccept=application/json
+amiran-wiki-en2 https://en.wikipedia.org/w/index.php?search=David+Amiran+Kallner+geographer&ns0=1
