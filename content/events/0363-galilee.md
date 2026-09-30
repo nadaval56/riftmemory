@@ -59,7 +59,8 @@ evidence:
   archaeology: true
   instrumental: false
 sources:
-- label: 'איגרת בסורית המיוחסת לקירילוס מירושלים על בניין המקדש, במהדורת Sebastian P. Brock, "A letter attributed to Cyril of Jerusalem on the rebuilding of the Temple", Bulletin of the School of Oriental and African Studies 40 (1977), pp. 267–286 (התרגום נקרא כפי שמצוטט אצל Levenson 2013. TODO: לבדוק במהדורה)'
+- label: 'איגרת בסורית המיוחסת לקירילוס מירושלים על בניין המקדש, במהדורת Sebastian P. Brock, "A letter attributed to Cyril of Jerusalem on the rebuilding of the Temple", Bulletin of the School of Oriental and African Studies 40 (1977), pp. 267–286 (התרגום האנגלי נקרא במהדורה, ב-JSTOR)'
+  url: https://www.jstor.org/stable/615283
 - label: 'David B. Levenson, "The Palestinian Earthquake of May 363 in Philostorgius, the Syriac Chronicon miscellaneum, and the Letter Attributed to Cyril on the Rebuilding of the Jerusalem Temple", Journal of Late Antiquity 6 (1) (2013), pp. 60–83'
   url: https://doi.org/10.1353/jla.2013.0010
 - label: 'Motti Zohar, Amos Salamon and Rehav Rubin, "Reappraised list of historical earthquakes that affected Israel and its close surroundings", Journal of Seismology 20 (2016), pp. 971–985, והנספח האלקטרוני'
@@ -105,6 +106,7 @@ review_notes:
 - 'בדיקת ציטוטים (ספטמבר 2026): לאיגרת קירילוס ולליבניוס אין טקסט ראשוני ב-data/raw/texts. שני הציטוטים נבדקו מול התרגום האנגלי כפי שהוא מובא אצל Levenson 2013 (עמ׳ 62 ו-66, בקובץ המחקר syriac-363.txt), ונשארו בדף עם הערה גלויה שהם תרגום שלנו מתרגום אנגלי ושהמהדורות עצמן (Brock 1977; Norman 1969) לא נבדקו.'
 - 'שכתוב לקריאוּת (ספטמבר 2026): פתיחה במצבות צוער (השמות לפי ויליאמס, על פי Meimaris ו-Kritikakou 2005), פרטי קטלוג הועברו להערות.'
 - 'נותרו לבדיקה: Safrai 1998 ו-Ferry et al. 2011, שהופיעו בגרסה הקודמת כמקור לשתי הרעידות. Ferry הוסר מהמקורות כי לא נבדק ואין בו צורך: שתי הרעידות מתועדות עכשיו ישירות מהאיגרת, דרך Levenson וזוהר ואחרים.'
+- 'סבב JSTOR 2 (אוקטובר 2026): Brock 1977 נקרא ב-JSTOR; הוסר ה-TODO מהתווית ומ-[^brock]. אומתו מול המהדורה: רשימת הערים והתאריך בתרגום האנגלי (עמ׳ 276), שהציטוט בדף מתורגם ממנו, ודעתו של Brock שהאיגרת חוברה בתחילת המאה החמישית בידי מי שהכיר את הארץ (עמ׳ 283).'
 - 'סבב JSTOR (אוקטובר 2026): Meyers, Strange ו-Meyers 1982 נקרא ב-JSTOR; הוסר ה-TODO. אומת (עמ׳ 36): סוף שלב b של בית הכנסת "is perhaps to be understood as a combination of factors", מרד גאלוס, קשיים כלכליים והרעידה של 363. המשפט בדף רוכך ל"הציעו, בלשון אולי", וההפניה אליהם הופרדה מההפניה לוויליאמס (מגנס). מגנס 2010 עדיין לא נקרא.'
 - 'סבב JSTOR (אוקטובר 2026): ראסל 1980 נקרא ב-JSTOR; הוסר ה-TODO. אומת: ראסל היה חבר במשלחת האמריקנית לפטרה בחמש עונות, 1973–1977 (עמ׳ 47), והאיגרת (Harvard Syriac 99) הגיעה אליו דרך ההפניה לפטרה (עמ׳ 48). נוסף משפט על הטענה המרכזית שלו: הרעידות של 362 ו-365 בקטלוג של עמירן הן רעידת 363, וההרס בפטרה, בשכם ובחשבון שיוחס ל-365 שייך לה (עמ׳ 48, 52, 55).'
 - 'סבב מקורות חלופיים 2 (ספטמבר 2026): נקראו מצבות צוער במהדורה הדיגיטלית של IIP (data/raw/texts/iip-zoor0022–0024.txt: טקסט יווני ותרגום אנגלי). אומתו: שלוש המצבות, השמות, "בזמן הרעידה", 28 בארטמיסיוס שנת 258 (לפי העורכים 18 במאי 363). נוספו מאותו מקור: הגילים (40, 15, 38), התואר ארכידיאקון, "ביום הירח" (יום שני) בשתיים מהן, השערת העורכים שסמאכון הוא אביה של אובה, וקביעתם שאלה הכתובות היחידות באזור שמתעדות את הרעידה. [^meimaris] נשאר TODO: בקבצי IIP חסרים פרטי הפרסום, ולכן אי אפשר לקבוע מהם שהם מבוססים על Meimaris ו-Kritikakou. נבדק ללא תוצאה: hadashot-25981.txt הוא דוח עונת 2020 בסוסיתא ואינו עוסק ב-363 או בבזיליקה, ולכן [^eisenberg] נשאר פתוח. לציפורי, לנבוריה ולראסל 1980 אין טקסט בקבצים הגולמיים.'
@@ -134,7 +136,7 @@ review_notes:
 
 בלוח הזה היום מתחיל בשקיעה, ולכן "הלילה של 19 באייר" מתחיל בערב 18 במאי, ומתיישב עם מצבות צוער.[^dsq]
 
-**האם אפשר לסמוך על האיגרת?** קרוב לוודאי שקירילוס לא כתב אותה. Sebastian Brock, שפרסם אותה, חשב שהיא מתחילת המאה החמישית.[^levenson65] David Levenson (2013) מונה שבעה נימוקים נגד הייחוס לקירילוס. למשל, האיגרת מתיימרת להיכתב בזמן שהאדמה רועדת, אבל מדווחת על מות יוליאנוס, שקרה חודש אחר כך.[^levenson76] לדעתו האיגרת כנראה מזויפת.[^levenson77] גם מי שהגן על אמינות גוף האיגרת הוציא ממנה דווקא את רשימת הערים ואת התאריך, וראה בהם תוספת מכרוניקה.[^levenson73]
+**האם אפשר לסמוך על האיגרת?** קרוב לוודאי שקירילוס לא כתב אותה. Sebastian Brock, שפרסם אותה, חשב שהיא מתחילת המאה החמישית, ושמי שכתב אותה הכיר היטב את הארץ.[^brock][^levenson65] David Levenson (2013) מונה שבעה נימוקים נגד הייחוס לקירילוס. למשל, האיגרת מתיימרת להיכתב בזמן שהאדמה רועדת, אבל מדווחת על מות יוליאנוס, שקרה חודש אחר כך.[^levenson76] לדעתו האיגרת כנראה מזויפת.[^levenson77] גם מי שהגן על אמינות גוף האיגרת הוציא ממנה דווקא את רשימת הערים ואת התאריך, וראה בהם תוספת מכרוניקה.[^levenson73]
 
 ובכל זאת, הרשימה עצמה שווה הרבה. Levenson מראה שהיא קרובה מאוד לשני מקורות אחרים: כרוניקה סורית מהמאה השביעית, שמונה 21 ערים שנפגעו, וקטע מההיסטוריה הכנסייתית של פילוסטורגיוס, שמזכיר ערים סביב ניקופוליס, שכם, בית גוברין ועזה.[^levenson64][^levenson72] לדעתו, לשלושתם יש מקור משותף: כרוניקה שנכתבה באנטיוכיה בשנות ה-370, כעשור אחרי האירוע. כך איגרת בדויה יכלה לשמר נתונים שמתאימים כל כך לממצא בשטח.[^levenson60][^levenson78] זוהר וחבריו, מצידם, רואים באיגרת עדות בת-זמנה ואמינה.[^zoharA][^zohar2017]
 
@@ -181,12 +183,12 @@ Levenson גם פותר סתירה ותיקה. במהדורה המקובלת של
 
 [^cyril]: האיגרת המיוחסת לקירילוס, סעיף 12, בתרגום Brock 1977, עמ׳ 276, כפי שמצוטט אצל Levenson 2013, עמ׳ 66.
 [^libanius]: ליבניוס, נאום 18.292. תרגום שלנו מהתרגום האנגלי של A. F. Norman (*Libanius: Selected Works*, vol. 1, Cambridge, MA, 1969, p. 477), כפי שהוא מובא אצל Levenson 2013, עמ׳ 62. התרגום האנגלי עצמו לא נבדק במהדורה.
-[^brock]: Sebastian P. Brock, "A letter attributed to Cyril of Jerusalem on the rebuilding of the Temple", *Bulletin of the School of Oriental and African Studies* 40 (1977), pp. 267–286, כפי שמתואר אצל Levenson 2013, עמ׳ 65. TODO: לבדוק במהדורה עצמה.
+[^brock]: Sebastian P. Brock, ["A letter attributed to Cyril of Jerusalem on the rebuilding of the Temple"](https://www.jstor.org/stable/615283), *Bulletin of the School of Oriental and African Studies* 40 (1977), pp. 267–286 (נקרא ב-JSTOR). עמ׳ 267: כתב היד הוא Harvard Syriac 99, "a modern Syriac manuscript". עמ׳ 276: סעיפים 11–12 בתרגום האנגלי, רשימת הערים והתאריך. עמ׳ 283: לדעת Brock, מישהו "who had a fair amount of local knowledge" חיבר את האיגרת בשם קירילוס "in the early years of the fifth century".
 [^levenson60]: David B. Levenson, "The Palestinian Earthquake of May 363 in Philostorgius, the Syriac Chronicon miscellaneum, and the Letter Attributed to Cyril on the Rebuilding of the Jerusalem Temple", *Journal of Late Antiquity* 6 (2013), pp. 60–83, עמ׳ 60–61.
 [^levenson62]: Levenson 2013, עמ׳ 61–63 (ליבניוס, נאום 18.292 ונאום 1.134; אפרים הסורי, מזמורים נגד יוליאנוס 4.18; גרגוריוס מנזיאנזוס, נאום 5).
 [^levenson64]: Levenson 2013, עמ׳ 64 (Artemii passio 68, על פי פילוסטורגיוס).
 [^levenson65]: Levenson 2013, עמ׳ 65.
-[^levenson66]: Levenson 2013, עמ׳ 66, ציטוט של האיגרת, סעיפים 11–12, בתרגום Brock. תרגום שלנו לעברית מהתרגום האנגלי של Brock כפי שהוא מובא שם; המהדורה הסורית ותרגומו של Brock במקור לא נבדקו. הקטעים המושמטים (...) כוללים שמות משובשים ולא מזוהים, ומשפט על אש ש"אכלה את מורי היהודים".
+[^levenson66]: Levenson 2013, עמ׳ 66, ציטוט של האיגרת, סעיפים 11–12, בתרגום Brock. תרגום שלנו לעברית מהתרגום האנגלי של Brock, שנבדק גם במהדורה עצמה (Brock 1977, עמ׳ 276, ב-JSTOR): "Beit Gubrin—more than half of it; part of Baishan" וכו׳, ו-"This event took place on Monday at the third hour, and partly at the ninth hour of the night. There was great loss of life here. (It was) on 19 Iyyar of the year 674 of the kingdom of Alexander the Greek". הטקסט הסורי עצמו לא נבדק. הקטעים המושמטים (...) כוללים שמות משובשים ולא מזוהים, ומשפט על אש ש"אכלה את מורי היהודים".
 [^levenson67]: Levenson 2013, עמ׳ 67.
 [^levenson70]: Levenson 2013, עמ׳ 68–71. הכרוניקה הסורית היא ה-Chronicon miscellaneum.
 [^levenson72]: Levenson 2013, עמ׳ 72.
