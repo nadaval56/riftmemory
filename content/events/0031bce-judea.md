@@ -60,7 +60,7 @@ sources:
   url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2010JB007452
 - label: 'Jefferson B. Williams, Markus J. Schwab and Achim Brauer, "An early first-century earthquake in the Dead Sea", International Geology Review 54 (10) (2012), pp. 1219–1228 (TODO: לבדוק במקור)'
   url: https://doi.org/10.1080/00206814.2011.639996
-- label: 'Jefferson B. Williams, "31 BCE Josephus Quake", deadseaquake.info (TODO: לבדוק במקור)'
+- label: 'Jefferson B. Williams, "31 BCE Josephus Quake", deadseaquake.info (נקרא באוקטובר 2026)'
   url: https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/JosephusQuake.html
 - label: 'לקריאה נוספת: ויקיפדיה העברית, רעידת האדמה ביהודה (31 לפנה"ס)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_ביהודה_(31_לפנה"ס)
@@ -87,6 +87,7 @@ review_notes:
 - 'אימות מקורות, סבב שני (ספטמבר 2026): Karcz 2004 נקרא במלואו (פרק 6, עמ׳ 774–778); הוסר ה-TODO מהתווית ומההערה [^karcz], ונוספו עמודים. אומתו: 6 עד 6.5 (עמ׳ 778); ארבעת הנימוקים לחשד בהיקף הנזק (עמ׳ 774–775); הספרות החיצונית, התלמוד והמגילות (עמ׳ 776–777); מלאלאס (עמ׳ 775–776); קומראן (עמ׳ 777–778). תוקן: לפני, "מקורות יהודיים קדומים הגדילו את עוצמתן של רעידות". אחרי: לפי קרץ, חוקרים השתמשו במקורות יהודיים כדי לייחס לרעידות עוצמה גבוהה (התקציר: "use and misuse of local Judaic sources"). תוקן: לפני, "רוב החיפוש לא העלה ממצאים". אחרי: "קלושה במקרה הטוב", עם הפרטים (מצדה, עינות צוקים, עין בוקק). תוקן: לפני, טבריה נוסדה "בשנות העשרים של המאה הראשונה". אחרי: ב-18 לספירה, כלשון קרץ. נוספו: עמדת קרץ נגד הזיהוי של סלמיס עם קפריסין, סקר המכ"ם בקומראן, וקריאתו את "יהודה" כממלכת יהודה המצומצמת, מול ההצעה של זוהר ועמיתיו למוקד צפוני יותר.'
 - 'סבב מקורות חלופיים 2 (ספטמבר 2026): הוסר ה-TODO מ-Karcz and Kafri 1978. Karcz 2004, עמ׳ 778 (data/raw/texts/karcz2004.txt) מונה את המאמר בין אלה שייחסו את הנזק בקומראן ל-"static geotechnical instability effects", כמו שמסכמים זוהר ואחרים 2016. המאמר עצמו לא נקרא, וזה מצוין בהערה. Williams ועמיתיו 2012 (שכבת 31 לפנה״ס כנקודת ייחוס) נשאר TODO: אין בקבצים הגולמיים מקור שאומר זאת.'
 - 'סבב JSTOR 2 (אוקטובר 2026): עמירן, אריה וטורקוטה 1994 נקרא ב-JSTOR. הרשומה על 31 לפנה״ס (עמ׳ 265) נוספה לפסקה על ירושלים והגליל. נפתר ה-TODO הנסתר על קבר יאסון: הוא מופיע שם. התאריך 2 בספטמבר אומת אצלם ישירות.'
+- 'סבב JSTOR 2 (אוקטובר 2026), deadseaquake.info: הדף "31 BCE Josephus Quake" נקרא. נפתר ה-TODO על העונה: ב"קדמוניות" (בתרגום Whiston) אין עונה, רק "At this time" של קרב אקטיום. ויליאמס מסיק מכך ספטמבר (בסביבות 2 בספטמבר 31), כמו עמירן, אריה וטורקוטה. נוסף משפט אחד בפרק המקורות.'
 ---
 
 ## הסיפור
@@ -107,7 +108,7 @@ review_notes:
 
 > "ואז גם היה רעש אדמה ביהודה, כזה שלא אירע בשום זמן אחר, ורעש זה הביא הרס גדול על הבקר בארץ ההיא. גם כעשרת אלפים איש נספו במפולת בתים; אבל הצבא, שחנה בשדה, לא ניזוק מן המקרה העצוב הזה."[^ant]
 
-בספר אחד שלושים אלף הרוגים, ובשני כעשרת אלפים. "מלחמות היהודים" מציין את תחילת האביב, וב"קדמוניות" יש רק "בזמן הזה" של קרב אקטיום.[^war][^ant] החוקרים קוראים את המספרים בזהירות. זוהר וחבריו מביאים את המספר 30,000 ומציינים שאמברייזיס (2009) הטיל בו ספק חמור. הם מזכירים גם את מגן ברושי (1982), שקבע שהאירועים שיוסף בן מתתיהו מתאר כנראה קרו, אבל המספרים שלו מוגזמים לעיתים קרובות.[^zohar974]
+בספר אחד שלושים אלף הרוגים, ובשני כעשרת אלפים. "מלחמות היהודים" מציין את תחילת האביב, וב"קדמוניות" יש רק "בזמן הזה" של קרב אקטיום.[^war][^ant] מכאן מסיקים ג'פרסון ויליאמס, וכבר עמירן, אריה וטורקוטה, תאריך בסביבות 2 בספטמבר 31 לפנה"ס, יום הקרב. ויליאמס מעדיף את התאריך הזה, כי לדעתו ל"קדמוניות" היו מקורות טובים יותר.[^dsq][^aat] החוקרים קוראים את המספרים בזהירות. זוהר וחבריו מביאים את המספר 30,000 ומציינים שאמברייזיס (2009) הטיל בו ספק חמור. הם מזכירים גם את מגן ברושי (1982), שקבע שהאירועים שיוסף בן מתתיהו מתאר כנראה קרו, אבל המספרים שלו מוגזמים לעיתים קרובות.[^zohar974]
 
 יעקב קרץ (2004) הלך רחוק יותר. הוא הביא את הרעידה כאחד מארבעה מקרים שבהם, לדבריו, מקורות יהודיים קדומים שימשו, לא פעם שלא בצדק, כדי לייחס לרעידות עוצמה הרסנית בארץ. לדעתו, הטקסטים מתארים רעידה מתונה יחסית, בגודל 6 עד 6.5, ולא אסון גדול.[^karczabs][^karcz-778][^salamon] הוא מונה כמה סיבות לחשוד בהיקף שהמקור מתאר: יוסף בן מתתיהו אינו מזכיר אף יישוב שנהרס; הצבא בשדה לא נפגע, אולי לא משום שחנה בשטח הפתוח, שהרי גם העדרים היו בחוץ, אלא משום שהיה רחוק מהמוקד; גם הצבא הנבטי שממזרח לא הושפע; ובשנה שאחרי הרעידה עבר אוקטביאנוס עם צבאו בארץ בדרכו למצרים ובחזרה, והורדוס קיבל אותו בפאר וסיפק לו אספקה, בלי שאף מקור מספר על הרס בדרך.[^karcz]
 
@@ -172,3 +173,4 @@ review_notes:
 [^kagan-11]: Kagan, Stein, Agnon and Neumann 2011, התקציר (עמ׳ 1) וסעיפים 40–41 (עמ׳ 11): "Seismites that appear in all three sites (termed here intrabasin seismites (IBS)): Mid-2nd century and 31 B.C. and 33, 419, 551, 749, 1202/1212, 1293, and 1927 A.D."; טבלה 4 שם.
 [^williams]: Jefferson B. Williams, Markus J. Schwab and Achim Brauer, "An early first-century earthquake in the Dead Sea", *International Geology Review* 54 (2012), pp. 1219–1228. TODO: לבדוק במקור. <!-- לפי התקציר -->
 [^aat]: D. H. K. Amiran, E. Arieh and T. Turcotte, ["Earthquakes in Israel and Adjacent Areas: Macroseismic Observations since 100 B.C.E."](https://www.jstor.org/stable/27926357), *Israel Exploration Journal* 44 (1994), pp. 260–305 (נקרא ב-JSTOR), עמ׳ 265, הרשומה "31 B.C.E., Sept. 2": "Intensity possibly MMS X"; "Severe in Galilee and Judaea"; לפי יוספוס נהרגו ביהודה 30,000 איש; "'Jason's Tomb' in Jerusalem was destroyed (11)"; "Jericho area (12), structural damage at Kh. Qumran, the Dead Sea (13) and Masada".
+[^dsq]: Jefferson B. Williams, "31 BCE Josephus Quake", בקטלוג [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/JosephusQuake.html) (נקרא באוקטובר 2026): "The earthquake is dated to early Spring 31 BCE in the Jewish War and to around September 31 BCE in Jewish Antiquities"; "Jewish Antiquities appears to be better sourced than the Jewish War"; בטבלת הכרונולוגיה: "~2 Sept. 31 BCE".

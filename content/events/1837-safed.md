@@ -96,7 +96,7 @@ sources:
 - label: 'יצחק ריבקינד, "הרוגי צפת ברעש תקצ"ז", ספר השנה של ארץ-ישראל ב–ג (תרפ"ד–תרפ"ה), עמ׳ 100–109 (TODO: לבדוק במקור)'
 - label: 'V. Guérin, Description géographique, historique et archéologique de la Palestine: Samarie, כרך 1, פריז 1874, עמ׳ 357 (נבדק בסריקה; בתרגום העברי, יד בן-צבי 1983, כרך ד)'
   url: https://archive.org/details/descriptionsam01gu
-- label: '"1837 CE Safed Quake", deadseaquake.info (TODO: לבדוק במקור)'
+- label: 'לקריאה נוספת: Jefferson B. Williams, "1837 CE Safed Quake", deadseaquake.info (אף טענה בדף אינה נשענת על הדף הזה)'
   url: https://www.deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1837CESafedQuake.html
 - label: 'לקריאה נוספת: ויקיפדיה, רעידת האדמה בצפת (1837)'
   url: https://he.wikipedia.org/wiki/רעידת_האדמה_בצפת_(1837)
