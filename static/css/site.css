@@ -505,3 +505,5 @@ table.data a.ext { font-size: .82em; }
 .legal .contact p { margin: .2rem 0; }
 .footer-links { font-size: .9rem; }
 :focus-visible { outline: 3px solid var(--accent-ink); outline-offset: 2px; }
+/* דף עדים וחוקרים: הפתיח הסיפורי של כל ערך (בטקסט: *...*) בלי הטיה מלאכותית, בולט מעט */
+.page-md h3 + p > em:only-child { font-style: normal; font-weight: 500; color: var(--ink); font-size: 1.05em; }
