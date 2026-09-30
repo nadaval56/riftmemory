@@ -79,6 +79,52 @@ def split_sections(body):
     return sections, notes
 
 
+# קישורים למילון המונחים: המופע הראשון של כל מונח בגוף הדף מקשר להגדרה שלו (/glossary/#...).
+# תחיליות עבריות (ו, ה, ב, ל, מ, ש, כ) מותרות לפני המונח; הסיומות מוגבלות, כדי שלא יתפסו
+# מילים אחרות ("מוקדמות", "העתקה"). לא בתוך קישורים, כותרות, הערות שוליים או קוד.
+PREFIX = r"(?<![\u0590-\u05FF\w])(?:[והבלמשכ]{0,3})"
+END = r"(?![\u0590-\u05FF\w])"
+GLOSSARY_TERMS = [
+    ("hypocenter", PREFIX + r"מוקד(?:ו|ה|ים)?" + END),
+    ("fault", PREFIX + r"העתק(?:י|ים)?" + END),
+    ("intensity", PREFIX + r"עוצמ(?:ה|ת)" + END),
+    ("aftershocks", PREFIX + r"רעיד(?:ה|ת|ות) ה?משנה" + END),
+    ("foreshocks", PREFIX + r"רעיד(?:ה|ות) ה?מקדימ(?:ה|ות)" + END),
+    ("mainshock", PREFIX + r"רעידה ראשית" + END),
+    ("tsunami", PREFIX + r"צונאמי" + END),
+    ("liquefaction", PREFIX + r"התנזלות" + END),
+    ("seismogram", PREFIX + r"סייסמוגרמ(?:ה|ות)" + END),
+    ("strike-slip", PREFIX + r"(?:תזוזה|תנועה) אופקית" + END),
+]
+SKIP_TAGS = {"a", "h1", "h2", "h3", "h4", "h5", "h6", "sup", "code", "figcaption", "blockquote"}
+
+
+def glossary_links(htmls):
+    """מקבל רשימת קטעי HTML לפי הסדר בדף ומחזיר אותם עם קישור אחד לכל מונח."""
+    done, out = set(), []
+    for html in htmls:
+        parts, depth = re.split(r"(<[^>]+>)", html), 0
+        for i, part in enumerate(parts):
+            if part.startswith("<"):
+                m = re.match(r"<(/?)(\w+)", part)
+                if m and m.group(2).lower() in SKIP_TAGS and not part.endswith("/>"):
+                    depth += -1 if m.group(1) else 1
+                continue
+            if depth or not part.strip():
+                continue
+            for key, pat in GLOSSARY_TERMS:
+                if key in done:
+                    continue
+                m = re.search(pat, part)
+                if m:
+                    done.add(key)
+                    part = (part[:m.start()] + f'<a class="gl-term" href="{BASE_PATH}/glossary/#{key}">'
+                            + m.group(0) + "</a>" + part[m.end():])
+            parts[i] = part
+        out.append("".join(parts))
+    return out
+
+
 # כרטיס העובדות מציג שורה קצרה. הפירוט (מי העריך מה, ובאיזה מקור) עובר להערה ממוספרת
 # בסוף רשימת ההערות של הדף, ונפתח בחלון הצף כמו כל הערה אחרת.
 CARD_DETAILS = [
@@ -586,6 +632,8 @@ def build(drafts=False):
     by_id = {e["id"]: e for e in events}
     for e in events:
         e["sections"], e["footnotes"] = split_sections(e["body"])
+        for sec, html in zip(e["sections"], glossary_links([x["html"] for x in e["sections"]])):
+            sec["html"] = html
         e["card_notes"] = card_notes(e)
         e["kind"] = evidence_kind(e)
         e["has_wikipedia"] = any("wikipedia.org" in (s.get("url") or "") for s in e.get("sources") or [])

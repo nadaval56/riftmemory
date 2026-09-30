@@ -611,6 +611,16 @@ html.a11y-still .lt-viewport { overflow-x: auto; mask-image: none; }
 }
 .page-md h3 + p > em:only-child { font-style: normal; font-weight: 500; color: var(--ink); font-size: 1.14em; line-height: 1.6; }
 .page-md h3 { margin-top: 2.2rem; }
+.gl-fig { margin: 1rem 0; }
+/* מונח שמקשר למילון: קו תחתון מנוקד ועדין, בצבע הטקסט, כדי לא להתחרות בקישורים הרגילים */
+a.gl-term { color: inherit; text-decoration: underline dotted; text-decoration-color: var(--accent); text-underline-offset: .2em; }
+a.gl-term:hover { color: var(--accent-ink); }
+.gl-fig svg { width: 100%; max-width: 460px; height: auto; display: block; margin-inline: auto; }
+.gl-panel rect { fill: var(--surface); stroke: var(--line); }
+.gl-panel text { fill: var(--ink-2); font-size: 13px; font-family: var(--font); }
+.gl-fault { stroke: var(--quake); stroke-width: 2.5; stroke-dasharray: 6 4; }
+.gl-fence { stroke: var(--accent); stroke-width: 5; stroke-linecap: round; }
+.gl-arrow { fill: none; stroke: var(--ink); stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 
 /* תוויות השכבות מתחת למפה בצבע השכבה */
 .tg-dmg strong { color: color-mix(in srgb, var(--map-dmg) 80%, var(--ink)); }
