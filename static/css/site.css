@@ -181,7 +181,10 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
 }
 .site-nav a:hover { background: var(--surface-2); color: var(--ink); }
 .site-nav a[aria-current="page"] { background: var(--accent-soft); color: var(--accent-ink); font-weight: 600; }
+/* ירידת שורה בלשונית הארוכה: רק בנייד */
+.m-br { display: none; }
 @media (max-width: 640px) {
+  .m-br { display: inline; }
   .site-nav { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; padding: 0; overflow: hidden; background: var(--line); }
   .site-nav a {
     display: flex; align-items: center; justify-content: center; text-align: center; white-space: normal;
