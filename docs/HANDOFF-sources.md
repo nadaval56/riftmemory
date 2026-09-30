@@ -8,9 +8,20 @@
 - כל 13 הרעידות מפורסמות. מקור שלא נבדק מול הטקסט עצמו מסומן בקוד
   `TODO: לבדוק במקור`, ובאתר הקורא רואה את התווית "טרם נבדק במקור".
 - טענה בלי מקור בכלל מוסתרת כהערת HTML: `<!-- TODO: מקור ... -->`.
-- אחרי סבב JSTOR (ראו למטה) נשארו 71 תוויות "לבדוק במקור" (הרשימה המלאה בסוף המסמך).
+- אחרי שני סבבי אימות (ראו למטה) נשארו 63 תוויות "לבדוק במקור" (הרשימה המלאה בסוף המסמך).
   רובן נשענות על מקור משני שכבר נקרא, ורק המקור הראשוני לא נבדק.
 - לנדב יש חשבון JSTOR חינמי ("Read online", מכסה חודשית של מאמרים).
+
+## סבב 2 (30 בספטמבר 2026): מה נעשה
+- JSTOR (שני המאמרים האחרונים של החודש; המכסה נגמרה): **Amiran, Arieh & Turcotte 1994** → `0031bce` (קבר יאסון), `0130` (לוד), `1033` (רעידת 4 בינואר 1034 ממוקמת אצלם בים מול עכו, לא בבקעה), `1068` ("a day's walk", נספח 5), `1834`, `1837` (ה-4,083 מופיע אצלם "according to an official report"), `1927`. **Brock 1977** → `0363` (מהדורת איגרת קירילוס).
+- קלנר-עמירן 1950–1951, הערך על 1759 (עמ׳ 230) → `1759`.
+- deadseaquake.info, נקראו הדפים עצמם → `0031bce`, `0130` (אין שם "שנה 13–14 לאדריאנוס"), `0363`, `0760bce` (חצור: בן-תור גם קיבל את פרשנות ידין), `1834`.
+- ISC-GEM דרך USGS ועלון ISC → `1927` (שלושה מוקדים מכשיריים שונים; lat/lon לא שונו).
+
+נשאר פתוח מהסבב הזה:
+- Grigoratos et al. 2020: המאמר ב-Springer בתשלום, אבל ב-ETH Research Collection יש PDF פתוח (9.49MB, doi:10.3929/ethz-b-000534303), כנראה עבודת הדוקטור עם הקטלוג. לא הורד, כי הורדת קובץ דורשת אישור של נדב.
+- Ben-Menahem 1991 (Wiley) בתשלום. Ferry 2007 (ScienceDirect) חסום ב-CAPTCHA.
+- המכסה החינמית ב-JSTOR מתחדשת בחודש הבא: Lewis 1999 לא שם; מועמדים: מרגליות 1960 (תרביץ כט), מגנס 2010.
 
 ## סבב JSTOR (30 בספטמבר 2026, סשן מקומי עם Chrome): מה נעשה
 נקראו ב-JSTOR (8 מתוך 10 המאמרים החינמיים של החודש):
@@ -68,16 +79,13 @@
 
 ## הרשימה המלאה של "TODO: לבדוק במקור" (נוצרה אוטומטית מתוך content/events)
 - `0031bce-judea.md` · ביבליוגרפיה: Jefferson B. Williams, Markus J. Schwab and Achim Brauer, "An early first-century earthquake in the Dead Sea", International Geology Review 54 (10) (2012), pp. 1219–1228 (TODO: לבדוק במקור)
-- `0031bce-judea.md` · ביבליוגרפיה: Jefferson B. Williams, "31 BCE Josephus Quake", deadseaquake.info (TODO: לבדוק במקור)
 - `0031bce-judea.md` · הערה [^williams]: Jefferson B. Williams, Markus J. Schwab and Achim Brauer, "An early first-century earthquake in the Dead Sea", *International Geology Review* 54 (2012), pp. 1219–1228. TODO: לבדוק במקור.
 - `0130-judea.md` · ביבליוגרפיה: Caesarea Maritima: A Retrospective after Two Millennia, p. 23 (TODO: לבדוק במקור)
-- `0130-judea.md` · ביבליוגרפיה: Jefferson B. Williams, "Eusebius Mystery Quake", deadseaquake.info (TODO: לבדוק במקור)
-- `0130-judea.md` · הערה [^dsq]: Jefferson B. Williams, "Eusebius Mystery Quake", בקטלוג [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/EusebiusMysteryQuake.html). TODO: לבדוק במקור.
 - `0130-judea.md` · הערה [^caesarea]: *Caesarea Maritima: A Retrospective after Two Millennia*, עמ׳ 23 (שם מוזכרת לוד). TODO: לבדוק במקור.
 - `0363-galilee.md` · ביבליוגרפיה: E. Y. Meimaris and K. I. Kritikakou, Inscriptions from Palaestina Tertia, vol. Ia: The Greek Inscriptions from Ghor es-Safi (Byzantine Zoora), Athens, 2005 (TODO: לבדוק במקור)
 - `0363-galilee.md` · ביבליוגרפיה: Michael Eisenberg, דוח על הבזיליקה בסוסיתא (2021), עמ׳ 171–173, כפי שמובא אצל Williams, deadseaquake.info (TODO: לבדוק במקור ולהשלים פרטים ביבליוגרפיים)
 - `0363-galilee.md` · הערה [^meimaris]: E. Y. Meimaris and K. I. Kritikakou, *Inscriptions from Palaestina Tertia*, vol. Ia, Athens, 2005, כפי שמובא אצל Zohar, Salamon and Rubin 2016 ואצל Williams, deadseaquake.info. TODO: לבדוק במקור.
-- `0363-galilee.md` · הערה [^eisenberg]: Michael Eisenberg (2021), עמ׳ 171–173, מצוטט אצל Williams, "363 CE Cyril Quakes", deadseaquake.info, בפרק "Hippos Sussita". TODO: לבדוק במקור ולהשלים את הפרטים הביבליוגרפיים.
+- `0363-galilee.md` · הערה [^eisenberg]: Michael Eisenberg (2021), עמ׳ 171–173, מצוטט אצל Williams, "363 CE Cyril Quakes", deadseaquake.info, בפרק "Hippos Sussita" (הדף נקרא באוקטובר 2026). בציטוט שם: "The latest of the trapped coins date to 361/2 CE"; "it seems that the basilica 
 - `0363-galilee.md` · הערה [^dsqsepphoris]: Williams, "363 CE Cyril Quakes", deadseaquake.info, בפרק "Sepphoris": E. M. Meyers et al. 1992 מייחסים לרעידה חלק מההרס; J. F. Strange et al. 2006 מייחסים חלק גדול ממנו למרד גאלוס. TODO: לבדוק במקור.
 - `0363-galilee.md` · הערה [^dsqnab]: Williams, "363 CE Cyril Quakes", deadseaquake.info, בפרק "en-Nabratein", על פי Meyers et al. 1982, Magness 2010 ו-Meyers and Meyers 2010. TODO: לבדוק במקור.
 - `0749-shviit.md` · ביבליוגרפיה: S. Marco, M. Hartal, N. Hazan, L. Lev, M. Stein, "Archaeology, history, and geology of the A.D. 749 earthquake, Dead Sea transform", Geology 31 (2003), עמ׳ 665–668 (הפרטים הביבליוגרפיים אומתו ברשימת הפרסומים של מרקו באתר אוניברסיטת תל אביב,
@@ -89,12 +97,10 @@
 - `0760bce-uzziah.md` · ביבליוגרפיה: N. N. Ambraseys, "Historical earthquakes in Jerusalem: a methodological discussion", Journal of Seismology 9 (2005), pp. 329–340 (TODO: לבדוק במקור)
 - `0760bce-uzziah.md` · ביבליוגרפיה: Steven A. Austin, Gordon W. Franz and Eric G. Frost, "Amos's Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C.", International Geology Review 42 (2000), pp. 657–671 (TODO: לבדוק במקור)
 - `0760bce-uzziah.md` · ביבליוגרפיה: A. Ben-Menahem, "Four thousand years of seismicity along the Dead Sea Rift", Journal of Geophysical Research 96 (B12) (1991), pp. 20195–20216 (TODO: לבדוק במקור)
-- `0760bce-uzziah.md` · ביבליוגרפיה: Jefferson B. Williams, "Amos Quake(s)", deadseaquake.info (TODO: לבדוק במקור)
 - `0760bce-uzziah.md` · הערה [^ambraseys2005]: N. N. Ambraseys, "Historical earthquakes in Jerusalem: a methodological discussion", *Journal of Seismology* 9 (2005), pp. 329–340, כפי שמצוטט אצל Salamon et al. 2007. TODO: לבדוק במקור, כולל העמוד.
 - `0760bce-uzziah.md` · הערה [^austin]: Steven A. Austin, Gordon W. Franz and Eric G. Frost, "Amos's Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C.", *International Geology Review* 42 (2000), pp. 657–671. TODO: לבדוק במקור, כולל רשימת האתרים.
 - `0760bce-uzziah.md` · הערה [^benmenahem]: A. Ben-Menahem, "Four thousand years of seismicity along the Dead Sea Rift", *Journal of Geophysical Research* 96 (B12) (1991), pp. 20195–20216. התאריך והגודל לפי Salamon et al. 2007; ההצעה על מוקד בחצור לפי Austin et al. 2000. TODO: לבדוק 
 - `0760bce-uzziah.md` · הערה [^zilberman]: E. Zilberman, R. Amit, I. Bruner and Y. Nachmias, *Neotectonic and paleoseismic study: Bet Shean Valley*, Geological Survey of Israel, Jerusalem, 2004, כפי שמובא אצל Salamon et al. 2007. TODO: לבדוק במקור.
-- `0760bce-uzziah.md` · הערה [^dsq]: Jefferson B. Williams, "Hazor", בקטלוג [deadseaquake.info](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/Sites/Archaeo/Hazor.html), על סמך דוחות החפירה של ידין ובן-תור. TODO: לבדוק במקור.
 - `0881-acre.md` · ביבליוגרפיה: A. Salamon, T. Rockwell, E. Guidoboni, A. Comastri, "A critical evaluation of tsunami records reported for the Levant coast from the second millennium BCE to the present", Israel Journal of Earth Sciences 58 (2011), עמ׳ 327–354 (TODO: לבדוק
 - `1033-jordan-valley.md` · ביבליוגרפיה: אברהם יערי, אגרות ארץ ישראל, תל אביב 1943, עמ׳ 70–73 (מכתבו של שלמה בן צמח. TODO: לבדוק במקור)
 - `1033-jordan-valley.md` · ביבליוגרפיה: I. Grigoratos, V. Poggi, L. Danciu, G. Rojo, "An updated parametric catalog of historical earthquakes around the Dead Sea Transform Fault Zone", Journal of Seismology 24 (2020), עמ׳ 803–832 (TODO: לבדוק במקור)
@@ -114,13 +120,10 @@
 - `1759-galilee-lebanon.md` · הערה [^lewis]: N. N. Lewis, *Levant* 31 (1999), עמ׳ 242. TODO: לבדוק במקור.
 - `1834-jerusalem.md` · ביבליוגרפיה: N. N. Ambraseys, Earthquakes in the Mediterranean and Middle East: A Multidisciplinary Study of Seismicity up to 1900, Cambridge University Press, 2009, עמ׳ 642–643 (TODO: לבדוק במקור)
 - `1834-jerusalem.md` · ביבליוגרפיה: C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, "Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments", Earth and Planetary Scienc
-- `1834-jerusalem.md` · ביבליוגרפיה: "1834 CE Fellahin Revolt Quake", deadseaquake.info (TODO: לבדוק במקור)
-- `1834-jerusalem.md` · הערה [^dsq]: "[1834 CE Fellahin Revolt Quake](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html)", deadseaquake.info. השעה שם: שש בבוקר. TODO: לבדוק במקור.
 - `1837-safed.md` · ביבליוגרפיה: T. Nemer and M. Meghraoui, "Evidence of coseismic ruptures along the Roum fault (Lebanon): a possible source for the AD 1837 earthquake", Journal of Structural Geology 28(8) (2006), pp. 1483–1495 (TODO: לבדוק במקור)
 - `1837-safed.md` · ביבליוגרפיה: M. Vered and H. L. Striem, "A macroseismic study and the implications of structural damage of two recent major earthquakes in the Jordan Rift", Bulletin of the Seismological Society of America 67(6) (1977), pp. 1607–1613 (TODO: לבדוק במקור)
 - `1837-safed.md` · ביבליוגרפיה: מיכאל איש-שלום, מסעי נוצרים לארץ ישראל, 1965 (TODO: לבדוק במקור)
 - `1837-safed.md` · ביבליוגרפיה: יצחק ריבקינד, "הרוגי צפת ברעש תקצ"ז", ספר השנה של ארץ-ישראל ב–ג (תרפ"ד–תרפ"ה), עמ׳ 100–109 (TODO: לבדוק במקור)
-- `1837-safed.md` · ביבליוגרפיה: "1837 CE Safed Quake", deadseaquake.info (TODO: לבדוק במקור)
 - `1837-safed.md` · הערה [^wachs]: D. Wachs and D. Levitte, "Earthquake-induced landslides in the Galilee", *Israel Journal of Earth Sciences* 30 (1981), pp. 39–43, כפי שמובא אצל Ambraseys 1997 (לעיל), עמ׳ 924 ורשימת המקורות, עמ׳ 932. אמברייזיס נשען עליו כשהוא מייחס את חורבן
 - `1837-safed.md` · הערה [^vered]: M. Vered and H. L. Striem, *BSSA* 67(6) (1977), עמ׳ 1607 ו-1612: ML 6.25 עד 6.5, לפי השוואה לנתוני הנזק ברעידת 1927, ומוקד מעט צפונית לצפת. TODO: לבדוק במקור.  המוקד אומת דרך אמברייזיס 1997, עמ׳ 923, שמסכם את המחקרים הקודמים: "Modern writer
 - `1837-safed.md` · הערה [^ishshalom2]: ויזינו, בתרגום אצל מיכאל איש-שלום, *מסעי נוצרים לארץ ישראל*, 1965, עמ׳ 477–478. פרפרזה; הנוסח המדויק לא נבדק. TODO: לבדוק במקור. אליאב 1996, עמ׳ 73, הערה 17, מונה את ויזינו (J. N. Visino, *Meine Wanderung nach Palästina*, Passau 1840, pp. 2
