@@ -1,0 +1,3 @@
+SOURCE: https://archive.org/wayback/available?url=geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html
+
+{"url": "geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html", "archived_snapshots": {"closest": {"status": "200", "available": true, "url": "http://web.archive.org/web/20250616110409/http://geophysics.geo.auth.gr/the_seisnet/WEBSITE_2005/station_index_en.html", "timestamp": "20250616110409"}}}
