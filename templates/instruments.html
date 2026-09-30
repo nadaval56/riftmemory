@@ -42,6 +42,7 @@
     <p>{{ inst.near_count }} רעידות שהמוקד שלהן עד 25 ק״מ מקו שבר, לאורך השבר מדרום לצפון. הציר האנכי הוא העומק בקילומטרים, מפני הקרקע (למעלה) ועד לעומק של 40 ק״מ. הרקע מסמן את המקטעים. לחיצה על נקודה מציגה את הרעידה.</p>
     <div class="chart-wrap">{{ inst.chart_section | safe }}</div>
     <p class="chart-note muted">מימין: דרום (מפרץ אילת). משמאל: צפון. המספרים בתחתית הם קווי רוחב. העומק הוא חישוב ולא מדידה ישירה.</p>
+    <p class="chart-note muted">{{ inst.depth10 }} מתוך {{ inst.near_count }} הרעידות בתרשים רשומות בעומק של 10 ק״מ בדיוק, ולכן הן נראות כמו קו ישר. ב־USGS, כשהנתונים לא מספיקים לחישוב עומק אמין, הרעידה נרשמת בעומק קבוע של 10 ק״מ. אז העומק האמיתי של חלק מהרעידות בקו הזה לא ידוע.<sup><a class="footnote-ref" href="#i-usgs-fixed">9</a></sup></p>
   </section>
 
   <section aria-labelledby="seg-h">
@@ -67,13 +68,13 @@
       </tbody>
     </table>
     </div>
-    <p class="chart-note muted">סוג המגניטודה (mw, mb, ml ועוד) מציין את שיטת החישוב. לכל שיטה טווח גדלים ומרחקים שבו היא מתאימה.<sup><a class="footnote-ref" href="#i-usgs-types">9</a></sup></p>
+    <p class="chart-note muted">סוג המגניטודה (mw, mb, ml ועוד) מציין את שיטת החישוב. לכל שיטה טווח גדלים ומרחקים שבו היא מתאימה.<sup><a class="footnote-ref" href="#i-usgs-types">10</a></sup></p>
   </section>
 
   {% if inst.gsi_count %}
   <section aria-labelledby="gsi-h">
     <h2 id="gsi-h">הרשת הישראלית</h2>
-    <p>המכון הגיאולוגי לישראל מפרסם קטלוג משלו. ה־API של האתר שומר כמה חודשים אחורה: מאז {{ inst.gsi_first }} נרשמו בה {{ inst.gsi_count }} רעידות מקומיות במגניטודה 2.5 ומעלה באזור{% if inst.gsi_felt %}, ו־{{ inst.gsi_felt }} מהן דווחו כמורגשות{% endif %}.<sup><a class="footnote-ref" href="#i-gsi">10</a></sup> הרעידות של החודש האחרון, עם כל הפרטים, נמצאות בדף <a href="{{ base }}/recent/">רעידות אדמה ב-30 הימים האחרונים</a>.</p>
+    <p>המכון הגיאולוגי לישראל מפרסם קטלוג משלו. ה־API של האתר שומר כמה חודשים אחורה: מאז {{ inst.gsi_first }} נרשמו בה {{ inst.gsi_count }} רעידות מקומיות במגניטודה 2.5 ומעלה באזור{% if inst.gsi_felt %}, ו־{{ inst.gsi_felt }} מהן דווחו כמורגשות{% endif %}.<sup><a class="footnote-ref" href="#i-gsi">11</a></sup> הרעידות של החודש האחרון, עם כל הפרטים, נמצאות בדף <a href="{{ base }}/recent/">רעידות אדמה ב-30 הימים האחרונים</a>.</p>
   </section>
   {% endif %}
 
@@ -88,6 +89,7 @@
       <li id="i-mtu">האוניברסיטה הטכנולוגית של מישיגן (Michigan Technological University), UPSeis, "How Can I Locate the Earthquake Epicenter?", <a href="https://www.mtu.edu/geo/community/seismology/learn/earthquake-epicenter/" rel="noopener">https://www.mtu.edu/geo/community/seismology/learn/earthquake-epicenter/</a>, סעיפים "Finding the Distance to the Epicenter" ו-"Finding the Epicenter".</li>
       <li id="i-milne-dsb">K. E. Bullen, "Milne, John", <em>Complete Dictionary of Scientific Biography</em>, דרך Encyclopedia.com, <a href="https://www.encyclopedia.com/people/science-and-technology/geology-and-oceanography-biographies/john-milne" rel="noopener">https://www.encyclopedia.com/people/science-and-technology/geology-and-oceanography-biographies/john-milne</a>, פסקאות 2–3 ו-5. שמות יואינג וגריי והשנה 1880 גם בערך של Gale באותו עמוד.</li>
       <li id="i-usgs">USGS, <a href="https://earthquake.usgs.gov/earthquakes/search/" rel="noopener">ANSS Comprehensive Earthquake Catalog (ComCat)</a>, נמשך {{ inst.usgs.fetched_at[:10] }}: מגניטודה 2.5 ומעלה, 28–34.8 צפון, 33.8–37 מזרח. נחלת הכלל.</li>
+      <li id="i-usgs-fixed">USGS, <a href="https://www.usgs.gov/faqs/why-do-so-many-earthquakes-occur-depth-10km" rel="noopener">Why do so many earthquakes occur at a depth of 10km?</a>: "Ten kilometers is a "fixed depth." Sometimes data are too poor to compute a reliable depth for an earthquake. In such cases, the depth is assigned to be 10 km."</li>
       <li id="i-usgs-types">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/magnitude-types" rel="noopener">Magnitude Types</a>.</li>
       <li id="i-gsi">המכון הגיאולוגי לישראל, <a href="https://eq.gsi.gov.il/heb/earthquake/lastEarthquakes.php" rel="noopener">רעידות אדמה</a>, ה־API של האתר, נמשך {{ inst.gsi.fetched_at[:10] if inst.gsi else "" }}.</li>
     </ol></div>

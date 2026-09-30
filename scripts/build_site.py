@@ -290,7 +290,7 @@ def instruments_data(segments, segment_names, events):
     gsi_rows = gsi["events"] if gsi else []
     return dict(
         usgs=usgs, gsi=gsi, rows=rows, strongest=strongest, seg_counts=seg_counts,
-        near_count=len(near), first_year=min(q["year"] for q in rows),
+        near_count=len(near), depth10=sum(1 for q in near if q["depth"] == 10), first_year=min(q["year"] for q in rows),
         nineties=len(nineties), after95=len(after95),
         chart_decades=charts.bars(decades, width=420, height=170, title="מספר הרעידות בקטלוג בכל עשור"),
         chart_section=section,
