@@ -58,6 +58,8 @@ sources:
 - label: 'R. Ken-Tor, A. Agnon, Y. Enzel, M. Stein, S. Marco, J. F. W. Negendank, "High-resolution geological record of historic earthquakes in the Dead Sea basin", Journal of Geophysical Research 106 (B2) (2001), pp. 2221–2234'
   url: https://doi.org/10.1029/2000JB900313
 - label: 'C. Migowski, A. Agnon, R. Bookman, J. F. W. Negendank, M. Stein, "Recurrence pattern of Holocene earthquakes along the Dead Sea transform revealed by varve-counting and radiocarbon dating of lacustrine sediments", Earth and Planetary Science Letters 222 (2004), pp. 301–314 (TODO: לבדוק במקור)'
+- label: 'D. H. Kallner-Amiran, "A Revised Earthquake-Catalogue of Palestine", Israel Exploration Journal 1 (1950–1951), עמ׳ 223–246 (הערך על 1834: עמ׳ 230)'
+  url: https://www.jstor.org/stable/27924451
 - label: '"1834 CE Fellahin Revolt Quake", deadseaquake.info (TODO: לבדוק במקור)'
   url: https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html
 - label: 'לקריאה נוספת: ויקיפדיה, רעידת אדמה, הפסקה "רעידות אדמה בולטות בארץ ישראל"'
@@ -80,6 +82,7 @@ review_notes:
 - 'הדף נכתב מחדש לקריאות: פתיחה בירושלים הנצורה ובנזיר ממר סבא. רשימות מקורות ושעות עברו להערות.'
 - 'אימות מקורות (ספטמבר 2026, קבצים מנדב): Ken-Tor ועמיתיו 2001 נקרא במלואו; הוסר ה-TODO, והושלמו המחברים, הגיליון (B2) וה-DOI. אומת שהשכבה בצאלים נקשרה ל-1834 (שכבה G, עמ׳ 2231), ונוסף שהזיהוי מותנה בפרשנות של שכבת האגם שמעליה. נוספו מהמאמר, כסיכום משני לפי עמירן ועמיתיו 1994 ובן-מנחם 1991: נזק לכנסיות, לצריחים ולחומה בירושלים ולמנזרים בבית לחם, "נהרגו רבים" בבית לחם (בניגוד ל"אין דיווח על נפגעים" אצל זוהר ועמיתיו; שתי העמדות מוצגות), גושי האספלט בים המלח (עכשיו עם מקור משני; מקור בן התקופה עדיין TODO), וההצעה שהמוקד היה מדרום לאגן ים המלח. Spyridon, אמברייזיס 2009, מיגובסקי ו-deadseaquake.info לא נקראו.'
 - 'סבב מקורות חלופיים (ספטמבר 2026, באישור נדב): הכרוניקה של ניאופיטוס (ספירידון 1938) נמשכה ונקראה. אומתו המשך (שלוש שניות), הנזק בכנסיית הקבר, בירושלים, בבית לחם ובמר סבא, והשעה (שש בבוקר). התאריך אצלו: יום ראשון, 13 במאי. תוקן: ניאופיטוס ישב בירושלים, לא במר סבא; הלחימה נפסקה רק לרגע. time_local נשאר null בגלל המחלוקת.'
+- 'סבב JSTOR (אוקטובר 2026): נוסף קלנר-עמירן 1950–1951 (עמ׳ 230, נקרא ב-JSTOR): "23.5. 06.00", עם הפניה לניקולייסון על 26.5, ותיקון מפורש ל-26 במאי בחלק השני (IEJ 2, 1952, עמ׳ 65). כך נמצא מקור ה-23 במאי שבהערה הנסתרת. השעה 06:00 אצלו נוספה לפסקת השעה; התיאור שלו לירושלים מפנה לאותו עמוד בניאופיטוס (45, עמ׳ 92), ולכן אינו עדות עצמאית.'
 ---
 
 ## הסיפור
@@ -104,9 +107,9 @@ review_notes:
 
 עדות עברית בת הזמן נותנת תאריך קרוב אך לא זהה. ר׳ מנחם מנדל מקמניץ, שעלה לארץ ב-1833, כתב בספרו "קורות העתים לישורון בארץ ישראל" (וילנה 1839) שבשנת תקצ"ד, "שלשים יום בעומר רעשה הארץ פעמים. פעם אחד בעת הצהרים. ופעם השני בלילה בשעה ט' והיה הולך וחזק הרעש והרעדה", ושהוא ואחרים "הוכרחנו לעזוב רכושנו בבתינו לנוס החוצה".[^kamenitz] היום השלושים לעומר הוא ט"ו באייר, שחל באותה שנה ב-24 במאי, יומיים לפני התאריך המקובל. הוא אינו כותב באיזו עיר היה באותה שעה, ואנחנו לא יודעים אם מדובר באותה רעידה.
 
-<!-- הוסרו מהטקסט הגלוי: 13 במאי (ויקיפדיה האנגלית, לפי תוצאות חיפוש) ו-23 במאי (ויקיפדיה העברית, "רעידת אדמה", בלי הפניה). ב-1834 ההפרש בין הלוחות היה 12 ימים, כך ש-26 במאי גרגוריאני הוא 14 במאי יוליאני. ייתכן ש-13 במאי קשור לתאריך היוליאני, אבל זו השערה שלא נבדקה. -->
+<!-- הוסרו מהטקסט הגלוי: 13 במאי (ויקיפדיה האנגלית, לפי תוצאות חיפוש) ו-23 במאי (ויקיפדיה העברית, "רעידת אדמה", בלי הפניה). מקור ה-23 במאי נמצא (סבב JSTOR, אוקטובר 2026): קלנר-עמירן, IEJ 1 (1950–1951), עמ' 230, "1834 23.5. 06.00", ולצדו כבר "(26.5. Nicolayson, PEFQSt, 1911, p. 85)"; בחלק השני (IEJ 2, 1952, עמ' 65) הוא מתקן במפורש ל-26 במאי לפי ניקולייסון. ב-1834 ההפרש בין הלוחות היה 12 ימים, כך ש-26 במאי גרגוריאני הוא 14 במאי יוליאני. ייתכן ש-13 במאי קשור לתאריך היוליאני, אבל זו השערה שלא נבדקה. -->
 
-השעה, לעומת זאת, לא ידועה בוודאות. הקטלוגים נותנים 13:00 או ארבע לפנות בוקר,[^zohar16][^salamon07-t3] וניאופיטוס כותב "At six o'clock on Sunday morning".[^spyridon-92] ר׳ מנחם מנדל מקמניץ מתאר שתי רעידות, אחת בצהריים ואחת בלילה.[^kamenitz] בחומר שבידינו אין הסבר לפער.
+השעה, לעומת זאת, לא ידועה בוודאות. הקטלוגים נותנים 13:00 או ארבע לפנות בוקר,[^zohar16][^salamon07-t3] וניאופיטוס כותב "At six o'clock on Sunday morning".[^spyridon-92] גם הקטלוג של קלנר-עמירן (1950–1951) נותן 06:00.[^kallner] ר׳ מנחם מנדל מקמניץ מתאר שתי רעידות, אחת בצהריים ואחת בלילה.[^kamenitz] בחומר שבידינו אין הסבר לפער.
 
 <!-- TODO: לבדוק באמברייזיס 2009, עמ' 642-643, מאיפה 13:00 וארבע לפנות בוקר, ובאיזה שעון. -->
 <!-- הוסר: ויקיפדיה העברית (ערך 1837, פרק "רקע", בלי מקור) מספרת על שתי רעידות בצפת ב-24 במאי 1834. ויקיפדיה האנגלית (ערך 1834 looting of Safed, דרך תוצאת חיפוש) מספרת שצפת ניזוקה קשה במאי 1834. צפת אינה מופיעה ברשימת היישובים שנפגעו אצל זוהר ועמיתיו 2016. TODO: מקור. -->
@@ -155,3 +158,4 @@ review_notes:
 [^dsq]: "[1834 CE Fellahin Revolt Quake](https://deadseaquake.info/EarthquakeCatalogOfTheDeadSea/1834CEFellahinRevoltQuake.html)", deadseaquake.info. השעה שם: שש בבוקר. TODO: לבדוק במקור. <!-- הגיע דרך תוצאות חיפוש, לא מקריאת הדף -->
 [^kamenitz]: מנחם מנדל מקמניץ, *קורות העתים לישורון בארץ ישראל*, וילנה תקצ"ט (1839), [בפרויקט בן-יהודה](https://benyehuda.org/read/2695). הציטוט מהנוסח שם. ההמרה של ט"ו באייר תקצ"ד ל-24 במאי 1834 שלנו. על עלייתו: "בעת באי לארץ הקדושה בשנת תקצ"ג בחודש אלול", שם.
 [^robinson-518]: E. Robinson and E. Smith, *Biblical Researches in Palestine*, בוסטון 1841, כרך 1, עמ׳ 518 ([סריקה של פרינסטון ב-Internet Archive](https://archive.org/details/biblicalresearch01robi), OCR): "related that after the earthquake of 1834, a large quantity of asphaltum was cast upon the shore near the southwest part of the sea"; "My companion also remembered, that in that year a large amount had been purchased by the Frank merchants at Beirut"; "Except in those two years, the Sheikh of the Jehalin, a man fifty years old, had never known of bitumen appearing in the sea".
+[^kallner]: D. H. Kallner-Amiran, ["A Revised Earthquake-Catalogue of Palestine"](https://www.jstor.org/stable/27924451), *Israel Exploration Journal* 1 (1950–1951), עמ׳ 223–246, בעמ׳ 230 (נקרא ב-JSTOR): "1834 23.5. 06.00", עם ההערה "(26.5. Nicolayson, *PEFQSt*, 1911, p. 85)". התיאור של ירושלים שם מפנה לניאופיטוס (הפניה 45, S. N. Spyridon, "Annals of Palestine, 1821–1841", 1938, עמ׳ 92), וה-"many people were killed" בבית לחם ל-Macalister 1918 (הפניה 44). בחלק השני, *IEJ* 2 (1952), עמ׳ 65, הוא מתקן במפורש ל-26 במאי.
