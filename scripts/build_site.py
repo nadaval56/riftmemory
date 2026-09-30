@@ -391,12 +391,52 @@ def make_env():
     )
     env.globals.update(
         asset=asset_url,
+        og_image=og_image,
+        jsonld=jsonld,
         base=BASE_PATH,
         site_url=SITE_URL,
         site_name=SITE_NAME,
         site_tagline=SITE_TAGLINE,
     )
     return env
+
+
+def og_image(page_path):
+    """תמונת השיתוף של הדף (scripts/make_og.py), או התמונה הכללית אם אין לו משלו."""
+    parts = [p for p in page_path.strip("/").split("/") if p]
+    key = "home" if not parts else f"event-{parts[1]}" if parts[0] == "events" and len(parts) > 1 else parts[0]
+    rel = f"img/og/{key}.png"
+    return rel if (ROOT / "static" / rel).exists() else "img/og.png"
+
+
+def jsonld(page_path, title, description, e=None):
+    """נתונים מובנים (schema.org) לגוגל: WebSite בדף הבית, Article לכל דף אחר.
+    בדף רעידה גם about (האירוע, עם תאריך רק כשהוא ידוע לספירה) ו-citation (מקורות עם קישור)."""
+    url = f"{SITE_URL}{page_path}"
+    publisher = {"@type": "Organization", "name": SITE_NAME, "url": f"{SITE_URL}/"}
+    if page_path == "/":
+        data = {"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME, "alternateName": SITE_TAGLINE,
+                "url": url, "inLanguage": "he", "description": description or SITE_TAGLINE, "publisher": publisher}
+    else:
+        data = {"@context": "https://schema.org", "@type": "Article", "headline": title or SITE_NAME,
+                "description": description or SITE_TAGLINE, "url": url, "mainEntityOfPage": url, "inLanguage": "he",
+                "image": f"{SITE_URL}/static/{og_image(page_path)}", "publisher": publisher,
+                "isPartOf": {"@type": "WebSite", "name": SITE_NAME, "url": f"{SITE_URL}/"}}
+        if e:
+            about = {"@type": "Event", "name": e["title"]}
+            d = e.get("date") or {}
+            if d.get("certainty") in ("exact", "approximate") and (d.get("year") or 0) > 0:
+                about["startDate"] = "-".join(f"{v:02d}" if i else f"{v:04d}"
+                                              for i, v in enumerate(x for x in (d["year"], d.get("month"), d.get("day")) if x))
+            if e.get("segment_name"):
+                about["location"] = {"@type": "Place", "name": e["segment_name"]}
+            data["about"] = about
+            cites = [{"@type": "CreativeWork", "name": s["label"], "url": s["url"]}
+                     for s in e.get("sources") or [] if s.get("url") and "TODO" not in (s.get("label") or "")]
+            if cites:
+                data["citation"] = cites
+    # "</" בתוך סקריפט יסגור אותו מוקדם
+    return json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
 
 
 def asset_url(rel):
