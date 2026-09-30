@@ -1,8 +1,3 @@
-# סבב 22: זהות קלנר-עמירן / עמירן בקטלוגי ספריות (רשומות שם)
-amiran-openlibrary https://openlibrary.org/search/authors.json?q=Amiran
-amiran-openlibrary-k https://openlibrary.org/search/authors.json?q=Kallner
-amiran-loc https://id.loc.gov/search/?q=Amiran%2C+David&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fauthorities%2Fnames
-amiran-wikidata https://www.wikidata.org/w/api.php?action=wbsearchentities&search=David%20Amiran&language=en&format=json
-amiran-wikidata-k https://www.wikidata.org/w/api.php?action=wbsearchentities&search=Kallner-Amiran&language=en&format=json
-amiran-viaf https://viaf.org/viaf/search?query=local.personalNames%20all%20%22Amiran%20David%22&httpAccept=application/json
-amiran-wiki-en2 https://en.wikipedia.org/w/index.php?search=David+Amiran+Kallner+geographer&ns0=1
+# סבב 23: רשומת השם של דוד עמירן בספריית הקונגרס (שמות קודמים, מקורות)
+amiran-loc-record https://id.loc.gov/authorities/names/n87804841.html
+amiran-loc-marc https://id.loc.gov/authorities/names/n87804841.marcxml.xml
