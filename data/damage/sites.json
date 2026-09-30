@@ -1019,8 +1019,9 @@
      "event": "1033-jordan-valley",
      "place_he": "ירושלים",
      "status": "reported",
-     "evidence": "נמנית בין המקומות שנפגעו; לפי סיכומים משניים חומות העיר קרסו",
+     "evidence": "חומות העיר קרסו (א-סיוטי אצל מאן; סיכומים משניים)",
      "footnotes": [
+      "mann-155",
       "zohar16",
       "zohar17",
       "ngdc"
@@ -1030,9 +1031,9 @@
      "event": "1068-near-east",
      "place_he": "ירושלים",
      "status": "reported",
-     "evidence": "גג כיפת הסלע זז; הנזק קטן יחסית",
+     "evidence": "הסלע נבקע וחזר והתאחה (מכתב סוחר אצל אבן כת'יר)",
      "footnotes": [
-      "ama"
+      "ibnkathir"
      ]
     },
     {
