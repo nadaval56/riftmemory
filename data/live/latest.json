@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T20:52:37Z",
+  "fetched_at": "2026-09-30T00:32:21Z",
   "source": "gsi",
   "events": [
     {
@@ -93,8 +93,10 @@
       "felt": null,
       "segment": "arava",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
@@ -207,8 +209,10 @@
       "felt": null,
       "segment": "arava",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
@@ -302,8 +306,10 @@
       "felt": null,
       "segment": "arava",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
@@ -758,8 +764,10 @@
       "felt": null,
       "segment": "arava",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
@@ -777,8 +785,10 @@
       "felt": null,
       "segment": "arava",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
@@ -796,8 +806,10 @@
       "felt": null,
       "segment": "arava",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
@@ -834,8 +846,10 @@
       "felt": null,
       "segment": "arava",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
@@ -872,8 +886,11 @@
       "felt": null,
       "segment": "jordan-valley",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "0749-shviit",
+          "1033-jordan-valley"
+        ],
+        "text": "זה האזור שנקרע בסביבות 749 וב-1033."
       }
     },
     {
@@ -910,8 +927,10 @@
       "felt": null,
       "segment": "arava",
       "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     }
   ]
