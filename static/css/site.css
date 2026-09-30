@@ -175,6 +175,7 @@ h2 { font-size: 1.3rem; font-weight: 600; letter-spacing: -.3px; margin: 2.2em 0
   background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
 }
 .site-nav a {
+  display: flex; align-items: center; justify-content: center; text-align: center; line-height: 1.25;
   white-space: nowrap; color: var(--ink-2); text-decoration: none; font-size: .9rem; font-weight: 500;
   padding: .4rem .8rem; border-radius: 9px; position: relative;
 }
