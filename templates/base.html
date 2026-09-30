@@ -14,8 +14,12 @@
 <meta property="og:title" content="{{ title or site_name }}">
 <meta property="og:description" content="{{ description or site_tagline }}">
 <meta property="og:url" content="{{ site_url }}{{ page_path }}">
-<meta property="og:image" content="{{ site_url }}/static/img/og.png">
+<meta property="og:image" content="{{ site_url }}/static/{{ og_image(page_path) }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ title or site_name }}">
 <meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{{ jsonld(page_path, title, description, e if e is defined else none) | safe }}</script>
 <link rel="icon" href="{{ base }}/static/img/favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#f4f2ec" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1c1b19" media="(prefers-color-scheme: dark)">
