@@ -1,0 +1,57 @@
+SOURCE: https://www.earthscope.org/what-is/seismology/seismometers/
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: mass; inertia; seismogram; record; frame; ground)
+
+379 [עמ׳ PDF 1]: Home / What is geophysics? / Seismology / Seismometers
+380 [עמ׳ PDF 1]: 
+381 [עמ׳ PDF 1]: Seismometers
+382 [עמ׳ PDF 1]: 
+383 [עמ׳ PDF 1]: To capture seismic waves, scientists use instruments called seismometers, which record ground motion. If an earthquake is large enough, its seismic waves can be picked up by seismometers located thousands of kilometers away! These instruments are the foundation of modern seismology, enabling researchers to observe and model how energy travels through the Earth.
+384 [עמ׳ PDF 1]: 
+385 [עמ׳ PDF 1]: What’s inside a Seismometer?
+386 [עמ׳ PDF 1]: 
+387 [עמ׳ PDF 1]: At its core, a seismometer is a motion sensor, but a highly precise one. It detects ground movement by comparing the motion of the Earth to the relative stillness of a suspended internal mass. The basic idea hasn’t changed much in over a century, but modern instruments are far more sophisticated and sensitive.
+388 [עמ׳ PDF 1]: 
+389 [עמ׳ PDF 1]: Imagine holding a heavy pendulum in a moving car. When the car suddenly jerks forward, the pendulum seems to lag behind. This isn’t because it’s moving backward, it’s because the car (and you) are moving forward underneath it, while the pendulum resists the motion due to inertia.
+390 [עמ׳ PDF 1]: 
+391 [עמ׳ PDF 1]: A seismometer works the same way. Inside the instrument, a mass is suspended on a spring or hinge. When the ground moves, the housing of the seismometer moves with it. The suspended mass, however, tends to stay still because of inertia. Sensors measure how much the housing moves relative to the mass. This relative motion is converted into an electrical signal, which is recorded as ground motion for scientists to analyze.
+392 [עמ׳ PDF 1]: 
+393 [עמ׳ PDF 1]: Left: Simplified diagram of inside of seismometer
+394 [עמ׳ PDF 1]: Right: Inside of an actual seismometer, Credit: Scott Johnson/Earthscope
+395 [עמ׳ PDF 1]: 
+[...]
+400 [עמ׳ PDF 1]: Seismometers come in several configurations depending on their deployment environment and scientific goals. Seismometers may be placed on land, or on the bottom of the ocean.
+401 [עמ׳ PDF 1]: 
+402 [עמ׳ PDF 1]: On-Land Seismometer
+403 [עמ׳ PDF 1]: 
+404 [עמ׳ PDF 1]: Land stations are deployed in quiet, stable environments to reduce background noise. They are often installed in:
+405 [עמ׳ PDF 1]: 
+406 [עמ׳ PDF 1]: Seismic vaults, which are insulated underground enclosures.
+407 [עמ׳ PDF 1]: Boreholes, which place instruments deep underground to isolate them from surface noise like wind, weather, and human activity.
+408 [עמ׳ PDF 1]: Direct burial setups, where sensors are buried by hand just below the surface, common in temporary deployments for rapid-response monitoring.
+409 [עמ׳ PDF 1]: 
+410 [עמ׳ PDF 1]: Why do we bury seismometers?
+411 [עמ׳ PDF 1]: 
+[...]
+422 [עמ׳ PDF 1]: OBS instruments allow us to fill in seismic data gaps across the vast oceanic plates and are especially useful for subduction zone studies and marine tomography.
+423 [עמ׳ PDF 1]: 
+424 [עמ׳ PDF 1]: How Seismometers Measure Motion
+425 [עמ׳ PDF 1]: 
+426 [עמ׳ PDF 1]: Every modern seismometer records ground motion in three components, called channels, aligned with Earth’s main axes of movement:
+427 [עמ׳ PDF 1]: 
+428 [עמ׳ PDF 1]: Vertical (Z): Up-and-down shaking
+429 [עמ׳ PDF 1]: North-South (N): Horizontal motion along the north-south line
+430 [עמ׳ PDF 1]: East-West (E): Horizontal motion along the east-west line
+[...]
+432 [עמ׳ PDF 1]: Seismometers come in different frequency bands, depending on the application:
+433 [עמ׳ PDF 1]: 
+434 [עמ׳ PDF 1]: Broadband seismometers: Sensitive to a wide range of frequencies (0.008–50 Hz). Used for global monitoring.
+435 [עמ׳ PDF 1]: Short-period seismometers: Best for detecting high-frequency signals from local earthquakes.
+436 [עמ׳ PDF 1]: Strong-motion sensors (accelerometers): Designed to measure large, rapid ground movements without saturating, this is crucial for engineering and hazard assessment near epicenters.
+437 [עמ׳ PDF 1]: 
+438 [עמ׳ PDF 1]: Modern instruments often include digitizers with GPS-synchronized clocks for precise timing, telemetry systems (radio, satellite, or cellular) for data transmission, and other environmental sensors for temperature, pressure, and tilt corrections.
+439 [עמ׳ PDF 1]: 
+440 [עמ׳ PDF 1]: Seismometers are vital to earthquake monitoring, early warning, tectonic research, and exploration geophysics. Their three-axis recordings not only tell us that the Earth is moving, but how, where, and why. Whether placed right on the surface of the earth, or at the bottom of the ocean, these instruments reveal the invisible motions that shape our dynamic planet.
+441 [עמ׳ PDF 1]: 
+442 [עמ׳ PDF 1]: Explore
+443 [עמ׳ PDF 1]: 
+444 [עמ׳ PDF 1]: Seismic Tomography

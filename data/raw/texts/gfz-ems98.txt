@@ -1,0 +1,91 @@
+SOURCE: https://www.gfz.de/en/section/seismic-hazard-and-risk-dynamics/data-products-services/ems-98-european-macroseismic-scale
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: EMS-98; twelve; 12; degree; intensity; damage)
+
+1 [עמ׳ PDF 1]: SOURCE: https://www.gfz.de/en/section/seismic-hazard-and-risk-dynamics/data-products-services/ems-98-european-macroseismic-scale
+2 [עמ׳ PDF 1]: 
+3 [עמ׳ PDF 1]: 
+4 [עמ׳ PDF 1]: 
+5 [עמ׳ PDF 1]: EMS-98 (European Macroseismic Scale): GFZ
+6 [עמ׳ PDF 1]: 
+7 [עמ׳ PDF 1]:             skip to main navigation
+8 [עמ׳ PDF 1]: 
+9 [עמ׳ PDF 1]:                 skip to breadcrumbs navigation
+[...]
+159 [עמ׳ PDF 1]:                         LinkedIn
+160 [עמ׳ PDF 1]: 
+161 [עמ׳ PDF 1]: Seismic Hazard and Risk Dynamics
+162 [עמ׳ PDF 1]: Data, Products, Services
+163 [עמ׳ PDF 1]: EMS-98 (European Macroseismic Scale)
+164 [עמ׳ PDF 1]: 
+165 [עמ׳ PDF 1]: EMS-98 (European Macroseismic Scale)
+166 [עמ׳ PDF 1]: 
+167 [עמ׳ PDF 1]: The European Macroseismic Scale (EMS-98) is the basis for assigning seismic intensities in European countries. The European Macroseismic Scale has been most recently updated in 1998 and is referred to as EMS
+168 [עמ׳ PDF 1]: 
+169 [עמ׳ PDF 1]: The history of the EMS began in 1988 when the later Editor of the EMS-98 suggested to initiate a special international working group in the framework of the European Seismological Commission (ESC) to review and update the Medvedev-Sponheuer-Kárník-Scale (MSK-64), which was used in its basic form in Europe for almost a quarter of a century. The ESC accepted the proposal to establish such a WG and has decided that the WG should develop a scale up-date on behalf of the ESC. After more than five years of intensive research and development and a three-year testing period, the new scale was born. In 1996 the XXV General Assembly of the ESC in Reykjavik passed a resolution recommending the adoption of the new scale by the member countries of the European Seismological Commission..
+170 [עמ׳ PDF 1]: 
+171 [עמ׳ PDF 1]: DThe MSK-64 scale, which itself is an update is based on the experiences which were available in the early 1960s from the application of the Mercalli-Cancani-Sieberg Scale (MCS) from Sieberg (1932), the Modified Mercalli scale in its version from 1931 and 1956 (MM-31 and MM-56) and the Medvedev scale from 1953.
+172 [עמ׳ PDF 1]: 
+173 [עמ׳ PDF 1]: One of the main intentions for the creation of the new scale was not to change the internal consistency of the scale with respect to the widely used twelve degree scales. This would result in intensity evaluations which would be different from earlier applications of 12-degree scales and which would require a reclassification of all earlier intensity assessments. This should be avoided at all costs. It would result in a complete confusion in all studies on seismicity and seismic hazard which depend heavily on macroseismic data.
+174 [עמ׳ PDF 1]: 
+175 [עמ׳ PDF 1]: Other general aspects considered to be fundamental to the updating were as follows:
+176 [עמ׳ PDF 1]: the robustness of the scale, i.e. minor differences in diagnostics should not make large differences in the assessed intensity; further to this, the scale should be understood and used as a compromise solution, since no intensity scale can hope to encompass all the possible disagreements between diagnostics that may occur in practice; such disagreements may also reflect differences in cultural conditions in the regions where the scale is used;
+177 [עמ׳ PDF 1]: such disagreements may also reflect differences in cultural conditions in the regions where the scale is used;
+178 [עמ׳ PDF 1]: the simplicity of the use of the scale;
+179 [עמ׳ PDF 1]: the rejection of any intensity corrections for soil conditions or geomorphological effects, because detailed macroseismic observations should just be a tool for finding and elaborating such amplification effects;
+180 [עמ׳ PDF 1]: the understanding of intensity values as being representative for any village, small town or part of a larger town instead of being assigned to a point (for one house etc).
+181 [עמ׳ PDF 1]: The specific problems to be solved by the working group on Macroseismic Scales, on the basis of the above mentioned aspects, were:
+182 [עמ׳ PDF 1]: 
+183 [עמ׳ PDF 1]: the need to include new types of buildings, especially those including earthquake-resistant design features, which are not covered by previous versions of the scale;
+184 [עמ׳ PDF 1]: 
+185 [עמ׳ PDF 1]: the need to address a perceived problem of non-linearity in the scale arrangement at the junction of the degrees VI and VII (which, after thorough discussion for preparing the EMS-92, as well as for the EMS-98, proved to be illusory);
+186 [עמ׳ PDF 1]: the need to generally improve the clarity of the wording in the scale;
+187 [עמ׳ PDF 1]: the need to decide what allowance should be made for including high-rise buildings for intensity evaluations;
+188 [עמ׳ PDF 1]: whether guidelines for equating intensities to physical parameters of strong ground motions, including their spectral representations, should be included;
+189 [עמ׳ PDF 1]: to design a scale that not only meets the needs of seismologists alone, but which also meets the needs of civil engineers and other possible users;
+190 [עמ׳ PDF 1]: to design a scale which should be suitable also for the evaluation of historical earthquakes;
+191 [עמ׳ PDF 1]: the need for a critical revision of the usage of macroseismic effects visible in the ground (rock falls, fissures etc.) and the exposure of underground structures to shakings.
+192 [עמ׳ PDF 1]: The term “macroseismic intensity” is used with respect to the EMS-98 entirely in the meaning of a classification of the severity of ground shaking on the basis of observed effects in a limited area.
+193 [עמ׳ PDF 1]: 
+194 [עמ׳ PDF 1]: Unlike the Richter magnitude scale, which expresses the seismic energy released by an earthquake, EMS-98 intensity scale denotes how strongly an earthquake affects a specific place.
+195 [עמ׳ PDF 1]: 
+196 [עמ׳ PDF 1]: The European Macroseismic Scale is the first intensity scale designed to encourage co-operation between engineers and seismologists, rather than being for use by seismologists alone.
+197 [עמ׳ PDF 1]: 
+198 [עמ׳ PDF 1]: It comes with a detailed manual, which includes guidelines, illustrations, and application examples. More details on background information on establishing the EMS-98 can be found in the Introduction to the scale.
+199 [עמ׳ PDF 1]: 
+200 [עמ׳ PDF 1]: More details on background information on establishing the EMS-98 can be found in the Introduction to the scale.
+201 [עמ׳ PDF 1]: 
+202 [עמ׳ PDF 1]:                 The original version in English as well as it translations
+203 [עמ׳ PDF 1]: 
+204 [עמ׳ PDF 1]: EMS-98 as the original in English
+205 [עמ׳ PDF 1]: 
+206 [עמ׳ PDF 1]: short form of the EMS-98 in English (pdf)
+207 [עמ׳ PDF 1]: 
+208 [עמ׳ PDF 1]: core part of the EMS-98 in English (pdf)
+209 [עמ׳ PDF 1]: 
+210 [עמ׳ PDF 1]: EMS-98 in French
+211 [עמ׳ PDF 1]: 
+212 [עמ׳ PDF 1]: short form of the EMS-98 in French (pdf)
+213 [עמ׳ PDF 1]: 
+214 [עמ׳ PDF 1]: core part of the EMS-98 in French (pdf)
+215 [עמ׳ PDF 1]: 
+216 [עמ׳ PDF 1]:  EMS in Italian
+217 [עמ׳ PDF 1]: 
+218 [עמ׳ PDF 1]: short form of the EMS8 in Italian (pdf)
+219 [עמ׳ PDF 1]: 
+220 [עמ׳ PDF 1]: core part of the EMS-98 in Italian (pdf)
+221 [עמ׳ PDF 1]: 
+222 [עמ׳ PDF 1]: EMS-98 in Spanish
+223 [עמ׳ PDF 1]: 
+224 [עמ׳ PDF 1]: short form of the EMS-98 in Spanish (pdf)
+225 [עמ׳ PDF 1]: 
+226 [עמ׳ PDF 1]: core part of the EMS-98 in Spanish (pdf)
+227 [עמ׳ PDF 1]: 
+228 [עמ׳ PDF 1]: EMS-98 in Chinese
+229 [עמ׳ PDF 1]: 
+230 [עמ׳ PDF 1]: short form of the EMS-98 in Chinese (pdf)
+231 [עמ׳ PDF 1]: 
+232 [עמ׳ PDF 1]: core part of the EMS-98 in Chinese (pdf)
+233 [עמ׳ PDF 1]: 
+234 [עמ׳ PDF 1]: The first scale version, the EMS-92 (pdf), prepared for its broad worldwide testing, has also been edited in Russian.
+235 [עמ׳ PDF 1]: 
+236 [עמ׳ PDF 1]:  Further translations of the short form or core part are here.

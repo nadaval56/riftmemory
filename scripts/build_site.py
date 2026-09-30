@@ -517,7 +517,7 @@ def build(drafts=False):
             **common,
             page_path="/instruments/",
             inst=inst,
-            map_data=dict(map_data([], {"events": inst["map_live"]}, segments), live_legend="רעידות 2.5 ומעלה בקטלוג USGS", dot_scale=2.2),
+            map_data=dict(map_data([], {"events": inst["map_live"]}, segments), live_title="רעידות שנמדדו", live_legend="2.5 ומעלה, בקטלוג USGS", live_kind="נמדדה במכשירים · קטלוג USGS", dot_scale=2.2),
         ))
         pages.append("/instruments/")
 

@@ -1,0 +1,102 @@
+SOURCE: https://faculty.fiu.edu/~swdowins/publications/Sadeh-et-al-JGR-2012.pdf
+EXCERPTS ONLY (מקור מוגן; רק קטעים סביב: mm/yr; slip rate; left-lateral; Dead Sea; Arabia; Sinai)
+
+2 [עמ׳ PDF 1]: 
+3 [עמ׳ PDF 1]: 
+4 [עמ׳ PDF 1]: 
+5 [עמ׳ PDF 1]: 
+6 [עמ׳ PDF 1]: Crustal deformation along the Dead Sea Transform
+7 [עמ׳ PDF 1]: and the Carmel Fault inferred from 12 years
+8 [עמ׳ PDF 1]: of GPS measurements
+9 [עמ׳ PDF 1]: M. Sadeh,1,2,3 Y. Hamiel,2 A. Ziv,1,3 Y. Bock,4 P. Fang,4 and S. Wdowinski5
+10 [עמ׳ PDF 1]: Received 20 February 2012; revised 27 June 2012; accepted 30 June 2012; published 17 August 2012.
+11 [עמ׳ PDF 1]: [1] Large-scale crustal deformation in the Levant is mainly related to the DST and the CFS.
+12 [עמ׳ PDF 1]: The former is an active left lateral transform, bounding the Arabian plate and the Sinai
+13 [עמ׳ PDF 1]: sub-plate, and the latter branches out of the former and separates the Sinai sub-plate into two
+14 [עמ׳ PDF 1]: tectonic domains. In this study we obtain the velocities of 33 permanent GPS stations
+15 [עמ׳ PDF 1]: and 145 survey stations that were surveyed in three campaigns between 1996 and 2008.
+16 [עמ׳ PDF 1]: We use a simple 1-D elastic dislocation model to infer the slip rate and locking depth along
+17 [עמ׳ PDF 1]: various segments of the DST. We infer a 3.1–4.5 mm/yr slip rate and a 7.8–16.5 km locking
+18 [עמ׳ PDF 1]: depth along the DST north of the CFS, and a slip rate of 4.6–5.9 mm/yr and locking
+19 [עמ׳ PDF 1]: depth of 11.8–24 km along the Jericho Valley, south of the CFS. Further south, along the
+20 [עמ׳ PDF 1]: Arava Valley we obtain a slip rate of 4.7–5.4 mm/yr and a locking depth of 12.1–23 km. We
+21 [עמ׳ PDF 1]: identify an oblique motion along the Carmel Fault with 0.7 mm/yr left-lateral and
+22 [עמ׳ PDF 1]: 0.6 mm/yr extension rates, resulting in N-S extension across the Carmel Fault. This result,
+23 [עמ׳ PDF 1]: together with the decrease in DST slip velocity from the Jericho Valley to the segment north
+24 [עמ׳ PDF 1]: of the CFS, confirms previous suggestions, according to which part of the slip between
+25 [עמ׳ PDF 1]: Arabia and Sinai is being transferred from the DST to the CFS.
+26 [עמ׳ PDF 1]: Citation: Sadeh, M., Y. Hamiel, A. Ziv, Y. Bock, P. Fang, and S. Wdowinski (2012), Crustal deformation along the Dead Sea
+27 [עמ׳ PDF 1]: Transform and the Carmel Fault inferred from 12 years of GPS measurements, J. Geophys. Res., 117, B08410,
+28 [עמ׳ PDF 1]: doi:10.1029/2012JB009241.
+29 [עמ׳ PDF 1]: 
+30 [עמ׳ PDF 1]: 
+[...]
+32 [עמ׳ PDF 1]: 1. Introduction                                                             trending faults, extending from the central part of the Jordan
+33 [עמ׳ PDF 1]:                                                                             Valley to the Mediterranean Sea near the northwestern tip
+34 [עמ׳ PDF 1]:   [2] Tectonic deformation in the Levant is primarily related
+35 [עמ׳ PDF 1]:                                                                             of Mt. Carmel (Figure 2). Along the northern section of the
+36 [עמ׳ PDF 1]: to the Dead Sea Transform (DST), a 1000 km long conti-
+37 [עמ׳ PDF 1]:                                                                             Carmel Fault (Figure 2) left-lateral transtensional motion had
+38 [עמ׳ PDF 1]: nental transform fault forming the tectonic boundary between                been inferred, with total left-lateral and vertical displace-
+39 [עמ׳ PDF 1]: the Arabian plate and the Sinai sub-plate (Figure 1). The DST
+40 [עמ׳ PDF 1]:                                                                             ments of 3–10 km [de Sitter, 1962; Freund et al., 1970]
+41 [עמ׳ PDF 1]: dates back to the mid-Cenozoic era, 18–20 ma ago [Eyal
+42 [עמ׳ PDF 1]:                                                                             and 0.3–1.5 km [Picard and Kashai, 1958; Achmon, 1986],
+43 [עמ׳ PDF 1]: et al., 1981; Garfunkel, 1981; Joffe and Garfunkel, 1987].                  respectively. Since the total displacement is rather small, it is
+44 [עמ׳ PDF 1]: The principal movement along the DST is left-lateral, which
+45 [עמ׳ PDF 1]:                                                                             difficult to assess the long term slip rate along the Carmel
+46 [עמ׳ PDF 1]: according to several geological markers across the southern
+47 [עמ׳ PDF 1]:                                                                             Fault.
+48 [עמ׳ PDF 1]: part of the DST, resulted in a maximum total horizontal offset
+49 [עמ׳ PDF 1]:                                                                               [3] Precise GPS measurements reveal the relative inter-
+50 [עמ׳ PDF 1]: of about 105 km [Quennell, 1959; Freund et al., 1968, 1970].
+51 [עמ׳ PDF 1]:                                                                             seismic surface velocities and shed light on the present fault
+52 [עמ׳ PDF 1]: A major fault system within the Sinai sub-plate is the Carmel-
+53 [עמ׳ PDF 1]:                                                                             kinematics along the DST. Slip rates in the range of 4.3–
+54 [עמ׳ PDF 1]: Gilboa-Faria Fault System (CFS) that consists of NW-SE
+55 [עמ׳ PDF 1]:                                                                             6.0 mm/yr were obtained by computing the relative motion
+56 [עמ׳ PDF 1]:                                                                             along the Arabia-Sinai plate boundary with respect to a
+57 [עמ׳ PDF 1]:    1
+58 [עמ׳ PDF 1]:     Department of Geological and Environmental Sciences, Ben-Gurion         geodetically defined Euler pole [McClusky et al., 2003;
+59 [עמ׳ PDF 1]: University of the Negev, Beer-Sheva, Israel.                                Wdowinski et al., 2004; Reilinger et al., 2006; Vigny et al.,
+60 [עמ׳ PDF 1]:    2
+[...]
+62 [עמ׳ PDF 1]:    3
+63 [עמ׳ PDF 1]:     Department of Geophysical, Atmospheric and Planetary Sciences, Tel      manent GPS sites in Israel and Syria, Wdowinski et al. [2004]
+64 [עמ׳ PDF 1]: Aviv University, Tel-Aviv, Israel.
+65 [עמ׳ PDF 1]:    4
+66 [עמ׳ PDF 1]:     Institute of Geophysics and Planetary Physics, Scripps Institution of   inferred a slip rate of 3.7  0.4 mm/yr (employing a fixed
+67 [עמ׳ PDF 1]: Oceanography, La Jolla, California, USA.                                    locking depth of 12 km) along the central part of the DST
+68 [עמ׳ PDF 1]:    5
+69 [עמ׳ PDF 1]:     Rosenstiel School of Marine and Atmospheric Science, University of      extending from the Hula Basin to the Arava Valley (Figure 2).
+70 [עמ׳ PDF 1]: Miami, Miami, Florida, USA.                                                 Al-Tarazi et al. [2011] inferred a slip rate of 4.7  0.4 mm/yr
+71 [עמ׳ PDF 1]:     Corresponding author: M. Sadeh, Department of Geophysical,              and locking depth of 8  5 km along the Jordan Valley based
+72 [עמ׳ PDF 1]: Atmospheric and Planetary Sciences, Tel Aviv University, Tel-Aviv 69978,    on data from 18 stations in Israel and Jordan. Along the
+73 [עמ׳ PDF 1]: Israel. (maytalsadeh@tau.ac.il)                                             Arava Valley, Al-Tarazi et al. [2011] inferred a slip rate
+74 [עמ׳ PDF 1]: ©2012. American Geophysical Union. All Rights Reserved.                     of 4.9  0.4 mm/yr and a locking depth of 15  5 km using
+75 [עמ׳ PDF 1]: 0148-0227/12/2012JB009241                                                   36 stations, in agreement with the 4.9  1.4 mm/yr slip rate
+76 [עמ׳ PDF 1]: 
+77 [עמ׳ PDF 1]:                                                                      B08410                                                          1 of 14
+78 [עמ׳ PDF 2]: B08410                            SADEH ET AL.: GROUND DISPLACEMENT IN ISRAEL                                          B08410
+79 [עמ׳ PDF 2]: 
+80 [עמ׳ PDF 2]:                                                                 and 2008. This geodetic data set is the most numerous, most
+81 [עמ׳ PDF 2]:                                                                 densely spaced, spanning the longest interval and occupying
+82 [עמ׳ PDF 2]:                                                                 the largest area used so far in Israel. Using this unique data
+83 [עמ׳ PDF 2]:                                                                 set, we calculate the Euler pole and rotation rate of the Sinai
+84 [עמ׳ PDF 2]:                                                                 sub-plate with respect to the ITRF2005 reference frame,
+85 [עמ׳ PDF 2]:                                                                 obtain a map of surface velocities in Israel relative to Sinai
+86 [עמ׳ PDF 2]:                                                                 and infer the slip rates and locking depths along different
+87 [עמ׳ PDF 2]:                                                                 segments of the DST and the Carmel Fault. Finally, we
+88 [עמ׳ PDF 2]:                                                                 compare the geodetically determined locking depth and the
+89 [עמ׳ PDF 2]:                                                                 seismicity cutoff depth, and discuss the implications for
+90 [עמ׳ PDF 2]:                                                                 seismic hazard assessment based on our results and previ-
+[...]
+123 [עמ׳ PDF 2]:                                                                 The observation epochs used in the final solution are shown
+124 [עמ׳ PDF 2]:                                                                 in Figure 4. Raw observations were downloaded from Scripps
+125 [עמ׳ PDF 2]: Figure 1. Tectonic map of the eastern Mediterranean,            Orbit and Permanent Array Center (SOPAC, http://sopac.
+126 [עמ׳ PDF 2]: showing the plate boundaries and the main faults. Abbrevia-     ucsd.edu/dataArchive) and UNAVCO (http://facility.unavco.
+127 [עמ׳ PDF 2]: tions: DST, Dead Sea Transform; CFS, Carmel Fault Sys-          org/data) websites.
+128 [עמ׳ PDF 2]: tem; YF, Yammouneh Fault; GE, Gulf of Eilat; GS, Gulf           2.3. Processing Method
+129 [עמ׳ PDF 2]: of Suez. The dashed rectangle indicates the boundaries of
+130 [עמ׳ PDF 2]:                                                                   [8] GPS phase observations were analyzed using the
+131 [עמ׳ PDF 2]: the map in Figure 2.

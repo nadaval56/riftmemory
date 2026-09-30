@@ -135,7 +135,7 @@ def horizontal(events, base):
 
     xi = x(INSTRUMENTS_YEAR)
     parts.append(f'<line x1="{xi:.1f}" x2="{xi:.1f}" y1="48" y2="{H - 54}" class="instruments"/>')
-    parts.append(f'<text x="{xi + 6:.1f}" y="{H - 58}" class="instruments-label" text-anchor="end">כאן מתחילים המכשירים</text>')
+    parts.append(f'<text x="{xi + 6:.1f}" y="{H - 58}" class="instruments-label" text-anchor="end">תחילת השימוש במכשירי מדידה</text>')
 
     parts.append(f'<line x1="{left}" x2="{right}" y1="{axis_y}" y2="{axis_y}" class="axis"/>')
 
@@ -193,8 +193,8 @@ def vertical(events, base):
 
     yi = y(INSTRUMENTS_YEAR)
     parts.append(f'<line x1="{axis_x - 20}" x2="{W - 70}" y1="{yi:.1f}" y2="{yi:.1f}" class="instruments"/>')
-    parts.append(f'<text x="{W - 4}" y="{yi - 4:.1f}" class="instruments-label" text-anchor="start">כאן מתחילים</text>')
-    parts.append(f'<text x="{W - 4}" y="{yi + 10:.1f}" class="instruments-label" text-anchor="start">המכשירים</text>')
+    parts.append(f'<text x="{W - 4}" y="{yi - 4:.1f}" class="instruments-label" text-anchor="start">תחילת השימוש</text>')
+    parts.append(f'<text x="{W - 4}" y="{yi + 10:.1f}" class="instruments-label" text-anchor="start">במכשירי מדידה</text>')
 
     parts.append(f'<line x1="{axis_x}" x2="{axis_x}" y1="{top}" y2="{bottom}" class="axis"/>')
 

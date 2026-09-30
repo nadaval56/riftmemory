@@ -2,6 +2,7 @@
 id: 0760bce-uzziah
 title: הרעש בימי עוזיהו
 short_title: הרעש בימי עוזיהו
+meta_description: 'הרעש בימי עוזיהו: "שנתיים לפני הרעש" בספר עמוס, הזיכרון בספר זכריה, ומה נמצא בחצור ובאתרים אחרים.'
 wikipedia_title: הרעש בימי עוזיהו
 wikipedia_pageid: 2224011
 wikidata: null

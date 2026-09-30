@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% set description = "שבר ים המלח נקרע שוב ושוב לאורך אלפי שנים. מה קרה בכל אחת מרעידות האדמה הגדולות שתועדו בארץ ישראל, ונתונים עדכניים מרעידות אחרונות." %}
 {% from "_macros.html" import live_line, echo_line, map, event_card %}
 {% block head %}
 <link rel="stylesheet" href="{{ base }}/static/vendor/leaflet/leaflet.css">
@@ -9,7 +10,7 @@
 
 <section class="hero">
   <h1>השבר זוכר</h1>
-  <p class="lede">שבר ים המלח נקרע שוב ושוב לאורך אלפי שנים, ולפעמים באותם מקטעים. כאן אפשר לקרוא מה קרה בכל אחת מרעידות האדמה הגדולות שתועדו בארץ, ולראות איפה רועד היום.</p>
+  <p class="lede">שבר ים המלח נקרע שוב ושוב לאורך אלפי שנים, ולפעמים באותם מקטעים. כאן אפשר לקרוא מה קרה בכל אחת מרעידות האדמה הגדולות שתועדו בארץ, ולצפות בנתונים עדכניים מרעידות אחרונות שתועדו.</p>
 </section>
 
 {% if featured and featured_reason in ("gregorian", "hebrew") %}
