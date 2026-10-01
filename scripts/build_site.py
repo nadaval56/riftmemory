@@ -78,7 +78,8 @@ def image_credit(img):
     lic = escape(img["license"])
     if img["license"] in LICENSE_URLS:
         lic = f'<a href="{LICENSE_URLS[img["license"]]}" rel="license">{lic}</a>'
-    return f'{escape(img["credit"])} · {lic} · <a href="{escape(img["source"])}">ויקישיתוף</a>'
+    src = f' · <a href="{escape(img["source"])}">ויקישיתוף</a>' if img.get("source") else ""
+    return f'{escape(img["credit"])} · {lic}{src}'
 
 
 def figure_html(ids):

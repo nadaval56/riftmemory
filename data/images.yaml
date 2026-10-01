@@ -224,3 +224,23 @@ sinai-dead-sea-rift:
   license: 'נחלת הכלל'
   source: 'https://commons.wikimedia.org/wiki/File:Sinai_Peninsula_and_the_Dead_Sea_Rift_(27411443544).jpg'
   source_desc: 'Astronauts on board the Space Shuttle Columbia took this 70-mm picture featuring the Sinai Peninsula and the Dead Sea Rift. ... The Gulf of Aqaba is a finger of the Red Sea bottom center, pointing north to the Dead Sea'
+
+# --- איורים (מידג'רני, נדב; docs/illustrations.md). לא תיעוד: הכיתוב פותח ב"איור". ---
+
+ill-qumran:
+  caption: 'איור: שרידי מבנים למרגלות צוקים במדבר, בהשראת קומראן. האיור לא משחזר את האתר.'
+  alt: 'רישום בדיו וצבעי מים: קירות אבן הרוסים בגוני טרקוטה, ומאחוריהם מצוק גבוה בגוני כחול.'
+  credit: 'איור: נדב, בעזרת Midjourney'
+  license: 'CC BY 4.0'
+
+ill-chronicle:
+  caption: 'איור: ספר כרוניקה פתוח ומגילה על שולחן. הכתב באיור דמיוני, ואינו כתב יד של אוסביוס.'
+  alt: 'רישום בדיו וצבעי מים: ספר פתוח בכתב יד, מגילה מגולגלת ומנורת שמן קטנה, ומאחור עמודים.'
+  credit: 'איור: נדב, בעזרת Midjourney'
+  license: 'CC BY 4.0'
+
+ill-ramla:
+  caption: 'איור: עיר מוקפת חומה במישור החוף, בהשראת רמלה. האיור לא משחזר את העיר כפי שהייתה ב-1068.'
+  alt: 'רישום בדיו וצבעי מים: בתי אבן ושער מקומר, ולצדם עצי תמר גבוהים.'
+  credit: 'איור: נדב, בעזרת Midjourney'
+  license: 'CC BY 4.0'
