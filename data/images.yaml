@@ -1,0 +1,226 @@
+# תמונות באתר. כל תמונה: קובץ ב-static/img/photos/<id>.webp (ו-<id>-640.webp),
+# ונכנסת לדף עם [[fig:<id>]] בשורה נפרדת בגוף ה-Markdown (כמה מזהים מופרדים ברווח = קבוצה).
+# כללים (נדב, אוקטובר 2026): רק נחלת הכלל, CC0, CC BY, CC BY-SA. הכיתוב רק לפי תיאור המקור
+# (כלל 1 ו-3); מה שהמקור לא אומר לא נכנס. קרדיט ורישיון ליד כל תמונה, ורשימה מלאה בדף "אודות".
+#   caption  — הכיתוב לקורא
+#   alt      — מה רואים בתמונה (לקוראי מסך)
+#   credit   — מי צילם/צייר, ודרך מי
+#   license  — "נחלת הכלל", "CC0", "CC BY 4.0", "CC BY-SA 3.0" וכו'
+#   source   — דף הקובץ בוויקישיתוף
+#   source_desc — תיאור המקור כפי שהוא (לתיעוד; לא מוצג)
+
+1927-winter-palace:
+  caption: 'הריסות מלון "ארמון החורף" ביריחו, יולי 1927. בתיאור הצילום: "קריסה מוחלטת".'
+  alt: 'בניין בן שתי קומות שחזיתו נפלה. נשארה מסגרת של פתח גדול, ולפניה ערמות של קורות ואבנים.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:1927_Earthquake_Jericho.jpg'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. Wreckage of the Winter Palace Hotel, Jericho. A complete collapse.'
+
+1927-olivet-house:
+  caption: 'בית מגורים הרוס בהר הזיתים, יולי 1927. לפי תיאור הצילום נהרגו בו שלושה בני אדם.'
+  alt: 'בית אבן שחלקו קרס, וערמת אבנים גדולה לפניו. כמה אנשים עומדים ליד ההריסות.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:1927_Earthquake_OliveMount.jpg'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. Wrecked dwelling house on Olivet. In which three people were killed.'
+
+1927-augusta-victoria:
+  caption: 'המגדל הפגוע של אוגוסטה ויקטוריה בהר הזיתים, אחרי רעידת 1927.'
+  alt: 'מגדל אבן גבוה ומרובע עם חלונות קשתיים בראשו. בחלק העליון נראים סדקים ואבנים חסרות.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Palestine_events._The_earthquake_of_July_11,_1927._Damaged_tower_of_Augusta_Victoria_Stiftung._On_Olivet_LOC_matpc.03031.jpg'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. Damaged tower of Augusta Victoria Stiftung. On Olivet'
+
+1927-olivet-mosque:
+  caption: 'מסגד וצריח בהר הזיתים, שקרסו חלקית ברעידת 1927.'
+  alt: 'צריח עגול לצד בניין אבן, שגגו וחלק מקירותיו נפלו.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Palestine_events._The_earthquake_of_July_11,_1927._Partial_collapse_of_mosque_and_minaret_on_Olivet_LOC_matpc.03029.jpg'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. Partial collapse of mosque and minaret on Olivet'
+
+1927-nablus-view:
+  caption: 'שכם אחרי רעידת 1927: מבט כללי על העיר והנזק, לפי תיאור הצילום.'
+  alt: 'מבט על בתי העיר שכם למרגלות הר. בחזית שטח פתוח, ובין הבתים נראים מבנים הרוסים.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Palestine_events._The_earthquake_of_July_11,_1927._Nablus_in_a_ruined_state._General_view_of_the_town_showing_damage_done_LOC_matpc.03040.jpg'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. Nablus in a ruined state. General view of the town showing damage done'
+
+1927-nablus-street:
+  caption: 'רחוב בשכם חסום בהריסות בתים שנפלו ברעידת 1927. לפי תיאור הצילום, רבים מהתושבים נקברו תחתם.'
+  alt: 'סמטה צרה מלאה באבנים ובהריסות, והמון אנשים עומדים בה. מעל, קירות וקמרונות שבורים.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Palestine_events._The_earthquake_of_July_11,_1927._Blocked-up_street_in_Nablus,_choked_by_fallen_houses_which_entombed_many_inhabitants_LOC_matpc.03042.jpg'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. Blocked-up street in Nablus, choked by fallen houses which entombed many inhabitants'
+
+1927-nablus-house:
+  caption: 'בית בשכם שהרעידה השאירה ממנו רק קליפה, לפי תיאור הצילום.'
+  alt: 'שרידי בית אבן גבוה: נשארו קירות חלקיים בלי תקרות, וערמות אבנים למטה.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Palestine_events._The_earthquake_of_July_11,_1927._A_house_in_Nablus_reduced_to_a_mere_shell_by_the_earthquake_LOC_matpc.03041.jpg'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. A house in Nablus reduced to a mere shell by the earthquake'
+
+jerusalem-wall-crack:
+  caption: 'סדק בקיר בירושלים. בכותרת המקורית: "רעידת אדמה, סדק בקיר, ירושלים", בלי תאריך ובלי מקום מדויק.'
+  alt: 'קיר אבן ארוך לאורך דרך עפר. בחלקו הקרוב קשת, ולידה סדק שעובר באבנים ובקרקע.'
+  credit: 'אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Earthquake,_crack_in_wall,_Jerusalem_LOC_matpc.10445.jpg'
+  source_desc: 'Earthquake, crack in wall, Jerusalem'
+
+1927-dead-sea-fissures:
+  caption: '"סדקים עמוקים או פתחים באדמה" ליד ים המלח, שנגרמו ברעידת 1927, לפי תיאור הצילום.'
+  alt: 'אדם כורע על קרקע חשופה ליד מים ומצביע על סדקים ארוכים ורחבים באדמה.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, דרך פיקיוויקי'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_42394_Earthquake_in_Israel_1927.jpg'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. Deep fissures or land openings near the Dead Sea, caused by the earthquake.'
+
+1927-jordan-landslide:
+  caption: 'מפולת קרקע בגדת הירדן, 1927. לפי תיאור הצילום, בית קנים וסוכות נשארו עומדים על השפה.'
+  alt: 'בקתה וסוכות קנים נוטות על שפת מדרון שנגרף, בין עצים ושיחים.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Palestine_events._The_earthquake_of_July_11,_1927._Landslide_at_the_Jordan._Reed_house_%26_booths_left_standing_on_edge_LOC_matpc.03036.tif'
+  source_desc: 'Palestine events. The earthquake of July 11, 1927. Landslide at the Jordan. Reed house & booths left standing on edge'
+
+1927-st-john-convent:
+  caption: 'שרידי מנזר יוחנן המטביל ליד הירדן אחרי רעידת 1927. בתיאור הצילום: "חורבה מוחלטת".'
+  alt: 'חומת אבן נמוכה, ומאחוריה שני מגדלים עגולים שחלקם העליון נשבר.'
+  credit: 'מחלקת הצילום של המושבה האמריקנית, אוסף מטסון, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: "https://commons.wikimedia.org/wiki/File:Palestine_events._The_earthquake_of_July_11,_1927._Shattered_remains_of_St._John%27s_Convent_at_the_Jordan._A_complete_ruin_LOC_matpc.03035.tif"
+  source_desc: "Palestine events. The earthquake of July 11, 1927. Shattered remains of St. John's Convent at the Jordan. A complete ruin"
+
+bet-shean-columns:
+  caption: 'עמודים שהפילה רעידת 749 בבית שאן, לפי תיאור הצילום.'
+  alt: 'עמודי אבן שוכבים שבורים לאורך רחוב עתיק מרוצף.'
+  credit: 'Seetheholyland.net'
+  license: 'CC BY-SA 2.0'
+  source: 'https://commons.wikimedia.org/wiki/File:Beit_She%27an_(8242156963).jpg'
+  source_desc: "Columns toppled by the AD 749 earthquake at Beit She'an (Kasper Nowak)"
+
+scythopolis-remains:
+  caption: 'עמודים שבורים ברחוב מרוצף בבית שאן. שם הקובץ: "שרידי הרעידה בסקיתופוליס".'
+  alt: 'רחוב עתיק מרוצף באבנים כהות, ולצדו חלקי עמודים שבורים מוטלים על הארץ. מאחור עמוד אחד עומד.'
+  credit: 'Hanay'
+  license: 'CC BY-SA 3.0'
+  source: 'https://commons.wikimedia.org/wiki/File:Scythopolis_earthquake_remains_(1).JPG'
+  source_desc: 'Scythopolis earthquake remains (file name)'
+
+bet-shean-standing-column:
+  caption: '"העמוד היחיד שלא נפל ברעידת האדמה ב-749 לסה"נ" (כך בשם הקובץ).'
+  alt: 'שני עמודי אבן עומדים בין חורבות, ומאחוריהם עצי תמר.'
+  credit: 'Andrew Abado'
+  license: 'CC BY-SA 3.0'
+  source: 'https://commons.wikimedia.org/wiki/File:%D7%94%D7%A2%D7%9E%D7%95%D7%93_%D7%94%D7%99%D7%97%D7%99%D7%93_%D7%A9%D7%9C%D7%90_%D7%A0%D7%A4%D7%9C_%D7%91%D7%A8%D7%A2%D7%99%D7%93%D7%AA_%D7%94%D7%90%D7%93%D7%9E%D7%94_%D7%91-749_%D7%9C%D7%A1%D7%94%22%D7%A0.JPG'
+  source_desc: 'העמוד היחיד שלא נפל ברעידת האדמה ב-749 לסה"נ (file name)'
+
+bet-shean-house:
+  caption: 'בית שאן: עמודים שוכבים, כפי שנחשפו בחפירות. לפי תיאור התמונה, הם קרסו ברעידת 749.'
+  alt: 'רחבה מרוצפת עם שרידי מבנים ועמודים שוכבים, ומאחוריה התל של בית שאן ועצי תמר.'
+  credit: 'שלמה רודד, פיקיוויקי'
+  license: 'CC BY 2.5'
+  source: 'https://commons.wikimedia.org/wiki/File:110110_byzantine_roman_house_of_shan-scythopolis_PikiWiki_Israel.jpg'
+  source_desc: 'Byzantine Roman House of Shan-Scythopolis. The horizontal columns as revealed in the excavations collapsed at the angle of the great noise fluctuations-in 749'
+
+sussita-aerial:
+  caption: 'תצלום אוויר של האתר הארכיאולוגי סוסיתא, אפריל 2017.'
+  alt: 'מבט מלמעלה על רכס צר ועליו שרידי העיר העתיקה: קירות, רחבות ודרך שחוצה את האתר.'
+  credit: 'מיכאל איזנברג'
+  license: 'CC BY-SA 4.0'
+  source: 'https://commons.wikimedia.org/wiki/File:Sussita_-_Aerial_photography_April_2017.jpg'
+  source_desc: 'תצלום אוויר של האתר הארכאולוגי סוסיתא אפריל 2017'
+
+baalbek-portal:
+  caption: 'השער הגדול של מקדש יופיטר בבעלבכ, צולם בערך ב-1870. לפי תיאור הצילום, האבן המרכזית "נעקרה ממקומה ברעידת אדמה". המקור לא אומר באיזו רעידה.'
+  alt: 'משקוף אבן ענק ומעוטר, שהאבן האמצעית שלו שקעה כלפי מטה.'
+  credit: 'פליקס בונפיס, ספריית הקונגרס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Baalbec._Great_portal_of_Temple_of_Jupiter._Central_stone_displaced_by_earthquake_-_Bonfils._LCCN93500477.jpg'
+  source_desc: 'Baalbec. Great portal of Temple of Jupiter. Central stone displaced by earthquake / Bonfils.'
+
+ateret-ne-corner:
+  caption: 'הפינה הצפון-מזרחית של מצד עתרת, ליד גשר בנות יעקב, 2009.'
+  alt: 'קיר של אבנים גדולות ומסותתות בין צמחייה. חלק מהאבנים זזו ממקומן.'
+  credit: 'Wilson44691'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:NEcornerChastellet2009.JPG'
+  source_desc: "Northeast corner of the Chastellet at the Jacob's Ford Battlefield, Israel."
+
+roberts-tiberias-safed:
+  caption: '"טבריה מן החומות, צפת במרחק", לפי ציור של דייוויד רוברטס מ-1839. בטקסט הנלווה במהדורת 1855 (בתרגום שלנו): צפת "נפגעה קשות באמצע המאה הקודמת (1759), אבל פגיעה כבדה עוד יותר באה עליה ב-1837".'
+  alt: 'ציור בגוני חום: חומות טבריה וחוף הכנרת, ובמרחק הרים. על סלע בחזית יושבות דמויות קטנות.'
+  credit: 'דייוויד רוברטס'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Tiberias_from_the_walls._Safed_in_the_distance._David_Roberts._1855.jpg'
+  source_desc: 'This Sketch, in addition to the view of the City, gives, in the distance, crowning a lofty hill, the City of Safed. The land is peculiarly liable to earthquakes ; Safed was fearfully visited in the middle of the last century (1759); but a still heavier visitation befell it in 1837.'
+
+times-1837:
+  caption: 'הידיעה על הרעידה בגליל ב"טיימס" הלונדוני, 1 במרץ 1837.'
+  alt: 'טור עיתון ישן בדפוס צפוף באנגלית.'
+  credit: 'The Times'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Galilee_Earthquake_report_in_the_Times_1_March_1837.jpg'
+  source_desc: 'Galilee Earthquake report in the Times 1 March 1837'
+
+heraklion-doorframe:
+  caption: 'משקוף השיש של בית המשפט בהרקליון, 2015. לפי תיאור הצילום, המשקוף היה במנזר סן פרנצ׳סקו, ואחרי רעידת 1856 הפך לחלק מהקסרקטין הטורקי.'
+  alt: 'חזית בניין עם פתח כניסה במסגרת שיש מעוטרת. על הקירות כתובות גרפיטי.'
+  credit: 'C messier'
+  license: 'CC BY-SA 4.0'
+  source: 'https://commons.wikimedia.org/wiki/File:%CE%9C%CE%B1%CF%81%CE%BC%CE%AC%CF%81%CE%B9%CE%BD%CE%BF_%CE%B8%CF%8D%CF%81%CF%89%CE%BC%CE%B1_%CE%94%CE%B9%CE%BA%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CE%BF%CF%8D_%CE%9C%CE%B5%CE%B3%CE%AC%CF%81%CE%BF%CF%85_%CE%97%CF%81%CE%B1%CE%BA%CE%BB%CE%B5%CE%AF%CE%BF%CF%85_3397.jpg'
+  source_desc: 'The marble doorframe of Courthouse of Heraklion. The doorframe dates from the 15th century and was a gift of the Cretan Pope Alexandre V. It was initially part of the monastery of Saint Francis, but after the earthquake of 1856 it became part of the Turkish Barracks, that today house the prefecture'
+
+tel-hazor:
+  caption: 'תל חצור, 2022.'
+  alt: 'שטח חפירה ארכיאולוגית עם קירות אבן נמוכים, וחלקים מכוסים ביריעות שחורות.'
+  credit: 'Bukvoed'
+  license: 'CC BY 4.0'
+  source: 'https://commons.wikimedia.org/wiki/File:Tel-Hazor-1801.jpg'
+  source_desc: 'Tel Hazor (Hatzor), Israel.'
+
+milne-pendulum:
+  caption: 'סייסמוגרף מטוטלת אופקית של מילן, במוזיאון הלאומי לטבע ולמדע בטוקיו.'
+  alt: 'מכשיר מתכת קטן על שולחן עץ, ולידו מנורת נפט.'
+  credit: 'Daderot'
+  license: 'CC0'
+  source: 'https://commons.wikimedia.org/wiki/File:Milne_horizontal_pendulum_seismograph_(cultural_asset_of_national_importance)_-_National_Museum_of_Nature_and_Science,_Tokyo_-_DSC07174.JPG'
+  source_desc: 'Milne horizontal pendulum seismograph (cultural asset of national importance) - National Museum of Nature and Science, Tokyo'
+
+gray-milne-seismograph:
+  caption: 'הסייסמוגרף של גריי ומילן, עם מכשיר הרישום. איור מ-1886.'
+  alt: 'תחריט של מכשיר: עמוד אנכי עם מטוטלות, ולידו תוף רישום ושעון.'
+  credit: 'Popular Science Monthly'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:PSM_V29_D322_Gray_and_milne_seismograph_with_recorder.jpg'
+  source_desc: 'Gray and Milne seismograph with recorder'
+
+john-milne:
+  caption: 'פרופ׳ ג׳ון מילן, 1913.'
+  alt: 'דיוקן בשחור-לבן של גבר עם שפם וכובע.'
+  credit: 'צלם לא ידוע'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Prof_John_Milne,_1913.jpg'
+  source_desc: 'Prof John Milne, 1913'
+
+naples-seismograph-1938:
+  caption: 'רישום רעידות במצפה בנאפולי, 1938. בתיאור ההולנדי: "מדידת תנועות קרקע במצפה".'
+  alt: 'תוף רישום גדול על שולחן, ומעליו זרוע דקה של סייסמוגרף.'
+  credit: 'וילם ואן דה פול, הארכיון הלאומי של הולנד'
+  license: 'CC0'
+  source: 'https://commons.wikimedia.org/wiki/File:Het_meten_van_aardwerkingen_in_het_Observatorium,_Bestanddeelnr_191-1395.jpg'
+  source_desc: 'Reportage / Serie : Bezoek aan Napels en de Vesuvius. Beschrijving : Het meten van aardwerkingen in het Observatorium. Datum : 1938. Locatie : Italië, Napels'
+
+sinai-dead-sea-rift:
+  caption: 'חצי האי סיני והשבר של ים המלח, כפי שצולמו מהמעבורת קולומביה ב-2002. מפרץ אילת מצביע צפונה, לעבר ים המלח.'
+  alt: 'צילום מהחלל: משולש חצי האי סיני בין שני מפרצים כחולים, ומעליו פס צר של מים, ים המלח.'
+  credit: 'נאס"א'
+  license: 'נחלת הכלל'
+  source: 'https://commons.wikimedia.org/wiki/File:Sinai_Peninsula_and_the_Dead_Sea_Rift_(27411443544).jpg'
+  source_desc: 'Astronauts on board the Space Shuttle Columbia took this 70-mm picture featuring the Sinai Peninsula and the Dead Sea Rift. ... The Gulf of Aqaba is a finger of the Red Sea bottom center, pointing north to the Dead Sea'

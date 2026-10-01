@@ -50,5 +50,14 @@
 
   <h2>רישיונות</h2>
   <p>הטקסט באתר מקורי. בדפים שבהם מופיע קישור לוויקיפדיה לקריאה נוספת, תוכן ויקיפדיה מוגן ברישיון <a href="{{ license.url }}" rel="license noopener">{{ license.label }}</a>.</p>
+  {% if image_credits %}
+  <h3 id="images">תמונות</h3>
+  <p>התמונות באתר נלקחו מוויקישיתוף (Wikimedia Commons), ונשמרו באתר עצמו. כולן בנחלת הכלל או ברישיון חופשי (CC0, CC BY או CC BY-SA), והרישיון של כל תמונה חל עליה בלבד. הכיתובים מבוססים על תיאור המקור של כל תמונה.</p>
+  <ul class="image-credits">
+    {% for c in image_credits %}
+    <li>{{ c.caption }} <span class="muted">{{ c.credit | safe }}</span></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
 </article>
 {% endblock %}

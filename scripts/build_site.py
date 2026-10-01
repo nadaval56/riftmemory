@@ -23,7 +23,10 @@ from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
 import markdown
+import yaml
+from html import escape
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+from markupsafe import Markup
 
 import echo
 import fmt
@@ -52,6 +55,66 @@ WIKI_LICENSE = {
 }
 
 
+# --- תמונות ---------------------------------------------------------------
+
+# פרטי התמונות (כיתוב, קרדיט, רישיון) ב-data/images.yaml; הקבצים ב-static/img/photos/.
+# בגוף ה-Markdown: [[fig:<id>]] בשורה נפרדת, או כמה מזהים מופרדים ברווח (קבוצה).
+IMAGES = yaml.safe_load((ROOT / "data" / "images.yaml").read_text(encoding="utf-8")) or {}
+PHOTOS = ROOT / "static" / "img" / "photos"
+LICENSE_URLS = {
+    "CC0": "https://creativecommons.org/publicdomain/zero/1.0/deed.he",
+    "CC BY 2.0": "https://creativecommons.org/licenses/by/2.0/deed.he",
+    "CC BY 2.5": "https://creativecommons.org/licenses/by/2.5/deed.he",
+    "CC BY 4.0": "https://creativecommons.org/licenses/by/4.0/deed.he",
+    "CC BY-SA 2.0": "https://creativecommons.org/licenses/by-sa/2.0/deed.he",
+    "CC BY-SA 3.0": "https://creativecommons.org/licenses/by-sa/3.0/deed.he",
+    "CC BY-SA 4.0": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+}
+FIG_MARK = re.compile(r"<p>\[\[fig:([^\]]+)\]\]</p>")
+
+
+def image_credit(img):
+    """שורת קרדיט: מי, רישיון (עם קישור), ודף המקור."""
+    lic = escape(img["license"])
+    if img["license"] in LICENSE_URLS:
+        lic = f'<a href="{LICENSE_URLS[img["license"]]}" rel="license">{lic}</a>'
+    return f'{escape(img["credit"])} · {lic} · <a href="{escape(img["source"])}">ויקישיתוף</a>'
+
+
+def figure_html(ids):
+    """<figure> לתמונה אחת, או קבוצה של כמה תמונות זו לצד זו."""
+    from PIL import Image
+    figs = []
+    for key in ids.split():
+        img = IMAGES.get(key)
+        path = PHOTOS / f"{key}.webp"
+        if img is None:
+            raise SystemExit(f"תמונה לא מוגדרת ב-data/images.yaml: {key}")
+        if not path.exists():
+            print(f"warning: missing image file {path.name}; skipped")
+            continue
+        w, h = Image.open(path).size
+        url = f"{BASE_PATH}/static/img/photos/{key}"
+        figs.append(
+            f'<figure class="photo">'
+            f'<a href="{url}.webp" class="photo-link"><img src="{url}.webp" '
+            f'srcset="{url}-640.webp 640w, {url}.webp {w}w" sizes="(max-width: 760px) 100vw, 680px" '
+            f'width="{w}" height="{h}" alt="{escape(img["alt"])}" loading="lazy" decoding="async"></a>'
+            f'<figcaption>{escape(img["caption"])} <span class="credit">{image_credit(img)}</span></figcaption>'
+            f'</figure>')
+    if not figs:
+        return ""
+    if len(figs) == 1:
+        return figs[0]
+    return f'<div class="photo-group n{len(figs)}">{"".join(figs)}</div>'
+
+
+def image_credits():
+    """רשימת כל התמונות לדף "אודות"."""
+    return [{"key": k, "caption": v["caption"], "credit": image_credit(v)} for k, v in IMAGES.items()
+            if (PHOTOS / f"{k}.webp").exists()]
+
+
 # --- תוכן ---------------------------------------------------------------
 
 HTML_COMMENT = re.compile(r"<!--.*?-->", re.S)
@@ -69,6 +132,7 @@ def split_sections(body):
     text = HTML_COMMENT.sub("", body)
     html = markdown.markdown(text, extensions=["extra"], extension_configs={
         "footnotes": {"BACKLINK_TITLE": "חזרה לטקסט"}})
+    html = FIG_MARK.sub(lambda m: figure_html(m.group(1)), html)
     notes = ""
     m = FOOTNOTES.search(html)
     if m:
@@ -441,6 +505,7 @@ def make_env():
     )
     env.globals.update(
         asset=asset_url,
+        figure=lambda ids: Markup(figure_html(ids)),
         og_image=og_image,
         jsonld=jsonld,
         base=BASE_PATH,
@@ -760,6 +825,7 @@ def build(drafts=False):
         **common,
         page_path="/about/",
         license=WIKI_LICENSE,
+        image_credits=image_credits(),
     ))
     pages.append("/about/")
 

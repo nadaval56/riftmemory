@@ -43,6 +43,7 @@ class Page(HTMLParser):
         super().__init__()
         self.links, self.meta, self.title, self._in_title = [], {}, "", False
         self.text = []
+        self.no_alt = 0
 
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
@@ -50,6 +51,10 @@ class Page(HTMLParser):
             self.links.append(a["href"])
         if tag in ("link", "script") and (a.get("href") or a.get("src")):
             self.links.append(a.get("href") or a.get("src"))
+        if tag == "img" and a.get("src"):
+            self.links.append(a["src"])
+            if a.get("alt") is None:
+                self.no_alt += 1
         if tag == "meta":
             key = a.get("property") or a.get("name")
             if key:
@@ -126,6 +131,11 @@ def check_site(problems, warnings):
         clean = FORECAST_OK.sub("", text)
         for m in FORECAST.finditer(clean):
             problems.append(f"{rel}: ניסוח חיזויי: {m.group(0)!r}")
+
+        if "[[fig:" in text:
+            problems.append(f"{rel}: סימון תמונה שלא הומר: [[fig:...]] (צריך שורה ריקה לפניו ואחריו)")
+        if p.no_alt:
+            problems.append(f"{rel}: {p.no_alt} תמונות בלי alt")
 
         for href in p.links:
             target = site_path(href)

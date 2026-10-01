@@ -12,6 +12,7 @@
 - תוכן: content/events/*.md עם frontmatter (docs/guide.pdf פרק 5.1)
 - פלט: site/ — לא לערוך ידנית
 - Actions: build.yml (push), live.yml (כל שעה), catalog.yml (פעם בחודש: קטלוגים לדף "מכשירי מדידה"), links.yml (פעם בחודש: בדיקת קישורים חיצוניים, issue אם יש שבורים)
+- תמונות: data/images.yaml (כיתוב, alt, קרדיט, רישיון), קבצים ב-static/img/photos (WebP, באתר עצמו: scripts/make_photos.py). בגוף הדף [[fig:id]] בשורה נפרדת. רק נחלת הכלל, CC0, CC BY, CC BY-SA; כיתוב רק לפי תיאור המקור. איורים (מידג'רני): docs/illustrations.md.
 - מפה: Leaflet + OSM. ציר זמן: SVG בזמן בנייה.
 - גופנים: Heebo בלבד, מאוחסן באתר (static/fonts). עיצוב לפי השפה של heb-cal: רקע #f4f2ec, הדגשה #c96442, מצב כהה
 
