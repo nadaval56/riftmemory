@@ -90,7 +90,8 @@ def site_path(href):
     """קישור פנימי -> קובץ ב-site/, או None לקישור חיצוני."""
     u = urlparse(href)
     if u.scheme in ("http", "https"):
-        if not href.startswith(SITE_URL):
+        # משווים לפי שם השרת, בלי הפרוטוקול (http/https)
+        if u.netloc != urlparse(SITE_URL).netloc:
             return None
         path = u.path[len(urlparse(SITE_URL).path):]
     elif u.scheme or href.startswith(("#", "mailto:")):

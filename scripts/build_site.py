@@ -37,7 +37,8 @@ TZ = ZoneInfo("Asia/Jerusalem")
 
 # בבנייה ב-Actions הערכים מגיעים מהגדרות GitHub Pages (configure-pages). ברירת המחדל: הדומיין של האתר.
 SITE_URL = os.environ.get("SITE_URL") or "https://quake.co.il"
-SITE_URL = SITE_URL.rstrip("/")
+# GitHub Pages מחזיר http:// לדומיין מותאם עד שתעודת ה-HTTPS מונפקת; האתר תמיד מוגש ב-https
+SITE_URL = re.sub(r"^http://", "https://", SITE_URL.rstrip("/"))
 BASE_PATH = os.environ.get("BASE_PATH", "").rstrip("/")
 
 SITE_NAME = "רעידת אדמה"
