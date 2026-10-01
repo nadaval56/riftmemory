@@ -673,3 +673,26 @@ html.a11y-still .pulse { animation: none; }
 @media (prefers-reduced-motion: reduce) { .tri * { animation: none !important; } .tri-replay { display: none; } }
 html.a11y-still .tri * { animation: none !important; }
 html.a11y-still .tri-replay { display: none; }
+
+/* תמונות בגוף הדף (data/images.yaml) */
+.photo { margin: 1.4rem 0 1.6rem; }
+.photo img {
+  display: block; width: 100%; height: auto; border-radius: var(--radius-sm);
+  background: var(--line-soft); border: 1px solid var(--line-soft);
+}
+.photo-link { display: block; }
+.photo-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: var(--radius-sm); }
+.photo figcaption { margin-top: .5rem; font-size: .9rem; line-height: 1.55; color: var(--ink-2); }
+.photo .credit { display: block; margin-top: .15rem; font-size: .8rem; color: var(--muted); }
+.photo .credit a { color: inherit; }
+.photo-group {
+  display: grid; grid-template-columns: repeat(2, 1fr);
+  gap: 1rem 1.1rem; margin: 1.4rem 0 1.6rem; align-items: start;
+}
+.photo-group.n3 { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 560px) { .photo-group, .photo-group.n3 { grid-template-columns: 1fr; } }
+.photo-group .photo { margin: 0; }
+.photo-group .photo img { aspect-ratio: 4 / 3; object-fit: cover; }
+.image-credits { font-size: .9rem; padding-inline-start: 1.2rem; }
+.image-credits li { margin-bottom: .35rem; }
+a[rel="license"] { white-space: nowrap; }
