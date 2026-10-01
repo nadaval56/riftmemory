@@ -1,0 +1,3 @@
+SOURCE: https://api.openalex.org/works/doi:10.1007/s10950-020-09904-9?select=id,doi,title,publication_year,open_access,best_oa_location
+
+{"id":"https://openalex.org/W3006074224","doi":"https://doi.org/10.1007/s10950-020-09904-9","title":"An updated parametric catalog of historical earthquakes around the Dead Sea Transform Fault Zone","publication_year":2020,"open_access":{"is_oa":false,"oa_status":"closed","oa_url":null,"any_repository_has_fulltext":false},"best_oa_location":null}
