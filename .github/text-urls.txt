@@ -1,16 +1,10 @@
-# סבב 34: עותקים פתוחים (OpenAlex) למקורות עם "טרם נבדק במקור"
-oa-williams2012 https://api.openalex.org/works/doi:10.1080/00206814.2011.639996?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-marco2003 https://api.openalex.org/works/doi:10.1130/G19516.1?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-ambr2005 https://api.openalex.org/works/doi:10.1007/s10950-005-8183-8?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-austin2000 https://api.openalex.org/works/doi:10.1080/00206810009465104?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-benmen1991 https://api.openalex.org/works/doi:10.1029/91JB01936?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-grigor2020 https://api.openalex.org/works/doi:10.1007/s10950-020-09904-9?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-ferry2007 https://api.openalex.org/works/doi:10.1016/j.epsl.2007.05.049?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-zilber2005 https://api.openalex.org/works/doi:10.1016/j.tecto.2005.05.030?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-nemer2008 https://api.openalex.org/works/doi:10.1029/2007JB005090?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-lewis1999 https://api.openalex.org/works/doi:10.1179/lev.1999.31.1.241?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-avni2002 https://api.openalex.org/works/doi:10.1023/A:1021191824396?select=id,doi,title,publication_year,open_access,best_oa_location
-oa-migowski2004 https://api.openalex.org/works?search=Recurrence%20pattern%20of%20Holocene%20earthquakes%20along%20the%20Dead%20Sea%20transform%20revealed%20by%20varve-counting&per-page=2&select=id,doi,title,publication_year,open_access,best_oa_location
-oa-nemer2006 https://api.openalex.org/works?search=Evidence%20of%20coseismic%20ruptures%20along%20the%20Roum%20fault%20Lebanon%20possible%20source%20for%20the%20AD%201837%20earthquake&per-page=2&select=id,doi,title,publication_year,open_access,best_oa_location
-oa-vered1977 https://api.openalex.org/works?search=A%20macroseismic%20study%20and%20the%20implications%20of%20structural%20damage%20of%20two%20recent%20major%20earthquakes%20in%20the%20Jordan%20rift&per-page=2&select=id,doi,title,publication_year,open_access,best_oa_location
-oa-salamon2011 https://api.openalex.org/works?search=A%20critical%20evaluation%20of%20tsunami%20records%20reported%20for%20the%20Levant%20coast%20from%20the%20second%20millennium%20BCE&per-page=2&select=id,doi,title,publication_year,open_access,best_oa_location
+# סבב 35: ספרים פתוחים (archive.org, Google Books) למקורות עם "טרם נבדק במקור"
+ia-yaari https://archive.org/advancedsearch.php?q=title%3A%28%D7%90%D7%92%D7%A8%D7%95%D7%AA%20%D7%90%D7%A8%D7%A5%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%29%20OR%20%28title%3A%28iggerot%20eretz%20yisrael%29%29%20OR%20%28creator%3A%28yaari%29%20AND%20title%3A%28igrot%20OR%20iggerot%20OR%20letters%29%29&fl[]=identifier&fl[]=title&fl[]=year&rows=8&output=json
+ia-ishshalom https://archive.org/advancedsearch.php?q=creator%3A%28ish-shalom%29%20OR%20title%3A%28%D7%9E%D7%A1%D7%A2%D7%99%20%D7%A0%D7%95%D7%A6%D7%A8%D7%99%D7%9D%20%D7%9C%D7%90%D7%A8%D7%A5%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%29%20OR%20title%3A%28Christian%20travels%20in%20the%20Holy%20Land%29&fl[]=identifier&fl[]=title&fl[]=year&rows=8&output=json
+ia-ambr1994 https://archive.org/advancedsearch.php?q=title%3A%28seismicity%20of%20Egypt%20Arabia%20and%20the%20Red%20Sea%29&fl[]=identifier&fl[]=title&fl[]=year&rows=8&output=json
+ia-caesarea https://archive.org/advancedsearch.php?q=title%3A%28Caesarea%20Maritima%20retrospective%20after%20two%20millennia%29&fl[]=identifier&fl[]=title&fl[]=year&rows=8&output=json
+ia-maoz https://archive.org/advancedsearch.php?q=title%3A%28Jerusalem%20points%20of%20friction%20and%20beyond%29&fl[]=identifier&fl[]=title&fl[]=year&rows=8&output=json
+ia-sefer-hashana https://archive.org/advancedsearch.php?q=title%3A%28%D7%A1%D7%A4%D7%A8%20%D7%94%D7%A9%D7%A0%D7%94%20%D7%A9%D7%9C%20%D7%90%D7%A8%D7%A5%20%D7%99%D7%A9%D7%A8%D7%90%D7%9C%29%20OR%20title%3A%28sefer%20ha-shanah%20shel%20Erets-Yisrael%29&fl[]=identifier&fl[]=title&fl[]=year&rows=8&output=json
+gb-caesarea-p23 https://books.google.co.il/books?id=pckUkJIHjiQC&pg=PA23&output=text
+gb-ambr1994-p31 https://books.google.com/books?id=fxnnk2inWT0C&pg=PA31&output=text
+gb-ambr1994-p69 https://books.google.com/books?id=fxnnk2inWT0C&pg=PA69&output=text
