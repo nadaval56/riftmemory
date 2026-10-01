@@ -62,7 +62,7 @@ WIKI_LICENSE = {
 IMAGES = yaml.safe_load((ROOT / "data" / "images.yaml").read_text(encoding="utf-8")) or {}
 PHOTOS = ROOT / "static" / "img" / "photos"
 LICENSE_URLS = {
-    "CC0": "https://creativecommons.org/publicdomain/zero/1.0/deed.he",
+    "CC0": "https://creativecommons.org/publicdomain/zero/1.0/",
     "CC BY 2.0": "https://creativecommons.org/licenses/by/2.0/deed.he",
     "CC BY 2.5": "https://creativecommons.org/licenses/by/2.5/deed.he",
     "CC BY 4.0": "https://creativecommons.org/licenses/by/4.0/deed.he",
