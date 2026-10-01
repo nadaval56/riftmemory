@@ -1,8 +1,8 @@
 # איורים לדפים בלי תמונות (מידג'רני)
 
 **מצב (אוקטובר 2026):** נבחר סגנון רישום בדיו וצבעי מים (במקום הלינוליאום שלמטה). רפרנס סגנון: העבודה
-a992194e-f909-4162-b937-a8119cdc9137 בחשבון של נדב (`--sref`). רישיון האיורים: CC BY 4.0.
-שולבו: 31 לפנה"ס (ill-qumran), 130 (ill-chronicle), 1068 (ill-ramla). חסרים: 881, 1033, 1834.
+a992194e-f909-4162-b937-a8119cdc9137 בחשבון של נדב. `--sref` מקבל רק כתובת של תמונה (לא קוד עבודה); כתובת קבועה: "Web" ← העתקת כתובת התמונה (cdn.midjourney.com). קישורי Discord פגים אחרי כיום. רישיון האיורים: CC BY 4.0.
+שולבו כל השישה: 31 לפנה"ס (ill-qumran), 130 (ill-chronicle), 881 (ill-catalogues), 1033 (ill-harbour), 1068 (ill-ramla), 1834 (ill-jerusalem-siege).
 לכל פרומפט בסגנון החדש: `loose contemporary pen and ink sketch with light watercolour washes, ... quick confident linework, mostly white paper, touches of terracotta and pale blue, urban-sketcher style --sref ... --ar 16:9 --style raw --no text, letters, signature, people`
 
 אחרי ששולבו התמונות מוויקישיתוף (data/images.yaml), נשארו שישה דפי רעידות בלי שום תמונה:
