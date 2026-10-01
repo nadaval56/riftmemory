@@ -30,6 +30,10 @@ jobs:
         run: |
           if [ -n "${{ inputs.task }}" ]; then
             echo "tasks=${{ inputs.task }}" >> "$GITHUB_OUTPUT"
+          elif git fetch -q --depth=1 origin main && [ "$(git rev-parse HEAD^{tree})" = "$(git rev-parse FETCH_HEAD^{tree})" ]; then
+            # ה-branch הוא בדיוק main (אחרי מיזוג ואיפוס): הבקשה כבר בוצעה, לא מושכים שוב
+            echo "branch == main; nothing to fetch"
+            echo "tasks=" >> "$GITHUB_OUTPUT"
           else
             echo "tasks=$(tr -s '[:space:]' ' ' < .github/fetch-request)" >> "$GITHUB_OUTPUT"
           fi

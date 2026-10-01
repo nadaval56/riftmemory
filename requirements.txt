@@ -3,3 +3,4 @@ pyyaml
 requests
 markdown
 convertdate
+Pillow>=10
