@@ -1,4 +1,4 @@
-# השבר — riftmemory
+# רעידת אדמה (quake.co.il) — riftmemory
 
 אתר סטטי על רעידות האדמה בארץ ישראל: דף לכל רעידה היסטורית, ציר זמן,
 ופס "רעידה אחרונה" שמתעדכן כל שעה עם "הד היסטורי". המדריך המלא: `docs/guide.pdf`.
@@ -13,8 +13,8 @@ cd scripts && ../.venv/bin/python check_site.py   # בדיקות פרק 10
 ```
 
 האתר נבנה ל-`site/`. בלי `--drafts` נבנים רק דפים עם `status: published`.
-הנתיבים באתר מתחילים ב-`BASE_PATH` (ברירת מחדל `/riftmemory`). לתצוגה
-מקומית: `BASE_PATH= .venv/bin/python scripts/build_site.py --drafts` ואז
+הנתיבים באתר מתחילים ב-`BASE_PATH` (ברירת מחדל ריקה: האתר בשורש הדומיין). לתצוגה
+מקומית: `.venv/bin/python scripts/build_site.py --drafts` ואז
 `python3 -m http.server -d site`.
 
 ## איך מפרסמים רעידה
