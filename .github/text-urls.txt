@@ -1,12 +1,21 @@
-# סבב 37: חיפוש בתוך אמברסייס, מלוויל ואדמס 1994 (עותק השאלה בארכיון; קטעים בלבד)
-ia-in-ramla https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Ramla
-ia-in-banyas https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Banyas
-ia-in-tinnis https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Tinnis
-ia-in-fustat https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Fustat
-ia-in-catherine https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Catherine
-ia-in-school https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=school%20children
-ia-in-euphrates https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Euphrates
-ia-in-1068 https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=1068
-ia-in-1856 https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=1856
-ia-in-cairo1856 https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Cairo%201856
-ia-in-ayla https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Ayla
+# סבב 38: תמונות פתוחות (ויקישיתוף, ספריית הקונגרס) לדפי האתר
+c-1927 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=1927%20earthquake%20Palestine&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-1927b https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=earthquake%201927%20Jerusalem&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-1927c https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=earthquake%201927%20Nablus&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-1927d https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Jericho%20earthquake%201927&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-bsh https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Beit%20She%27an%20earthquake%20columns&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-bsh2 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Scythopolis%20collapsed%20columns&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-hippos https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Hippos%20Sussita%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-ateret https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Ateret%20fortress%20Jacob%27s%20Ford&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-roberts-tib https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=David%20Roberts%20Tiberias&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-roberts-safed https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=David%20Roberts%20Safed&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-safed1837 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Safed%20earthquake%201837&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-milne https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Milne%20seismograph&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-seismo https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=seismograph%20historical&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-baalbek1759 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Baalbek%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-crete1856 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=1856%20Heraklion%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-acre https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Acre%20sea%20walls&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-avdat https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Avdat%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+c-masada https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Qumran%20earthquake%20crack&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+loc-1927 https://www.loc.gov/collections/matson-photograph-collection/?q=earthquake&fo=json&c=40
+loc-1927b https://www.loc.gov/collections/matson-photograph-collection/?q=earthquake%201927&fo=json&c=40
