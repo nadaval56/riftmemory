@@ -1,0 +1,2 @@
+SOURCE: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=David%20Roberts%20Safed&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+JSON: c-roberts-safed.json

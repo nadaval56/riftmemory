@@ -1,0 +1,2 @@
+SOURCE: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=1927%20earthquake%20Palestine&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+JSON: c-1927.json

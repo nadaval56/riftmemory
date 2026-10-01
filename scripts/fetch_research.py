@@ -122,6 +122,10 @@ def main():
                     txt.write_text(f"SOURCE: {url} (OCR)\n" + "".join(parts), encoding="utf-8")
                     shutil.rmtree(pages)
                 pdf.unlink()
+            elif "json" in ctype:
+                # JSON (ממשקי API) נשמר כמו שהוא: פירוק כ-HTML היה מוחק תגיות מתוך הערכים ושובר אותו
+                (out / f"{slug}.json").write_text(r.text, encoding="utf-8")
+                (out / f"{slug}.txt").write_text(f"SOURCE: {url}\nJSON: {slug}.json\n", encoding="utf-8")
             else:
                 r.encoding = r.encoding or r.apparent_encoding
                 p = Text(url)

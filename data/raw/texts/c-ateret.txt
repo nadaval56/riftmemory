@@ -1,0 +1,2 @@
+SOURCE: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Ateret%20fortress%20Jacob%27s%20Ford&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+JSON: c-ateret.json
