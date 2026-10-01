@@ -53,6 +53,7 @@
   {% if image_credits %}
   <h3 id="images">תמונות</h3>
   <p>התמונות באתר נלקחו מוויקישיתוף (Wikimedia Commons), ונשמרו באתר עצמו. כולן בנחלת הכלל או ברישיון חופשי (CC0, CC BY או CC BY-SA), והרישיון של כל תמונה חל עליה בלבד. הכיתובים מבוססים על תיאור המקור של כל תמונה.</p>
+  <p>בדפים שאין להם תמונה מתאימה יש איורים שנוצרו בעזרת Midjourney. הם מסומנים "איור", אינם תיעוד ואינם משחזרים את המקומות. האיורים ברישיון CC BY 4.0.</p>
   <ul class="image-credits">
     {% for c in image_credits %}
     <li>{{ c.caption }} <span class="muted">{{ c.credit | safe }}</span></li>
