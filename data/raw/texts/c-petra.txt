@@ -1,0 +1,2 @@
+SOURCE: https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Petra%20earthquake%20363&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+JSON: c-petra.json
