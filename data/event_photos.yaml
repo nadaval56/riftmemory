@@ -1,0 +1,18 @@
+# תמונה אחת לכל רעידה: בכרטיס בדף הבית (ובכרטיסי "באותו מקטע") ובכרטיס השיתוף (scripts/make_og.py).
+#   image  — מזהה ב-data/images.yaml
+#   pos    — מיקוד החיתוך (object-position)
+#   og     — false: כרטיס השיתוף נשאר עם מפת השבר
+#   og_credit — קרדיט מקוצר לכרטיס השיתוף, כשהמלא ארוך מדי
+0031bce-judea: {image: ill-qumran, pos: center}
+0130-judea: {image: ill-chronicle, pos: center}
+0363-galilee: {image: sussita-aerial, pos: center}
+0749-shviit: {image: bet-shean-columns, pos: 45% center}
+0760bce-uzziah: {image: tel-hazor, pos: center}
+0881-acre: {image: ill-catalogues, pos: 40% center}
+1033-jordan-valley: {image: ill-harbour, pos: 30% center}
+1068-near-east: {image: ill-ramla, pos: 30% center}
+1759-galilee-lebanon: {image: baalbek-portal, pos: center 40%}
+1834-jerusalem: {image: ill-jerusalem-siege, pos: 35% center}
+1837-safed: {image: roberts-tiberias-safed, pos: center}
+1856-crete: {image: heraklion-doorframe, pos: center 25%, og: false}
+1927-dead-sea: {image: 1927-winter-palace, pos: center, og_credit: 'אוסף מטסון, ספריית הקונגרס'}

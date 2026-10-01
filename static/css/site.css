@@ -696,3 +696,17 @@ html.a11y-still .tri-replay { display: none; }
 .image-credits { font-size: .9rem; padding-inline-start: 1.2rem; }
 .image-credits li { margin-bottom: .35rem; }
 a[rel="license"] { white-space: nowrap; }
+
+/* כרטיס רעידה עם תמונה (data/event_photos.yaml) */
+.event-card.has-photo { padding-top: 0; overflow: hidden; }
+.event-card.has-photo::before { top: .6rem; z-index: 1; box-shadow: 0 0 0 2px var(--surface); }
+.event-card-photo {
+  position: relative; display: block; flex: none; margin: 0 -.9rem .55rem; aspect-ratio: 16 / 9;
+  overflow: hidden; background: var(--line-soft); border-bottom: 1px solid var(--line-soft);
+}
+.event-card-photo img { position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: cover; }
+.event-card-ill {
+  position: absolute; bottom: .4rem; inset-inline-start: .45rem; padding: .05rem .45rem;
+  font-size: .7rem; font-weight: 600; color: #fff; background: rgba(31, 30, 29, .66); border-radius: 999px;
+}
+.event-card.has-photo:hover .event-card-photo img { opacity: .92; }
