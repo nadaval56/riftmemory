@@ -1,0 +1,3 @@
+SOURCE: https://api.openalex.org/works/doi:10.1029/2007JB005090?select=id,doi,title,publication_year,open_access,best_oa_location
+
+{"id":"https://openalex.org/W2024013223","doi":"https://doi.org/10.1029/2007jb005090","title":"The Rachaya\u2010Serghaya fault system (Lebanon): Evidence of coseismic ruptures, and the AD 1759 earthquake sequence","publication_year":2008,"open_access":{"is_oa":false,"oa_status":"closed","oa_url":null,"any_repository_has_fulltext":false},"best_oa_location":null}

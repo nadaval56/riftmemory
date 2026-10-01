@@ -1,0 +1,3 @@
+SOURCE: https://api.openalex.org/works/doi:10.1080/00206814.2011.639996?select=id,doi,title,publication_year,open_access,best_oa_location
+
+{"id":"https://openalex.org/W2087488730","doi":"https://doi.org/10.1080/00206814.2011.639996","title":"An early first-century earthquake in the Dead Sea","publication_year":2011,"open_access":{"is_oa":false,"oa_status":"closed","oa_url":null,"any_repository_has_fulltext":false},"best_oa_location":null}

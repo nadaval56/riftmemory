@@ -1,0 +1,3 @@
+SOURCE: https://api.openalex.org/works/doi:10.1016/j.epsl.2007.05.049?select=id,doi,title,publication_year,open_access,best_oa_location
+
+{"id":"https://openalex.org/W2042985506","doi":"https://doi.org/10.1016/j.epsl.2007.05.049","title":"A 48-kyr-long slip rate history for the Jordan Valley segment of the Dead Sea Fault","publication_year":2007,"open_access":{"is_oa":false,"oa_status":"closed","oa_url":null,"any_repository_has_fulltext":false},"best_oa_location":null}

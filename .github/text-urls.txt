@@ -1,3 +1,12 @@
-# סבב 32: הגדרת דומיין מותאם ל-GitHub Pages (כתובות IP ו-CNAME)
-gh-pages-custom-domain https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
-gh-pages-verify https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages
+# סבב 37: חיפוש בתוך אמברסייס, מלוויל ואדמס 1994 (עותק השאלה בארכיון; קטעים בלבד)
+ia-in-ramla https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Ramla
+ia-in-banyas https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Banyas
+ia-in-tinnis https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Tinnis
+ia-in-fustat https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Fustat
+ia-in-catherine https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Catherine
+ia-in-school https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=school%20children
+ia-in-euphrates https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Euphrates
+ia-in-1068 https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=1068
+ia-in-1856 https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=1856
+ia-in-cairo1856 https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Cairo%201856
+ia-in-ayla https://ia601508.us.archive.org/fulltext/inside.php?item_id=seismicityofegyp0000ambr&doc=seismicityofegyp0000ambr&path=/28/items/seismicityofegyp0000ambr&q=Ayla
