@@ -122,6 +122,11 @@ def main():
                     txt.write_text(f"SOURCE: {url} (OCR)\n" + "".join(parts), encoding="utf-8")
                     shutil.rmtree(pages)
                 pdf.unlink()
+            elif ctype.startswith("image/"):
+                # תמונה (למשל מוויקישיתוף, כשההורדה הישירה חסומה בסביבת העבודה): נשמרת כמו שהיא
+                ext = ctype.split("/")[1].split(";")[0].replace("jpeg", "jpg")
+                (out / f"{slug}.{ext}").write_bytes(r.content)
+                (out / f"{slug}.txt").write_text(f"SOURCE: {url}\nIMAGE: {slug}.{ext}\n", encoding="utf-8")
             elif "json" in ctype:
                 # JSON (ממשקי API) נשמר כמו שהוא: פירוק כ-HTML היה מוחק תגיות מתוך הערכים ושובר אותו
                 (out / f"{slug}.json").write_text(r.text, encoding="utf-8")

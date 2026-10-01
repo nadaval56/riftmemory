@@ -1,21 +1,4 @@
-# סבב 39: חיפוש תמונות, השלמת פערים
-c-qumran https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Qumran%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-qumran2 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Qumran%20cistern%20crack&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-hippos2 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Sussita%20columns%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-hippos3 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Hippos%20Sussita&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-hazor https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Tel%20Hazor%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-hazor2 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Tel%20Hazor&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-ramla https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=White%20Tower%20Ramla&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-ramla2 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Pool%20of%20the%20Arches%20Ramla&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-jerash https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Jerash%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-petra https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Petra%20earthquake%20363&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-sepphoris https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Zippori%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-masada2 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Masada%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-bsh3 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Scythopolis%20earthquake%20749&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-bsh4 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Beit%20Shean%20fallen%20columns&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-jer1834 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Jerusalem%20earthquake%201834&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-safed2 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Safed%20earthquake%201837&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-crete2 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Heraklion%20earthquake%201856&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-tiberias https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Tiberias%20walls%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-nimrod https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Nimrod%20fortress%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-deadsea https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=Dead%20Sea%20Transform%20fault&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+# סבב 40: שלוש תמונות מוויקישיתוף שההורדה הישירה שלהן נחסמה (429)
+img-b1 https://upload.wikimedia.org/wikipedia/commons/0/08/Beit_She%27an_%288242156963%29.jpg
+img-e2 https://upload.wikimedia.org/wikipedia/commons/2/29/Galilee_Earthquake_report_in_the_Times_1_March_1837.jpg
+img-i3 https://upload.wikimedia.org/wikipedia/commons/a/a0/Prof_John_Milne%2C_1913.jpg
