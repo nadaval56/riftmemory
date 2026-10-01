@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T15:00:42Z",
+  "fetched_at": "2026-10-01T16:00:42Z",
   "source": "gsi",
   "events": [
     {
@@ -937,28 +937,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-01T15:51:30Z",
-      "lat": 32.1244,
-      "lon": 35.5182,
-      "depth_km": 15.0,
-      "magnitude": 2.1,
-      "mag_type": null,
-      "place_he": "מזרח השומרון",
-      "place": "E.Shomron",
-      "source_id": "gsi_loc_2026ribb",
-      "loc_unc_km": 1.1,
-      "depth_unc_km": 1.1,
-      "felt": null,
-      "segment": "jordan-valley",
-      "echo": {
-        "event_ids": [
-          "0749-shviit",
-          "1033-jordan-valley"
-        ],
-        "text": "זה האזור שנקרע בסביבות 749 וב-1033."
       }
     }
   ],
