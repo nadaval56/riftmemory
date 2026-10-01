@@ -1,4 +1,4 @@
-# סבב 38: תמונות פתוחות (ויקישיתוף, ספריית הקונגרס) לדפי האתר
+# סבב 38ב: חיפוש תמונות, נשמר כ-JSON
 c-1927 https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=1927%20earthquake%20Palestine&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
 c-1927b https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=earthquake%201927%20Jerusalem&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
 c-1927c https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=20&gsrsearch=earthquake%201927%20Nablus&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
