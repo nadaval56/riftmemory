@@ -1,0 +1,52 @@
+https://commons.wikimedia.org/w/\"/archive.org/details/dictionaryofarch03stur\"	Internet Archive identifier : dictionaryofarch03stur
+https://commons.wikimedia.org/w/\"https:/archive.org/download/dictionaryofarch03stur/dictionaryofarch03stur.pdf\"	https://archive.org/download/dictionaryofarch03stur/dictionaryofarch03stur.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/manualofseismolo00davi\"	Internet Archive identifier : manualofseismolo00davi
+https://commons.wikimedia.org/w/\"https:/archive.org/download/manualofseismolo00davi/manualofseismolo00davi.pdf\"	https://archive.org/download/manualofseismolo00davi/manualofseismolo00davi.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/studyofrecentear00davirich\"	Internet Archive identifier : studyofrecentear00davirich
+https://commons.wikimedia.org/w/\"https:/archive.org/download/studyofrecentear00davirich/studyofrecentear00davirich.pdf\"	https://archive.org/download/studyofrecentear00davirich/studyofrecentear00davirich.pdf
+https://commons.wikimedia.org/w/\"https:/www.wikidata.org/wiki/Q59661040\"	National Archives at College Park - Still Pictures
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Digital_Public_Library_of_America\"	Digital Public Library of America
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/en:Digital_Public_Library_of_America\"	Digital Public Library of America
+https://commons.wikimedia.org/w/\"https:/catalog.archives.gov/id/75491699\"	Record in source catalog
+https://commons.wikimedia.org/w/\"https:/dp.la/item/ccbec175eb15ee79bca76281ae28ebb0\"	ccbec175eb15ee79bca76281ae28ebb0
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/rule_of_the_shorter_term\"	rule of the shorter term
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Wikipedia:Public_domain\"	Wikipedia:Public domain
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Wikipedia:Copyrights\"	Wikipedia:Copyrights
+https://commons.wikimedia.org/w/\"/archive.org/details/earthquakesvolca00whitrich\"	Internet Archive identifier : earthquakesvolca00whitrich
+https://commons.wikimedia.org/w/\"https:/archive.org/download/earthquakesvolca00whitrich/earthquakesvolca00whitrich.pdf\"	https://archive.org/download/earthquakesvolca00whitrich/earthquakesvolca00whitrich.pdf
+https://commons.wikimedia.org/w/\"https:/archive.org/about/faqs.php#140\"	What is the directory structure for the texts?
+https://commons.wikimedia.org/w/\"/archive.org/details/cu31924052385519\"	Internet Archive identifier : cu31924052385519
+https://commons.wikimedia.org/w/\"https:/archive.org/download/cu31924052385519/cu31924052385519.pdf\"	https://archive.org/download/cu31924052385519/cu31924052385519.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/elementsofgeolog00leco\"	Internet Archive identifier : elementsofgeolog00leco
+https://commons.wikimedia.org/w/\"https:/archive.org/download/elementsofgeolog00leco/elementsofgeolog00leco.pdf\"	https://archive.org/download/elementsofgeolog00leco/elementsofgeolog00leco.pdf
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Ferndale_Museum\"	Ferndale Museum
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Ferndale,_California\"	Ferndale, California
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Fusakichi_Omori\"	Fusakichi Omori
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/User:Ellin_Beltz\"	Ellin Beltz
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Ferndale_Museum\"	Ferndale Museum
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Ferndale,_California\"	Ferndale, California
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/Fusakichi_Omori\"	Fusakichi Omori
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/User:Ellin_Beltz\"	Ellin Beltz
+https://commons.wikimedia.org/w/\"https:/proxy.handle.net/10648/aea570a6-d0b4-102d-bcf8-003048976d84\"	https://proxy.handle.net/10648/aea570a6-d0b4-102d-bcf8-003048976d84
+https://commons.wikimedia.org/w/\"http:/proxy.handle.net/10648/aea5716e-d0b4-102d-bcf8-003048976d84\"	http://proxy.handle.net/10648/aea5716e-d0b4-102d-bcf8-003048976d84
+https://commons.wikimedia.org/w/\"http:/www.hscl.cr.nps.gov/insidenps/report.asp?STATE=&PARK=LAVO&STRUCTURE=&SORT=3&RECORDNO=48\"	http://www.hscl.cr.nps.gov/insidenps/report.asp?STATE=&PARK=LAVO&STRUCTURE=&SORT=3&RECORDNO=48
+https://commons.wikimedia.org/w/\"/archive.org/details/mountvesuviusdes00loblrich\"	Internet Archive identifier : mountvesuviusdes00loblrich
+https://commons.wikimedia.org/w/\"https:/archive.org/download/mountvesuviusdes00loblrich/mountvesuviusdes00loblrich.pdf\"	https://archive.org/download/mountvesuviusdes00loblrich/mountvesuviusdes00loblrich.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/mountvesuviusdes00lobl\"	Internet Archive identifier : mountvesuviusdes00lobl
+https://commons.wikimedia.org/w/\"https:/archive.org/download/mountvesuviusdes00lobl/mountvesuviusdes00lobl.pdf\"	https://archive.org/download/mountvesuviusdes00lobl/mountvesuviusdes00lobl.pdf
+https://commons.wikimedia.org/w/\"https:/freedomdefined.org/Definition\"	free
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\"	use this content
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Template:PermissionTicket/Users\"	Volunteer Response Team (VRT) member
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\"	permission archive
+https://commons.wikimedia.org/w/\"https:/ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2008072210014185\"	ticket #2008072210014185
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\"	VRT noticeboard
+https://commons.wikimedia.org/w/\"https:/ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2008072210014185\"	https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2008072210014185
+https://commons.wikimedia.org/w/\"https:/wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222008072210014185%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\"	
+https://commons.wikimedia.org/w/\"https:/www.nature.com/articles/s41467-019-11016-z\"	https://www.nature.com/articles/s41467-019-11016-z
+https://commons.wikimedia.org/w/\"https:/doi.org/10.1038/s41467-019-11016-z\"	https://doi.org/10.1038/s41467-019-11016-z
+https://commons.wikimedia.org/w/\"/archive.org/details/scottishgeograph15scotuoft\"	Internet Archive identifier : scottishgeograph15scotuoft
+https://commons.wikimedia.org/w/\"https:/archive.org/download/scottishgeograph15scotuoft/scottishgeograph15scotuoft.pdf\"	https://archive.org/download/scottishgeograph15scotuoft/scottishgeograph15scotuoft.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/wonderbookofvolc00housiala\"	Internet Archive identifier : wonderbookofvolc00housiala
+https://commons.wikimedia.org/w/\"https:/archive.org/download/wonderbookofvolc00housiala/wonderbookofvolc00housiala.pdf\"	https://archive.org/download/wonderbookofvolc00housiala/wonderbookofvolc00housiala.pdf
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/User:PantheraLeo1359531\"	PantheraLeo1359531
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/User:PantheraLeo1359531\"	PantheraLeo1359531

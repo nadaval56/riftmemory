@@ -1,0 +1,50 @@
+https://commons.wikimedia.org/w/\"http:/www.jstor.org/stable/10.2307/25103927\"	http://www.jstor.org/stable/10.2307/25103927
+https://commons.wikimedia.org/w/\"https:/archive.org/metadata/jstor-25103927\"	https://archive.org/metadata/jstor-25103927
+https://commons.wikimedia.org/w/\"https:/archive.org/metadata/jstor-25103927\"	https://archive.org/metadata/jstor-25103927
+https://commons.wikimedia.org/w/\"/archive.org/details/jstor-25103927\"	Internet Archive identifier : jstor-25103927
+https://commons.wikimedia.org/w/\"https:/archive.org/download/jstor-25103927/25103927.pdf\"	https://archive.org/download/jstor-25103927/25103927.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/addressdelivered00keep\"	Internet Archive identifier : addressdelivered00keep
+https://commons.wikimedia.org/w/\"https:/archive.org/download/addressdelivered00keep/addressdelivered00keep.pdf\"	https://archive.org/download/addressdelivered00keep/addressdelivered00keep.pdf
+https://commons.wikimedia.org/w/\"http:/pahar.in\"	http://pahar.in
+https://commons.wikimedia.org/w/\"/archive.org/details/dli.pahar.0209\"	Internet Archive identifier : dli.pahar.0209
+https://commons.wikimedia.org/w/\"https:/archive.org/download/dli.pahar.0209/1837%20First%20Impressions%20and%20Studies%20from%20Nature%20in%20Hondostan%20vol%202%20by%20Bacon%20s.pdf\"	https://archive.org/download/dli.pahar.0209/1837%20First%20Impressions%20and%20Studies%20from%20Nature%20in%20Hondostan%20vol%202%20by%20Bacon%20s.pdf
+https://commons.wikimedia.org/w/\"https:/granthsanjeevani.com/jspui/handle/123456789/40283\"	https://granthsanjeevani.com/jspui/handle/123456789/40283
+https://commons.wikimedia.org/w/\"/archive.org/details/dli.granth.40283\"	Internet Archive identifier : dli.granth.40283
+https://commons.wikimedia.org/w/\"https:/archive.org/download/dli.granth.40283/40283.pdf\"	https://archive.org/download/dli.granth.40283/40283.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/firstimpressions02baco\"	Internet Archive identifier : firstimpressions02baco
+https://commons.wikimedia.org/w/\"https:/archive.org/download/firstimpressions02baco/firstimpressions02baco.pdf\"	https://archive.org/download/firstimpressions02baco/firstimpressions02baco.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/GrahamSMagazineFromJulyToDec1837\"	Internet Archive identifier : GrahamSMagazineFromJulyToDec1837
+https://commons.wikimedia.org/w/\"https:/archive.org/download/GrahamSMagazineFromJulyToDec1837/Graham_s_Magazine%20from%20July%20to%20Dec%201837.pdf\"	https://archive.org/download/GrahamSMagazineFromJulyToDec1837/Graham_s_Magazine%20from%20July%20to%20Dec%201837.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/ASPC0005164100\"	Internet Archive identifier : ASPC0005164100
+https://commons.wikimedia.org/w/\"https:/archive.org/download/ASPC0005164100/ASPC0005164100.pdf\"	https://archive.org/download/ASPC0005164100/ASPC0005164100.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/ASPC0001866700\"	Internet Archive identifier : ASPC0001866700
+https://commons.wikimedia.org/w/\"https:/archive.org/download/ASPC0001866700/ASPC0001866700.pdf\"	https://archive.org/download/ASPC0001866700/ASPC0001866700.pdf
+https://commons.wikimedia.org/w/\"https:/archive.org/details/mrallensreport00allen\"	https://archive.org/details/mrallensreport00allen
+https://commons.wikimedia.org/w/\"https:/archive.org/download/mrallensreport00allen/mrallensreport00allen.pdf\"	https://archive.org/download/mrallensreport00allen/mrallensreport00allen.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/cihm_17993\"	Internet Archive identifier : cihm_17993
+https://commons.wikimedia.org/w/\"https:/archive.org/download/cihm_17993/cihm_17993.pdf\"	https://archive.org/download/cihm_17993/cihm_17993.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/shortsketchofcha01newy\"	Internet Archive identifier : shortsketchofcha01newy
+https://commons.wikimedia.org/w/\"https:/archive.org/download/shortsketchofcha01newy/shortsketchofcha01newy.pdf\"	https://archive.org/download/shortsketchofcha01newy/shortsketchofcha01newy.pdf
+https://commons.wikimedia.org/w/\"https:/archive.org/search.php?query=sim_pubid%3A5320%20AND%20volume%3A8\"	Volume 8
+https://commons.wikimedia.org/w/\"https:/archive.org/details/sim_raw_scan_IA1532521-02/page/n451\"	IA1532521-02
+https://commons.wikimedia.org/w/\"https:/archive.org/details/sim_evangelist-and-religious-review_1837-08-19_8_34\"	sim_evangelist-and-religious-review_1837-08-19_8_34
+https://commons.wikimedia.org/w/\"https:/archive.org/details/sim_evangelist-and-religious-review_1837-09-02_8_36\"	sim_evangelist-and-religious-review_1837-09-02_8_36
+https://commons.wikimedia.org/w/\"/archive.org/details/sim_evangelist-and-religious-review_1837-08-26_8_35\"	Internet Archive identifier : sim_evangelist-and-religious-review_1837-08-26_8_35
+https://commons.wikimedia.org/w/\"https:/archive.org/download/sim_evangelist-and-religious-review_1837-08-26_8_35/sim_evangelist-and-religious-review_1837-08-26_8_35.pdf\"	https://archive.org/download/sim_evangelist-and-religious-review_1837-08-26_8_35/sim_evangelist-and-religious-review_1837-08-26_8_35.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/cihm_63869\"	Internet Archive identifier : cihm_63869
+https://commons.wikimedia.org/w/\"https:/archive.org/download/cihm_63869/cihm_63869.pdf\"	https://archive.org/download/cihm_63869/cihm_63869.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/s5id13405300\"	Internet Archive identifier : s5id13405300
+https://commons.wikimedia.org/w/\"https:/archive.org/download/s5id13405300/s5id13405300.pdf\"	https://archive.org/download/s5id13405300/s5id13405300.pdf
+https://commons.wikimedia.org/w/\"https:/creativecommons.org/publicdomain/mark/1.0/\"	PDM
+https://commons.wikimedia.org/w/\"/archive.org/details/martyrdomoflovej7202tann\"	Internet Archive identifier : martyrdomoflovej7202tann
+https://commons.wikimedia.org/w/\"https:/archive.org/download/martyrdomoflovej7202tann/martyrdomoflovej7202tann.pdf\"	https://archive.org/download/martyrdomoflovej7202tann/martyrdomoflovej7202tann.pdf
+https://commons.wikimedia.org/w/\"/archive.org/details/b21976545\"	Internet Archive identifier : b21976545
+https://commons.wikimedia.org/w/\"https:/archive.org/download/b21976545/b21976545.pdf\"	https://archive.org/download/b21976545/b21976545.pdf
+https://commons.wikimedia.org/w/\"https:/creativecommons.org/publicdomain/mark/1.0/\"	PDM
+https://commons.wikimedia.org/w/\"/archive.org/details/b28746041_0001\"	Internet Archive identifier : b28746041_0001
+https://commons.wikimedia.org/w/\"https:/archive.org/download/b28746041_0001/b28746041_0001.pdf\"	https://archive.org/download/b28746041_0001/b28746041_0001.pdf
+https://commons.wikimedia.org/w/\"https:/creativecommons.org/publicdomain/mark/1.0/\"	PDM
+https://commons.wikimedia.org/w/\"/archive.org/details/ASPC0005073900\"	Internet Archive identifier : ASPC0005073900
+https://commons.wikimedia.org/w/\"https:/archive.org/download/ASPC0005073900/ASPC0005073900.pdf\"	https://archive.org/download/ASPC0005073900/ASPC0005073900.pdf
+https://commons.wikimedia.org/w/\"https:/en.wikipedia.org/wiki/en:David_Roberts_(painter)\"	David Roberts
+https://commons.wikimedia.org/w/\"https:/archive.org/details/holylandsyriaidu1to2robe\"	The Holy Land, Syria, Idumea, Arabia, Egypt, & Nubia

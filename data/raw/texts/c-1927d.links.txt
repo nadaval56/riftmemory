@@ -1,0 +1,123 @@
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03034\"	matpc.03034
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03030\"	matpc.03030
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/File:1927_map.jpg\"	1927_map.jpg
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/File:1927_map.jpg\"	1927_map.jpg
+https://commons.wikimedia.org/w/\"https:/he.wikipedia.org/wiki/%D7%A0%D7%AA%D7%9F_%D7%A9%D7%9C%D7%9D\"	he:\u05e0\u05ea\u05df \u05e9\u05dc\u05dd
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/w/index.php?title=User:TheCuriousGnome&action=edit&redlink=1\"	TheCuriousGnome
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/User_talk:TheCuriousGnome\"	talk
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2005001916/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2005001916/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.10445\"	https://hdl.loc.gov/loc.pnp/matpc.10445
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.10445\"	matpc.10445
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"http:/web.nli.org.il/sites/NLI/Hebrew/digitallibrary/pages/viewer.aspx?presentorid=NLI_EDU&DocID=NNL03_EDU700334100\"	The National Library of Israel Collections
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2005001900/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2005001900/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.10430\"	https://hdl.loc.gov/loc.pnp/matpc.10430
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.10430\"	matpc.10430
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004974/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004974/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03041\"	https://hdl.loc.gov/loc.pnp/matpc.03041
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03041\"	matpc.03041
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004975/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004975/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03042\"	https://hdl.loc.gov/loc.pnp/matpc.03042
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03042\"	matpc.03042
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004969/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004969/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03036\"	https://hdl.loc.gov/loc.pnp/matpc.03036
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03036\"	matpc.03036
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004973/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004973/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03040\"	https://hdl.loc.gov/loc.pnp/matpc.03040
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03040\"	matpc.03040
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004962/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004962/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03029\"	https://hdl.loc.gov/loc.pnp/matpc.03029
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03029\"	matpc.03029
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004968/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004968/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03035\"	https://hdl.loc.gov/loc.pnp/matpc.03035
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03035\"	matpc.03035
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004967/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004967/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03034\"	https://hdl.loc.gov/loc.pnp/matpc.03034
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03034\"	matpc.03034
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004963/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004963/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03030\"	https://hdl.loc.gov/loc.pnp/matpc.03030
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03030\"	matpc.03030
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"https:/www.loc.gov/pictures/collection/matpc/item/mpc2004004963/PP\"	https://www.loc.gov/pictures/collection/matpc/item/mpc2004004963/PP
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03030\"	https://hdl.loc.gov/loc.pnp/matpc.03030
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03030\"	matpc.03030
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"http:/www.pikiwiki.org.il?action=gallery&img_id=42395\"	PikiWiki - Israel free image collection project
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Public_domain\"	public domain
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Israel\"	details
+https://commons.wikimedia.org/w/\"https:/en.wikisource.org/wiki/he:%D7%97%D7%95%D7%A7_%D7%96%D7%9B%D7%95%D7%AA_%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D\"	Israel's copyright statute from 2007
+https://commons.wikimedia.org/w/\"http:/www.tau.ac.il/law/members/birnhack/IsraeliCopyrightAct2007.pdf\"	translation
+https://commons.wikimedia.org/w/\"http:/www.wipo.int/wipolex/en/text.jsp?file_id=128057\"	old British Mandate act
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Category:PD_Israel_%26_British_Mandate\"	PD Israel & British Mandate
+https://commons.wikimedia.org/w/\"http:/www.pikiwiki.org.il?action=gallery&img_id=42393\"	PikiWiki - Israel free image collection project
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Public_domain\"	public domain
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/Israel\"	details
+https://commons.wikimedia.org/w/\"https:/en.wikisource.org/wiki/he:%D7%97%D7%95%D7%A7_%D7%96%D7%9B%D7%95%D7%AA_%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D\"	Israel's copyright statute from 2007
+https://commons.wikimedia.org/w/\"http:/www.tau.ac.il/law/members/birnhack/IsraeliCopyrightAct2007.pdf\"	translation
+https://commons.wikimedia.org/w/\"http:/www.wipo.int/wipolex/en/text.jsp?file_id=128057\"	old British Mandate act
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Category:PD_Israel_%26_British_Mandate\"	PD Israel & British Mandate
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Library_of_Congress\"	Library of Congress
+https://commons.wikimedia.org/w/\"/www.loc.gov/rr/print/\"	Prints and Photographs division
+https://commons.wikimedia.org/w/\"https:/hdl.loc.gov/loc.pnp/matpc.03039\"	matpc.03039
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\"	copyright tag
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\"	Commons:Licensing
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/User_talk:Pikiwikisrael\"	notifying the project
+https://commons.wikimedia.org/w/\"https:/lists.wikimedia.org/pipermail/commons-l/2009-January/004483.html\"	Further information
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Mailing_lists\"	commons-l mailing list
+https://commons.wikimedia.org/w/\"https:/freedomdefined.org/Definition\"	free
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\"	use this content
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Template:PermissionTicket/Users\"	Volunteer Response Team (VRT) member
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team\"	permission archive
+https://commons.wikimedia.org/w/\"https:/ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2020030810002485\"	ticket #2020030810002485
+https://commons.wikimedia.org/w/\"/commons.wikimedia.org/wiki/Commons:Volunteer_Response_Team/Noticeboard\"	VRT noticeboard
+https://commons.wikimedia.org/w/\"https:/ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2020030810002485\"	https://ticket.wikimedia.org/otrs/index.pl?Action=AgentTicketZoom&TicketNumber=2020030810002485
+https://commons.wikimedia.org/w/\"https:/wcqs-beta.wmflabs.org/#%23defaultView%3AImageGrid%09%0ASELECT%20%3Fimage%20%20%20%7B%0A%20%20%3Ffile%20wdt%3AP6305%20%222020030810002485%22%20.%0A%20%20%3Ffile%20schema%3Aurl%20%3Fimage.%0A%7D%20%0A\"	
