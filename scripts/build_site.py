@@ -110,6 +110,20 @@ def figure_html(ids):
     return f'<div class="photo-group n{len(figs)}">{"".join(figs)}</div>'
 
 
+EVENT_PHOTOS = yaml.safe_load((ROOT / "data" / "event_photos.yaml").read_text(encoding="utf-8")) or {}
+
+
+def card_photo(event_id):
+    """תמונה לכרטיס הרעידה (data/event_photos.yaml), או None."""
+    ph = EVENT_PHOTOS.get(event_id)
+    if not ph or not (PHOTOS / f"{ph['image']}-640.webp").exists():
+        return None
+    img = IMAGES[ph["image"]]
+    return {"src": f"{BASE_PATH}/static/img/photos/{ph['image']}-640.webp", "pos": ph.get("pos", "center"),
+            "illustration": img["caption"].startswith("איור"),
+            "credit": f'{img["credit"]} · {img["license"]}'}
+
+
 def image_credits():
     """רשימת כל התמונות לדף "אודות"."""
     return [{"key": k, "caption": v["caption"], "credit": image_credit(v)} for k, v in IMAGES.items()
@@ -711,6 +725,7 @@ def build(drafts=False):
         e["has_wikipedia"] = any("wikipedia.org" in (s.get("url") or "") for s in e.get("sources") or [])
         seg = e["location"].get("segment")
         e["segment_name"] = segment_names.get(seg) if seg else None
+        e["card_photo"] = card_photo(e["id"])
         e["same_segment"] = [
             o for o in events
             if o is not e and seg and seg != echo.DISTANT and o["location"].get("segment") == seg

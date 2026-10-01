@@ -46,21 +46,10 @@ PAGES = {
     "about": ("על האתר ועל המקורות", "איך נבנה האתר ועל מה הוא מבוסס"),
 }
 
-# תמונה לכרטיס של כל רעידה: (מזהה ב-data/images.yaml, מיקוד החיתוך object-position[, קרדיט מקוצר])
-EVENT_PHOTOS = {
-    "0031bce-judea": ("ill-qumran", "center"),
-    "0130-judea": ("ill-chronicle", "center"),
-    "0363-galilee": ("sussita-aerial", "center"),
-    "0749-shviit": ("bet-shean-columns", "45% center"),
-    "0760bce-uzziah": ("tel-hazor", "center"),
-    "0881-acre": ("ill-catalogues", "40% center"),
-    "1033-jordan-valley": ("ill-harbour", "30% center"),
-    "1068-near-east": ("ill-ramla", "30% center"),
-    "1759-galilee-lebanon": ("baalbek-portal", "center 40%"),
-    "1834-jerusalem": ("ill-jerusalem-siege", "35% center"),
-    "1837-safed": ("roberts-tiberias-safed", "center"),
-    "1927-dead-sea": ("1927-winter-palace", "center", "אוסף מטסון, ספריית הקונגרס"),
-}
+# תמונה לכרטיס של כל רעידה: data/event_photos.yaml (משותף לכרטיסים בדף הבית)
+EVENT_PHOTOS = {k: (v["image"], v.get("pos", "center"), *([v["og_credit"]] if v.get("og_credit") else []))
+                for k, v in yaml.safe_load((ROOT / "data" / "event_photos.yaml").read_text(encoding="utf-8")).items()
+                if v.get("og", True)}
 IMAGES = yaml.safe_load((ROOT / "data" / "images.yaml").read_text(encoding="utf-8"))
 
 # גבולות המפה (קו רוחב / אורך) והגודל שלה בכרטיס
