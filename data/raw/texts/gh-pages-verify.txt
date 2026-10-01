@@ -1,0 +1,184 @@
+SOURCE: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages
+
+Verifying your custom domain for GitHub Pages - GitHub Docs
+
+Skip to main content
+
+Skip to content
+
+GitHub Docs
+
+Search or ask Copilot/Menu
+
+Collapse sidebarExpand sidebar
+Scroll breadcrumbs left
+
+Home
+GitHub Pages
+Configure a custom domain
+Verify a custom domainScroll breadcrumbs right
+
+GitHub Pages
+
+Quickstart
+
+Get started
+
+What is GitHub Pages?
+
+Create a GitHub Pages site
+
+GitHub Pages limits
+
+Use custom workflows
+
+Configure publishing source
+
+Delete a GitHub Pages site
+
+Unpublish Pages site
+
+Create custom 404 page
+
+Secure site with HTTPS
+
+Use submodules with Pages
+
+Troubleshoot 404 errors
+
+Set up site with Jekyll
+
+GitHub Pages & Jekyll
+
+Create site with Jekyll
+
+Test site locally with Jekyll
+
+Add content to Pages site
+
+Set Markdown processor
+
+Add theme to Pages site
+
+Jekyll build errors for Pages
+
+Troubleshoot Jekyll errors
+
+Configure a custom domain
+
+Custom domains in GitHub Pages
+
+Manage a custom domain
+
+Verify a custom domain
+
+Troubleshoot a custom domain
+
+In this article
+
+Verifying your custom domain for GitHub Pages
+
+You can increase the security of your custom domain and avoid takeover attacks by verifying your domain.
+
+Copy markdown
+
+Who can use this feature?
+
+GitHub Pages is available in public repositories with GitHub Free and GitHub Free for organizations, and in public and private repositories with GitHub Pro, GitHub Team, GitHub Enterprise Cloud, and GitHub Enterprise Server. See GitHub's plans.
+
+In this article
+
+About domain verification for GitHub Pages
+
+Verifying a domain for your user site
+
+Verifying a domain for your organization site
+
+About domain verification for GitHub Pages
+
+When you verify a custom domain for your personal account, only repositories owned by your personal account may be used to publish a GitHub Pages site to the verified custom domain or the domain's immediate subdomains. Similarly, when you verify a custom domain for your organization, only repositories owned by that organization may be used to publish a GitHub Pages site to the verified custom domain or the domain's immediate subdomains.
+
+Verifying your domain stops other GitHub users from taking over your custom domain and using it to publish their own GitHub Pages site. Domain takeovers can happen when you delete your repository, when your billing plan is downgraded, or after any other change which unlinks the custom domain or disables GitHub Pages while the domain remains configured for GitHub Pages and is not verified.
+
+When you verify a domain, any immediate subdomains are also included in the verification. For example, if the github.com custom domain is verified, docs.github.com, support.github.com, and any other immediate subdomains will also be protected from takeovers.
+
+Warning
+
+We strongly recommend that you do not use wildcard DNS records, such as *.example.com. These records put you at an immediate risk of domain takeovers, even if you verify the domain. For example, if you verify example.com this prevents someone from using a.example.com but they could still take over b.a.example.com (which is covered by the wildcard DNS record).
+
+It's also possible to verify a domain for your organization, which displays a "Verified" badge on the organization  profile. For more information, see Verifying or approving a domain for your organization.
+
+Verifying a domain that is already taken
+
+You may be verifying a domain you own, which is currently in use by another user or organization, to make it available for your GitHub Pages website. In this case, the domain will be immediately released from GitHub Pages websites which are owned by other users or organizations. If you are attempting to verify an already verified domain (verified by another user or organization), the release process will not be successful.
+
+Verifying a domain for your user site
+
+Note
+
+If you don’t see the options described below, make sure you’re in your Profile settings, not your repository settings. Domain verification happens at the profile level.
+
+In the upper-right corner of any page on GitHub, click your profile picture, then click  Settings.
+
+In the sidebar, under "Code, planning, and automation", click  Pages.
+
+On the right, click Add a domain.
+
+Under "What domain would you like to add?," enter the domain you wish to verify and select Add domain.
+
+Follow the instructions under "Add a DNS TXT record" to create the TXT record with your domain hosting service.
+
+Wait for your DNS configuration to change, this may be immediate or take up to 24 hours. You can confirm the change to your DNS configuration by running the dig command on the command line. In the command below, replace USERNAME with your username and example.com with the domain you're verifying. If your DNS configuration has updated, you should see your new TXT record in the output.
+dig _github-pages-challenge-USERNAME.example.com +nostats +nocomments +nocmd TXT
+
+After confirming that your DNS configuration has updated, you can verify the domain. If the change wasn't immediate, and you have navigated away from the previous page, return to your Pages settings by following the first few steps and, to the right of the domain, click  and then click Continue verifying.
+
+To verify your domain, click Verify.
+
+To make sure your custom domain remains verified, keep the TXT record in your domain's DNS configuration.
+
+Verifying a domain for your organization site
+
+Organization owners can verify custom domains for their organization.
+
+Note
+
+If you don’t see the options described below, check that you’re in your Organization settings. Domain verification doesn’t take place in repository settings.
+
+In the upper-right corner of GitHub, click your profile picture, then click  Organizations.
+
+Select an organization by clicking on it.
+
+Under your organization name, click  Settings. If you cannot see the "Settings" tab, select the  dropdown menu, then click Settings.
+
+In the sidebar, under "Code, planning, and automation", click  Pages.
+
+On the right, click Add a domain.
+
+Under "What domain would you like to add?," enter the domain you wish to verify and select Add domain.
+
+Follow the instructions under "Add a DNS TXT record" to create the TXT record with your domain hosting service.
+
+Wait for your DNS configuration to change. This may be immediate or take up to 24 hours. You can confirm the change to your DNS configuration by running the dig command on the command line. In the command below, replace ORGANIZATION with the name of your organization and example.com with the domain you're verifying. If your DNS configuration has updated, you should see your new TXT record in the output.
+dig _github-pages-challenge-ORGANIZATION.example.com +nostats +nocomments +nocmd TXT
+
+After confirming that your DNS configuration has updated, you can verify the domain. If the change wasn't immediate, and you have navigated away from the previous page, return to your Pages settings by following the first few steps and, to the right of the domain, click  and then click Continue verifying.
+
+To verify your domain, click Verify.
+
+To make sure your custom domain remains verified, keep the TXT record in your domain's DNS configuration.
+
+Back to top
+
+Help and support
+
+Was this Doc helpful?
+YesNo
+
+Help us make GitHub Docs great!
+All Docs are open source. See something that's wrong or unclear? Submit a pull request.Make a contribution
+
+Still need help?
+Ask the GitHub communityContact supportExpert servicesBlog
+
+GitHub Inc. © 2026TermsPrivacyStatusPricing

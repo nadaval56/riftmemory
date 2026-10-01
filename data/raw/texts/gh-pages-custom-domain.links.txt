@@ -1,0 +1,80 @@
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#main-content	Skip to main content
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#main-content	Skip to content
+https://docs.github.com/en	
+https://docs.github.com/en	GitHub  Docs
+https://docs.github.com/en	Home
+https://docs.github.com/en/pages	GitHub Pages
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site	Configure a custom domain
+https://docs.github.com/en/pages	GitHub Pages
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site	
+https://docs.github.com/en/pages/quickstart	Quickstart
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages	What is GitHub Pages?
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site	Create a GitHub Pages site
+https://docs.github.com/en/pages/getting-started-with-github-pages/github-pages-limits	GitHub Pages limits
+https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages	Use custom workflows
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site	Configure publishing source
+https://docs.github.com/en/pages/getting-started-with-github-pages/deleting-a-github-pages-site	Delete a GitHub Pages site
+https://docs.github.com/en/pages/getting-started-with-github-pages/unpublishing-a-github-pages-site	Unpublish Pages site
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site	Create custom 404 page
+https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https	Secure site with HTTPS
+https://docs.github.com/en/pages/getting-started-with-github-pages/using-submodules-with-github-pages	Use submodules with Pages
+https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites	Troubleshoot 404 errors
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll	GitHub Pages & Jekyll
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll	Create site with Jekyll
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll	Test site locally with Jekyll
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll	Add content to Pages site
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll	Set Markdown processor
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll	Add theme to Pages site
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-jekyll-build-errors-for-github-pages-sites	Jekyll build errors for Pages
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites	Troubleshoot Jekyll errors
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages	Custom domains in GitHub Pages
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site	Manage a custom domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages	Verify a custom domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages	Troubleshoot a custom domain
+https://docs.github.com/en/get-started/learning-about-github/githubs-plans	GitHub's plans
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site?platform=mac	Mac
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site?platform=windows	Windows
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site?platform=linux	Linux
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#about-custom-domain-configuration	About custom domain configuration
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain	Configuring an apex domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain	Configuring a subdomain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#dns-records-for-your-custom-domain	DNS records for your custom domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#removing-a-custom-domain	Removing a custom domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#securing-your-custom-domain	Securing your custom domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#further-reading	Further reading
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#about-custom-domain-configuration	About custom domain configuration
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages	Verifying your custom domain for GitHub Pages
+https://www.isc.org/bind/	BIND
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain	Configuring an apex domain
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site	Configuring a publishing source for your GitHub Pages site
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#types-of-github-pages-sites	What is GitHub Pages?
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#cname-errors	Troubleshooting custom domains and GitHub Pages
+https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https	Securing your GitHub Pages site with HTTPS
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain-and-the-www-subdomain-variant	Configuring an apex domain and the www subdomain variant
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain	Configuring a subdomain
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#types-of-github-pages-sites	What is GitHub Pages?
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain	Configuring a subdomain
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site	Configuring a publishing source for your GitHub Pages site
+https://en.wikipedia.org/wiki/Internationalized_domain_name	Internationalized domain name
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#types-of-github-pages-sites	What is GitHub Pages?
+https://docs.github.com/en/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site	Changing the visibility of your GitHub Pages site
+http://WWW.EXAMPLE.COM	WWW.EXAMPLE.COM
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#cname-errors	Troubleshooting custom domains and GitHub Pages
+https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https	Securing your GitHub Pages site with HTTPS
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#dns-records-for-your-custom-domain	DNS records for your custom domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain-and-the-www-subdomain-variant	Configuring an apex domain and the www subdomain variant
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#removing-a-custom-domain	Removing a custom domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#securing-your-custom-domain	Securing your custom domain
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages	Verifying your custom domain for GitHub Pages
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#further-reading	Further reading
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages	Troubleshooting custom domains and GitHub Pages
+https://github.com	
+https://github.com/github/docs/blob/main/content/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site.md	Make a contribution
+https://github.com/orgs/community/discussions	Ask the GitHub community
+https://support.github.com	Contact support
+https://services.github.com	Expert services
+https://github.blog	Blog
+https://docs.github.com/en/site-policy/github-terms/github-terms-of-service	Terms
+https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement	Privacy
+https://www.githubstatus.com/	Status
+https://github.com/pricing	Pricing
