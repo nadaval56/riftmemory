@@ -119,7 +119,11 @@ def card_photo(event_id):
     if not ph or not (PHOTOS / f"{ph['image']}-640.webp").exists():
         return None
     img = IMAGES[ph["image"]]
-    return {"src": f"{BASE_PATH}/static/img/photos/{ph['image']}-640.webp", "pos": ph.get("pos", "center"),
+    from PIL import Image
+    # תמונה רחבה מאוד (פנורמה): בגרסת 640 אין מספיק גובה לחיתוך 16:9, ולכן הגרסה הגדולה
+    small = Image.open(PHOTOS / f"{ph['image']}-640.webp").size[1] >= 340
+    name = f"{ph['image']}-640.webp" if small else f"{ph['image']}.webp"
+    return {"src": f"{BASE_PATH}/static/img/photos/{name}", "pos": ph.get("pos", "center"),
             "illustration": img["caption"].startswith("איור"),
             "credit": f'{img["credit"]} · {img["license"]}'}
 

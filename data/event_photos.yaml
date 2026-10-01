@@ -14,5 +14,5 @@
 1759-galilee-lebanon: {image: baalbek-portal, pos: center 40%}
 1834-jerusalem: {image: ill-jerusalem-siege, pos: 35% center}
 1837-safed: {image: roberts-tiberias-safed, pos: center}
-1856-crete: {image: heraklion-doorframe, pos: center 25%, og: false}
+1856-crete: {image: candia-harbour-1843, pos: 8% center, og: false}
 1927-dead-sea: {image: 1927-winter-palace, pos: center, og_credit: 'אוסף מטסון, ספריית הקונגרס'}
