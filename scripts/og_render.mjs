@@ -18,5 +18,15 @@ await page.evaluate(() => document.fonts.ready);
 for (const key of keys) {
   await page.locator(`[id="${key}"]`).screenshot({ path: join(out, `${key}.png`) });
 }
+
+// אייקונים מתוך favicon.svg: ריבוע מלא בצבע הרקע (iOS מעגל פינות בעצמו)
+const svg = readFileSync(join(root, 'static', 'img', 'favicon.svg'), 'utf8');
+const icons = { 'apple-touch-icon.png': 180, 'favicon-48.png': 48 };
+for (const [name, size] of Object.entries(icons)) {
+  const p = await browser.newPage({ viewport: { width: size, height: size }, deviceScaleFactor: 1 });
+  await p.setContent(`<body style="margin:0;background:#f4f2ec"><div style="width:${size}px;height:${size}px;display:flex;align-items:center;justify-content:center">${svg.replace('<svg ', `<svg width="${Math.round(size * .8)}" height="${Math.round(size * .8)}" `)}</div></body>`);
+  await p.screenshot({ path: join(root, 'static', 'img', name) });
+  await p.close();
+}
 await browser.close();
-console.log(`${keys.length} images -> ${out}`);
+console.log(`${keys.length} images -> ${out}; icons: ${Object.keys(icons).join(', ')}`);

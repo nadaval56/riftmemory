@@ -8,6 +8,10 @@
 
 בכרטיס: שם, שנה, מקטע, ומפה קטנה של קווי ההעתקים (data/faults.geojson) שבה המקטע
 של הרעידה מודגש. אין נקודת מוקד: לרוב הרעידות אין קואורדינטות מאושרות (CLAUDE.md, כלל 9).
+לרעידה שיש לה תמונה (EVENT_PHOTOS) הכרטיס מציג את התמונה במקום המפה, עם קרדיט
+(הרישיונות CC BY ו-CC BY-SA מחייבים ייחוס גם בכרטיס השיתוף).
+
+השלב השני מייצר גם את האייקונים (apple-touch-icon ו-PNG ל-favicon) מתוך static/img/favicon.svg.
 """
 
 import json
@@ -18,6 +22,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
+
+import yaml  # noqa: E402
 
 import echo  # noqa: E402
 import fmt  # noqa: E402
@@ -39,6 +45,23 @@ PAGES = {
     "glossary": ("מילון מונחים", "מגניטודה, עוצמה, מוקד, העתק ועוד, עם מקור לכל הגדרה"),
     "about": ("על האתר ועל המקורות", "איך נבנה האתר ועל מה הוא מבוסס"),
 }
+
+# תמונה לכרטיס של כל רעידה: (מזהה ב-data/images.yaml, מיקוד החיתוך object-position[, קרדיט מקוצר])
+EVENT_PHOTOS = {
+    "0031bce-judea": ("ill-qumran", "center"),
+    "0130-judea": ("ill-chronicle", "center"),
+    "0363-galilee": ("sussita-aerial", "center"),
+    "0749-shviit": ("bet-shean-columns", "45% center"),
+    "0760bce-uzziah": ("tel-hazor", "center"),
+    "0881-acre": ("ill-catalogues", "40% center"),
+    "1033-jordan-valley": ("ill-harbour", "30% center"),
+    "1068-near-east": ("ill-ramla", "30% center"),
+    "1759-galilee-lebanon": ("baalbek-portal", "center 40%"),
+    "1834-jerusalem": ("ill-jerusalem-siege", "35% center"),
+    "1837-safed": ("roberts-tiberias-safed", "center"),
+    "1927-dead-sea": ("1927-winter-palace", "center", "אוסף מטסון, ספריית הקונגרס"),
+}
+IMAGES = yaml.safe_load((ROOT / "data" / "images.yaml").read_text(encoding="utf-8"))
 
 # גבולות המפה (קו רוחב / אורך) והגודל שלה בכרטיס
 BOX = dict(min_lat=28.3, max_lat=34.4, min_lon=34.2, max_lon=37.0)
@@ -68,14 +91,25 @@ def fault_map(segments, highlight=None):
     return f'<svg class="map" viewBox="0 0 {MAP_W} {MAP_H}" aria-hidden="true">{"".join(paths)}</svg>'
 
 
-def card(key, title, sub, meta, segments, highlight=None):
+def photo_panel(photo):
+    key, pos, *short = photo
+    img = IMAGES[key]
+    src = (ROOT / "static" / "img" / "photos" / f"{key}.webp").as_uri()
+    who = short[0] if short else img["credit"]
+    credit = who if img["license"] == "נחלת הכלל" else f'{who} · {img["license"]}'
+    return (f'<div class="photo-wrap"><img src="{src}" style="object-position:{pos}" alt="">'
+            f'<span class="credit">{escape(credit)}</span></div>')
+
+
+def card(key, title, sub, meta, segments, highlight=None, photo=None):
     size = "xl" if len(title) <= 16 else "l" if len(title) <= 28 else "m"
     meta_html = f'<p class="meta">{escape(meta)}</p>' if meta else ""
-    return (f'<section class="card" id="{key}">'
+    side = photo_panel(photo) if photo else f'<div class="map-wrap">{fault_map(segments, highlight)}</div>'
+    return (f'<section class="card{" with-photo" if photo else ""}" id="{key}">'
             f'<div class="text"><p class="brand">{ARCH}<span>{SITE_NAME}</span></p>'
             f'<h1 class="{size}">{escape(title)}</h1>{meta_html}<p class="sub">{escape(sub)}</p>'
             f'<p class="tag">{TAGLINE}</p></div>'
-            f'<div class="map-wrap">{fault_map(segments, highlight)}</div></section>')
+            f'{side}</section>')
 
 
 def main():
@@ -94,7 +128,8 @@ def main():
         # השנה כבר בשורה שמתחת לכותרת, אז בלי "(1927)" בסוף הכותרת
         title = re.sub(r"\s*\([^()]*\)$", "", e["title"])
         cards.append(card(f"event-{e['id']}", title, e.get("meta_description") or "", meta,
-                          segments, highlight=seg if seg in names else None))
+                          segments, highlight=seg if seg in names else None,
+                          photo=EVENT_PHOTOS.get(e["id"])))
     fonts = (ROOT / "static" / "fonts").as_uri()
     html = f"""<!doctype html><html lang="he" dir="rtl"><head><meta charset="utf-8"><style>
 @font-face {{ font-family: Heebo; font-weight: 100 900; src: url('{fonts}/heebo-hebrew.woff2') format('woff2'); }}
@@ -118,6 +153,13 @@ h1.xl {{ font-size: 84px; }} h1.l {{ font-size: 68px; }} h1.m {{ font-size: 56px
 .map polyline {{ fill: none; stroke-linecap: round; stroke-linejoin: round; }}
 .map .f {{ stroke: #9c968b; stroke-width: 3; }}
 .map .hl {{ stroke: #c96442; stroke-width: 7; }}
+.with-photo {{ padding-left: 0; padding-top: 0; padding-bottom: 0; }}
+.with-photo .text {{ padding: 56px 0; }}
+.with-photo h1.xl {{ font-size: 76px; }} .with-photo h1.l {{ font-size: 60px; }} .with-photo h1.m {{ font-size: 50px; }}
+.photo-wrap {{ position: relative; width: 520px; flex: none; overflow: hidden; background: #e3ded3; }}
+.photo-wrap img {{ width: 100%; height: 100%; object-fit: cover; display: block; }}
+.photo-wrap .credit {{ position: absolute; bottom: 12px; left: 14px; max-width: 480px; padding: 3px 10px;
+  font-size: 17px; color: #fff; background: rgba(31, 30, 29, .62); border-radius: 6px; direction: rtl; }}
 </style></head><body>{"".join(cards)}</body></html>"""
     OUT.mkdir(exist_ok=True)
     (OUT / "cards.html").write_text(html, encoding="utf-8")
