@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T14:00:33Z",
+  "fetched_at": "2026-10-01T15:00:42Z",
   "source": "gsi",
   "events": [
     {
@@ -959,25 +959,6 @@
           "1033-jordan-valley"
         ],
         "text": "זה האזור שנקרע בסביבות 749 וב-1033."
-      }
-    },
-    {
-      "time_utc": "2026-09-01T14:17:54Z",
-      "lat": 35.8192,
-      "lon": 35.7791,
-      "depth_km": 29.9,
-      "magnitude": 2.7,
-      "mag_type": null,
-      "place_he": "מזרח הים התיכון",
-      "place": "E.Mediter.-Sea",
-      "source_id": "gsi_loc_2026rhxy",
-      "loc_unc_km": 11.4,
-      "depth_unc_km": 8.2,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
   ],
