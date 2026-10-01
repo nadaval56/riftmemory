@@ -19,6 +19,7 @@ import os
 import re
 import shutil
 from pathlib import Path
+from urllib.parse import urlparse
 from zoneinfo import ZoneInfo
 
 import markdown
@@ -34,8 +35,10 @@ ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
 TZ = ZoneInfo("Asia/Jerusalem")
 
-SITE_URL = os.environ.get("SITE_URL", "https://nadaval56.github.io/riftmemory").rstrip("/")
-BASE_PATH = os.environ.get("BASE_PATH", "/riftmemory").rstrip("/")
+# בבנייה ב-Actions הערכים מגיעים מהגדרות GitHub Pages (configure-pages). ברירת המחדל: הדומיין של האתר.
+SITE_URL = os.environ.get("SITE_URL") or "https://quake.co.il"
+SITE_URL = SITE_URL.rstrip("/")
+BASE_PATH = os.environ.get("BASE_PATH", "").rstrip("/")
 
 SITE_NAME = "רעידת אדמה"
 SITE_TAGLINE = "רעידות אדמה היסטוריות בשבר הסורי-אפריקני"
@@ -441,6 +444,7 @@ def make_env():
         jsonld=jsonld,
         base=BASE_PATH,
         site_url=SITE_URL,
+        site_host=urlparse(SITE_URL).hostname,
         site_name=SITE_NAME,
         site_tagline=SITE_TAGLINE,
     )
