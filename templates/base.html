@@ -104,9 +104,23 @@
   <p>{{ site_name }} · {{ site_tagline }}</p>
   <p>האתר לא עוסק בתחזיות. רעידות קטנות קורות כל הזמן לאורך השבר, ואין להן משמעות חיזויית. <a href="{{ base }}/about/">על השיטה והמקורות</a></p>
   <p class="footer-links"><a href="{{ base }}/earthquake-safety/">מה עושים ברעידת אדמה</a> · <a href="{{ base }}/glossary/">מילון מונחים</a> · <a href="{{ base }}/about/">על האתר ועל המקורות</a> · <a href="{{ base }}/accessibility/">הצהרת נגישות</a> · <a href="{{ base }}/privacy/">מדיניות פרטיות</a></p>
+  {# פס האתרים הנוספים: שני עותקים, כדי ש-sister.js יזיז אותו בלולאה רציפה. השני מוסתר מקורא המסך ומהמקלדת. #}
+  <nav class="sister" aria-label="האתרים הנוספים שלי">
+    <span class="sister-lbl">עוד אתרים שלי</span>
+    <div class="sister-view">
+      <div class="sister-track">
+        {% for clone in (false, true) %}
+        <div class="sister-set{% if clone %} sister-clone{% endif %}"{% if clone %} aria-hidden="true"{% endif %}>
+          {% for emoji, url, text in sister_sites %}<a href="{{ url }}" rel="noopener"{% if clone %} tabindex="-1"{% endif %}><span aria-hidden="true">{{ emoji }}</span> {{ text }}</a>{% endfor %}
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </nav>
 </footer>
 {% block scripts %}{% endblock %}
 <script src="{{ asset('js/site.js') }}" defer></script>
 <script src="{{ asset('js/brand-anim.js') }}" defer></script>
+<script src="{{ asset('js/sister.js') }}" defer></script>
 </body>
 </html>
