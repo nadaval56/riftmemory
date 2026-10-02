@@ -1,9 +1,3 @@
-# סבב 41: תמונות להרקליון (רעידת 1856)
-c-crete-a https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&gsrsearch=Heraklion%20earthquake%201856&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-crete-b https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&gsrsearch=Candia%201856%20earthquake&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-crete-c https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&gsrsearch=Candia%20Crete%2019th%20century%20engraving&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-crete-d https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&gsrsearch=Heraklion%20Venetian%20walls&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-crete-e https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&gsrsearch=Koules%20fortress%20Heraklion&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-crete-f https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&gsrsearch=Candia%20lithograph&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-crete-g https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&gsrsearch=Heraklion%20old%20photograph&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
-c-crete-h https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=25&gsrsearch=Saint%20Mark%20basilica%20Heraklion&prop=imageinfo&iiprop=url|extmetadata|size&iiurlwidth=640
+# סבב 42: מקור למשפט על חיזוי (USGS)
+usgs-predict https://www.usgs.gov/faqs/can-you-predict-earthquakes
+usgs-foreshock https://www.usgs.gov/faqs/what-are-earthquake-foreshocks
