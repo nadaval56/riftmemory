@@ -55,6 +55,19 @@ WIKI_LICENSE = {
 }
 
 
+# פס "עוד אתרים שלי" בתחתית כל דף. אותה רשימה כמו באתרים האחרים של נדב (המקור: geniza-explorer,
+# sister_sites.py), בלי הקישור לאתר הזה עצמו. (אמוג'י, כתובת, טקסט)
+SISTER_SITES = [
+    ("🛠️", "https://making-il.co.il/", "מייקינג · יצירה טכנולוגית"),
+    ("💶", "https://banknote.co.il/", "Banknote · שטרות ומטבעות"),
+    ("📜", "https://geniza.co.il/", "הגניזה הקהירית · מסמכים מגניזת קהיר"),
+    ("🛩️", "https://dronexam.co.il/", 'לעוף לשמיים · מבחן רת"א לרחפנים'),
+    ("🌱", "https://holisticcenter.co.il/", "מעט צרי · רפואה משלימה"),
+    ("🛸", "https://pursue.co.il/", 'PURSUE · ארכיון עב"מים'),
+    ("📅", "https://heb-cal.co.il/", "לוח עברי"),
+]
+
+
 # --- תמונות ---------------------------------------------------------------
 
 # פרטי התמונות (כיתוב, קרדיט, רישיון) ב-data/images.yaml; הקבצים ב-static/img/photos/.
@@ -533,6 +546,7 @@ def make_env():
         site_host=urlparse(SITE_URL).hostname,
         site_name=SITE_NAME,
         site_tagline=SITE_TAGLINE,
+        sister_sites=SISTER_SITES,
     )
     return env
 
