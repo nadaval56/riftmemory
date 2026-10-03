@@ -561,7 +561,7 @@ def og_image(page_path):
 
 def jsonld(page_path, title, description, e=None):
     """נתונים מובנים (schema.org) לגוגל: WebSite בדף הבית, Article לכל דף אחר.
-    בדף רעידה גם about (האירוע, עם תאריך רק כשהוא ידוע לספירה) ו-citation (מקורות עם קישור)."""
+    בדף רעידה גם about, temporalCoverage (רק כשהתאריך ידוע לספירה), spatialCoverage ו-citation (מקורות עם קישור)."""
     url = f"{SITE_URL}{page_path}"
     publisher = {"@type": "Organization", "name": SITE_NAME, "url": f"{SITE_URL}/"}
     if page_path == "/":
@@ -573,14 +573,16 @@ def jsonld(page_path, title, description, e=None):
                 "image": f"{SITE_URL}/static/{og_image(page_path)}", "publisher": publisher,
                 "isPartOf": {"@type": "WebSite", "name": SITE_NAME, "url": f"{SITE_URL}/"}}
         if e:
-            about = {"@type": "Event", "name": e["title"]}
+            # לא Event: גוגל מפרש Event כאירוע שמתקיים (הופעה, כנס) ודורש startDate, location,
+            # offers ו-organizer (התראה ב-Search Console, 3.10.2026). רעידה היסטורית היא נושא
+            # של מאמר, ולכן about הוא Thing, והתאריך והמקום הם temporalCoverage ו-spatialCoverage.
+            data["about"] = {"@type": "Thing", "name": e["title"]}
             d = e.get("date") or {}
             if d.get("certainty") in ("exact", "approximate") and (d.get("year") or 0) > 0:
-                about["startDate"] = "-".join(f"{v:02d}" if i else f"{v:04d}"
-                                              for i, v in enumerate(x for x in (d["year"], d.get("month"), d.get("day")) if x))
+                data["temporalCoverage"] = "-".join(f"{v:02d}" if i else f"{v:04d}"
+                                                    for i, v in enumerate(x for x in (d["year"], d.get("month"), d.get("day")) if x))
             if e.get("segment_name"):
-                about["location"] = {"@type": "Place", "name": e["segment_name"]}
-            data["about"] = about
+                data["spatialCoverage"] = {"@type": "Place", "name": e["segment_name"]}
             cites = [{"@type": "CreativeWork", "name": s["label"], "url": s["url"]}
                      for s in e.get("sources") or [] if s.get("url") and "TODO" not in (s.get("label") or "")]
             if cites:
