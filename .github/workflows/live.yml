@@ -43,7 +43,11 @@ jobs:
             echo "no changes"
           else
             git commit -m "live: עדכון רעידות אחרונות"
-            git pull --rebase origin "${GITHUB_REF_NAME}"
+            # שתי ריצות קרובות (התזמון של GitHub, שמתעכב לפעמים בעשרות דקות, ו-cron-job.org)
+            # עלולות לכתוב את latest.json כמעט יחד, ואז ה-rebase מתנגש (3.10.2026). הקובץ הוא
+            # תמונת מצב שנוצרת מחדש בכל ריצה, ולכן בהתנגשות הגרסה של הריצה הזו גוברת
+            # (ב-rebase, "theirs" הוא הקומיט שלנו שמונח מחדש).
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}"
             git push
           fi
 
