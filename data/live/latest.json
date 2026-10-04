@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-04T12:00:30Z",
+  "fetched_at": "2026-10-04T13:00:33Z",
   "source": "gsi",
   "events": [
     {
@@ -855,27 +855,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-04T12:57:43Z",
-      "lat": 28.9571,
-      "lon": 34.5884,
-      "depth_km": 3.8,
-      "magnitude": 2.7,
-      "mag_type": null,
-      "place_he": "מפרץ אילת",
-      "place": "Aragonese-Deep",
-      "source_id": "gsi_loc_2026rnji",
-      "loc_unc_km": 10.9,
-      "depth_unc_km": 3.9,
-      "felt": null,
-      "segment": "arava",
-      "echo": {
-        "event_ids": [
-          "1068-near-east"
-        ],
-        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     }
   ],
