@@ -111,7 +111,7 @@
       <div class="sister-track">
         {% for clone in (false, true) %}
         <div class="sister-set{% if clone %} sister-clone{% endif %}"{% if clone %} aria-hidden="true"{% endif %}>
-          {% for emoji, url, text in sister_sites %}<a href="{{ url }}" rel="noopener"{% if clone %} tabindex="-1"{% endif %}><span aria-hidden="true">{{ emoji }}</span> {{ text }}</a>{% endfor %}
+          {% for emoji, url, text in sister_sites %}<a href="{{ url }}" rel="noopener"{% if 'chat.whatsapp.com' in url %} class="sister-invite"{% endif %}{% if clone %} tabindex="-1"{% endif %}><span aria-hidden="true">{{ emoji }}</span> {{ text }}</a>{% endfor %}
         </div>
         {% endfor %}
       </div>
