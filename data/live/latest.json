@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-04T08:00:28Z",
+  "fetched_at": "2026-10-04T09:00:34Z",
   "source": "gsi",
   "events": [
     {
@@ -71,16 +71,39 @@
       }
     },
     {
-      "time_utc": "2026-09-24T11:50:54Z",
-      "lat": 35.9575,
-      "lon": 36.5942,
-      "depth_km": 22.2,
+      "time_utc": "2026-09-27T08:20:37Z",
+      "lat": 29.6489,
+      "lon": 34.9566,
+      "depth_km": 24.4,
       "magnitude": 2.0,
-      "mag_type": "ml",
-      "place_he": "סוריה",
-      "place": "Syria",
-      "source_id": "20260924_0000170",
-      "provider": "emsc",
+      "mag_type": null,
+      "place_he": "הערבה",
+      "place": "Arava",
+      "source_id": "gsi_loc_2026tdmo",
+      "loc_unc_km": 3.6,
+      "depth_unc_km": 1.4,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
+    {
+      "time_utc": "2026-09-27T00:17:23Z",
+      "lat": 34.5375,
+      "lon": 33.7976,
+      "depth_km": 23.8,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026tcwl",
+      "loc_unc_km": 1.8,
+      "depth_unc_km": 4.2,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -879,6 +902,6 @@
   ],
   "supplement": {
     "source": "emsc",
-    "since": "2026-09-23T21:59:23Z"
+    "since": "2026-09-27T08:20:37Z"
   }
 }
