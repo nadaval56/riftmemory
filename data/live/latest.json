@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-04T07:00:49Z",
+  "fetched_at": "2026-10-04T08:00:28Z",
   "source": "gsi",
   "events": [
     {
@@ -866,27 +866,6 @@
       "place": "Arava",
       "source_id": "gsi_loc_2026rneu",
       "loc_unc_km": 1.8,
-      "depth_unc_km": 1.4,
-      "felt": null,
-      "segment": "arava",
-      "echo": {
-        "event_ids": [
-          "1068-near-east"
-        ],
-        "text": "באזור הזה נקרע השבר גם ב-1068:"
-      }
-    },
-    {
-      "time_utc": "2026-09-04T07:34:02Z",
-      "lat": 30.5575,
-      "lon": 35.2999,
-      "depth_km": 18.7,
-      "magnitude": 2.2,
-      "mag_type": null,
-      "place_he": "הערבה",
-      "place": "Arava",
-      "source_id": "gsi_loc_2026rmyn",
-      "loc_unc_km": 1.5,
       "depth_unc_km": 1.4,
       "felt": null,
       "segment": "arava",
