@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T01:00:34Z",
+  "fetched_at": "2026-10-05T01:02:00Z",
   "source": "gsi",
   "events": [
     {
@@ -812,25 +812,6 @@
       "source_id": "gsi_loc_2026roun",
       "loc_unc_km": 0.7,
       "depth_unc_km": 1.2,
-      "felt": null,
-      "segment": null,
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-05T01:01:45Z",
-      "lat": 32.2526,
-      "lon": 35.3321,
-      "depth_km": 6.6,
-      "magnitude": 2.4,
-      "mag_type": null,
-      "place_he": "מזרח השומרון",
-      "place": "E.Shomron",
-      "source_id": "gsi_loc_2026rohl",
-      "loc_unc_km": 0.6,
-      "depth_unc_km": 0.8,
       "felt": null,
       "segment": null,
       "echo": {
