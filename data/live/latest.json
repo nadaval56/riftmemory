@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T05:00:32Z",
+  "fetched_at": "2026-10-05T06:00:30Z",
   "source": "gsi",
   "events": [
     {
@@ -37,16 +37,18 @@
       }
     },
     {
-      "time_utc": "2026-09-29T09:33:28Z",
-      "lat": 34.4365,
-      "lon": 33.4179,
-      "depth_km": 14.0,
-      "magnitude": 2.3,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20260929_0000334",
-      "provider": "emsc",
+      "time_utc": "2026-09-29T09:33:31Z",
+      "lat": 34.2177,
+      "lon": 33.6033,
+      "depth_km": 32.4,
+      "magnitude": 3.1,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026thhb",
+      "loc_unc_km": 5.1,
+      "depth_unc_km": 16.4,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -54,16 +56,18 @@
       }
     },
     {
-      "time_utc": "2026-09-29T05:41:24Z",
-      "lat": 35.4582,
-      "lon": 35.298,
-      "depth_km": 6.2,
-      "magnitude": 3.0,
-      "mag_type": "ml",
-      "place_he": "ליד חוף סוריה",
-      "place": "Near The Coast Of Syria",
-      "source_id": "20260929_0000062",
-      "provider": "emsc",
+      "time_utc": "2026-09-29T05:41:28Z",
+      "lat": 35.361,
+      "lon": 35.4077,
+      "depth_km": 30.5,
+      "magnitude": 3.2,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026tgzi",
+      "loc_unc_km": 19.2,
+      "depth_unc_km": 30.7,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -822,6 +826,6 @@
   ],
   "supplement": {
     "source": "emsc",
-    "since": "2026-09-27T08:20:37Z"
+    "since": "2026-09-29T09:33:31Z"
   }
 }
