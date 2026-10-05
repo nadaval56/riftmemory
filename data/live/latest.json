@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T07:09:20Z",
+  "fetched_at": "2026-10-05T08:00:30Z",
   "source": "gsi",
   "events": [
     {
@@ -13,6 +13,25 @@
       "place": "Cyprus Region",
       "source_id": "20261002_0000032",
       "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-09-30T02:03:51Z",
+      "lat": 27.4213,
+      "lon": 35.5714,
+      "depth_km": 135.8,
+      "magnitude": 3.0,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Red-Sea",
+      "source_id": "gsi_loc_2026tioc",
+      "loc_unc_km": 42.3,
+      "depth_unc_km": 41.0,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -805,29 +824,10 @@
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
-    },
-    {
-      "time_utc": "2026-09-05T07:33:38Z",
-      "lat": 32.8605,
-      "lon": 35.2545,
-      "depth_km": 4.5,
-      "magnitude": 2.4,
-      "mag_type": null,
-      "place_he": "הגליל",
-      "place": "Galilee",
-      "source_id": "gsi_loc_2026roun",
-      "loc_unc_km": 0.7,
-      "depth_unc_km": 1.2,
-      "felt": null,
-      "segment": null,
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
-      }
     }
   ],
   "supplement": {
     "source": "emsc",
-    "since": "2026-09-29T15:31:07Z"
+    "since": "2026-09-30T02:03:51Z"
   }
 }
