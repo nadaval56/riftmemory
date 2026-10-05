@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T06:00:30Z",
+  "fetched_at": "2026-10-05T07:00:31Z",
   "source": "gsi",
   "events": [
     {
@@ -20,16 +20,18 @@
       }
     },
     {
-      "time_utc": "2026-09-29T15:31:03Z",
-      "lat": 34.6378,
-      "lon": 34.3208,
-      "depth_km": 28.0,
-      "magnitude": 2.9,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20260929_0000218",
-      "provider": "emsc",
+      "time_utc": "2026-09-29T15:31:07Z",
+      "lat": 34.8483,
+      "lon": 34.0034,
+      "depth_km": 32.6,
+      "magnitude": 3.4,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026thsz",
+      "loc_unc_km": 8.1,
+      "depth_unc_km": 21.1,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -826,6 +828,6 @@
   ],
   "supplement": {
     "source": "emsc",
-    "since": "2026-09-29T09:33:31Z"
+    "since": "2026-09-29T15:31:07Z"
   }
 }
