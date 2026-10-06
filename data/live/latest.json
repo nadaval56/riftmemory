@@ -1,22 +1,24 @@
 {
-  "fetched_at": "2026-10-06T04:00:29Z",
+  "fetched_at": "2026-10-06T05:00:37Z",
   "source": "gsi",
   "events": [
     {
-      "time_utc": "2026-10-02T03:16:56Z",
-      "lat": 34.4922,
-      "lon": 32.2443,
-      "depth_km": 23.6,
-      "magnitude": 2.3,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261002_0000032",
-      "provider": "emsc",
-      "segment": "distant",
+      "time_utc": "2026-10-05T21:35:31Z",
+      "lat": 27.8659,
+      "lon": 34.5619,
+      "depth_km": 28.7,
+      "magnitude": 2.6,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Red-Sea",
+      "source_id": "gsi_loc_2026tthg",
+      "loc_unc_km": 24.4,
+      "depth_unc_km": 8.8,
+      "felt": null,
+      "segment": null,
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -749,9 +751,5 @@
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
-  ],
-  "supplement": {
-    "source": "emsc",
-    "since": "2026-09-30T02:03:51Z"
-  }
+  ]
 }
