@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T08:02:39Z",
+  "fetched_at": "2026-10-06T09:00:30Z",
   "source": "gsi",
   "events": [
     {
@@ -82,6 +82,25 @@
           "1033-jordan-valley"
         ],
         "text": "זה האזור שנקרע בסביבות 749 וב-1033."
+      }
+    },
+    {
+      "time_utc": "2026-10-02T16:34:38Z",
+      "lat": 30.1503,
+      "lon": 32.4259,
+      "depth_km": 30.0,
+      "magnitude": 3.1,
+      "mag_type": null,
+      "place_he": "מפרץ סואץ",
+      "place": "Suez",
+      "source_id": "gsi_loc_2026tnjd",
+      "loc_unc_km": 6.9,
+      "depth_unc_km": 8.4,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
