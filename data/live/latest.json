@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T11:00:30Z",
+  "fetched_at": "2026-10-07T12:00:39Z",
   "source": "gsi",
   "events": [
     {
@@ -19,6 +19,25 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-05T07:58:09Z",
+      "lat": 33.8774,
+      "lon": 37.0242,
+      "depth_km": 8.4,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "תדמור (סוריה)",
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026tsfx",
+      "loc_unc_km": 7.3,
+      "depth_unc_km": 18.2,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -815,25 +834,6 @@
       "echo": {
         "event_ids": [],
         "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
-      }
-    },
-    {
-      "time_utc": "2026-09-07T11:57:24Z",
-      "lat": 32.2679,
-      "lon": 35.0461,
-      "depth_km": 8.0,
-      "magnitude": 2.3,
-      "mag_type": null,
-      "place_he": "יהודה ושומרון",
-      "place": "Judea-Samaria",
-      "source_id": "gsi_loc_2026rsvj",
-      "loc_unc_km": 2.5,
-      "depth_unc_km": 2.5,
-      "felt": null,
-      "segment": null,
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     }
   ]
