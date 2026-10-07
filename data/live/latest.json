@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T02:00:31Z",
+  "fetched_at": "2026-10-07T03:00:31Z",
   "source": "gsi",
   "events": [
     {
@@ -834,25 +834,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-07T02:50:44Z",
-      "lat": 32.9031,
-      "lon": 36.3961,
-      "depth_km": 15.6,
-      "magnitude": 2.1,
-      "mag_type": null,
-      "place_he": "ואדי סירחאן",
-      "place": "W.-Sirhan",
-      "source_id": "gsi_loc_2026rsdd",
-      "loc_unc_km": 2.0,
-      "depth_unc_km": 5.3,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
   ]
