@@ -1,7 +1,70 @@
 {
-  "fetched_at": "2026-10-08T21:00:37Z",
+  "fetched_at": "2026-10-08T22:00:29Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-08T05:19:05Z",
+      "lat": 29.9132,
+      "lon": 35.0753,
+      "depth_km": 12.0,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": "הערבה",
+      "place": "Arava",
+      "source_id": "gsi_loc_2026txot",
+      "loc_unc_km": 1.8,
+      "depth_unc_km": 1.6,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
+    {
+      "time_utc": "2026-10-08T01:04:17Z",
+      "lat": 28.6327,
+      "lon": 34.6182,
+      "depth_km": 1.1,
+      "magnitude": 2.3,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Arnona-Dakar-Deep",
+      "source_id": "gsi_loc_2026txgg",
+      "loc_unc_km": 14.1,
+      "depth_unc_km": 4.6,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
+    {
+      "time_utc": "2026-10-08T00:31:55Z",
+      "lat": 28.5782,
+      "lon": 34.67,
+      "depth_km": 4.3,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Arnona-Dakar-Deep",
+      "source_id": "gsi_loc_2026txfe",
+      "loc_unc_km": 13.8,
+      "depth_unc_km": 9.7,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
     {
       "time_utc": "2026-10-07T21:31:42Z",
       "lat": 29.3699,
