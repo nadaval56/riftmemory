@@ -1,7 +1,75 @@
 {
-  "fetched_at": "2026-10-10T05:00:30Z",
+  "fetched_at": "2026-10-10T06:00:30Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-10T02:28:13Z",
+      "lat": 34.8707,
+      "lon": 33.9872,
+      "depth_km": 19.1,
+      "magnitude": 3.2,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261010_0000045",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-09T20:15:12Z",
+      "lat": 35.0005,
+      "lon": 33.9183,
+      "depth_km": 0.7,
+      "magnitude": 3.3,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261009_0000305",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-09T19:49:45Z",
+      "lat": 34.7347,
+      "lon": 34.0492,
+      "depth_km": 18.4,
+      "magnitude": 3.5,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261009_0000303",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-09T17:49:08Z",
+      "lat": 35.8388,
+      "lon": 32.1657,
+      "depth_km": 14.0,
+      "magnitude": 2.4,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261009_0000257",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-10-08T05:19:05Z",
       "lat": 29.9132,
@@ -882,5 +950,9 @@
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
-  ]
+  ],
+  "supplement": {
+    "source": "emsc",
+    "since": "2026-10-08T05:19:05Z"
+  }
 }
