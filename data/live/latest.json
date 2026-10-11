@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-11T07:00:33Z",
+  "fetched_at": "2026-10-11T07:37:31Z",
   "source": "gsi",
   "events": [
     {
@@ -19,6 +19,25 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-08T12:07:40Z",
+      "lat": 34.9617,
+      "lon": 36.3347,
+      "depth_km": 32.4,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": "ימונה (לבנון)",
+      "place": "Yamune",
+      "source_id": "gsi_loc_2026tyck",
+      "loc_unc_km": 19.0,
+      "depth_unc_km": 22.6,
+      "felt": null,
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
