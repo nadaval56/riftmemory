@@ -6,6 +6,10 @@
 
 נמשכות רעידות מ-30 הימים האחרונים (למפה בדף הבית), מגניטודה 2.0 ומעלה,
 בתיבה 27–36 צפון, 32–38 מזרח.
+
+בנוסף, בנפרד: רעידות חזקות בכל העולם (מגניטודה 7 ומעלה) מ-USGS, לרובריקה
+"רעידות חזקות בעולם" בדף 30 הימים. פלט: data/live/world.json. נמשכת שנה אחורה,
+כדי שבחודש בלי רעידה כזו אפשר יהיה לציין מתי הייתה האחרונה. גם כאן, בכשל נשאר הקובץ הקודם.
 """
 
 import datetime as dt
@@ -19,6 +23,7 @@ import echo
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "live" / "latest.json"
+OUT_WORLD = ROOT / "data" / "live" / "world.json"
 
 USER_AGENT = "riftmemory/0.1 (https://github.com/nadaval56/riftmemory)"
 TIMEOUT = 30
@@ -155,6 +160,31 @@ def fetch_usgs(start, end):
     return out
 
 
+# רעידות חזקות בעולם: כל העולם, בלי תיבה
+WORLD_MIN_MAG = 7.0
+WORLD_DAYS = 365
+
+
+def fetch_world(end):
+    """רעידות חזקות בכל העולם, מהשנה האחרונה, מהחדשה לישנה."""
+    resp = session.get(USGS_API, timeout=TIMEOUT, params=dict(
+        format="geojson", starttime=iso_z(end - dt.timedelta(days=WORLD_DAYS)), endtime=iso_z(end),
+        minmagnitude=WORLD_MIN_MAG, eventtype="earthquake", orderby="time", limit=100,
+    ))
+    resp.raise_for_status()
+    out = []
+    for f in resp.json()["features"]:
+        p, (lon, lat, depth) = f["properties"], f["geometry"]["coordinates"]
+        if p.get("type") != "earthquake" or p.get("mag") is None or p["mag"] < WORLD_MIN_MAG:
+            continue
+        t = dt.datetime.fromtimestamp(p["time"] / 1000, dt.timezone.utc)
+        r = record(t, lat, lon, depth, p["mag"], p.get("magType"), place=p.get("place"), source_id=f["id"])
+        r["url"] = p.get("url")
+        out.append(r)
+    out.sort(key=lambda q: q["time_utc"], reverse=True)
+    return out
+
+
 # --- EMSC ---------------------------------------------------------------
 
 EMSC_API = "https://www.seismicportal.eu/fdsnws/event/1/query"
@@ -229,8 +259,26 @@ def supplement_from_emsc(events, end):
 
 
 def main():
-    only = sys.argv[1] if len(sys.argv) > 1 else None  # לבדיקה: fetch_live.py usgs
+    only = sys.argv[1] if len(sys.argv) > 1 else None  # לבדיקה: fetch_live.py usgs / fetch_live.py world
     end = dt.datetime.now(dt.timezone.utc)
+    if only in (None, "world"):
+        save_world(end)
+    if only != "world":
+        save_local(end, only)
+
+
+def save_world(end):
+    try:
+        events = fetch_world(end)
+    except Exception as exc:  # noqa: BLE001 — בכשל נשאר הקובץ הקודם
+        print(f"world: failed: {exc!r}; keeping previous world.json")
+        return
+    world = {"fetched_at": iso_z(end), "source": "usgs", "min_mag": WORLD_MIN_MAG, "events": events}
+    OUT_WORLD.write_text(json.dumps(world, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"world: saved {len(events)} events")
+
+
+def save_local(end, only):
     start = end - dt.timedelta(days=DAYS)
 
     for name, fn in SOURCES:

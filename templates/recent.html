@@ -18,6 +18,34 @@
   <p class="notice">המכון הגיאולוגי לא פרסם רעידות באזור מאז {{ supplement_since }}. רעידות מאז מוצגות לפי <a href="https://www.seismicportal.eu/" rel="noopener">EMSC</a>, המרכז הסייסמולוגי האירופי-ים תיכוני, ומסומנות ככאלה. הן עוד לא פורסמו במכון, והמיקום והמגניטודה שלהן עשויים להשתנות.</p>
   {% endif %}
 
+  {% if world %}
+  <section class="world" aria-labelledby="world-h">
+    <h2 id="world-h">רעידות חזקות בעולם</h2>
+    <p class="muted">רעידות במגניטודה {{ world.min_mag | int }} ומעלה בכל העולם בחודש האחרון, לפי USGS, הסקר הגיאולוגי של ארצות הברית.<sup><a class="footnote-ref" href="#r-usgs-world">2</a></sup> הן לא נכללות בספירות שבהמשך הדף, שעוסקות רק באזור שלנו.</p>
+    {% if world.month %}
+    <ol class="quake-list">
+      {% for q in world.month %}
+      <li class="quake">
+        <div class="quake-head">
+          <span class="quake-mag"><bdi dir="ltr">M{{ q.magnitude }}</bdi></span>
+          <span class="quake-place">{{ q.region_he or q.place }}</span>
+          <time class="quake-time" datetime="{{ q.time_utc }}">{{ q.local }}</time>
+        </div>
+        <dl class="quake-facts">
+          {% if q.region_he and q.place %}<div><dt>לפי USGS</dt><dd><bdi dir="ltr" lang="en">{{ q.place }}</bdi></dd></div>{% endif %}
+          {% if q.depth_km is not none %}<div><dt>עומק</dt><dd>{{ q.depth_km }} ק״מ</dd></div>{% endif %}
+        </dl>
+        {% if q.url %}<p class="quake-links"><a href="{{ q.url }}" rel="noopener">הרעידה באתר USGS</a></p>{% endif %}
+      </li>
+      {% endfor %}
+    </ol>
+    {% else %}
+    <p>בחודש האחרון לא נרשמו בעולם רעידות במגניטודה {{ world.min_mag | int }} ומעלה.
+    {% if world.last %}האחרונה: <bdi dir="ltr">M{{ world.last.magnitude }}</bdi>, {{ world.last.region_he or world.last.place }}, ב־{{ world.last.date }} (לפני {{ world.last_days }} ימים){% if world.last.url %}, <a href="{{ world.last.url }}" rel="noopener">באתר USGS</a>{% endif %}.{% endif %}</p>
+    {% endif %}
+  </section>
+  {% endif %}
+
   {% if quakes %}
   <section aria-labelledby="days-h">
     <h2 id="days-h">פילוח רעידות לפי ימים</h2>
@@ -67,8 +95,8 @@
 
   <section class="prose" aria-labelledby="how-h">
     <h2 id="how-h">איך לקרוא את הנתונים</h2>
-    <p><strong>מגניטודה (M)</strong> היא מספר שמבטא את גודל הרעידה במוקד, והיא מחושבת מהרישום של הגלים במכשירים. הסולם לוגריתמי: עלייה של יחידה אחת פירושה גלים גדולים פי 10 ברישום, ואנרגיה גדולה פי 32 בערך.<sup><a class="footnote-ref" href="#r-usgs-mag">2</a></sup> לכן רעידה של 4 משחררת אנרגיה גדולה פי אלף בערך מרעידה של 2.</p>
-    <p><strong>עומק</strong> הוא המרחק מפני הקרקע אל המוקד, הנקודה שבה התחיל הקרע.<sup><a class="footnote-ref" href="#r-usgs-gloss">3</a></sup></p>
+    <p><strong>מגניטודה (M)</strong> היא מספר שמבטא את גודל הרעידה במוקד, והיא מחושבת מהרישום של הגלים במכשירים. הסולם לוגריתמי: עלייה של יחידה אחת פירושה גלים גדולים פי 10 ברישום, ואנרגיה גדולה פי 32 בערך.<sup><a class="footnote-ref" href="#r-usgs-mag">3</a></sup> לכן רעידה של 4 משחררת אנרגיה גדולה פי אלף בערך מרעידה של 2.</p>
+    <p><strong>עומק</strong> הוא המרחק מפני הקרקע אל המוקד, הנקודה שבה התחיל הקרע.<sup><a class="footnote-ref" href="#r-usgs-gloss">4</a></sup></p>
     <p><strong>המרחק מקו השבר</strong> נמדד מהמוקד שהמכון מפרסם אל הקרוב שבקווי ההעתקים שעל המפה (GEM, מודל EMME). זה חישוב של האתר, לא של המכון. המוקד עצמו הוא הערכה, והמכון מפרסם לכל רעידה גם את אי־הוודאות שלו.<sup><a class="footnote-ref" href="#r-gsi">1</a></sup></p>
     <p><strong>ההד ההיסטורי</strong> מציין רק עובדה גיאוגרפית: באיזה מקטע תועדו רעידות גדולות בעבר. רעידה קטנה היום לא מלמדת דבר על השאלה אם ומתי תהיה רעידה גדולה.</p>
   </section>
@@ -77,6 +105,7 @@
     <h2>מקורות</h2>
     <div class="footnote"><ol>
       <li id="r-gsi">המכון הגיאולוגי לישראל, <a href="https://eq.gsi.gov.il/heb/earthquake/lastEarthquakes.php" rel="noopener">רעידות אדמה אחרונות</a>. הנתונים נמשכים מה־API של האתר פעם בשעה, באזור 27–36 צפון ו־32–38 מזרח.</li>
+      <li id="r-usgs-world">USGS, <a href="https://earthquake.usgs.gov/earthquakes/search/" rel="noopener">Search Earthquake Catalog</a>. הנתונים נמשכים פעם בשעה, רעידות במגניטודה 7 ומעלה בכל העולם.</li>
       <li id="r-usgs-mag">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity" rel="noopener">Earthquake Magnitude, Energy Release, and Shaking Intensity</a>: "each whole number increase in magnitude represents a tenfold increase in the measured amplitude, it represents an 32 times more energy release".</li>
       <li id="r-usgs-gloss">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes" rel="noopener">The Science of Earthquakes</a>: "The location below the earth’s surface where the earthquake starts is called the hypocenter".</li>
     </ol></div>
