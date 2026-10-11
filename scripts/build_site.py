@@ -278,6 +278,61 @@ def load_live():
     return live
 
 
+def load_world(now):
+    """רעידות חזקות בעולם (data/live/world.json, מ-USGS). None אם הקובץ עוד לא נוצר."""
+    path = ROOT / "data" / "live" / "world.json"
+    if not path.exists():
+        return None
+    world = json.loads(path.read_text(encoding="utf-8"))
+    for q in world["events"]:
+        q["time"] = dt.datetime.fromisoformat(q["time_utc"].replace("Z", "+00:00"))
+        q["region_he"] = world_region_he(q.get("place"))
+        q["local"] = local_time(q["time"])
+        lt = q["time"].astimezone(TZ)
+        q["date"] = f"{lt.day}.{lt.month}.{lt.year}"
+    month_ago = now - dt.timedelta(days=30)
+    world["month"] = [q for q in world["events"] if q["time"] >= month_ago]
+    world["last"] = world["events"][0] if world["events"] else None
+    if world["last"]:
+        world["last_days"] = (now - world["last"]["time"]).days
+    return world
+
+
+# שמות מדינות ואזורים בתיאור המקום של USGS ("85 km SSE of Sand Point, Alaska").
+# רק שם המקום מתורגם; התיאור המלא מוצג כמו שהוא, באנגלית. הסדר חשוב: הספציפי קודם.
+WORLD_REGIONS_HE = [
+    ("Aleutian Islands", "איי אלאוטים, אלסקה"), ("Alaska", "אלסקה"),
+    ("Kuril", "איי קוריל, רוסיה"), ("Kamchatka", "קמצ'טקה, רוסיה"), ("Russia", "רוסיה"),
+    ("Japan", "יפן"), ("Taiwan", "טייוואן"), ("China", "סין"), ("Philippine", "הפיליפינים"),
+    ("Indonesia", "אינדונזיה"), ("Timor", "טימור"), ("Papua New Guinea", "פפואה גינאה החדשה"),
+    ("Solomon Islands", "איי שלמה"), ("Vanuatu", "ונואטו"), ("New Caledonia", "קלדוניה החדשה"),
+    ("Fiji", "פיג'י"), ("Tonga", "טונגה"), ("Samoa", "סמואה"), ("Kermadec", "איי קרמדק, ניו זילנד"),
+    ("New Zealand", "ניו זילנד"), ("Macquarie", "האי מקווארי"), ("Mariana", "איי מריאנה"), ("Guam", "גואם"),
+    ("Chile", "צ'ילה"), ("Peru", "פרו"), ("Ecuador", "אקוודור"), ("Colombia", "קולומביה"),
+    ("Bolivia", "בוליביה"), ("Argentina", "ארגנטינה"), ("Mexico", "מקסיקו"), ("Guatemala", "גואטמלה"),
+    ("El Salvador", "אל סלבדור"), ("Nicaragua", "ניקרגואה"), ("Costa Rica", "קוסטה ריקה"),
+    ("Panama", "פנמה"), ("Honduras", "הונדורס"), ("Haiti", "האיטי"), ("Cayman", "איי קיימן"),
+    ("Jamaica", "ג'מייקה"), ("Puerto Rico", "פוארטו ריקו"), ("California", "קליפורניה"), ("CA", "קליפורניה"),
+    ("Oregon", "אורגון"), ("Canada", "קנדה"), ("Iceland", "איסלנד"),
+    ("Türkiye", "טורקיה"), ("Turkey", "טורקיה"), ("Greece", "יוון"), ("Italy", "איטליה"),
+    ("Morocco", "מרוקו"), ("Algeria", "אלג'יריה"), ("Iran", "איראן"), ("Afghanistan", "אפגניסטן"),
+    ("Pakistan", "פקיסטן"), ("Tajikistan", "טג'יקיסטן"), ("Kyrgyzstan", "קירגיזסטן"), ("Nepal", "נפאל"),
+    ("India", "הודו"), ("Myanmar", "מיאנמר"), ("South Sandwich", "איי סנדוויץ' הדרומיים"),
+    ("Drake Passage", "מעבר דרייק"), ("Mid-Atlantic Ridge", "הרכס המרכז-אטלנטי"),
+]
+
+
+def world_region_he(place):
+    """שם המקום בעברית לפי הרכיב האחרון בתיאור של USGS, או None אם אין תרגום."""
+    if not place:
+        return None
+    tail = place.rsplit(",", 1)[-1].strip()
+    for en, he in WORLD_REGIONS_HE:
+        if re.search(rf"\b{re.escape(en)}\b", tail):
+            return he
+    return None
+
+
 def relative_hours(t, now):
     """ "לפני 3 שעות" וכו'. בדף עצמו JS מעדכן את זה לפי השעון של הקורא."""
     minutes = int((now - t).total_seconds() // 60)
@@ -812,6 +867,7 @@ def build(drafts=False):
         live=live,
         supplement_since=(lambda t: f"{t.day}.{t.month}")(dt.datetime.fromisoformat(live["supplement"]["since"].replace("Z", "+00:00")).astimezone(TZ)) if live.get("supplement") else None,
         quakes=live_month["events"],
+        world=load_world(now),
         by_id=by_id,
         by_mag=by_mag,
         strongest=max(live_month["events"], key=lambda q: q["magnitude"], default=None),
