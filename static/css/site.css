@@ -505,6 +505,37 @@ svg[data-zoom].is-zoomed { cursor: grab; }
 .quake .echo { margin: .4rem 0 0; font-size: .9rem; }
 .live-more { margin: .3rem 0 0; font-size: .9rem; }
 .live-more a { color: inherit; }
+/* רעידות חזקות בעולם: משבצת בראש דף 30 הימים */
+.world { background: var(--surface); border: 1px solid var(--line); border-inline-start: 4px solid var(--quake); border-radius: var(--radius); padding: 1rem 1.1rem; margin: 1.2rem 0 1.6rem; }
+.world-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem .8rem; }
+.world-head h2 { margin: 0; font-size: 1.25rem; }
+.world-tag { font-size: .85rem; color: var(--quake); background: var(--surface-2); border: 1px solid var(--line); border-radius: 999px; padding: .1rem .6rem; }
+.world-note { margin: .4rem 0 .8rem; font-size: .92rem; color: var(--ink-2); }
+.world-fig { margin: 0 0 .8rem; }
+.world-map { display: block; width: 100%; height: auto; }
+.world-map .wm-sea { fill: var(--map-water); }
+.world-map .wm-land { fill: var(--surface-2); stroke: var(--line); stroke-width: .4; }
+.world-map .wm-q { fill: var(--map-live); stroke: var(--surface); stroke-width: .8; }
+.world-map .wm-q-halo { fill: var(--map-live); opacity: .22; }
+.world-map .wm-q-t { font: 700 7px var(--font); fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 2px; }
+.world-map .wm-il { fill: var(--accent); }
+.world-map .wm-il-t { font: 6px var(--font); fill: var(--accent-ink); paint-order: stroke; stroke: var(--surface); stroke-width: 2px; }
+.world-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .5rem; }
+.world-list li { display: flex; flex-wrap: wrap; align-items: baseline; gap: .2rem .7rem; padding-top: .5rem; border-top: 1px solid var(--line-soft); }
+.world-list li:first-child { border-top: 0; padding-top: 0; }
+.world-place { font-size: 1.02rem; }
+.world-en { color: var(--ink-2); font-size: .85rem; margin-inline-start: .3rem; }
+.world-meta { color: var(--ink-2); font-size: .88rem; margin-inline-start: auto; }
+.world-empty { margin: 0 0 .8rem; }
+@media (max-width: 600px) {
+  /* במסך צר המפה קטנה, והתוויות והנקודות מוגדלות כדי שיהיו קריאות */
+  .world-map .wm-q-t { font-size: 15px; }
+  .world-map .wm-il-t { font-size: 12px; }
+  .world-map .wm-q { r: 5px; }
+  .world-map .wm-q-halo { r: 11px; }
+  .world-map .wm-il { r: 3px; }
+}
+
 .mag-bands { list-style: none; padding: 0; margin: .6rem 0 0; display: flex; flex-wrap: wrap; gap: .5rem; }
 .mag-bands li { background: var(--surface); border: 1px solid var(--line-soft); border-radius: var(--radius); padding: .35rem .7rem; font-size: .9rem; }
 .mag-bands strong { color: var(--quake); font-size: 1.05rem; margin-inline-end: .2rem; }

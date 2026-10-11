@@ -295,6 +295,7 @@ def load_world(now):
     world["last"] = world["events"][0] if world["events"] else None
     if world["last"]:
         world["last_days"] = (now - world["last"]["time"]).days
+    world["map"] = world_map(world["month"] or ([world["last"]] if world["last"] else []))
     return world
 
 
@@ -303,7 +304,8 @@ def load_world(now):
 WORLD_REGIONS_HE = [
     ("Aleutian Islands", "איי אלאוטים, אלסקה"), ("Alaska", "אלסקה"),
     ("Kuril", "איי קוריל, רוסיה"), ("Kamchatka", "קמצ'טקה, רוסיה"), ("Russia", "רוסיה"),
-    ("Japan", "יפן"), ("Taiwan", "טייוואן"), ("China", "סין"), ("Philippine", "הפיליפינים"),
+    ("Japan", "יפן"), ("Taiwan", "טייוואן"), ("China", "סין"), ("Philippines", "הפיליפינים"),
+    ("Philippine", "הפיליפינים"), ("Malaysia", "מלזיה"), ("Vietnam", "וייטנאם"), ("Mongolia", "מונגוליה"),
     ("Indonesia", "אינדונזיה"), ("Timor", "טימור"), ("Papua New Guinea", "פפואה גינאה החדשה"),
     ("Solomon Islands", "איי שלמה"), ("Vanuatu", "ונואטו"), ("New Caledonia", "קלדוניה החדשה"),
     ("Fiji", "פיג'י"), ("Tonga", "טונגה"), ("Samoa", "סמואה"), ("Kermadec", "איי קרמדק, ניו זילנד"),
@@ -312,14 +314,46 @@ WORLD_REGIONS_HE = [
     ("Bolivia", "בוליביה"), ("Argentina", "ארגנטינה"), ("Mexico", "מקסיקו"), ("Guatemala", "גואטמלה"),
     ("El Salvador", "אל סלבדור"), ("Nicaragua", "ניקרגואה"), ("Costa Rica", "קוסטה ריקה"),
     ("Panama", "פנמה"), ("Honduras", "הונדורס"), ("Haiti", "האיטי"), ("Cayman", "איי קיימן"),
-    ("Jamaica", "ג'מייקה"), ("Puerto Rico", "פוארטו ריקו"), ("California", "קליפורניה"), ("CA", "קליפורניה"),
+    ("Jamaica", "ג'מייקה"), ("Venezuela", "ונצואלה"), ("Trinidad", "טרינידד וטובגו"),
+    ("Dominican Republic", "הרפובליקה הדומיניקנית"), ("Cuba", "קובה"), ("Puerto Rico", "פוארטו ריקו"), ("California", "קליפורניה"), ("CA", "קליפורניה"),
     ("Oregon", "אורגון"), ("Canada", "קנדה"), ("Iceland", "איסלנד"),
     ("Türkiye", "טורקיה"), ("Turkey", "טורקיה"), ("Greece", "יוון"), ("Italy", "איטליה"),
     ("Morocco", "מרוקו"), ("Algeria", "אלג'יריה"), ("Iran", "איראן"), ("Afghanistan", "אפגניסטן"),
     ("Pakistan", "פקיסטן"), ("Tajikistan", "טג'יקיסטן"), ("Kyrgyzstan", "קירגיזסטן"), ("Nepal", "נפאל"),
-    ("India", "הודו"), ("Myanmar", "מיאנמר"), ("South Sandwich", "איי סנדוויץ' הדרומיים"),
+    ("India", "הודו"), ("Myanmar", "מיאנמר"), ("Bangladesh", "בנגלדש"), ("Kazakhstan", "קזחסטן"),
+    ("Iraq", "עיראק"), ("Syria", "סוריה"), ("Lebanon", "לבנון"), ("Jordan", "ירדן"), ("Egypt", "מצרים"),
+    ("Cyprus", "קפריסין"), ("Saudi Arabia", "ערב הסעודית"), ("Yemen", "תימן"), ("Ethiopia", "אתיופיה"),
+    ("Australia", "אוסטרליה"), ("Micronesia", "מיקרונזיה"), ("Palau", "פלאו"), ("Wallis and Futuna", "ואליס ופוטונה"), ("South Sandwich", "איי סנדוויץ' הדרומיים"),
     ("Drake Passage", "מעבר דרייק"), ("Mid-Atlantic Ridge", "הרכס המרכז-אטלנטי"),
 ]
+
+
+def world_map(quakes):
+    """מפת עולם קטנה (SVG) עם הרעידות, וישראל לשם התמצאות. קו החוף: data/world_land.json."""
+    path = ROOT / "data" / "world_land.json"
+    if not path.exists() or not quakes:
+        return None
+    land = json.loads(path.read_text(encoding="utf-8"))
+    cut, north, south = land["cut"], land["north"], land["south"]
+    h = north - south
+
+    def xy(lat, lon):
+        return round((lon - cut) % 360, 1), round(north - lat, 1)
+
+    ix, iy = xy(31.8, 35.2)
+    marks = [f'<circle class="wm-il" cx="{ix}" cy="{iy}" r="2"/>'
+             f'<text class="wm-il-t" x="{ix}" y="{iy - 4}" text-anchor="middle">ישראל</text>']
+    for q in quakes:
+        x, y = xy(q["lat"], q["lon"])
+        # התווית בצד שיש בו מקום
+        anchor, dx = ("end", -6) if x > 300 else ("start", 6)
+        marks.append(f'<circle class="wm-q-halo" cx="{x}" cy="{y}" r="7"/><circle class="wm-q" cx="{x}" cy="{y}" r="3.2"/>'
+                     f'<text class="wm-q-t" x="{x + dx}" y="{y + 3}" text-anchor="{anchor}" direction="ltr">M{q["magnitude"]}</text>')
+    label = "מפת עולם: " + "; ".join(f"M{q['magnitude']}, {q['region_he'] or q['place']}" for q in quakes)
+    # שוליים של 12 מעלות בכל צד, כדי שרעידה בקצה המפה (למשל טונגה) לא תיחתך
+    return Markup(f'<svg class="world-map" viewBox="-12 0 384 {h}" role="img" aria-label="{escape(label)}">'
+                  f'<rect class="wm-sea" x="-12" width="384" height="{h}" rx="6"/><path class="wm-land" d="{land["path"]}"/>'
+                  + "".join(marks) + "</svg>")
 
 
 def world_region_he(place):

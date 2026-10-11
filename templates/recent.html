@@ -20,28 +20,26 @@
 
   {% if world %}
   <section class="world" aria-labelledby="world-h">
-    <h2 id="world-h">רעידות חזקות בעולם</h2>
-    <p class="muted">רעידות במגניטודה {{ world.min_mag | int }} ומעלה בכל העולם בחודש האחרון, לפי USGS, הסקר הגיאולוגי של ארצות הברית.<sup><a class="footnote-ref" href="#r-usgs-world">2</a></sup> הן לא נכללות בספירות שבהמשך הדף, שעוסקות רק באזור שלנו.</p>
+    <div class="world-head">
+      <h2 id="world-h">רעידות חזקות בעולם</h2>
+      <span class="world-tag">מגניטודה {{ world.min_mag | int }}+ · כל העולם · 30 יום</span>
+    </div>
+    <p class="world-note">רק הרעידות המשמעותיות ביותר בעולם, לפי USGS, הסקר הגיאולוגי של ארצות הברית.<sup><a class="footnote-ref" href="#r-usgs-world">2</a></sup> הן לא נכללות בספירות שבהמשך הדף, שעוסקות רק באזור שלנו.</p>
     {% if world.month %}
-    <ol class="quake-list">
+    {% if world.map %}<figure class="world-fig">{{ world.map }}</figure>{% endif %}
+    <ol class="world-list">
       {% for q in world.month %}
-      <li class="quake">
-        <div class="quake-head">
-          <span class="quake-mag"><bdi dir="ltr">M{{ q.magnitude }}</bdi></span>
-          <span class="quake-place">{{ q.region_he or q.place }}</span>
-          <time class="quake-time" datetime="{{ q.time_utc }}">{{ q.local }}</time>
-        </div>
-        <dl class="quake-facts">
-          {% if q.region_he and q.place %}<div><dt>לפי USGS</dt><dd><bdi dir="ltr" lang="en">{{ q.place }}</bdi></dd></div>{% endif %}
-          {% if q.depth_km is not none %}<div><dt>עומק</dt><dd>{{ q.depth_km }} ק״מ</dd></div>{% endif %}
-        </dl>
-        {% if q.url %}<p class="quake-links"><a href="{{ q.url }}" rel="noopener">הרעידה באתר USGS</a></p>{% endif %}
+      <li>
+        <span class="quake-mag"><bdi dir="ltr">M{{ q.magnitude }}</bdi></span>
+        <span class="world-place"><strong>{{ q.region_he or q.place }}</strong>{% if q.region_he and q.place %} <bdi class="world-en" dir="ltr" lang="en">{{ q.place }}</bdi>{% endif %}</span>
+        <span class="world-meta"><time datetime="{{ q.time_utc }}">{{ q.local }}</time>{% if q.depth_km is not none %} · עומק {{ q.depth_km }} ק״מ{% endif %}{% if q.url %} · <a href="{{ q.url }}" rel="noopener">USGS</a>{% endif %}</span>
       </li>
       {% endfor %}
     </ol>
     {% else %}
-    <p>בחודש האחרון לא נרשמו בעולם רעידות במגניטודה {{ world.min_mag | int }} ומעלה.
+    <p class="world-empty">בחודש האחרון לא נרשמו בעולם רעידות במגניטודה {{ world.min_mag | int }} ומעלה.
     {% if world.last %}האחרונה: <bdi dir="ltr">M{{ world.last.magnitude }}</bdi>, {{ world.last.region_he or world.last.place }}, ב־{{ world.last.date }} (לפני {{ world.last_days }} ימים){% if world.last.url %}, <a href="{{ world.last.url }}" rel="noopener">באתר USGS</a>{% endif %}.{% endif %}</p>
+    {% if world.map %}<figure class="world-fig">{{ world.map }}</figure>{% endif %}
     {% endif %}
   </section>
   {% endif %}
@@ -105,7 +103,7 @@
     <h2>מקורות</h2>
     <div class="footnote"><ol>
       <li id="r-gsi">המכון הגיאולוגי לישראל, <a href="https://eq.gsi.gov.il/heb/earthquake/lastEarthquakes.php" rel="noopener">רעידות אדמה אחרונות</a>. הנתונים נמשכים מה־API של האתר פעם בשעה, באזור 27–36 צפון ו־32–38 מזרח.</li>
-      <li id="r-usgs-world">USGS, <a href="https://earthquake.usgs.gov/earthquakes/search/" rel="noopener">Search Earthquake Catalog</a>. הנתונים נמשכים פעם בשעה, רעידות במגניטודה 7 ומעלה בכל העולם.</li>
+      <li id="r-usgs-world">USGS, <a href="https://earthquake.usgs.gov/earthquakes/search/" rel="noopener">Search Earthquake Catalog</a>. הנתונים נמשכים פעם בשעה, רעידות במגניטודה 7 ומעלה בכל העולם. קו החוף במפה: Natural Earth (נחלת הכלל).</li>
       <li id="r-usgs-mag">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquake-magnitude-energy-release-and-shaking-intensity" rel="noopener">Earthquake Magnitude, Energy Release, and Shaking Intensity</a>: "each whole number increase in magnitude represents a tenfold increase in the measured amplitude, it represents an 32 times more energy release".</li>
       <li id="r-usgs-gloss">USGS, <a href="https://www.usgs.gov/programs/earthquake-hazards/science-earthquakes" rel="noopener">The Science of Earthquakes</a>: "The location below the earth’s surface where the earthquake starts is called the hypocenter".</li>
     </ol></div>
