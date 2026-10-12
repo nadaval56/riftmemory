@@ -13,6 +13,22 @@
   <p class="lede">השבר הסורי-אפריקני נקרע שוב ושוב לאורך אלפי שנים, ולפעמים באותם מקטעים. כאן אפשר לקרוא מה קרה בכל אחת מרעידות האדמה הגדולות שתועדו בארץ, ולצפות בנתונים עדכניים מרעידות אחרונות שתועדו.</p>
 </section>
 
+{% if world %}
+{# קישור לרובריקה "רעידות חזקות בעולם" בדף 30 הימים. נקודה פועמת רק כשיש רעידה כזו בחודש האחרון. #}
+{% set wq = world.month[0] if world.month else none %}
+<a class="world-teaser{% if wq %} is-live{% endif %}" href="{{ base }}/recent/#world-h">
+  {% if wq %}<span class="wt-dot" aria-hidden="true"></span>{% endif %}
+  <span class="wt-kicker">רעידות חזקות בעולם</span>
+  {% if wq %}
+  <span class="wt-main"><bdi class="wt-mag" dir="ltr">M{{ wq.magnitude }}</bdi> {{ wq.region_he or wq.place }}
+    · <time datetime="{{ wq.time_utc }}" data-relative>{{ wq.ago }}</time>{% if world.month | length > 1 %} · ועוד {{ world.month | length - 1 }} החודש{% endif %}</span>
+  {% else %}
+  <span class="wt-main">בחודש האחרון לא נרשמו בעולם רעידות במגניטודה {{ world.min_mag | int }} ומעלה</span>
+  {% endif %}
+  <span class="wt-go" aria-hidden="true">←</span>
+</a>
+{% endif %}
+
 {% if featured and featured_reason in ("gregorian", "hebrew") %}
 <section class="today" aria-labelledby="today-h">
   <h2 id="today-h">היום בהיסטוריה</h2>

@@ -19,7 +19,7 @@
   {% endif %}
 
   {% if world %}
-  <section class="world" aria-labelledby="world-h">
+  <section class="world{% if world.month %} is-live{% endif %}" aria-labelledby="world-h">
     <div class="world-head">
       <h2 id="world-h">רעידות חזקות בעולם</h2>
       <span class="world-tag">מגניטודה {{ world.min_mag | int }}+ · כל העולם · 30 יום</span>
