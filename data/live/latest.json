@@ -1,52 +1,20 @@
 {
-  "fetched_at": "2026-10-12T08:00:34Z",
+  "fetched_at": "2026-10-12T09:00:39Z",
   "source": "gsi",
   "events": [
     {
-      "time_utc": "2026-10-11T22:48:13Z",
-      "lat": 34.7045,
-      "lon": 32.8058,
-      "depth_km": 14.6,
-      "magnitude": 2.0,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261011_0000365",
-      "provider": "emsc",
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-10-11T06:30:20Z",
-      "lat": 34.5795,
-      "lon": 32.7835,
-      "depth_km": 26.1,
-      "magnitude": 2.1,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261011_0000119",
-      "provider": "emsc",
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-10-10T10:26:52Z",
-      "lat": 34.6878,
-      "lon": 32.9422,
-      "depth_km": 12.6,
-      "magnitude": 2.1,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261010_0000447",
-      "provider": "emsc",
+      "time_utc": "2026-10-11T02:10:23Z",
+      "lat": 34.9617,
+      "lon": 34.1793,
+      "depth_km": 10.5,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026ucwo",
+      "loc_unc_km": 18.2,
+      "depth_unc_km": 28.6,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -1029,29 +997,6 @@
         "event_ids": [],
         "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
-    },
-    {
-      "time_utc": "2026-09-12T08:16:47Z",
-      "lat": 33.3409,
-      "lon": 35.4311,
-      "depth_km": 4.2,
-      "magnitude": 2.1,
-      "mag_type": null,
-      "place_he": "לבנון",
-      "place": "Lebanon",
-      "source_id": "gsi_loc_2026sbud",
-      "loc_unc_km": 2.2,
-      "depth_unc_km": 3.2,
-      "felt": null,
-      "segment": "lebanon",
-      "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
-      }
     }
-  ],
-  "supplement": {
-    "source": "emsc",
-    "since": "2026-10-10T06:57:58Z"
-  }
+  ]
 }
