@@ -46,6 +46,9 @@
   /* צבעי המפה: שלושה סוגי סימון, שלושה צבעים שונים (בנוסף לצורות השונות) */
   --map-live: #1f6fc5;  /* רעידה אחרונה: כחול עז */
   --map-dmg: #8a4fa3;   /* מקום שנפגע: סגול */
+  --alert: #d0362b;     /* אדום: נתון עדכני (רעידות חזקות בעולם) */
+  --alert-ink: #b22b21;
+  --alert-glow: rgba(208,54,43,.45);
   --warn-bg: #fbf3dc;
   --warn-ink: #7a5a10;
   --radius: 16px;
@@ -63,7 +66,7 @@
     --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
     --accent-ink: #e08a6b; --archaeology-ink: #c9a656; --instrumental-ink: #86a9c4;
     --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42; --map-live: #6aa9ee; --map-dmg: #c69ade;
-    --warn-bg: #33291a; --warn-ink: #e3c47a;
+    --warn-bg: #33291a; --warn-ink: #e3c47a; --alert: #ff6b5e; --alert-ink: #ff8a7f; --alert-glow: rgba(255,107,94,.4);
     color-scheme: dark;
   }
 }
@@ -74,7 +77,7 @@
   --accent: #e08a6b; --accent-soft: #33241e; --on-accent: #1a120e;
     --accent-ink: #e08a6b; --archaeology-ink: #c9a656; --instrumental-ink: #86a9c4;
   --texts: #e08a6b; --archaeology: #c9a656; --instrumental: #86a9c4; --live: #e08a6b; --quake: #86a9c4; --map-water: #2c3a42; --map-live: #6aa9ee; --map-dmg: #c69ade;
-  --warn-bg: #33291a; --warn-ink: #e3c47a;
+  --warn-bg: #33291a; --warn-ink: #e3c47a; --alert: #ff6b5e; --alert-ink: #ff8a7f; --alert-glow: rgba(255,107,94,.4);
   color-scheme: dark;
 }
 
@@ -241,6 +244,17 @@ main { max-width: 1080px; margin: 0 auto; padding: 1.2rem 16px 3rem; }
 
 /* ===== דף הבית ===== */
 .hero { max-width: var(--measure); }
+/* קישור לרובריקה "רעידות חזקות בעולם". הנקודה פועמת שלוש פעמים (פחות מ-5 שניות, WCAG 2.2.2) */
+.world-teaser { display: flex; flex-wrap: wrap; align-items: center; gap: .2rem .7rem; margin: 1.2rem 0 0; padding: .7rem 1rem;
+  background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); color: var(--ink); text-decoration: none; max-width: var(--measure); }
+.world-teaser:hover { border-color: var(--alert); }
+.world-teaser.is-live { border-inline-start: 4px solid var(--alert); }
+.wt-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--alert); animation: wt-pulse 1.5s ease-out .3s 3; }
+@keyframes wt-pulse { 0% { box-shadow: 0 0 0 0 var(--alert-glow); } 70% { box-shadow: 0 0 0 9px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
+.wt-kicker { font-size: .85rem; font-weight: 600; color: var(--alert-ink); }
+.wt-main { font-size: 1.02rem; }
+.wt-mag { font-weight: 700; color: var(--quake); }
+.wt-go { margin-inline-start: auto; color: var(--accent-ink); font-weight: 700; }
 .lede { font-size: 1.12rem; color: var(--ink-2); }
 .today, .home-map, .all-events { margin-top: 2.4rem; }
 .more { font-weight: 600; text-decoration: none; }
@@ -506,6 +520,10 @@ svg[data-zoom].is-zoomed { cursor: grab; }
 .live-more { margin: .3rem 0 0; font-size: .9rem; }
 .live-more a { color: inherit; }
 /* רעידות חזקות בעולם: משבצת בראש דף 30 הימים */
+/* הבהוב אדום עדין במסגרת כשיש רעידה בחודש האחרון. שלוש פעימות (פחות מ-5 שניות, WCAG 2.2.2) ואז נעצר. */
+.world.is-live { animation: world-glow 1.6s ease-out .4s 3; }
+@keyframes world-glow { 0% { box-shadow: 0 0 0 0 var(--alert-glow); border-color: var(--alert); } 70% { box-shadow: 0 0 0 7px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
+@media (prefers-reduced-motion: reduce) { .world.is-live, .world-teaser .wt-dot { animation: none; } }
 .world { background: var(--surface); border: 1px solid var(--line); border-inline-start: 4px solid var(--quake); border-radius: var(--radius); padding: 1rem 1.1rem; margin: 1.2rem 0 1.6rem; }
 .world-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem .8rem; }
 .world-head h2 { margin: 0; font-size: 1.25rem; }

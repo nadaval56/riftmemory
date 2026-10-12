@@ -856,6 +856,11 @@ def build(drafts=False):
 
     pages = []
 
+    world = load_world(now)
+    if world:
+        for q in world["events"]:
+            q["ago"] = relative_hours(q["time"], now)
+
     # דף הבית
     week_ago = now - dt.timedelta(days=7)
     latest = live["events"][0] if live["events"] else None
@@ -865,6 +870,7 @@ def build(drafts=False):
     live_month = dict(live, events=[q for q in live["events"] if q["time"] >= month_ago])
     write(SITE / "index.html", env.get_template("index.html").render(
         **common,
+        world=world,
         page_path="/",
         latest=latest,
         quiet=quiet,
@@ -901,7 +907,7 @@ def build(drafts=False):
         live=live,
         supplement_since=(lambda t: f"{t.day}.{t.month}")(dt.datetime.fromisoformat(live["supplement"]["since"].replace("Z", "+00:00")).astimezone(TZ)) if live.get("supplement") else None,
         quakes=live_month["events"],
-        world=load_world(now),
+        world=world,
         by_id=by_id,
         by_mag=by_mag,
         strongest=max(live_month["events"], key=lambda q: q["magnitude"], default=None),
