@@ -260,6 +260,8 @@
     var pause = ticker.querySelector(".lt-pause");
     pause.addEventListener("click", function () {
       var paused = ticker.classList.toggle("paused");
+      // הכפתור עוצר גם את הפעימות של "רעידות חזקות בעולם"
+      document.documentElement.classList.toggle("live-paused", paused);
       pause.setAttribute("aria-pressed", paused ? "true" : "false");
       pause.setAttribute("aria-label", paused ? "הפעלת הפס הנע" : "עצירת הפס הנע");
       pause.firstElementChild.textContent = paused ? "▶" : "❚❚";

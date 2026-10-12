@@ -244,12 +244,12 @@ main { max-width: 1080px; margin: 0 auto; padding: 1.2rem 16px 3rem; }
 
 /* ===== דף הבית ===== */
 .hero { max-width: var(--measure); }
-/* קישור לרובריקה "רעידות חזקות בעולם". הנקודה פועמת שלוש פעמים (פחות מ-5 שניות, WCAG 2.2.2) */
+/* קישור לרובריקה "רעידות חזקות בעולם". הנקודה פועמת כל הזמן, ונעצרת כמו ההבהוב של המשבצת (ראו .world.is-live) */
 .world-teaser { display: flex; flex-wrap: wrap; align-items: center; gap: .2rem .7rem; margin: 1.2rem 0 0; padding: .7rem 1rem;
   background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); color: var(--ink); text-decoration: none; max-width: var(--measure); }
 .world-teaser:hover { border-color: var(--alert); }
 .world-teaser.is-live { border-inline-start: 4px solid var(--alert); }
-.wt-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--alert); animation: wt-pulse 1.5s ease-out .3s 3; }
+.wt-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--alert); animation: wt-pulse 2s ease-out .3s infinite; }
 @keyframes wt-pulse { 0% { box-shadow: 0 0 0 0 var(--alert-glow); } 70% { box-shadow: 0 0 0 9px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
 .wt-kicker { font-size: .85rem; font-weight: 600; color: var(--alert-ink); }
 .wt-main { font-size: 1.02rem; }
@@ -520,8 +520,10 @@ svg[data-zoom].is-zoomed { cursor: grab; }
 .live-more { margin: .3rem 0 0; font-size: .9rem; }
 .live-more a { color: inherit; }
 /* רעידות חזקות בעולם: משבצת בראש דף 30 הימים */
-/* הבהוב אדום עדין במסגרת כשיש רעידה בחודש האחרון. שלוש פעימות (פחות מ-5 שניות, WCAG 2.2.2) ואז נעצר. */
-.world.is-live { animation: world-glow 1.6s ease-out .4s 3; }
+/* הבהוב אדום עדין במסגרת כשיש רעידה בחודש האחרון. רץ כל הזמן; נעצר בכפתור העצירה של הפס הנע,
+   ב"עצירת אנימציות" בתפריט הנגישות ובבקשה לפחות תנועה (WCAG 2.2.2) */
+.world.is-live { animation: world-glow 2.4s ease-out .4s infinite; }
+html.live-paused .world.is-live, html.live-paused .world-teaser .wt-dot { animation: none; }
 @keyframes world-glow { 0% { box-shadow: 0 0 0 0 var(--alert-glow); border-color: var(--alert); } 70% { box-shadow: 0 0 0 7px transparent; } 100% { box-shadow: 0 0 0 0 transparent; } }
 @media (prefers-reduced-motion: reduce) { .world.is-live, .world-teaser .wt-dot { animation: none; } }
 .world { background: var(--surface); border: 1px solid var(--line); border-inline-start: 4px solid var(--quake); border-radius: var(--radius); padding: 1rem 1.1rem; margin: 1.2rem 0 1.6rem; }
