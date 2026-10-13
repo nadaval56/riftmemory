@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T12:00:34Z",
+  "fetched_at": "2026-10-13T13:00:37Z",
   "source": "gsi",
   "events": [
     {
@@ -954,25 +954,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-13T12:06:52Z",
-      "lat": 34.7802,
-      "lon": 36.7679,
-      "depth_km": 32.4,
-      "magnitude": 2.9,
-      "mag_type": null,
-      "place_he": "סוריה",
-      "place": "Syria",
-      "source_id": "gsi_loc_2026sdxv",
-      "loc_unc_km": 11.4,
-      "depth_unc_km": 25.6,
-      "felt": null,
-      "segment": null,
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     }
   ]
