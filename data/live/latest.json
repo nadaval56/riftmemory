@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-14T06:00:34Z",
+  "fetched_at": "2026-10-14T07:00:35Z",
   "source": "gsi",
   "events": [
     {
-      "time_utc": "2026-10-13T07:56:14Z",
-      "lat": 34.8753,
-      "lon": 33.7012,
-      "depth_km": 53.7,
-      "magnitude": 2.1,
+      "time_utc": "2026-10-13T07:56:15Z",
+      "lat": 34.973,
+      "lon": 33.7448,
+      "depth_km": 47.4,
+      "magnitude": 2.0,
       "mag_type": "ml",
       "place_he": "אזור קפריסין",
       "place": "Cyprus Region",
@@ -870,25 +870,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-14T06:09:06Z",
-      "lat": 31.956,
-      "lon": 36.0415,
-      "depth_km": 2.4,
-      "magnitude": 2.0,
-      "mag_type": null,
-      "place_he": "צפון ירדן",
-      "place": "Northern-Jordan",
-      "source_id": "gsi_loc_2026sfhx",
-      "loc_unc_km": 42.7,
-      "depth_unc_km": 10.8,
-      "felt": null,
-      "segment": null,
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     }
   ],
