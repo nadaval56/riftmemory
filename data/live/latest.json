@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-14T17:00:37Z",
+  "fetched_at": "2026-10-14T18:00:34Z",
   "source": "gsi",
   "events": [
     {
@@ -846,25 +846,6 @@
       "source_id": "gsi_loc_2026sgrc",
       "loc_unc_km": 6.3,
       "depth_unc_km": 39.8,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-14T17:32:59Z",
-      "lat": 34.1314,
-      "lon": 34.1077,
-      "depth_km": 32.6,
-      "magnitude": 2.8,
-      "mag_type": null,
-      "place_he": "מזרח הים התיכון",
-      "place": "E.Mediter.-Sea",
-      "source_id": "gsi_loc_2026sges",
-      "loc_unc_km": 4.8,
-      "depth_unc_km": 16.1,
       "felt": null,
       "segment": "distant",
       "echo": {
