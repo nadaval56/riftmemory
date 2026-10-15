@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T15:00:40Z",
+  "fetched_at": "2026-10-15T16:00:37Z",
   "source": "gsi",
   "events": [
     {
@@ -800,25 +800,6 @@
           "1068-near-east"
         ],
         "text": "באזור הזה נקרע השבר גם ב-1068:"
-      }
-    },
-    {
-      "time_utc": "2026-09-15T16:00:24Z",
-      "lat": 29.3314,
-      "lon": 32.7316,
-      "depth_km": 0.2,
-      "magnitude": 2.9,
-      "mag_type": null,
-      "place_he": "מפרץ סואץ",
-      "place": "Suez",
-      "source_id": "gsi_loc_2026shxq",
-      "loc_unc_km": 7.4,
-      "depth_unc_km": 8.6,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
   ]
