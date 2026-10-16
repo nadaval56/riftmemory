@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-16T07:17:02Z",
+  "fetched_at": "2026-10-16T08:00:34Z",
   "source": "gsi",
   "events": [
     {
@@ -779,27 +779,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-16T07:24:12Z",
-      "lat": 31.0259,
-      "lon": 35.4586,
-      "depth_km": 13.8,
-      "magnitude": 2.2,
-      "mag_type": null,
-      "place_he": "אגן ים המלח",
-      "place": "Dead-Sea-Basin",
-      "source_id": "gsi_loc_2026sjcl",
-      "loc_unc_km": 1.5,
-      "depth_unc_km": 1.6,
-      "felt": null,
-      "segment": "arava",
-      "echo": {
-        "event_ids": [
-          "1068-near-east"
-        ],
-        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     }
   ]
