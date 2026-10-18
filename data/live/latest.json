@@ -1,7 +1,45 @@
 {
-  "fetched_at": "2026-10-18T05:00:30Z",
+  "fetched_at": "2026-10-18T05:59:58Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-17T20:34:46Z",
+      "lat": 33.6222,
+      "lon": 34.7301,
+      "depth_km": 7.8,
+      "magnitude": 2.3,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026upjm",
+      "loc_unc_km": 2.4,
+      "depth_unc_km": 3.0,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-17T09:42:40Z",
+      "lat": 31.9906,
+      "lon": 35.2057,
+      "depth_km": 9.9,
+      "magnitude": 2.0,
+      "mag_type": null,
+      "place_he": "יהודה ושומרון",
+      "place": "Judea-Samaria",
+      "source_id": "gsi_loc_2026uont",
+      "loc_unc_km": 0.7,
+      "depth_unc_km": 1.7,
+      "felt": null,
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-10-14T21:18:08Z",
       "lat": 34.9481,
