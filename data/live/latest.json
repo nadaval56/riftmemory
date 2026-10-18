@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-18T10:00:33Z",
+  "fetched_at": "2026-10-18T11:00:31Z",
   "source": "gsi",
   "events": [
     {
@@ -14,6 +14,25 @@
       "source_id": "gsi_loc_2026upjm",
       "loc_unc_km": 2.4,
       "depth_unc_km": 3.0,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-17T12:42:51Z",
+      "lat": 33.2139,
+      "lon": 34.6757,
+      "depth_km": 25.6,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Carmel-Tirza",
+      "source_id": "gsi_loc_2026uott",
+      "loc_unc_km": 1.5,
+      "depth_unc_km": 1.2,
       "felt": null,
       "segment": "distant",
       "echo": {
