@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T16:00:35Z",
+  "fetched_at": "2026-10-19T17:00:44Z",
   "source": "gsi",
   "events": [
     {
@@ -812,25 +812,6 @@
       "source_id": "gsi_loc_2026sqjl",
       "loc_unc_km": 36.6,
       "depth_unc_km": 64.8,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-19T16:04:54Z",
-      "lat": 32.7862,
-      "lon": 36.7942,
-      "depth_km": 4.7,
-      "magnitude": 2.5,
-      "mag_type": null,
-      "place_he": "ואדי סירחאן",
-      "place": "W.-Sirhan",
-      "source_id": "gsi_loc_2026sphw",
-      "loc_unc_km": 3.7,
-      "depth_unc_km": 5.0,
       "felt": null,
       "segment": "distant",
       "echo": {
