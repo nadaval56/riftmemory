@@ -1,7 +1,28 @@
 {
-  "fetched_at": "2026-10-21T05:00:32Z",
+  "fetched_at": "2026-10-21T06:00:38Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-20T16:44:01Z",
+      "lat": 28.9684,
+      "lon": 34.9189,
+      "depth_km": 8.4,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Saudi-Arabia",
+      "source_id": "gsi_loc_2026uupw",
+      "loc_unc_km": 10.7,
+      "depth_unc_km": 4.4,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
     {
       "time_utc": "2026-10-19T21:24:15Z",
       "lat": 34.7621,
