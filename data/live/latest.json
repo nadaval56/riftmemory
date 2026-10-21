@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T07:00:36Z",
+  "fetched_at": "2026-10-21T07:45:32Z",
   "source": "gsi",
   "events": [
     {
@@ -779,27 +779,6 @@
       "echo": {
         "event_ids": [],
         "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
-      }
-    },
-    {
-      "time_utc": "2026-09-21T07:39:00Z",
-      "lat": 29.6546,
-      "lon": 34.9651,
-      "depth_km": 24.9,
-      "magnitude": 2.2,
-      "mag_type": null,
-      "place_he": "הערבה",
-      "place": "Arava",
-      "source_id": "gsi_loc_2026ssjb",
-      "loc_unc_km": 2.7,
-      "depth_unc_km": 1.5,
-      "felt": null,
-      "segment": "arava",
-      "echo": {
-        "event_ids": [
-          "1068-near-east"
-        ],
-        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     }
   ]
