@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T09:00:38Z",
+  "fetched_at": "2026-10-21T10:00:36Z",
   "source": "gsi",
   "events": [
     {
@@ -14,7 +14,7 @@
       "source_id": "gsi_loc_2026uvuk",
       "loc_unc_km": 1.5,
       "depth_unc_km": 1.3,
-      "felt": null,
+      "felt": "felt",
       "segment": "arava",
       "echo": {
         "event_ids": [
