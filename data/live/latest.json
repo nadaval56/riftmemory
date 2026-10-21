@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T12:00:35Z",
+  "fetched_at": "2026-10-21T13:00:38Z",
   "source": "gsi",
   "events": [
     {
@@ -762,25 +762,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-21T12:34:13Z",
-      "lat": 33.68,
-      "lon": 36.639,
-      "depth_km": 3.8,
-      "magnitude": 2.5,
-      "mag_type": null,
-      "place_he": "תדמור (סוריה)",
-      "place": "Palmira",
-      "source_id": "gsi_loc_2026sssx",
-      "loc_unc_km": 5.3,
-      "depth_unc_km": 3.5,
-      "felt": null,
-      "segment": null,
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     }
   ]
