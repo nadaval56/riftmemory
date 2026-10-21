@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T11:00:36Z",
+  "fetched_at": "2026-10-21T12:00:35Z",
   "source": "gsi",
   "events": [
     {
@@ -781,25 +781,6 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-21T11:11:42Z",
-      "lat": 34.5988,
-      "lon": 36.4922,
-      "depth_km": 0.5,
-      "magnitude": 2.7,
-      "mag_type": null,
-      "place_he": "לבנון",
-      "place": "Lebanon",
-      "source_id": "gsi_loc_2026ssqe",
-      "loc_unc_km": 16.9,
-      "depth_unc_km": 23.9,
-      "felt": null,
-      "segment": "lebanon",
-      "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     }
   ]
