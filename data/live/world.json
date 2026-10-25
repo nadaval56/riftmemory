@@ -1,8 +1,32 @@
 {
-  "fetched_at": "2026-10-25T02:00:34Z",
+  "fetched_at": "2026-10-25T03:00:34Z",
   "source": "usgs",
   "min_mag": 7.0,
   "events": [
+    {
+      "time_utc": "2026-10-24T02:09:00Z",
+      "lat": 28.0,
+      "lon": 139.9,
+      "depth_km": 473.0,
+      "magnitude": 7.0,
+      "mag_type": "Mi",
+      "place_he": null,
+      "place": "Bonin Islands, Japan region",
+      "source_id": "pt26298050",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26298050"
+    },
+    {
+      "time_utc": "2026-10-24T02:09:00Z",
+      "lat": 28.0,
+      "lon": 139.9,
+      "depth_km": 473.0,
+      "magnitude": 7.0,
+      "mag_type": "Mi",
+      "place_he": null,
+      "place": "Bonin Islands, Japan region",
+      "source_id": "pt26297050",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26297050"
+    },
     {
       "time_utc": "2026-10-22T14:33:40Z",
       "lat": 32.3805,
