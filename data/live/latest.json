@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T09:00:37Z",
+  "fetched_at": "2026-10-26T10:00:34Z",
   "source": "gsi",
   "events": [
     {
@@ -38,6 +38,25 @@
       "echo": {
         "event_ids": [],
         "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
+    },
+    {
+      "time_utc": "2026-10-23T07:55:02Z",
+      "lat": 32.7521,
+      "lon": 35.1447,
+      "depth_km": 6.0,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Carmel-Tirza",
+      "source_id": "gsi_loc_2026uzmi",
+      "loc_unc_km": 1.3,
+      "depth_unc_km": 1.7,
+      "felt": null,
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
