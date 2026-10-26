@@ -1,7 +1,26 @@
 {
-  "fetched_at": "2026-10-26T07:00:36Z",
+  "fetched_at": "2026-10-26T08:00:31Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-25T15:18:39Z",
+      "lat": 33.8865,
+      "lon": 36.7155,
+      "depth_km": 0.7,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "תדמור (סוריה)",
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026vdtd",
+      "loc_unc_km": 7.1,
+      "depth_unc_km": 8.0,
+      "felt": null,
+      "segment": null,
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-10-24T05:02:33Z",
       "lat": 33.2887,
