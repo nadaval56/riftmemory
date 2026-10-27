@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T00:00:33Z",
+  "fetched_at": "2026-10-27T00:31:49Z",
   "source": "gsi",
   "events": [
     {
@@ -800,25 +800,6 @@
           "1068-near-east"
         ],
         "text": "באזור הזה נקרע השבר גם ב-1068:"
-      }
-    },
-    {
-      "time_utc": "2026-09-27T00:17:23Z",
-      "lat": 34.5375,
-      "lon": 33.7976,
-      "depth_km": 23.8,
-      "magnitude": 2.7,
-      "mag_type": null,
-      "place_he": "מזרח הים התיכון",
-      "place": "E.Mediter.-Sea",
-      "source_id": "gsi_loc_2026tcwl",
-      "loc_unc_km": 1.8,
-      "depth_unc_km": 4.2,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
   ]
