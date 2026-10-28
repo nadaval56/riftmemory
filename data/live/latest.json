@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-10-28T22:00:36Z",
+  "fetched_at": "2026-10-28T23:00:32Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-28T04:53:55Z",
+      "lat": 32.0722,
+      "lon": 35.3495,
+      "depth_km": 6.2,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": "מזרח השומרון",
+      "place": "E.Shomron",
+      "source_id": "gsi_loc_2026vimj",
+      "loc_unc_km": 0.6,
+      "depth_unc_km": 0.9,
+      "felt": null,
+      "segment": "jordan-valley",
+      "echo": {
+        "event_ids": [
+          "0749-shviit",
+          "1033-jordan-valley"
+        ],
+        "text": "זה האזור שנקרע בסביבות 749 וב-1033."
+      }
+    },
     {
       "time_utc": "2026-10-25T22:03:51Z",
       "lat": 33.7685,
