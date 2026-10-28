@@ -1,7 +1,26 @@
 {
-  "fetched_at": "2026-10-28T12:00:36Z",
+  "fetched_at": "2026-10-28T13:00:41Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-25T22:03:51Z",
+      "lat": 33.7685,
+      "lon": 35.2655,
+      "depth_km": 16.2,
+      "magnitude": 2.0,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026vegq",
+      "loc_unc_km": 4.1,
+      "depth_unc_km": 7.0,
+      "felt": null,
+      "segment": "lebanon",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
+    },
     {
       "time_utc": "2026-10-25T15:18:39Z",
       "lat": 33.8865,
