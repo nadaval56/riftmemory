@@ -1,7 +1,28 @@
 {
-  "fetched_at": "2026-10-29T05:00:36Z",
+  "fetched_at": "2026-10-29T06:00:33Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-28T18:07:04Z",
+      "lat": 28.669,
+      "lon": 34.8204,
+      "depth_km": 13.4,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": "מפרץ אילת",
+      "place": "Aragonese-Deep",
+      "source_id": "gsi_loc_2026vjmv",
+      "loc_unc_km": 9.4,
+      "depth_unc_km": 6.9,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
     {
       "time_utc": "2026-10-28T04:53:55Z",
       "lat": 32.0722,
@@ -796,25 +817,6 @@
       "source_id": "gsi_loc_2026thhb",
       "loc_unc_km": 5.1,
       "depth_unc_km": 16.4,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-09-29T05:41:28Z",
-      "lat": 35.361,
-      "lon": 35.4077,
-      "depth_km": 30.5,
-      "magnitude": 3.2,
-      "mag_type": null,
-      "place_he": "מזרח הים התיכון",
-      "place": "E.Mediter.-Sea",
-      "source_id": "gsi_loc_2026tgzi",
-      "loc_unc_km": 19.2,
-      "depth_unc_km": 30.7,
       "felt": null,
       "segment": "distant",
       "echo": {
