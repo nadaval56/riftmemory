@@ -1,7 +1,41 @@
 {
-  "fetched_at": "2026-10-30T18:00:47Z",
+  "fetched_at": "2026-10-30T20:00:37Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-30T01:14:59Z",
+      "lat": 34.825,
+      "lon": 32.7348,
+      "depth_km": 20.3,
+      "magnitude": 2.2,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261030_0000135",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-29T04:16:11Z",
+      "lat": 34.943,
+      "lon": 32.4844,
+      "depth_km": 17.4,
+      "magnitude": 2.2,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261029_0000065",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-10-28T18:07:04Z",
       "lat": 28.669,
@@ -767,5 +801,9 @@
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
-  ]
+  ],
+  "supplement": {
+    "source": "emsc",
+    "since": "2026-10-28T18:07:04Z"
+  }
 }
