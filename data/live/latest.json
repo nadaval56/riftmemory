@@ -1,7 +1,24 @@
 {
-  "fetched_at": "2026-10-31T20:00:31Z",
+  "fetched_at": "2026-10-31T21:00:38Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-10-31T19:47:39Z",
+      "lat": 35.285,
+      "lon": 35.5459,
+      "depth_km": 4.1,
+      "magnitude": 2.2,
+      "mag_type": "ml",
+      "place_he": "ליד חוף סוריה",
+      "place": "Near The Coast Of Syria",
+      "source_id": "20261031_0000259",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-10-30T01:14:59Z",
       "lat": 34.825,
