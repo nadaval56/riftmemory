@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T08:00:29Z",
+  "fetched_at": "2026-11-01T09:00:31Z",
   "source": "gsi",
   "events": [
     {
@@ -19,6 +19,25 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-29T12:58:09Z",
+      "lat": 29.3745,
+      "lon": 34.239,
+      "depth_km": 5.6,
+      "magnitude": 2.6,
+      "mag_type": null,
+      "place_he": "סיני",
+      "place": "Sinai",
+      "source_id": "gsi_loc_2026vkyn",
+      "loc_unc_km": 4.4,
+      "depth_unc_km": 4.5,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
