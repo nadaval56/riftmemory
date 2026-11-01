@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-11-01T15:00:35Z",
+  "fetched_at": "2026-11-01T16:00:31Z",
   "source": "usgs",
   "min_mag": 7.0,
   "events": [
     {
       "time_utc": "2026-10-22T14:33:40Z",
-      "lat": 32.3805,
-      "lon": 93.7797,
+      "lat": 32.3376,
+      "lon": 93.7837,
       "depth_km": 18.0,
       "magnitude": 7.0,
       "mag_type": "mww",
       "place_he": null,
-      "place": "191 km ENE of Nagqu, China",
+      "place": "189 km ENE of Nagqu, China",
       "source_id": "us6000u43g",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g"
     },
