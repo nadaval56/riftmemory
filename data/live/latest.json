@@ -1,56 +1,24 @@
 {
-  "fetched_at": "2026-11-01T06:00:41Z",
+  "fetched_at": "2026-11-01T07:00:32Z",
   "source": "gsi",
   "events": [
     {
-      "time_utc": "2026-10-31T19:47:39Z",
-      "lat": 35.285,
-      "lon": 35.5459,
-      "depth_km": 4.1,
-      "magnitude": 2.2,
-      "mag_type": "ml",
-      "place_he": "ליד חוף סוריה",
-      "place": "Near The Coast Of Syria",
-      "source_id": "20261031_0000259",
-      "provider": "emsc",
-      "segment": "distant",
+      "time_utc": "2026-10-31T10:23:38Z",
+      "lat": 34.5087,
+      "lon": 36.733,
+      "depth_km": 1.5,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": "תדמור (סוריה)",
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026voll",
+      "loc_unc_km": 6.9,
+      "depth_unc_km": 4.8,
+      "felt": null,
+      "segment": null,
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-10-30T01:14:59Z",
-      "lat": 34.825,
-      "lon": 32.7348,
-      "depth_km": 20.3,
-      "magnitude": 2.2,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261030_0000135",
-      "provider": "emsc",
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-10-29T04:16:11Z",
-      "lat": 34.943,
-      "lon": 32.4844,
-      "depth_km": 17.4,
-      "magnitude": 2.2,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261029_0000065",
-      "provider": "emsc",
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+        "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
       }
     },
     {
@@ -799,9 +767,5 @@
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
-  ],
-  "supplement": {
-    "source": "emsc",
-    "since": "2026-10-28T18:07:04Z"
-  }
+  ]
 }
