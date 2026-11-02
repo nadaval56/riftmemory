@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T12:00:39Z",
+  "fetched_at": "2026-11-02T13:00:50Z",
   "source": "gsi",
   "events": [
     {
@@ -195,6 +195,27 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה מחוץ למקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-27T07:39:21Z",
+      "lat": 29.5196,
+      "lon": 34.887,
+      "depth_km": 20.6,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": "הערבה",
+      "place": "Arava",
+      "source_id": "gsi_loc_2026vgvw",
+      "loc_unc_km": 3.0,
+      "depth_unc_km": 1.2,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
