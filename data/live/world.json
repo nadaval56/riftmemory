@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T09:00:47Z",
+  "fetched_at": "2026-11-02T10:00:44Z",
   "source": "usgs",
   "min_mag": 7.0,
   "events": [
@@ -16,14 +16,14 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g"
     },
     {
-      "time_utc": "2026-10-09T17:56:06Z",
-      "lat": 7.5868,
-      "lon": -80.769,
-      "depth_km": 12.6,
+      "time_utc": "2026-10-09T17:56:05Z",
+      "lat": 7.6069,
+      "lon": -80.7566,
+      "depth_km": 10.0,
       "magnitude": 7.7,
       "mag_type": "mww",
       "place_he": null,
-      "place": "12 km WSW of Pitaloza Arriba, Panama",
+      "place": "10 km WSW of Pitaloza Arriba, Panama",
       "source_id": "us6000u18k",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k"
     },
