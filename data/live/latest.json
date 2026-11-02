@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T06:00:33Z",
+  "fetched_at": "2026-11-02T07:00:31Z",
   "source": "gsi",
   "events": [
     {
@@ -52,6 +52,44 @@
       "source_id": "gsi_loc_2026vnnp",
       "loc_unc_km": 23.8,
       "depth_unc_km": 30.2,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-10-30T09:37:15Z",
+      "lat": 33.3069,
+      "lon": 35.7414,
+      "depth_km": 14.4,
+      "magnitude": 2.1,
+      "mag_type": null,
+      "place_he": "ימונה (לבנון)",
+      "place": "Yamune",
+      "source_id": "gsi_loc_2026vmnw",
+      "loc_unc_km": 1.6,
+      "depth_unc_km": 2.2,
+      "felt": null,
+      "segment": "lebanon",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
+    },
+    {
+      "time_utc": "2026-10-30T01:15:28Z",
+      "lat": 34.7258,
+      "lon": 32.7873,
+      "depth_km": 30.5,
+      "magnitude": 3.3,
+      "mag_type": null,
+      "place_he": "קפריסין",
+      "place": "Cyprus",
+      "source_id": "gsi_loc_2026vlxd",
+      "loc_unc_km": 13.3,
+      "depth_unc_km": 41.1,
       "felt": null,
       "segment": "distant",
       "echo": {
