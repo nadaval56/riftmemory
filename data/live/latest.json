@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-11-03T04:00:37Z",
+  "fetched_at": "2026-11-03T05:00:44Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-11-02T18:19:28Z",
+      "lat": 31.5142,
+      "lon": 35.5129,
+      "depth_km": 19.7,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "אגן ים המלח",
+      "place": "Dead-Sea-Basin",
+      "source_id": "gsi_loc_2026vsti",
+      "loc_unc_km": 1.1,
+      "depth_unc_km": 0.9,
+      "felt": null,
+      "segment": "dead-sea",
+      "echo": {
+        "event_ids": [
+          "1834-jerusalem",
+          "1927-dead-sea"
+        ],
+        "text": "זה האזור שנקרע ב-1834 וב-1927."
+      }
+    },
     {
       "time_utc": "2026-11-02T00:50:29Z",
       "lat": 33.8706,
