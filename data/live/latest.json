@@ -1,7 +1,26 @@
 {
-  "fetched_at": "2026-11-04T05:00:32Z",
+  "fetched_at": "2026-11-04T06:00:32Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-11-03T19:07:53Z",
+      "lat": 27.4168,
+      "lon": 34.8976,
+      "depth_km": 29.9,
+      "magnitude": 2.9,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Red-Sea",
+      "source_id": "gsi_loc_2026vuqz",
+      "loc_unc_km": 17.5,
+      "depth_unc_km": 8.5,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-11-03T01:16:12Z",
       "lat": 33.3125,
