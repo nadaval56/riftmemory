@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-11-05T04:00:34Z",
+  "fetched_at": "2026-11-05T05:00:44Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-11-04T15:57:09Z",
+      "lat": 32.239,
+      "lon": 35.5673,
+      "depth_km": 17.9,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": "בקעת הירדן",
+      "place": "Jordan-Valley",
+      "source_id": "gsi_loc_2026vwgq",
+      "loc_unc_km": 0.8,
+      "depth_unc_km": 0.9,
+      "felt": null,
+      "segment": "jordan-valley",
+      "echo": {
+        "event_ids": [
+          "0749-shviit",
+          "1033-jordan-valley"
+        ],
+        "text": "זה האזור שנקרע בסביבות 749 וב-1033."
+      }
+    },
     {
       "time_utc": "2026-11-04T02:16:46Z",
       "lat": 35.0434,
