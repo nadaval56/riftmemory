@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T19:00:54Z",
+  "fetched_at": "2026-11-06T20:00:34Z",
   "source": "gsi",
   "events": [
     {
@@ -959,25 +959,6 @@
           "1068-near-east"
         ],
         "text": "באזור הזה נקרע השבר גם ב-1068:"
-      }
-    },
-    {
-      "time_utc": "2026-10-07T19:20:04Z",
-      "lat": 27.0221,
-      "lon": 34.9565,
-      "depth_km": 86.6,
-      "magnitude": 3.0,
-      "mag_type": null,
-      "place_he": null,
-      "place": "Red-Sea",
-      "source_id": "gsi_loc_2026twuu",
-      "loc_unc_km": 26.8,
-      "depth_unc_km": 34.9,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
   ]
