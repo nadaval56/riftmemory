@@ -1,7 +1,41 @@
 {
-  "fetched_at": "2026-11-07T00:00:35Z",
+  "fetched_at": "2026-11-07T01:00:33Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-11-06T09:26:20Z",
+      "lat": 34.7422,
+      "lon": 32.782,
+      "depth_km": 23.1,
+      "magnitude": 2.2,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261106_0000120",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-06T05:03:53Z",
+      "lat": 34.7403,
+      "lon": 32.7935,
+      "depth_km": 22.7,
+      "magnitude": 2.0,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261106_0000103",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-11-05T00:58:15Z",
       "lat": 33.6619,
@@ -939,27 +973,10 @@
         ],
         "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
-    },
-    {
-      "time_utc": "2026-10-08T00:31:55Z",
-      "lat": 28.5782,
-      "lon": 34.67,
-      "depth_km": 4.3,
-      "magnitude": 2.4,
-      "mag_type": null,
-      "place_he": null,
-      "place": "Arnona-Dakar-Deep",
-      "source_id": "gsi_loc_2026txfe",
-      "loc_unc_km": 13.8,
-      "depth_unc_km": 9.7,
-      "felt": null,
-      "segment": "arava",
-      "echo": {
-        "event_ids": [
-          "1068-near-east"
-        ],
-        "text": "באזור הזה נקרע השבר גם ב-1068:"
-      }
     }
-  ]
+  ],
+  "supplement": {
+    "source": "emsc",
+    "since": "2026-11-05T00:58:15Z"
+  }
 }
