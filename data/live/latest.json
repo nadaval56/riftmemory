@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T08:00:32Z",
+  "fetched_at": "2026-11-08T09:00:30Z",
   "source": "gsi",
   "events": [
     {
@@ -103,6 +103,25 @@
           "1033-jordan-valley"
         ],
         "text": "זה האזור שנקרע בסביבות 749 וב-1033."
+      }
+    },
+    {
+      "time_utc": "2026-11-04T14:18:20Z",
+      "lat": 27.5756,
+      "lon": 34.6337,
+      "depth_km": 27.8,
+      "magnitude": 3.3,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Red-Sea",
+      "source_id": "gsi_loc_2026vwdj",
+      "loc_unc_km": 16.9,
+      "depth_unc_km": 8.5,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     },
     {
