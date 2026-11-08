@@ -69,6 +69,7 @@ SISTER_SITES = [
     ("🌱", "https://holisticcenter.co.il/", "מעט צרי · רפואה משלימה"),
     ("🛸", "https://pursue.co.il/", 'PURSUE · ארכיון עב"מים'),
     ("📅", "https://heb-cal.co.il/", "לוח עברי"),
+    ("🧠", "https://cranialnerves.co.il/", "עצבי הגולגולת · 12 זוגות העצבים"),
 ]
 
 
