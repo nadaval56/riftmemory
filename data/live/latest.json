@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T07:00:35Z",
+  "fetched_at": "2026-11-08T08:00:32Z",
   "source": "gsi",
   "events": [
     {
@@ -67,7 +67,7 @@
       "lat": 29.2157,
       "lon": 34.706,
       "depth_km": 9.5,
-      "magnitude": 2.3,
+      "magnitude": 2.1,
       "mag_type": null,
       "place_he": "מפרץ אילת",
       "place": "Elat-Deep",
@@ -148,7 +148,7 @@
       "lat": 30.4338,
       "lon": 32.0499,
       "depth_km": 31.9,
-      "magnitude": 2.8,
+      "magnitude": 3.0,
       "mag_type": null,
       "place_he": "מפרץ סואץ",
       "place": "Suez",
@@ -163,30 +163,11 @@
       }
     },
     {
-      "time_utc": "2026-11-03T01:16:12Z",
-      "lat": 33.3125,
-      "lon": 34.7988,
-      "depth_km": 6.7,
-      "magnitude": 2.0,
-      "mag_type": null,
-      "place_he": "מזרח הים התיכון",
-      "place": "E.Mediter.-Sea",
-      "source_id": "gsi_loc_2026vthf",
-      "loc_unc_km": 2.0,
-      "depth_unc_km": 3.5,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
       "time_utc": "2026-11-03T00:11:35Z",
       "lat": 35.5674,
       "lon": 33.72,
       "depth_km": 17.7,
-      "magnitude": 2.6,
+      "magnitude": 2.4,
       "mag_type": null,
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
@@ -205,7 +186,7 @@
       "lat": 34.6532,
       "lon": 32.1698,
       "depth_km": 86.1,
-      "magnitude": 3.1,
+      "magnitude": 2.5,
       "mag_type": null,
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
