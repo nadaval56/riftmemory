@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T06:13:05Z",
+  "fetched_at": "2026-11-08T07:00:35Z",
   "source": "gsi",
   "events": [
     {
@@ -144,6 +144,25 @@
       }
     },
     {
+      "time_utc": "2026-11-03T11:46:51Z",
+      "lat": 30.4338,
+      "lon": 32.0499,
+      "depth_km": 31.9,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": "מפרץ סואץ",
+      "place": "Suez",
+      "source_id": "gsi_loc_2026vucg",
+      "loc_unc_km": 21.0,
+      "depth_unc_km": 54.6,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
       "time_utc": "2026-11-03T01:16:12Z",
       "lat": 33.3125,
       "lon": 34.7988,
@@ -223,30 +242,11 @@
       }
     },
     {
-      "time_utc": "2026-11-02T00:50:29Z",
-      "lat": 33.8706,
-      "lon": 35.4047,
-      "depth_km": 16.5,
-      "magnitude": 2.3,
-      "mag_type": null,
-      "place_he": "מזרח הים התיכון",
-      "place": "E.Mediter.-Sea",
-      "source_id": "gsi_loc_2026vrkj",
-      "loc_unc_km": 3.7,
-      "depth_unc_km": 3.6,
-      "felt": null,
-      "segment": "lebanon",
-      "echo": {
-        "event_ids": [],
-        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
-      }
-    },
-    {
       "time_utc": "2026-11-01T06:20:25Z",
       "lat": 35.2044,
       "lon": 34.6553,
       "depth_km": 30.0,
-      "magnitude": 3.4,
+      "magnitude": 3.3,
       "mag_type": null,
       "place_he": "מזרח הים התיכון",
       "place": "E.Mediter.-Sea",
