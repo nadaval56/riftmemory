@@ -1,56 +1,24 @@
 {
-  "fetched_at": "2026-11-08T05:00:36Z",
+  "fetched_at": "2026-11-08T06:00:32Z",
   "source": "gsi",
   "events": [
     {
-      "time_utc": "2026-11-07T02:30:14Z",
-      "lat": 34.6217,
-      "lon": 32.4767,
-      "depth_km": 8.3,
-      "magnitude": 2.4,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261107_0000030",
-      "provider": "emsc",
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-11-06T09:26:20Z",
-      "lat": 34.7422,
-      "lon": 32.782,
-      "depth_km": 23.1,
-      "magnitude": 2.2,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261106_0000120",
-      "provider": "emsc",
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-11-06T05:03:53Z",
-      "lat": 34.7403,
-      "lon": 32.7935,
-      "depth_km": 22.7,
+      "time_utc": "2026-11-07T16:05:50Z",
+      "lat": 33.5167,
+      "lon": 35.5883,
+      "depth_km": 6.7,
       "magnitude": 2.0,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261106_0000103",
-      "provider": "emsc",
-      "segment": "distant",
+      "mag_type": null,
+      "place_he": null,
+      "place": "Roum",
+      "source_id": "gsi_loc_2026wbuz",
+      "loc_unc_km": 2.3,
+      "depth_unc_km": 2.5,
+      "felt": null,
+      "segment": "lebanon",
       "echo": {
         "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
       }
     },
     {
@@ -930,9 +898,5 @@
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
-  ],
-  "supplement": {
-    "source": "emsc",
-    "since": "2026-11-05T00:58:15Z"
-  }
+  ]
 }
