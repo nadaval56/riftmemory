@@ -1,7 +1,29 @@
 {
-  "fetched_at": "2026-11-09T05:00:34Z",
+  "fetched_at": "2026-11-09T06:00:33Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-11-08T11:21:39Z",
+      "lat": 31.1064,
+      "lon": 35.4725,
+      "depth_km": 16.0,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": "אגן ים המלח",
+      "place": "Dead-Sea-Basin",
+      "source_id": "gsi_loc_2026wdhn",
+      "loc_unc_km": 2.3,
+      "depth_unc_km": 3.0,
+      "felt": null,
+      "segment": "dead-sea",
+      "echo": {
+        "event_ids": [
+          "1834-jerusalem",
+          "1927-dead-sea"
+        ],
+        "text": "זה האזור שנקרע ב-1834 וב-1927."
+      }
+    },
     {
       "time_utc": "2026-11-07T16:05:50Z",
       "lat": 33.5167,
@@ -57,6 +79,49 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-06T07:17:07Z",
+      "lat": 29.2701,
+      "lon": 34.7165,
+      "depth_km": 2.6,
+      "magnitude": 2.4,
+      "mag_type": null,
+      "place_he": "מפרץ אילת",
+      "place": "Elat-Deep",
+      "source_id": "gsi_loc_2026vzhi",
+      "loc_unc_km": 4.8,
+      "depth_unc_km": 4.9,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
+    {
+      "time_utc": "2026-11-06T03:47:53Z",
+      "lat": 31.3832,
+      "lon": 35.4184,
+      "depth_km": 18.4,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": "אגן ים המלח",
+      "place": "Dead-Sea-Basin",
+      "source_id": "gsi_loc_2026vzaj",
+      "loc_unc_km": 1.5,
+      "depth_unc_km": 1.0,
+      "felt": null,
+      "segment": "dead-sea",
+      "echo": {
+        "event_ids": [
+          "1834-jerusalem",
+          "1927-dead-sea"
+        ],
+        "text": "זה האזור שנקרע ב-1834 וב-1927."
       }
     },
     {
