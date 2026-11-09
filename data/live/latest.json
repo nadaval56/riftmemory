@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T06:00:33Z",
+  "fetched_at": "2026-11-09T07:00:33Z",
   "source": "gsi",
   "events": [
     {
@@ -79,6 +79,28 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-06T14:29:14Z",
+      "lat": 31.3707,
+      "lon": 35.5468,
+      "depth_km": 13.3,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "אגן ים המלח",
+      "place": "Dead-Sea-Basin",
+      "source_id": "gsi_loc_2026vzvt",
+      "loc_unc_km": 1.9,
+      "depth_unc_km": 1.8,
+      "felt": null,
+      "segment": "dead-sea",
+      "echo": {
+        "event_ids": [
+          "1834-jerusalem",
+          "1927-dead-sea"
+        ],
+        "text": "זה האזור שנקרע ב-1834 וב-1927."
       }
     },
     {
@@ -899,25 +921,6 @@
       "source_id": "gsi_loc_2026ubrb",
       "loc_unc_km": 5.5,
       "depth_unc_km": 6.9,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-10-10T06:57:58Z",
-      "lat": 34.8267,
-      "lon": 34.125,
-      "depth_km": 30.0,
-      "magnitude": 3.0,
-      "mag_type": null,
-      "place_he": "מזרח הים התיכון",
-      "place": "E.Mediter.-Sea",
-      "source_id": "gsi_loc_2026ubkc",
-      "loc_unc_km": 4.7,
-      "depth_unc_km": 3.9,
       "felt": null,
       "segment": "distant",
       "echo": {
