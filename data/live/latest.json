@@ -1,7 +1,28 @@
 {
-  "fetched_at": "2026-11-10T22:00:33Z",
+  "fetched_at": "2026-11-10T23:00:36Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-11-10T05:26:56Z",
+      "lat": 29.2202,
+      "lon": 34.7559,
+      "depth_km": 15.8,
+      "magnitude": 2.3,
+      "mag_type": null,
+      "place_he": "מפרץ אילת",
+      "place": "Elat-Deep",
+      "source_id": "gsi_loc_2026wgnt",
+      "loc_unc_km": 6.1,
+      "depth_unc_km": 5.7,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
     {
       "time_utc": "2026-11-09T23:13:31Z",
       "lat": 33.173,
