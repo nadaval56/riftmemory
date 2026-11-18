@@ -1,18 +1,274 @@
 {
-  "fetched_at": "2026-11-18T10:00:34Z",
+  "fetched_at": "2026-11-18T11:00:38Z",
   "source": "gsi",
   "events": [
     {
-      "time_utc": "2026-11-14T17:12:53Z",
-      "lat": 34.611,
-      "lon": 32.7479,
-      "depth_km": 37.0,
-      "magnitude": 2.6,
-      "mag_type": "ml",
-      "place_he": "אזור קפריסין",
-      "place": "Cyprus Region",
-      "source_id": "20261114_0000207",
-      "provider": "emsc",
+      "time_utc": "2026-11-17T09:03:12Z",
+      "lat": 29.354,
+      "lon": 32.5086,
+      "depth_km": 30.5,
+      "magnitude": 3.5,
+      "mag_type": null,
+      "place_he": "מפרץ סואץ",
+      "place": "Suez",
+      "source_id": "gsi_loc_2026wttd",
+      "loc_unc_km": 26.5,
+      "depth_unc_km": 46.4,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-16T22:20:33Z",
+      "lat": 29.6773,
+      "lon": 35.0399,
+      "depth_km": 21.1,
+      "magnitude": 2.3,
+      "mag_type": null,
+      "place_he": "הערבה",
+      "place": "Arava",
+      "source_id": "gsi_loc_2026wsxr",
+      "loc_unc_km": 3.5,
+      "depth_unc_km": 1.4,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
+    {
+      "time_utc": "2026-11-16T14:10:30Z",
+      "lat": 33.3624,
+      "lon": 34.6927,
+      "depth_km": 28.4,
+      "magnitude": 2.5,
+      "mag_type": null,
+      "place_he": "מזרח הים התיכון",
+      "place": "E.Mediter.-Sea",
+      "source_id": "gsi_loc_2026wshi",
+      "loc_unc_km": 3.0,
+      "depth_unc_km": 4.9,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-15T20:23:59Z",
+      "lat": 33.857,
+      "lon": 35.6004,
+      "depth_km": 7.9,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Roum",
+      "source_id": "gsi_loc_2026wqxu",
+      "loc_unc_km": 4.0,
+      "depth_unc_km": 3.4,
+      "felt": null,
+      "segment": "lebanon",
+      "echo": {
+        "event_ids": [],
+        "text": "אין רעידה היסטורית מתועדת באתר מהאזור הזה."
+      }
+    },
+    {
+      "time_utc": "2026-11-15T18:44:10Z",
+      "lat": 35.2521,
+      "lon": 36.022,
+      "depth_km": 32.4,
+      "magnitude": 2.9,
+      "mag_type": null,
+      "place_he": "סוריה",
+      "place": "Syria",
+      "source_id": "gsi_loc_2026wqul",
+      "loc_unc_km": 17.2,
+      "depth_unc_km": 31.7,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-14T17:12:58Z",
+      "lat": 34.7258,
+      "lon": 33.0078,
+      "depth_km": 10.5,
+      "magnitude": 3.1,
+      "mag_type": null,
+      "place_he": "קפריסין",
+      "place": "Cyprus",
+      "source_id": "gsi_loc_2026wovk",
+      "loc_unc_km": 6.3,
+      "depth_unc_km": 27.1,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-14T16:25:42Z",
+      "lat": 27.4576,
+      "lon": 35.0795,
+      "depth_km": 33.7,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Red-Sea",
+      "source_id": "gsi_loc_2026wotv",
+      "loc_unc_km": 31.2,
+      "depth_unc_km": 31.8,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-13T12:30:53Z",
+      "lat": 27.8024,
+      "lon": 33.491,
+      "depth_km": 32.8,
+      "magnitude": 3.5,
+      "mag_type": null,
+      "place_he": "מפרץ סואץ",
+      "place": "Suez",
+      "source_id": "gsi_loc_2026wmpz",
+      "loc_unc_km": 18.8,
+      "depth_unc_km": 34.7,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-13T00:30:52Z",
+      "lat": 28.7019,
+      "lon": 33.1451,
+      "depth_km": 4.1,
+      "magnitude": 3.1,
+      "mag_type": null,
+      "place_he": "מפרץ סואץ",
+      "place": "Suez",
+      "source_id": "gsi_loc_2026wlry",
+      "loc_unc_km": 15.8,
+      "depth_unc_km": 20.8,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-12T23:56:11Z",
+      "lat": 31.1155,
+      "lon": 35.4805,
+      "depth_km": 11.9,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "אגן ים המלח",
+      "place": "Dead-Sea-Basin",
+      "source_id": "gsi_loc_2026wlqu",
+      "loc_unc_km": 1.6,
+      "depth_unc_km": 1.9,
+      "felt": null,
+      "segment": "dead-sea",
+      "echo": {
+        "event_ids": [
+          "1834-jerusalem",
+          "1927-dead-sea"
+        ],
+        "text": "זה האזור שנקרע ב-1834 וב-1927."
+      }
+    },
+    {
+      "time_utc": "2026-11-12T07:53:27Z",
+      "lat": 27.5608,
+      "lon": 34.7984,
+      "depth_km": 5.4,
+      "magnitude": 3.5,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Red-Sea",
+      "source_id": "gsi_loc_2026wkks",
+      "loc_unc_km": 12.4,
+      "depth_unc_km": 7.5,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-11T20:41:44Z",
+      "lat": 29.4663,
+      "lon": 34.8995,
+      "depth_km": 22.2,
+      "magnitude": 2.2,
+      "mag_type": null,
+      "place_he": "מפרץ אילת",
+      "place": "Elat-Deep",
+      "source_id": "gsi_loc_2026wjoh",
+      "loc_unc_km": 4.8,
+      "depth_unc_km": 1.4,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
+      }
+    },
+    {
+      "time_utc": "2026-11-11T20:14:08Z",
+      "lat": 27.4304,
+      "lon": 35.0026,
+      "depth_km": 28.7,
+      "magnitude": 2.9,
+      "mag_type": null,
+      "place_he": null,
+      "place": "Red-Sea",
+      "source_id": "gsi_loc_2026wjnj",
+      "loc_unc_km": 14.6,
+      "depth_unc_km": 8.4,
+      "felt": null,
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-11T11:26:55Z",
+      "lat": 33.6709,
+      "lon": 36.9493,
+      "depth_km": 2.2,
+      "magnitude": 2.7,
+      "mag_type": null,
+      "place_he": "תדמור (סוריה)",
+      "place": "Palmira",
+      "source_id": "gsi_loc_2026wivu",
+      "loc_unc_km": 6.3,
+      "depth_unc_km": 8.9,
+      "felt": null,
       "segment": "distant",
       "echo": {
         "event_ids": [],
@@ -76,6 +332,27 @@
       "echo": {
         "event_ids": [],
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
+    {
+      "time_utc": "2026-11-10T16:45:14Z",
+      "lat": 28.7597,
+      "lon": 34.836,
+      "depth_km": 9.3,
+      "magnitude": 2.8,
+      "mag_type": null,
+      "place_he": "מפרץ אילת",
+      "place": "Aragonese-Deep",
+      "source_id": "gsi_loc_2026whkj",
+      "loc_unc_km": 12.8,
+      "depth_unc_km": 3.8,
+      "felt": null,
+      "segment": "arava",
+      "echo": {
+        "event_ids": [
+          "1068-near-east"
+        ],
+        "text": "באזור הזה נקרע השבר גם ב-1068:"
       }
     },
     {
@@ -913,9 +1190,5 @@
         "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
       }
     }
-  ],
-  "supplement": {
-    "source": "emsc",
-    "since": "2026-11-11T09:24:52Z"
-  }
+  ]
 }
