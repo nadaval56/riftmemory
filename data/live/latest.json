@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-20T06:00:36Z",
+  "fetched_at": "2026-11-20T07:00:31Z",
   "source": "gsi",
   "events": [
     {
-      "time_utc": "2026-11-20T04:50:55Z",
-      "lat": 34.8078,
-      "lon": 32.4288,
-      "depth_km": 7.0,
-      "magnitude": 2.5,
+      "time_utc": "2026-11-20T04:50:58Z",
+      "lat": 34.794,
+      "lon": 33.005,
+      "depth_km": 20.8,
+      "magnitude": 2.6,
       "mag_type": "ml",
       "place_he": "אזור קפריסין",
       "place": "Cyprus Region",
