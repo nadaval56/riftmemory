@@ -1,7 +1,24 @@
 {
-  "fetched_at": "2026-11-20T05:00:33Z",
+  "fetched_at": "2026-11-20T06:00:36Z",
   "source": "gsi",
   "events": [
+    {
+      "time_utc": "2026-11-20T04:50:55Z",
+      "lat": 34.8078,
+      "lon": 32.4288,
+      "depth_km": 7.0,
+      "magnitude": 2.5,
+      "mag_type": "ml",
+      "place_he": "אזור קפריסין",
+      "place": "Cyprus Region",
+      "source_id": "20261120_0000063",
+      "provider": "emsc",
+      "segment": "distant",
+      "echo": {
+        "event_ids": [],
+        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
+      }
+    },
     {
       "time_utc": "2026-11-19T23:50:20Z",
       "lat": 34.5325,
