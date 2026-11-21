@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T14:00:40Z",
+  "fetched_at": "2026-11-21T15:00:34Z",
   "source": "gsi",
   "events": [
     {
@@ -1137,25 +1137,6 @@
       "source_id": "gsi_loc_2026uyma",
       "loc_unc_km": 15.7,
       "depth_unc_km": 25.6,
-      "felt": null,
-      "segment": "distant",
-      "echo": {
-        "event_ids": [],
-        "text": "הרעידה רחוקה ממקטעי השבר שמסומנים באתר."
-      }
-    },
-    {
-      "time_utc": "2026-10-22T14:17:06Z",
-      "lat": 35.1795,
-      "lon": 32.7051,
-      "depth_km": 67.0,
-      "magnitude": 3.3,
-      "mag_type": null,
-      "place_he": "קפריסין",
-      "place": "Cyprus",
-      "source_id": "gsi_loc_2026uyda",
-      "loc_unc_km": 10.1,
-      "depth_unc_km": 23.9,
       "felt": null,
       "segment": "distant",
       "echo": {
